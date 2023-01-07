@@ -1,0 +1,641 @@
+; Japanese <ja> to English <en> localization document for `6_13_4_hveravellir` naninovel script
+
+# cb72926a
+; あの後、数時間走った。
+I ran for a few hours after that.
+
+# be93360b
+; だんだんと日が落ちてきて、周りは結構暗くなってきたけど、
+The sun was setting, and it was getting quite dark.
+
+# cb886843
+; 少し周りの風景が変わってきて、微かに緑色も見えてきた。
+The surrounding scenery changed a little, and I could see a little green.
+
+# 90216581
+; ちょっとだけ、希望が見えてきた。
+Just a little bit of hope is beginning to see hope.
+
+# c4ae3771
+; hime: 「あ、あそこで、煙が上がってるよ？」
+hime: "Oh, there's smoke going up there?"
+
+# 64248bce
+; me: 「ヒィーん（あ、本当だ）」
+me: " niegh (Oh, I'm telling you.)"
+
+# 1b0fed68
+; 煙。
+smoke.
+
+# 25ccd9f2
+; 誰かがいるのかな。
+I wonder if there's someone here.
+
+# 2b3b75e8
+; もしかして魚人かエルフだったら、近づかない方がいいけど、
+If it's Fishman or Elf, it's better to stay away.
+
+# eaa0ca5b
+; いや、あいつらは人間みたいに煙を炊く必要もないだろうな。
+No, they don't have to smoke like humans.
+
+# 2eea4ae4
+; だったら人間？
+Then is it human?
+
+# 3a5d1888
+; トゥーレに俺たちの他に人間がいたのかな。
+I wonder if there were other people in Thule besides me.
+
+# 53666a4b
+; ……危ないやつじゃないといいけど、
+…… I hope he's not dangerous.
+
+# 66e7d018
+; ま、危ない感じだったら、素早く逃げたらいい。
+Well, if it's dangerous, run away quickly.
+
+# 3edcd653
+; 行ってみて損はない。
+It's no loss to go there.
+
+# c75ef8af
+; me: 「ヒィーん（よし、行ってみるか）」
+me: "niegh (Well, let's go.)"
+
+# a509477
+; me: 「ヒィーん（……あの煙は）」
+me: " niegh"
+
+# 7008a510
+; hime: 「湯けむりだったんだね」
+hime: "It was a steam bath, wasn't it?"
+
+# dede062
+; そこは、温泉だった。
+It was a hot spring.
+
+# 21e6589c
+; 煙が近づきにつれて、硫黄の匂いが濃くなったから、なんとかく気づいたけど、
+As the smoke drew nearer, the smell of sulphur grew stronger, and I managed to notice;
+
+# 846e14c2
+; こんな立派な湯船があったんだな。
+I didn't know there was such a fine bathtub.
+
+# e3f23635
+; hime: 「……ちょっとだけ入ってみたいかも」
+hime: "…… "You might want to go in for a while."
+
+# d11ada4e
+; me: 「ヒィーン（ちょうどいい露天風呂のような形はしてるけど……）」
+me: "neigh (It looks like an open-air bath, but ……)"
+
+# f55db7ac
+; hime: 「わたし、確認してみるよ」
+hime: "I'll check,"
+
+# b0be5b1a
+; と言って、ヒメは俺の背中から降りて、ドタドタと湯船に近づいた。
+said Hime, getting down from me's back, and plodding towards the bathtub.
+
+# baa74d61
+; me: 「ヒィーん（いや、確認って……入るつもりか？）」
+me: "niegh (No, are you going to go in …… for confirmation?)"
+
+# c322495d
+; 温泉って事は、裸で？
+Do you mean the hot spring is naked?
+
+# d693b6c1
+; いや、それは色々と困るが……
+No, that's a lot of trouble, but ……
+
+# fd5949b8
+; hime: 「あつっ！！！」
+hime: "It's hot!"
+
+# d2d38e6f
+; me: 「ヒィーん（だ、大丈夫か？）」
+me: "niegh (Oh, are you all right?"
+
+# 4df613bf
+; hime: 「いたたた」
+hime: "Tatatatatatatatatatatatatatatatatata"
+
+# 72715d7c
+; 湯船に手を入れたヒメが、急いで立ち上がった。
+Hime, who had reached into the bathtub, hurried to his feet.
+
+# 1c44dedc
+; 相当熱かったみたいだ。
+It must have been quite hot.
+
+# e52a6ad2
+; 手を見たら、赤くなっていた。
+When I looked at my hand, it was red.
+
+# f808317
+; hime: 「だ、大丈夫。[i]火傷にはならないと思うけど[i][char hime.hehe]……この湯船は、ちょっと熱すぎるね」
+hime: "Oh, it's okay. [i] I don't think it's going to burn. [i] [char hime.hehe] …… This bathtub is a little too hot."
+
+# 6f5eedc7
+; me: 「ヒヒーン（ああ。これは、人が入れる温泉ではないな）」
+me: "niegh (Oh, this is not a hot spring for people.)"
+
+# cf9eae1b
+; hime: 「残念。[i][char hime.closehm]ブルーラグーンを思い出して、少し温泉が恋しくなったのに」
+hime: "Too bad. [i] [char hime.closehm] I missed the hot spring a little bit because I remembered Bluelagoon."
+
+# f1d2c86d
+; me: 「ヒヒーン（ブルーラグーンか。相当いい温泉だったみたいだな）」
+me: " niegh.It must have been a pretty good hot spring.)"
+
+# eb65b22b
+; ヒメはその直後にトゥーレに来てしまったっけ。
+Did Hime come to Thule right after that?
+
+# 1f5260fa
+; hime: 「うんうん。懐かしいな。[i][char hime.emi]ブルーラグーンは本当、よかったよ。[i][char hime.www]この湯船と同じく、青白い色で、とても広くて……」
+hime: "Yeah, I miss you.[i][char hime.emi] Bluelagoon was really good.[i]'Charhime. LOL' Like this bathtub, it's pale and very wide ……"
+
+# c005f571
+; ヒメは思い出を味わうみたいに、楽しそうに話した。
+Hime spoke merrily, as if to savor the memories.
+
+# ccaa91d8
+; hime: 「あ、そうだ。ブルーラグーンと言えば……」
+hime: "Oh, right. Speaking of Bluelagoon, ……."
+
+# 1ec752d5
+; me: 「ヒィーん（うん？）」
+me: " niegh (Huh?)"
+
+# a7f38e65
+; hime: 「どうだった？わたしのビキニ写真」
+hime: "How was my bikini picture?"
+
+# 5d1c8aa7
+; me: 「ブルルルルルルル」
+me: "Rolling Brrrr"
+
+# a6113600
+; あ、あれの事？？
+Oh, you mean that??
+
+# 833d7487
+; 忘れられるはずがない。
+There's no way I can forget it.
+
+# ca630b90
+; あれは、インパクトあったな。今も思い返すと……
+That had an impact.Even now, when I think back, ……
+
+# e0b679de
+; me: 「ヒヒーン！！」
+me: " niegh!"
+
+# e5695872
+; hime: 「わわわっ、落ち着いて」
+hime: "Wow, calm down,"
+
+# 41ac4530
+; me: 「ヒヒーン（あ、あ、ああ。そりゃ……LINEでやりとりしたもんな）」
+me: "niegh (Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,"
+
+# 1d39397c
+; hime: 「うんうん。[i]懐かしいよね。[i][char hime.default]数日前の事なのに、随分と昔の事のような感じられるよ」
+hime: "Yeah. [i] You miss it, don't you?[i][char hime.default]It was a few days ago, but it feels like a long time ago."
+
+# d0f613c7
+; me: 「ヒヒーン（ほ、ほ。本当にね。色々あったからね）」
+me: "niegh (Oh, really, there were a lot of things.)"
+
+# 7acbf403
+; hime: 「あの時{playerName}ってば、写真の事は何も触れなかったんだけどね」
+hime: "At that time, {playerName} didn't mention anything about the photograph."
+
+# 100ff8c3
+; me: 「ヒヒーン（え、えっと、そうだっけ？）」
+me: "niegh (Well, is that so?)"
+
+# 4cffb8d7
+; だって、どう反応していいかわからなかったし
+Because I didn't know how to react.
+
+# 70cd8e
+; hime: 「でもちゃんと、じっくりと見てくれた？」
+hime: "But have you taken a good look at it?"
+
+# d2355afd
+; me: 「ヒヒーン（じ、じっくりなんか！）」
+me: "niegh (Take your time!)"
+
+# 5a0de0b3
+; 画像保存しようとしたんだけどな。
+I tried to save the image.
+
+# 46a8b81e
+; ま、この事は墓場まで持っていくんだ。
+Well, I'll take this to the grave.
+
+# ea381457
+; hime: 「この慌てる様子をみると、効果あったみたいだね」
+hime: "Looking at this panic, it seems to have worked."
+
+# cf7f562b
+; me: 「ヒヒーン（こ、効果って……）」
+me: "niegh (Effect is ……)"
+
+# a8419387
+; hime: 「あれ、必殺技だったんだから」
+hime: "It was a lethal move,"
+
+# a089ae86
+; me: 「ヒーン？（必殺技？）」
+me: " niegh?"
+
+# 941dd4e0
+; hime: 「わたしの事を、ずっと思い出させる技」
+hime: "A skill that reminds me of myself forever."
+
+# c39360c1
+; me: 「ブルルルルルル」
+me: "Rolling Brrrr,"
+
+# b645e3de
+; なんという女だ。
+What a woman!
+
+# 94ae6e84
+; まったくその通りで怖すぎる。
+You're absolutely right and it's too scary.
+
+# 458f3884
+; hime: 「普段はこの段階であんな手までは使わないけど、[i][char hime.hehe]旅行先だから、少し大胆になったのかな、わたし」
+hime: "I don't usually use it like that at this stage, but [i][char hime.hehe] I guess I've gotten a little bold since I'm on a trip."
+
+# a2af26f2
+; me: 「ヒヒーン（そ、そうか……）」
+me: "Yes, ……,"
+
+# adde31e
+; hime: 「だって{playerName}があまりにもそっけないから。[i][char hime.e]二週間の旅行って短いのに、[i][char hime.o]あんなに誘っても、全然乗ってこないし」
+hime: "Because {playerName} is so cold.[i][char hime.e] It's been a short trip for two weeks. [i] [char hime.o] Even though I asked him out like that, he didn't ride it at all."
+
+# af3da43a
+; me: 「ヒヒーン（そ、そうだったかな？）」
+me: "niegh (Is that so?)"
+
+# e33f570
+; hime: 「狙った男は逃した歴史がなかったけどね、わたし。[i][char hime.eto]だから意地になって、少し粘ってたけど……[i][char hime.closehm]少し自身なくしたよ」
+hime: "I've never missed Man, though.[i][char hime.eto] So I was stubborn and held on for a while, but ……[i][char hime.closehm] I lost myself a little bit."
+
+# 93401814
+; me: 「ヒヒーン（俺、狙われたって……？）」
+me: "niegh (Is me being targeted ……?)"
+
+# fbd910e8
+; hime: 「気づかなかったの？それはおかしいよ」
+hime: "Didn't you notice?That's strange."
+
+# 936a657f
+; me: 「ヒヒーン（それは、旅先でナンパ、みたいな？）」
+me: "niegh (Is it like picking up a pick-up while traveling?"
+
+# f5587798
+; hime: 「身も蓋もない言い方でちょっと恥ずかしいけど、[i][char hime.pero]そうだよ？逆ナンってやつ」
+hime: "I'm a bit embarrassed to say it in a blunt way. [i] [char hime.pero] Right?It's the reverse one."
+
+# 999ee059
+; me: 「ヒヒーン（それって、俺と付き合いたいって事？）」
+me: "niegh (Does that mean you want to go out with me?)"
+
+# 208ef993
+; hime: 「付き合う、とは少し違うかも知れないけど、[i][char hime.default]有り体に言えば、そんな事かな？うん、旅先の恋人になりたかったって感じで」
+hime: "It may be a little different from dating, but [i] [char hime.default]To put it bluntly, is that the case?Yes, it's like I wanted to be a traveling lover."
+
+# a8607269
+; me: 「ヒヒーン（そ、そなんだ）」
+me: "niegh (Oh, I see.)"
+
+# 99fc73b1
+; ３３歳の童貞に、こんな嘘みたいな出来事があったなんて！
+I can't believe a 33-year-old daughter-in-law had such a lie!
+
+# f37939dc
+; hime: 「あ〜あ、こんな話、自分からは先に言わないのがポリシーだったけど、[i][char hime.eto]{playerName}、本人の前とはいえ、姿は馬なんだから、気がゆるくなったのかな」
+hime: "Oh, it was my policy not to say this first, but [i][char hime.eto] {playerName}, even in front of him, he looks like a horse, so I guess he's relaxed."
+
+# 15450183
+; me: 「ヒヒーン（な、何で？俺と……）」
+me: "niegh (Why? me and ……)"
+
+# 6413daa4
+; 自分で言っても間抜けな質問だな。
+That's a stupid question to ask myself.
+
+# 49b2ed7
+; hime: 「何でって、[i][char hime.e]なんかいい感じだったから？[i][char hime.hehe]それに失恋旅行なんて言ったけど、やっぱり海外旅行は一人じゃ寂しいし」
+hime: "Why? [i] [char hime.e] Because it was nice?[i][char hime.hehe] I said it was a broken heart trip, but I feel lonely traveling abroad alone."
+
+# c8c2b05d
+; me: 「ヒヒーン（そっか。俺は、女と付き合った事が一度もないから。気づかなかった）」
+me: " niegh (I see.me I've never dated a girl before.I didn't notice it.)"
+
+# c0a19e6b
+; hime: 「あ、なるほどね！[i][char hime.tehepero]もしかしてそうなんじゃないかとは思ってたんだけど」
+hime: "Oh, I see! [i] [char hime.tehepero] I was wondering if that's the case."
+
+# b1e7ed9e
+; me: 「ヒヒーン（ひ、ひどいな）」
+me: "niegh (Oh, that's terrible."
+
+# b4dec619
+; hime: 「だって、わたしくらいの女が旅先で誘ってたら、乗ってくるのが普通なんだよ？[i][char hime.closeww]ほらわたし、自分でも思うけど、結構エッチぃ体してるでしょう？」
+hime: "`Why, if a woman of my size invites you on a journey, it's normal for you to come on board?'[i][char hime.closeww] You know, I think I'm pretty naughty, aren't I?"
+
+# 79b62a28
+; そう言いながらヒメは、体を俺に密着させて、おっぱいを擦り付けてきた。
+As he spoke, Hime pressed his body against the me and rubbed his breast against it.
+
+# 8791f1f6
+; me: 「ヒヒヒーン！」
+me: "Hee niegh!"
+
+# 9a7d49fb
+; hime: 「きゃっ！」
+hime: "Oh, my God!"
+
+# 59799cc4
+; ５本目の足が大変な事になって、足のバランスが崩れて、暴れてしまう。
+My fifth leg is in trouble, and my legs are out of balance and I go on a rampage.
+
+# e14f677e
+; hime: 「あいたたた。なんでだよもう……」
+hime: "Why are you ……?"
+
+# 592ddff7
+; ヒメが尻もちをついた。
+Hime fell on his back.
+
+# ee18e313
+; me: 「ヒヒーン（す、すまん。暴れてしまって。大丈夫か？）」
+me: "I'm sorry, niegh.I went on a rampage.Are you all right?"
+
+# 6e93d15a
+; hime: 「う、うん。怪我はしてないけど、もうひどいよ」
+hime: "No, no. I'm not hurt, but it's too bad."
+
+# b8830ce9
+; me: 「ヒヒーン（すまない）」
+me: "I'm sorry niegh,"
+
+# 7dd3d99f
+; ヒメは地面に手をつけて体を支えながら、起き上がろうとした。
+Hime tried to get up, putting his hand to the ground and supporting himself.
+
+# 5293bf23
+; しかし……
+but ……
+
+# d3e1fea2
+; hime: 「あれ？」
+hime: "Huh?"
+
+# feeb94e0
+; me: 「ヒヒーン（うん？）」
+me: " niegh (Huh?)"
+
+# 7de47733
+; ヒメが急に、何か違和感を感じたみたいだった。
+Hime suddenly felt something was wrong.
+
+# 453c850a
+; hime: 「なにこれ？……[i][char hime.hae]え？」
+hime: "What's this? ……[i][char hime.hae] Huh?"
+
+# fe86b483
+; ヒメが自分の手の甲を見つめて、驚愕した。
+Hime stared at the back of his hand and was astonished.
+
+# 31dd64e8
+; me: 「ヒヒーン（こ、これは！？）」
+me: "niegh (This is!?)"
+
+# 41393e8e
+; ヒメの手の甲の肌が、魚の鱗みたいになっていた。
+The skin on the back of Hime's hand was like the scales of a fish.
+
+# 58db18aa
+; もしかして先湯船に入れてた時に、付いてしまったのだろうか？
+Did it get stuck when I was putting it in the bathtub?
+
+# 8d80ba91
+; いやしかし、付いてるというには、あまりにも……
+No, but it's too ……
+
+# 8c8dd30c
+; hime: 「わたし、手、なにこれ……[i]魚の、鱗？」
+hime: "Me, hands, what is this ……[i] fish, scales?"
+
+# 242ca90a
+; me: 「ヒヒーン（先、湯船に手を入れた時についたのかな？）」
+me: "niegh (Did I get there when I put my hand in the bathtub?)"
+
+# 85806e7b
+; hime: 「変だな。あの時は赤くなっただけじゃなかったの？」
+hime: "Strange. Didn't you just turn red then?"
+
+# 88668dc8
+; me: 「ヒヒーン（そ、そういえば、そうだったな）」
+me: "niegh (Now that you mention it, yes.)"
+
+# 99bcad08
+; hime: 「なんでこんなものが……気持ち悪いな」
+hime: "Why is this …… disgusting?"
+
+# 7b575b68
+; そう言いながら、ヒメは手の甲の鱗を剥がそうと爪先でとってみたが、
+As he spoke, Hime took it with his toes to remove the scales from the back of his hand.
+
+# 695005fc
+; hime: 「いたっ！」
+hime: "Oh, my God!"
+
+# 9b9d9b7c
+; me: 「ヒヒーン（血？？）」
+me: "niegh (Blood??)"
+
+# 4a7365cd
+; 鱗を剥がすと、血が出てきた。
+I peeled off the scales and bled.
+
+# 97ff8f65
+; これじゃ本当に、自分の肌みたいだ。
+This really looks like my own skin.
+
+# b8848b
+; hime: 「な、なんだよこれ……わたしの肌、鱗になってるの……？」
+hime: "Why, what is this ……? Is my skin scaly ……?"
+
+# ca5f0d8b
+; me: 「ヒヒーン（ど、どういう事だこれは……）」
+me: "niegh (What do you mean, ……?)"
+
+# e7862ad9
+; hime: 「あ……」
+hime: "Oh, ……,"
+
+# 8e2859d6
+; 血が出ていたところは、すぐに鱗に覆われて、回復された。
+The spot where the blood was coming out was soon covered with scales and recovered.
+
+# 367f1208
+; なんという回復力。
+What resilience.
+
+# 81c2564f
+; これじゃあまるで……
+It's like …….
+
+# 84d9cc08
+; hime: 「これって、まるであの時の、化け物の皮膚みたいじゃ……」
+hime: "This looks like the skin of Monster then,"
+
+# 923376e8
+; me: 「ヒヒーン（……あっ）」
+me: " niegh"
+
+# 9f6f5b2a
+; そういえばあいつらも、こんなに素早く、鱗に覆われて回復してた。
+Come to think of it, they recovered so quickly, covered in scales.
+
+# cfe6cce7
+; hime: 「……や、やっぱりわたし、感染されたの？」
+hime: "Did I get infected, ……?"
+
+# 7572153c
+; me: 「ヒヒーン（い、いや。そんな……）」
+me: " niegh (No, no, that ……)"
+
+# 60fc14f3
+; ヒメが魚人に襲われて、頬にかすり傷がついた事を、また思い出した。
+I remembered again that Hime had attacked me with a scratch on my cheek.
+
+# bc9c051d
+; hime: 「わたし、あんな醜い化け物になっちゃうの？」
+hime: "Am I going to have that ugly Monster?"
+
+# 35840135
+; me: 「ヒヒーン（ま、まだわからないぞ。[i]火傷したから、ちょっと皮が傷ついたかも）」
+me: "niegh (Well, I don't know yet.[i]I may have hurt my skin a little because I got burned.)"
+
+# f88c6680
+; hime: 「なにそれ、火傷でこうなるなんて、聞いた事ない」
+hime: "`I've never heard of a burn like this,'"
+
+# ca132792
+; me: 「ヒヒーン（うっ……）」
+me: "niegh (Ugh ……)"
+
+# 9ff06ea7
+; 本当に、そうなってしまったのか。
+Is that really what happened?
+
+# 5210a5bc
+; しかし、だとしても、今の俺にどうにかしてくれる力はない。
+However, me today has no power to do anything about it.
+
+# 28bb2e37
+; せめてのも気休めでも……
+…… at least at ease
+
+# 5aa37da0
+; me: 「ヒヒーン！（こ、この湯船に、なんか変な成分が入ってたかも知れないじゃないか？）」
+me: "niegh! (There might have been some strange ingredients in this bathtub.)"
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# edf1218a
+; どっさに言ってみたけど、それなりに説得力はあったかもな。
+I've told you, but it might have been persuasive.
+
+# 20e61f8e
+; ちょうど火傷した手だったし。
+It was just a burnt hand.
+
+# 10d3bee7
+; hime: 「そ、それは……そうかも？」
+hime: "Oh, is that ……?"
+
+# 6d479eb3
+; me: 「ヒヒーン（ああ。ちょうど火傷の部分だけそうなってるんだし、[i]化け物になるとか、そんな深刻な状態にはならないじゃないかな）」
+me: "niegh (Oh, it's just the burn, and [i] Monster won't be such a serious situation.)"
+
+# 66d80a25
+; hime: 「そう、だといいけど……」
+hime: "Yes, I hope so, ……,"
+
+# ca1ac153
+; me: 「ヒヒーン（とりあえず今はどうにもできないし。不要な心配などしないで、方法を探してみよう）」
+me: "niegh (I can't do anything about it now.Don't worry about unnecessary things, let's find a way.)"
+
+# db0a643c
+; hime: 「方法、って？」
+hime: "How?"
+
+# 9f7e77a9
+; me: 「ヒヒーン（夜が明けたら、すぐにでもユールちゃんのところへ行ってみよう）」
+me: "niegh (I'll go to Yule as soon as dawn breaks.)"
+
+# 5bca5da6
+; hime: 「で、でも、{playerName}の記憶探し、しなくちゃならないし」
+hime: "But I have to look for memories of {playerName}."
+
+# 64651070
+; me: 「ヒヒーン（俺の事はいい。記憶なんて、なくても構わないしな。今はヒメの事を優先したい）」
+me: " niegh (I like me.I don't care if I don't remember.Now I want to give priority to Hime.)""
+
+# d479aedd
+; hime: 「ご、ごめんね。またもわたしのせいで」
+hime: "Oh, I'm sorry.Again, because of me."
+
+# c305ba6b
+; me: 「ヒヒーン（全然平気さ）」
+me: "niegh (I don't mind at all)"
+
+# 123973ac
+; hime: 「……ふぅ」
+hime: "` …… Phew,'"
+
+# 34c39f02
+; me: 「ヒヒーン（ヒメ？）」
+me: " niegh?"
+
+# 50cf782a
+; hime: 「なんだか、疲れてきた。[i][char hime.uu]すこし、眠くなって来るよ……」
+hime: "I'm getting tired.[i][char hime.uu] I'm getting a little sleepy ……"
+
+# 95498fbc
+; 今ので疲れが一気に押し寄せてきたのだろう。
+I guess I'm getting tired all at once because of the present situation.
+
+# 5cec219
+; 実は俺も、すこし休みたいところだった。
+In fact, me was about to take some rest.
+
+# 7cae6081
+; me: 「ヒヒーン（寝所を探しに、少し回ってみよう。[i]こんな温泉の近くなら、何かがあるはずさ）」
+me: "niegh (Let's go around a little to find a place to sleep.[i]There must be something near a hot spring like this.)"
+
+# fe128823
+; hime: 「う、うん……」
+hime: "Yes, yes, ……,"
+
+# f6749cb0
+; そして俺は、またヒメを背中に乗せて、周辺を回った。
+and me went round again with Hime on his back.

@@ -1,0 +1,213 @@
+; Japanese <ja> to English <en> localization document for `6_04_7_schoolend` naninovel script
+
+# 1a7344b1
+; byu: 「す———す————」
+byu: "Yes, yes, yes."
+
+# 712877bc
+; me: 「……もしもし？」
+me: "…… "Hello?"
+
+# 2610edcb
+; 寝ちゃってる。
+I'm falling asleep.
+
+# d845304
+; yule: 「ビューちゃんは、長い話が苦手ですからね」
+yule: "Because Byu doesn't like long stories."
+
+# ffb04788
+; me: 「まだまだ話は続くのに……」
+me: "We still have a long way to go, ……."
+
+# cec520e6
+; yule: 「えっと、それで、まとめますと」
+yule: "Well, let me put it all together,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# d0438d63
+; yule: 「この記憶は、あのヒメって女の記憶だと思うのですね？」
+yule: "Do you think that Hime is a woman's memory?"
+
+# a2e72d33
+; me: 「ああ、記憶の主人公は、南川姫花って名前だったし、確かだと思う」
+me: "Oh, I remember that Duke Master was named Himeka Minamikawa, and I'm sure."
+
+# 87cdb1f7
+; yule: 「しかしあの女は人間世界でレイキャヴィク観光中じゃないですか？」
+yule: "But isn't she sightseeing Reykjavik in the human world?"
+
+# 5d3512c1
+; me: 「ヒメの記憶の最後の部分は、俺が知ってた範囲とあまりかわらない」
+me: "The last part of Hime's memory is not much different from what me knew."
+
+# e97a46c2
+; yule: 「記憶の最後は、どんな場面でしたか？」
+yule: "What was the last scene in your memory?"
+
+# 644a4c2f
+; me: 「それは、ブルーラグーンだったな……」
+me: "It was Bluelagoon,"
+
+# 314e6d5e
+; その場面を思い出そうとすると、おっと……そうだ。
+When I try to remember the scene, Oops …… Yes.
+
+# ae0c791a
+; 下着を着て鏡を見てたヒメの姿が……
+Hime looking in the mirror in her underwear ……
+
+# 94f4618
+; シマシマだなんて、意外とマニア狙いの……い、いかん。
+I can't believe it's a shimashima. It'
+
+# 1db12080
+; それよりも記憶だ。思い出せ。最後はどうだった。
+It's more of a memory than that.Remember. How was the end?
+
+# 6105e4c8
+; me: 「ブルーラグーンからレイキャヴィク行のバスに乗って、その後は……曖昧だ。ぼやけてる」
+me: "After riding bus from Bluelagoon to Reykjavik, …… is ambiguous.It's blurry."
+
+# 1ba7435f
+; yule: 「というと、バスで何かトラブルがあって、このトゥーレに迷い込んだとか？」
+yule: "I mean, did you have any trouble with bus and get lost in this Thule?"
+
+# 89120c2
+; me: 「えっ？……って事は、ヒメも今このトゥーレにいるって事かな？」
+me: "What? Does …… mean that Hime is in Thule right now?"
+
+# 1c53142c
+; yule: 「はい。[i]最近、人間が流れ込む事がよくありますから、あの女もそうだったんですね」
+yule: "Yes. [i] She's been like that lately, since people have been pouring in a lot."
+
+# 14790844
+; ヒメがこのこのトゥーレのどこかの？
+Is Hime somewhere in this Thule?
+
+# caa195f3
+; 俺は幸いにもユールちゃんがついてたけど、彼女は……どうも心配だ。
+Fortunately, me had Yule, but she was worried about …….
+
+# f746bb14
+; 無事にいられるだろうか……
+Will I be safe? ……
+
+# 5ca23f43
+; me: 「彼女は今どこに……」
+me: "Where does she …… now?"
+
+# 12470591
+; byu: 「す……す……」
+byu: "Yes, …… ……."
+
+# 3ea899f
+; ……
+……
+
+# 756c39a5
+; yule: 「彼女を、探したいですか？」
+yule: "Do you want to find her?"
+
+# f33b6469
+; me: 「ああ、ちょっと心配で」
+me: "Oh, I'm a little worried,"
+
+# de4555e9
+; その時、廊下の奥で足音がした。
+Then I heard footsteps in the back of the corridor.
+
+# f88556df
+; elf0: 「あ、やばっ！」
+elf0: "Oh, my God!"
+
+# 3f0627cc
+; あれは！？
+What about that!?
+
+# 1e082d0b
+; me: 「ヒメ！？[i]……の姿をしたエルフか！」
+me: " Hime!? [i] Elf in the shape of ……!"
+
+# aed06be4
+; yule: 「教室にいたあいつですね！[i]でも記憶の欠片も取り戻したのに、元のエルフの姿に戻ってない？」
+yule: "He was in the classroom![i]But I've recovered a fragment of my memory, but haven't you returned to your original form of Elf?"
+
+# 909c1775
+; elf0: 「はやく逃げようと！」
+elf0: "`To get away with it!'"
+
+# 23e0e96d
+; そのエルフは俺たちを見た途端、逃げ出した。
+The moment Elf saw them, he ran away.
+
+# e659df46
+; yule: 「追い掛けましょう！あいつがあの女の情報を知ってるはず」
+yule: "Let's go after him!He must know her information."
+
+# 31349f4b
+; me: 「ああ！」
+me: "Ah!"
+
+# c5a737a0
+; yule: 「ほら、ビューちゃん！起きて！」
+yule: "Here, Byu! Wake up!"
+
+# a9df6806
+; byu: 「えっ！？そ、ソーセージは？」
+byu: "What!? What about sausage?"
+
+# 802bc2f2
+; ビューちゃんを起こして、俺たちがヒメの姿をしたエルフを追いかけようとした。
+Byu woke them up, and they tried to chase Elf in the shape of Hime.
+
+# 9361c216
+; あの瞬間、
+At that moment,
+
+# a100701b
+; ゴゴゴゴゴゴゴゴゴゴゴゴ
+crumpled
+
+# bd44ad1c
+; me: 「なっ、何だ！？」
+me: "What!"
+
+# 57090ac2
+; byu: 「はっ？なっ、何！？」
+byu: "Huh? What!?"
+
+# 67a10276
+; 激しい揺れで、居眠りしていたビューちゃんも起きた。
+The violent shaking also caused Byu to fall asleep.
+
+# 9d6bf6d9
+; 地震か？
+Is it an earthquake?
+
+# a6e9b7c7
+; 学校の風景が溶け落ちていた。
+The scenery of the school was melting away.
+
+# 8cb97fc8
+; yule: 「エルフの幻想空間が崩れ落ちてます！気をつけて！」
+yule: "The fantasy space of Elf is crumbling down!Be careful!"
+
+# fe49c986
+; 気をつけてって言われても、もう……
+Even though I was told to be careful, I already ……
+
+# dc6bf1af
+; 「「きゃああああああ」」
+``Ahhhhhhhhhhhhhhhhhhhhhh,'
+
+# f86aad2a
+; me: 「うわああああああああ」
+me: "Oh, my God,"
+
+# 7fe6cd85
+; 足場が崩れてしまって、俺たちは下に落ちてしまった。
+The scaffolding collapsed, and the mes fell down.

@@ -1,0 +1,445 @@
+; Japanese <ja> to English <en> localization document for `7_1_1_arctichenge` naninovel script
+
+# e143500
+; 神秘的な光景だった。
+It was a mysterious sight.
+
+# d1b99ed0
+; 地平線いっぱいに広がってる白い雪の原の真ん中で、
+In the middle of a field of white snow that stretched all over the horizon,
+
+# d623f3d5
+; 石でできた構造物が突っ立ってる。
+A structure made of stone stands.
+
+# 7e801ead
+; 高さ６メートルのゲート４つ、１０メートルの柱一つで構成されてる陣。
+A camp consisting of four six-meter-high gates and a 10-meter-high pillar.
+
+# 194b88f1
+;  <ruby="The　Arctic-Henge"> Heimskautsgerðið</ruby>。
+<ruby="The Arctic-Henge">Heimskautsger ði ð</ruby>.
+
+# 1c61a9ac
+; 散文エッダの詩、 <ruby="Seeressの予言"> Völuspá</ruby>の世界を再現したモニュメントだ。
+This monument is a reproduction of the world of <ruby="The Prediction of Seresse">V ölusp á</ruby>, a prose Edda poem.
+
+# 993de06b
+; ４つのゲートは天蓋を支える４人のドワーフたちを形にしたもの。
+The four gates are shaped by four Dwarfs supporting the canopy.
+
+# a4f2b025
+; 東にAustri、北にNorðri、南にSuðri、西にVestri。
+Austri to the east, Nor ðri to the north, Su ðri to the south, and Vestri to the west.
+
+# 1d5083e5
+; ノルド神話に伝わるドワーフ枢機卿たちだ。
+These are the Dwarf cardinals handed down to Norse mythology.
+
+# 67c23c9
+; ゲートの軌跡に沿って配置されてる６８個の標識は６８人のドワーフたち。
+The 68 signs arranged along the trajectory of the gate are 68 Dwarfs.
+
+# 231679c5
+; Bjartur(Bright)、Blíður(Sweet)、Svásuður(Gengle)……
+Bjartur (Bright), Bl íður (Sweet), Sv ásu ður (Gengle) ……
+
+# d36ec88e
+; それぞれのドワーフは時を司り、５日の時間を担当してる。
+Each Dwarf is in charge of time and five days.
+
+# 2ef73529
+; ゲートと柱をあわせて７３個で、一年の時間がこの陣に結びついてる。
+The total number of gates and pillars is 73, and the year's time is tied to this camp.
+
+# 6ed8e63d
+; このアークティック・ヘンジは未だに工事中である。
+This Arctic henge is still under construction.
+
+# 9138a204
+; アイスランドのホテリアーである <ruby="エルリングル・ソロドセン"> Erlingur</ruby> Thoroddsenが発案し、
+Icelandic hotelier <ruby="Erlingur Sorodsen">Erlingur</ruby>Thoroddsen came up with the idea.
+
+# cdf3eea3
+; アーティストである <ruby="フェイクル・ハルドルソン"> Haukur</ruby> Halldórssonが工事を仕切ってるが、
+Artist <ruby="Fakele Harderson">Haukur</ruby>Hold órsson is in charge of the construction.
+
+# c87e0c1f
+; 数年間建設中のこのモニュメントは、完成までは程遠い。
+The monument, which has been under construction for several years, is far from being completed.
+
+# e1a5191a
+; [br]彼らは何で、こんなものを作ってるのか？
+[br] Why are they making these things?
+
+# 17a1949
+; 芸術作品とか、地域観光の復興のためとか、色々な説明をされてる。
+Various explanations are given, such as works of art and for the reconstruction of local tourism.
+
+# 616b6065
+; 太陽の光を浴びて、正確な時間の位置に影を落とす故、太陽時計だとも言ってる。
+It is also said that it is a solar clock because it casts a shadow at the exact time of day in the sunlight.
+
+# 846da601
+; しかし、アークティック・ヘンジを作ってる本当の目的は、どちらでもないと、
+But the real purpose of creating the Arctic henge is not either.
+
+# c265f04a
+; フルドゥフォルクたちは言ってる。
+Huldufolk they said.
+
+# a72de9ab
+; 魔力が集まりやすい位置に、魔力を吸い込みやすい構造で作ってるからだ。
+This is because the structure is designed to absorb Magical Power in a position where it is easy to gather.
+
+# 3b1e296c
+; 魔術の知識を持って、何らかの目的のために作ってるしか思えない。
+I can only think of having knowledge of magic and making it for some purpose.
+
+# 2a03b1b1
+; [br]真実はともあれ、この構造物はヒルドルに利用された。
+[br] Regardless of the truth, this structure was used for Hildur.
+
+# 16f9691f
+; アークティック・ヘンジを依り代に、ヒルドルは【トゥーレ還元】の魔法陣を作った。
+With the use of Arctic henge, Hildur produced The Magic Circle of 【Thule reduction 】.
+
+# 8512b25c
+; そしてそうやって作った魔法陣は、
+And the The Magic Circle that I made like that...
+
+# a32d610f
+; 今は他の誰かに乗っ取られ、悪用されようとしてる。
+Now I'm being hijacked and abused by someone else.
+
+# 88eee34f
+; そしてその誰かってのは……
+And someone is ……
+
+# c29661ee
+; hildur: 「よくぞここまで来ました。我が同士たちよ」
+hildur: "Well, I have come this far.It's between us."
+
+# 5b08562c
+; me: 「えっ！？ヒルドル？……お、お前？生きていたんだな！？」
+me: "What!? Hildur? …… Oh, you? You were alive!"
+
+# f6b18019
+; 久しぶりに会う知り合いを見て、近づいてみようとしたけど……
+I tried to get closer to someone I hadn't seen in a while, but ……
+
+# 2b8eb9de
+; yule: 「ち、近づいちゃ駄目です！そいつはもうヒルドルではありません！」
+yule: "`Don't come near me!'It's no longer Hildur!"
+
+# f6fc44fc
+; me: 「えっ！？どうみてもヒルドルだが……わっ！」
+me: "What!? Obviously Hildur, but ……!"
+
+# 60a1544f
+; ユールちゃんが俺を引き止めた。
+Yule stopped me.
+
+# 4262ad3a
+; keruta: 「誰なのです？ヒルドルの抜け殻に入ってるのは……」
+keruta: "Who is it? The one in the shell of Hildur is ……."
+
+# 72f750c1
+; me: 「ぬ、抜け殻って……」
+me: "Well, a shell is ……,"
+
+# eba66c44
+; yule: 「彼女はもう死んでますよ。あれは死んだヒルドルの肉体に降りた【何か】です」
+yule: "She's already dead.It is 【 that descended on the body of the dead Hildur."
+
+# 47b4bc49
+; me: 「えっ？そ、そんな事が……」
+me: "What? That's ……."
+
+# dcfaa3e6
+; まるでゾンビみたいな、そんな状態って言うのか。
+It's like a zombie.
+
+# d7cf071d
+; keruta: 「（元）ヒルドルのあなた。この魔法陣で、何をやろうとしてるんです？」
+keruta: "(Former) You from Hildur.What are you going to do with this The Magic Circle?"
+
+# 3835429c
+; unknown: 「地球を救う、儀式を行ってるのです」
+unknown: "We're holding a ceremony to save the earth."
+
+# 79df0713
+; yule: 「え、誰？」
+yule: "Who is it?"
+
+# fb60dd94
+; unknown: 「ユールラッズ？そういえばトロールを考えてなかったな。エルフの邪魔はすべて防いだんだが……まあ、どもみち終わったゲームですがね」
+unknown: "Is it Yulelads?"Come to think of it, I didn't think of Troll.Elf I've prevented all the distractions from ……, but Well, it's a game that'"
+
+# b75457b2
+; me: 「あ、あなたたちは、あの時の……？？」
+me: "Oh, are you the …… of that time?"
+
+# b781c8f0
+; unknown: 「……………………」
+unknown: "……………………"
+
+# 1798c67a
+; unknown: 「…………………………」
+unknown: "…………………………"
+
+# 42fda4d7
+; どこからか、見た事がある人たちが現れた。
+Some people I've seen appeared from somewhere.
+
+# de153fd2
+; keruta: 「{playerName}の知り合いですか？[i]フルドゥフォルクではありませんね」
+keruta: "Do you know {playerName}?"[i]Huldufolk It's not."
+
+# 8ff417ec
+; me: 「あ、ああ……」
+me: "Oh, oh, ……,"
+
+# 63de3b18
+; あの時、ホステルで出会った異教徒の男たち。
+The pagan Mans I met in hostel.
+
+# 9c23ad51
+; 胡散臭いとは思ってたのだが、こんなところまで現れるとは。
+I thought it was suspicious, but I didn't know it would show up like this.
+
+# 74d5e06e
+; me: 「確か、アゥサトゥルの人だったんだな？」
+me: "He must have been a Asatru?"
+
+# 8cd0bfc9
+; unknown: 「カカカカカカカカカカカカカカカカカカカカカカカカカカカ」
+unknown: "I'm going to go crazy."
+
+# a5691856
+; me: 「な、何だ？」
+me: "What is it?"
+
+# fd7c1d75
+; 気持ち悪い声など出して、流石な異教徒っぷり。
+He uttered a disgusting voice and was full of paganism.
+
+# 161b047f
+; yule: 「アゥサトゥル？[i][char yule.eto]オーディンを信じる人たちの事ですね。[i][char yule.l-nayami]しかしこの人間の気配は……」
+yule: "Asatru?[i][char yule.eto] You mean people who believe in Odin.[i][char yule.l-nayami] But this person's presence is ……"
+
+# 56fdc044
+; keruta: 「はい。違うと思います。[i]アゥサトゥルたちには独特な異臭、オーディンの気配がするんですが、この人からは感じられません」
+keruta: "Yes, I don't think so.[i]Asatru They have a unique smell of Odin, but I can't feel it from this person."
+
+# bf7f5553
+; me: 「え？アゥサトゥルではない？」
+me: "What? Isn't it Asatru?"
+
+# a1034de5
+; unknown: 「キキキキキキキキキキキキキキキキキキキキキキキキキキキキキキ」
+unknown: "Kikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikikik"
+
+# b88979d1
+; yule: 「というか、もっと臭い、別の何かが感じられます」
+yule: "I mean, it stinks more, I feel something else."
+
+# e2d1ba9b
+; unknown: 「はい。我々はアゥサトゥルではありません。[i]街ではアゥサトゥルのフリをしてたんですが、まったく別の組織なのです」
+unknown: "Yes, we are not Asatru.[i]I pretended to be Asatru in the city, but it's a completely different organization."
+
+# 8b981c98
+; me: 「ではあなたたちは何だ？一体ここで何を……」
+me: "What are you, then?"What on earth …… here?"
+
+# 6c3841ba
+; 胡散臭い男に、色々と聞き出そうとしてたその時、
+I was trying to find out a lot about the suspicious Man.
+
+# c2418360
+; hildur: 「今宵の宴を始めましょう」
+hildur: "Let's begin this evening's feast,"
+
+# 257e80be
+; ヒルドルが、会話とはまったく関係なく、わけのわからない事を言い始めて……
+Hildur began to say nonsense, completely unrelated to the conversation ……
+
+# 9c6b6a30
+; yule: 「あんたは何を……
+yule: "`What do you ……,'"
+
+# 28b66c4e
+; yule: うわっ！！」
+yule: "Oh my gosh!"
+
+# 74ab8a61
+; me: 「ああっ！？」
+me: "Ah!?"
+
+# f96e0b70
+; 大地が、揺らぎ始めた。
+The earth began to shake.
+
+# 51ff477b
+; me: 「なっ、何だ！？いきなり地震？」
+me: "Oh, what!?"A sudden earthquake?"
+
+# f7a9d9f6
+; yule: 「い、いいえ。あれは……」
+yule: "No, no. That's ……."
+
+# 10e562eb
+; fishman: 「ギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギ」
+fishman: "Giggy Kigigigigigigigigigi, giggle, giggle, giggle, giggle, giggle, giggle, giggle, giggle, giggle, giggle, giggle, giggle, giggle."
+
+# ec476f1d
+; どこから湧き出てやがったのか、
+Where did it come from?
+
+# c6326b15
+; いつの間に、アークティック・ヘンジの周りは、魚人でいっぱいになった。
+Before I knew it, the Arcetic Henge was filled with Fishman.
+
+# fe9c064
+; そして……
+And ……
+
+# 47b7372a
+; me: 「あ、あれはなんだ？」
+me: "Oh, what is that?"
+
+# 77487c1
+; 魚人の背後には、巨大な化け物たち姿が、数匹もあった。
+Behind Fishman were several giant Monsters.
+
+# 5bf1f852
+; オーロラの光が弱くなったと思ったら、巨大な化け物たちに隠されてたのだった。
+I thought the light of Northern Light had faded, but it was hidden by the great Monsters.
+
+# 64517e90
+; この前見たドラウグに加えて、見たことのない化け物まで。
+Not only did I see Draugur the other day, but also Monster that I had never seen before.
+
+# d682b6f8
+; このアークティック・ヘンジの周りを取り囲んで、こちらへ押し寄せてきた。
+Surrounded by this archaic henge, he rushed towards us.
+
+# caf61dd5
+; yule: 「スクリムスリがこんなに？？」
+yule: "Is Skrimsli like this?"
+
+# c3b59773
+; keruta: 「ラーガルフリョゥトの蛇まで這い上がってますね……」
+keruta: "You're crawling up to the snake of Lagarfljot,"
+
+# 3625b09c
+; me: 「あれ？」
+me: "Huh?"
+
+# 413f72c4
+; またいきなり、空が何によって隠された。
+Suddenly, the sky was hidden by something.
+
+# fe9c064
+; そして……
+And ……
+
+# 200a5416
+; unknown: 「アァァァァァァァァァァァァァァァァァ」
+unknown: "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh."
+
+# 7aff8fbb
+; fishman: 「ギ——————————————」
+fishman: "Gee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee."
+
+# 7884bb31
+; unknown: 「ああああああああああああああああああああ」
+unknown: "`Ah, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,'"
+
+# c1790ab8
+; ドン！
+Oh my gosh!
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# 708c66b3
+; いきなり飛んできた巨大な何かが目の前に降ろされて、数匹の魚人と、男一人が潰された。
+Something huge suddenly flew in front of me, and several Fishmans and one Mans were crushed.
+
+# 4ca97671
+; 彼らが居た場所には、大量の血の痕跡だけが残っていた。
+Where they were, there was only a great deal of blood left.
+
+# b07d18de
+; me: 「な、何だったんだ？？」
+me: "What was it?"
+
+# 6a2b4c37
+; 上を見ると、飛んできたそれは、巨大な蛇のしっぽがあった。
+Looking up, I saw the tail of a giant snake that flew in.
+
+# 23871d5
+; あれが、彼らを潰したのか。
+Did that destroy them?
+
+# a49c4add
+; そしてまた、こちらに降りかかろうとした。
+and he was about to come down again.
+
+# 67739f62
+; me: 「ああああああああああああっ！？」
+me: "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+# 2bc67d36
+; yule: 「危ない！」
+yule: "Dangerous!"
+
+# 5338808c
+; ユールちゃんがスプーンを出して、蛇のしっぽを弾き出した。
+Yule put out Spoon, and sprang out the serpent's tail.
+
+# b30c0195
+; しかし、巨大な蛇が退治できたわけじゃない。
+But the giant snake was not able to get rid of it.
+
+# 6cb1d511
+; yule: 「ここはもうだめですね。一旦引き上げましょう」
+yule: "It's all over here.Let's pull it up."
+
+# cab4c8b7
+; me: 「ひ、引き上げるって？……っていうか、化け物たちに囲まれてる！」
+me: "Oh, pull it up? I mean, ……, surrounded by Monster!"
+
+# 462013a3
+; keruta: 「こういう時のために、姉妹たちに予め待機してもらったのですよ」
+keruta: "I had my sisters wait in advance for this kind of occasion."
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# 739e84a7
+; そういえば、ここに来るときにビューちゃんとか、他の姉妹たちはどこか別の場所に行ってたな。
+Come to think of it, the other sisters went somewhere else, such as Byu, when they came here.
+
+# 62d89ea7
+; me: 「あっ！」
+me: "Oh!"
+
+# 6bfbd3f2
+; いきなり、空が明るくなった。
+Suddenly, the sky brightened up.
+
+# 51faadbf
+; あまりにも眩しくて、周りが何も見えなくなった中、
+It was so bright that I couldn't see anything around me.
+
+# 5b4b6be5
+; byu: 「みんな、こっちへ！」
+byu: "Come, boys!"
+
+# ef081397
+; どこからか聞こえたビューちゃんの声とともに……
+…… with the voice of Byu heard from somewhere

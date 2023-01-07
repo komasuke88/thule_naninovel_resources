@@ -1,0 +1,693 @@
+; Japanese <ja> to English <en> localization document for `6_15_3_kerutatalk` naninovel script
+
+# ec81cc2c
+; keruta: 「……はっ！ぼくは何を……」
+keruta: "What ……! What …… am I?"
+
+# 6deb001b
+; 正気に戻ったか。
+Have you come to your senses?
+
+# 9c3bd9fc
+; keruta: 「うっとりしました。[i]なんという魔性のち○こでしょう」
+keruta: "I was enraptured.[i]What a magical thing to do"
+
+# 722fc273
+; ○んこって言ったな。
+○That's what I said.
+
+# e4d850ec
+; me: 「変な事言わないで、何とかしてくれないか？服とか……」
+me: "Don't say anything strange, will you do something for me?"Clothes and ……."
+
+# 56bdcbc9
+; 恥ずかしいものそうだけど、寒すぎる。
+It sounds embarrassing, but it's too cold.
+
+# 4598cdb8
+; keruta: 「服ですか？[i]そんなもったいない。[i]{playerName}のキャンドルが見えないじゃないですか……」
+keruta: "Clothes? [i] Such a waste.[i]You can't see {playerName}'s candle ……."
+
+# 86be3f2c
+; me: 「見えなくなるようにしたいんだよ！[i]それにキャンドルじゃない。[i]なんでもはやく！」
+me: "`I want it out of sight!'[i]And it's not a candle.[i]Everything is fast!"
+
+# 91f3fbb7
+; keruta: 「ううぅ。残念極まりないですがー、わかりました。[i][char keruta.b_fire_w]では{playerName}に、ヨールのための新しい服を、プレゼントしましょう」
+keruta: "`Well, I'm very sorry, I see.[i][char keruta.b_fire_w] Let's gift new clothes for Jol."
+
+# ccf851a8
+; ケルタちゃんは、両手を開いて何かの呪文を唱えた。
+Kerta opened her hands and chanted some spells.
+
+# 21ed836e
+; ケルタちゃんの頭に、キャンドルの火種みたいなのが浮かんできて、
+Kerta Something like a candle came to her head.
+
+# 668d63e3
+; ケルタちゃんの全身から、溶けた蝋みたい白いドロが滴り落ち、
+Kerta A white, melted waxy droppings dripped from her whole body.
+
+# b21b08f5
+; 地面に落ちたその白い蝋は、徐々に俺の方へと波寄せて来て、
+The white wax which had fallen to the ground came slowly towards me;
+
+# c4d838cf
+; 次の瞬間、俺はあの白い蝋に全身を包まれていた。
+The next moment, me was enveloped in that white wax.
+
+# e7a71990
+; me: 「お、おお？」
+me: "Oh, oh?"
+
+# 74725cc4
+; 気がついたら俺は、服を着ていた。
+I found me dressed.
+
+# 738a0ecc
+; me: 「ケルタちゃんの魔法？」
+me: "Is it Kerta's magic?"
+
+# ae5efabc
+; keruta: 「そうですそうです」
+keruta: "That's right,"
+
+# af8e56b7
+; 結構おしゃれな服だ。
+It's a pretty stylish outfit.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 66cf9c74
+; me: 「って、なんだよこの服は！」
+me: "`What's this dress!'"
+
+# 8a3eede9
+; おちん○んが見えてる！
+I can see Ochin○!
+
+# 523daca1
+; ちゃんと服は着てるのに！
+I'm dressed properly!
+
+# b5c3243f
+; 股間の真ん中の部分が、丸開きになってる。
+The middle part of my crotch is open.
+
+# 7d6e5b70
+; 露出狂のコスチュームだった。
+It was an exposure-conscious costume.
+
+# cd668d45
+; me: 「これじゃHENTAIじゃないか！ちゃんと俺のキャンドルを隠してくれよ！」
+me: "`That's HENTAI!'Hide the candles of me properly!"
+
+# 96c39deb
+; キャンドルって言った。
+I said candle.
+
+# bb0d612c
+; keruta: 「え〜素敵なのに。[i]わかりました。もう諦めますゆえ」
+keruta: "Oh, it's pretty.[i]I understand.I'll give up now."
+
+# a79afa9b
+; またケルタちゃんが光った。
+Kerta-chan shone again.
+
+# 9a8012
+; me: 「ふぅ」
+me: "`Phew,'"
+
+# 5a093dfb
+; 股間の穴も、塞がっていた。
+The hole in his crotch was also blocked.
+
+# fe494dc
+; ちゃんと平凡な服になってた。
+It's become a normal outfit.
+
+# ab69c629
+; me: 「た、助かった。ありがとうな」
+me: "Oh, that's a relief.Thank you."
+
+# 6fbdfb20
+; keruta: 「いえいえ。当然の事をしたまでです。[i]ヨールに新しい服がないと、人間はうちの猫に食べられますゆえ」
+keruta: "No, no, I just did what I deserved.[i]If Jol doesn't have new clothes, humans can eat them."
+
+# 29948c19
+; me: 「えっ？猫？食べられる？」
+me: "What? Cat? Can you eat it?"
+
+# f074bd57
+; keruta: 「だけど今年は、うちの猫も忙しいのですので、猫の仕事も減らしてあげたんです」
+keruta: "But this year, my cat is busy, so I reduced the number of cat jobs."
+
+# 48a844aa
+; me: 「お、おう。猫の話はよくわからないけど、とにかく服には感謝だ」
+me: "Oh, no. I don't understand cats, but I'm grateful for their clothes."
+
+# 721315f3
+; keruta: 「いえいえ。ぼくも今年初のプレゼント魔法で、とても気持ちよかったです。[i]それにしても、流石にヨールはいいですね！[i]魔力が溢れてます」
+keruta: "No, no, it was my first gift magic of the year and I felt very good.[i]Even so, Jol is really good![i]Magical Power is overflowing."
+
+# 696cc48f
+; me: 「ヨール……１２月２４日……そういや、サンタの日だったな」
+me: "Jol…… "December 24th, ……by the way, it was Santa's Day."
+
+# b6bb802c
+; keruta: 「そうですそうです。ぼくたちの日なのですゆえ。[i]昨日までは弱っていたぼくの魔力も、今は完全回復しました」
+keruta: "Yes, sir.It's our day. [i] My Magical Power, which had been weak until yesterday, is now fully recovered."
+
+# acf183b7
+; ユールラッズ１３姉妹のための日か。
+Yulelads 13 Days for Sisters?
+
+# ac51ea3a
+; me: 「……ユールちゃんも、回復してるのかな」
+me: "Is ……Yule recovering?"
+
+# 2878ff33
+; keruta: 「ですですね。[i]スヴォルの衰弱っぷりは、特に大変でしたけど、今朝からはだいぶよくなりました」
+keruta: "Well, [i] Thuvor's debilitating condition was especially difficult, but since this morning it has improved a lot."
+
+# 48da3cc7
+; me: 「おお！そうか。それは、よかった」
+me: "Oh! I see.I'm glad to hear that."
+
+# cf2175ca
+; keruta: 「ユールラッズの力は、夜になるにつれてもっと強くなるんですゆえ。[i]もう少し待てばスヴォルもピンピンになりますゆえ、ご安心を」
+keruta: "Because the power of Yulelads grows stronger at night. [i] Don't worry, if you wait a little longer, Thuvor will become a pin."
+
+# a3b2cfbf
+; me: 「お、おう！！ヨールってありがたいな！」
+me: "Oh, my God! Jol is a blessing!"
+
+# edfb0320
+; keruta: 「ですですよ！特に今宵のユールラッズは、どんな魔法も自在で、空でも飛べちゃいますゆえ」
+keruta: "Yes! Especially tonight's Yulelads is free to do any magic, and it can fly in the sky."
+
+# 6eb3a986
+; そう言いながらケルタちゃんは、体の周りに無駄に火種を浮かびあげてた。
+As she spoke, Kerta was vainly setting fire around her body.
+
+# 4403604e
+; 魔法が自由につかえて、機嫌がいいらしい。
+He seems to be in a good mood because he can use magic freely.
+
+# 612a629a
+; me: 「魔法……そういえば」
+me: "Magic …… Come to think of it,"
+
+# f00c54b2
+; 服を着てから、俺も落ち着きが戻り、先の疑問を思い出した。
+After getting dressed, me began to calm down and remembered her doubts.
+
+# 49347d88
+; me: 「俺を人間に戻してくれたのも、ケルタちゃんの魔法なのか？」
+me: "Is it Kerta's magic that brought me back to being human?"
+
+# 1845870a
+; keruta: 「えっ？[i][char keruta.hae]あ———[i][char keruta.close]それは違います。ぼくじゃないです。[i][char keruta.sad]ポリモーフの解除は、いくらヨールのユールラッズでも簡単ではないです。[i]ぼく一人の魔力だけでは、とても」
+keruta: "What? [i] [char keruta.hae] AhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhIt's not me.[i][char keruta.close] Undoing polymorph is not easy, no matter how much Yulelads you have in Jol.[i]My own Magical Power alone is very much."
+
+# 22572270
+; me: 「そうか、ケルタちゃんじゃないんだ……」
+me: "Well, it's not Kerta,"
+
+# 7a298aa
+; そういや、先の反応をみるとそうだな。
+by the way If you look at the reaction, that's right.
+
+# 3256ad5
+; 尻餅したし。
+I fell on my bottom.
+
+# 81adc06b
+; 俺が人間に戻ったのは、ケルタちゃんにも予想外の事だったみたいだ。
+me's return to human life seemed unexpected to Kerta.
+
+# 1564c17
+; では、何でいきなり魔法が解けたんだ……
+Then, how did you suddenly solve the magic? ……
+
+# 7c8078d8
+; keruta: 「ポリモーフの魔法を掛けられてたんですね？エルフに」
+keruta: "Were you under the spell of polymorph?"to Elf."
+
+# 7309c87f
+; me: 「あ、ああ。そうだけど」
+me: "Oh, yes, yes."
+
+# 136ab3d3
+; keruta: 「ポリモーフが解除される条件は３つくらいです。[i]術者が自ら解けてくれるか、特級の大魔法で治すか、それとも……」
+keruta: "There are about three conditions under which polymorph is released.[i]Either the operator will solve it himself, or he will cure it with special magic, or ……."
+
+# b96abd0d
+; me: 「術者が、死んだ？」
+me: "Is the operator dead?"
+
+# b16b9937
+; keruta: 「うほ？知ってたんですね？」
+keruta: "Huh? You knew that, didn'"
+
+# 2bd097ba
+; me: 「あ、ああ。前にも似たような経験があったからな……」
+me: "Oh, yes. I've had a similar experience before, ……."
+
+# 349bd550
+; 術者ってのは、俺を馬に変えるポリモーフの魔法をかけてくれた人、つまり……
+An operator is the person who cast the spell of polymorph that turns me into a horse, that is, ……
+
+# 8c3871e9
+; me: 「ヒルドルが、死んだって事か？」
+me: "Does that mean Hildur is dead?"
+
+# 8baa369a
+; keruta: 「えっ？ヒルドル？」
+keruta: "What? Hildur?"
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# 8ca2904e
+; ケルタちゃんはとても驚いてるみたいだった。
+Kerta She seemed very surprised.
+
+# 7ef14b66
+; keruta: 「そ、その魔法をかけたの、ヒルドルでしたか？」
+keruta: "Was it Hildur who cast the spell?"
+
+# d39bfd0e
+; me: 「あ、ああ。そうだったけど」
+me: "Oh, yes, yes."
+
+# 5fd0862f
+; この事はユールちゃんから聞いてなかったみたいだ。
+I guess I didn't hear about this from Yule.
+
+# 46cc5119
+; keruta: 「そ、そんな事が……」
+keruta: "Oh, that's ……,"
+
+# 27b849a0
+; ケルタちゃんはキャラに合わない表情をして、狼狽えてる。
+Kerta She looks upset because she doesn't match the characters.
+
+# 3f5aaf2b
+; そういえばこの子たち、ヒルドルを探してるって言ったっけ？
+Come to think of it, did I say they're looking for Hildur?
+
+# 119d8786
+; me: 「そ、そうだな。あいつがそう簡単に死ぬとは思えないがな。エルフの女王だし。[i]他の何かが原因で、解けたんじゃないか？[i]ヒルドルが遠隔で解けてくれたとか？」
+me: "Yes, sir.I don't think he'll die so easily.She's the queen of Elf.[i]Something else might have solved it.[i]Did Hildur solve it remotely?"
+
+# 2f853cd5
+; keruta: 「その魔法は、遠隔では解けられません。[i]勝手に解除される事もありません。[i]なのに、{playerName}は人間に戻りました。[i]だったら、彼女の死しか……」
+keruta: "The magic cannot be solved remotely.[i]It will not be released without permission.[i]However, {playerName} returned to being human.[i]Then only her death ……"
+
+# 8bdc31f3
+; me: 「そ、その……『特級の大魔法』って可能性は……」
+me: "Oh, the possibility of ……『's special magic 』 is ……."
+
+# f9c36ac5
+; keruta: 「そんな大魔法は、発動前に必ず兆しが来ます。[i][char keruta.nayami]それは魔力の流れでわかっちゃいますから、その可能性はないと思います」
+keruta: "Such a magic spell always has a sign before it is activated.[i][char keruta.nayami] You can tell that by the flow of Magical Power, so I don't think it's possible."
+
+# 223ca711
+; me: 「そ、そうか……」
+me: "Well, ……,"
+
+# b9b8487b
+; keruta: 「今日の１３姉妹みんなの魔力を集めると、そのような大魔法も使えるかも知れません。[i][char keruta.nayami]しかし先は、誰一人もそんな事やってません。[i][char keruta.sad]……術者の死。それしか考えられないです」
+keruta: "If you collect the Magical Power of all 13 sisters today, you may be able to use such magic.[i][char keruta.nayami] But no one did that before.[i][char keruta.sad] The death of a …… operator.That's all I can think of."
+
+# e45f05ff
+; me: 「……なんて事だ。[i]あいつ、死んだのか……」
+me: "Oh, my God, …….[i]Is he dead ……"
+
+# 4bb8220d
+; keruta: 「彼女、中々見つからなかったんですが、こういう事だったんですね」
+keruta: "It was hard to find her, but this is what happened."
+
+# ee6110c6
+; 自分たちが探してた相手が死んだという事実で、ケルタちゃんは混乱してるみたいだった。
+Kerta seemed confused by the fact that the person they were looking for was dead.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9b143c2e
+; 俺も衝撃をうけた。
+I was also shocked.
+
+# 220b39f8
+; 短い間だったけど、色々と助けてくれたエルフだったのに。
+It was a short time, but Elf helped me a lot.
+
+# be080327
+; 変態みたいだけど、憎めないやつだったし。
+He looked like a pervert, but I couldn't hate him.
+
+# 39e63ae8
+; keruta: 「……しかし、理解できません。彼女が死んでるというのなら……」
+keruta: "…… But I don't understand.If she is dead, ……."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 70fe86c6
+; ケルタちゃんは真剣な顔で、また考え込んだ。
+Kerta She looked serious and thoughtful again.
+
+# 18194180
+; keruta: 「……あの魔法陣は今、いったい誰が操ってるのでしょう？」
+keruta: "…… "Who controls that The Magic Circle now?"
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# b0c248bd
+; keruta: 「彼女が死んだら、彼女の魔法陣も止まります。[i]あらゆる魔法は、術者が死んだら解除されるのが基本です。[i]なのに未だに、ヒルドルの魔法陣には魔力が集まってる」
+keruta: "When she dies, her The Magic Circle will stop.[i]All magic is basically released when the operator dies.[i]But Magical Power of Hildur still has The Magic Circle."
+
+# d7bc6eac
+; me: 「ああ……だから『トゥーレ還元』が止まったんじゃないのか？」
+me: "Oh, isn't that why 『Thule reduction 』 stopped?"
+
+# a32f8471
+; keruta: 「いいえ。それとこれとは別です。[i]【トゥーレ還元】の進行が止まっただけで、[i]魔法陣自体は消えてません」
+keruta: "No, that's not the case.[i]【Thule The reduction 】 has just stopped, but [i] The Magic Circle itself has not disappeared."
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# 6750db4b
+; ケルタちゃんの話を聞いて、ヒルドルのあのセリフを思い出した。
+When I heard Kerta's story, I remembered that line from Hildur.
+
+# 30a28f9f
+; me: 「……魔法陣が、他の誰かに乗っ取られたのかな？」
+me: "Was ……The Magic Circle taken over by someone else?"
+
+# b06907b
+; keruta: 「うへっ？乗っ取られるって？」
+keruta: "Huh? You're going to be hijacked?"
+
+# c1bfc3fa
+; me: 「ああ……それは……」
+me: "Oh, ……, that's ……,"
+
+# 5b5f7a5d
+; 俺は先も話そうとした事を、ケルタちゃんに話してあげた。
+I told Kerta what he had been trying to tell her.
+
+# 97f12a10
+; 俺が知ってる、ヒルドルの最後の様子。
+The last scene of Hildur that me knew.
+
+# 6706c993
+; [br]肌が灰色になって、死体みたいになっていた事。
+[br] that his skin had turned gray and looked like a corpse.
+
+# f2f80452
+; 【魔法陣が乗っ取られる】と、彼女が呟いた事。
+】 being hijacked, she muttered.
+
+# a5531a
+; 魚人に囲まれて、たけど襲われなかった事。
+I was surrounded by Fishman, but I wasn't attacked.
+
+# 8d0248c6
+; me: 「あの時、ユールちゃんも一緒に居たはずだけど、この話は聞いてないのかな？」
+me: "At that time, Yule must have been with us. Have you heard of this?"
+
+# 3b99e6ff
+; keruta: 「スヴォルは昨日まで、とても話せる状態ではなかったんですゆえ。[i]今朝になってようやく姿を取り戻しましたけど、主に{playerName}の事しか言ってませんでした」
+keruta: "Until yesterday, Thuvor had not been able to speak at all. [i] It was only this morning that he came back to life, but he was mainly talking about {playerName}."
+
+# 223ca711
+; me: 「そ、そうか……」
+me: "Well, ……,"
+
+# 450cf338
+; keruta: 「うーん。でも{playerName}のおかげで、状況が少し見えてきました。[i]そういう事なら……」
+keruta: "Well, but thanks to {playerName}, I can see a little bit of the situation.[i]If that's the case, ……."
+
+# 2a30e0dc
+; ケルタちゃんはまたなにか真剣に悩んだあげく、
+Kerta After some serious thought,
+
+# 3a52da42
+; keruta: 「今夜はみんなで、アークティック・ヘンジへ向かってみるしかありませんね」
+keruta: "All we can do to-night is to take a look at the Arcetic Henge,"
+
+# eaacb299
+; me: 「アークティック・ヘンジ？」
+me: "Arcitic Henge?"
+
+# 3acce2f8
+; keruta: 「トゥーレの北にあるオブジェです。[i]意味不明なモニュメントですが、魔力が集まりやすい構造になってる故。[i]ヒルドルはそこで魔法陣を展開してたんです」
+keruta: "It's an object to the north of Thule.[i]It's a monument that doesn't make sense, but it has a structure that makes it easy for Magical Power to gather.[i]Hildur was developing The Magic Circle there."
+
+# 44ef4d28
+; me: 「ああ、魔法陣がある場所か」
+me: "Oh, where is The Magic Circle?"
+
+# 409cd65e
+; keruta: 「実は先もヒルドルを探しにそこに訪ねてたんですが、誰もいませんでした。[i]だけど本番はヨールの夜、今夜です。[i]大魔法の実行の瞬間には、必す術者が、魔法陣の真ん中に立ってないと駄目ですから」
+keruta: "Actually, I was there looking for Hildur, but there was no one there.[i]But the show is Jol night, tonight.[i]For in the moment of great magic execution, a necessary operator must stand in the middle of The Magic Circle."
+
+# 42e85a6c
+; me: 「魔法陣を乗っ取った誰かが、今晩、その魔法陣の前に姿を現すって事か」
+me: "Who who has taken over The Magic Circle will appear before The Magic Circle tonight?"
+
+# 236086a7
+; keruta: 「ですです。[i]今は遠隔でこそこそやってるみたいですが、今晩は必ずそこに現れます。[i]あいつを討ち取って、魔法陣を奪いとります」
+keruta: "That's right. [i] I think I'm sneaking away now, but I'm sure I'll be there tonight.[i]I'll kill him and take The Magic Circle away."
+
+# 9e340673
+; me: 「えっ？討ち取って、奪い取る？」
+me: "What? Do you want to kill him and take him away?"
+
+# 9713d11a
+; keruta: 「あの魔法陣は危険ですゆえ。[i]トゥーレ全体の魔力を吸い上げ、[i]特級を超える、奇跡レベルの超大魔法が使えますゆえ」
+keruta: "Because that The Magic Circle is dangerous. [i] You can suck up the entire Magical Power and [i] use a miracle-level super magic that goes beyond the special level."
+
+# 74c18e89
+; me: 「ああ。その話は聞いてたけど……」
+me: "Yeah. I've heard about it, but ……."
+
+# 56743804
+; ケルタちゃんが暗い顔で話を続けた。
+Kerta continued the conversation with a dark face.
+
+# 375c8b7c
+; keruta: 「もし、下手に悪用されたりしたら……最悪、今晩、トゥーレは消えます。トゥーレ滅亡ですよ」
+keruta: "If it is abused badly, …… will disappear tonight.Thule It's doomed."
+
+# e5ab0b5f
+; me: 「トゥーレ滅亡？」
+me: "The destruction of Thule?"
+
+# 3b2d821
+; スケールのでかい話になってきたな。
+It's getting bigger on the scale.
+
+# 58f6fa25
+; ……ああ、そういえば、
+…… Come to think of it,
+
+# a40155d5
+; 滅亡って言葉は、マーマンも話してたな。
+merman said the word "destruction."
+
+# f8bdbbb2
+; me: 「そ、そんなの、急いで何とかしないと」
+me: "Well, I must hurry and do something about it,"
+
+# 1445d72b
+; keruta: 「ですです。[i]私欲に使われるのを阻止して、[i]止まってる【トゥーレ還元】を再実行します」
+keruta: "That's right. [i] Stop being used for selfishness, [i] Re-execute the stopped 【Thule reduction 】."
+
+# 4c1e87c4
+; me: 「え、【トゥーレ還元】を再実行？そんな事もできるのか？」
+me: "Oh, re-execute 】 reduction 【Thule?Is it possible?"
+
+# e4531464
+; keruta: 「今宵、１３姉妹の魔力をあわせたら、できなくもないです。[i]魔法陣を破壊せず奪う事ができたら、ですが……」
+keruta: "It is not impossible to combine the Magical Power of the thirteen sisters to-night.[i]If I could take away The Magic Circle without destroying it, ……."
+
+# a40fe0f3
+; me: 「それは、すごいな。まさに世界を救う作戦だな」
+me: "That's great.It's a strategy to save the world."
+
+# d5342d60
+; keruta: 「ですです。[i][char keruta.emi]ともに世界を救いましょう！」
+keruta: "Yes. [i][char keruta.emi] Let's save the world together!"
+
+# c45c97c9
+; me: 「お、おう……」
+me: "Oh, ……,"
+
+# 4d51ff93
+; 俺も救うのか、世界。
+Save me, the world.
+
+# e0de9919
+; keruta: 「さて、忙しいヨールになりそうです。急いで姉妹たちを集めに行かないと……」
+keruta: "Well, I think I'm going to have a busy Jol.I must hurry to get my sisters together ……"
+
+# 467f38b8
+; そう言いながらケルタちゃんは、急に片手を高く上げて、火種を作り上げた。
+As she spoke, Kerta suddenly raised one hand high to create a fire.
+
+# 445c8448
+; 魔法だ。
+It's magic.
+
+# 5c8eb3bc
+; keruta: 「来て！」
+keruta: "Come on!"
+
+# 31f3bbe0
+; いきなり、周りが暗くなった。
+Suddenly, it became dark around.
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 2c562739
+; 雨を降らす魔法でも使ったのか？
+Did you use magic to make it rain?
+
+# 709ed395
+; しかし、空を見てみると、まだ太陽は浮かんでいた。
+But when I looked at the sky, the sun was still floating.
+
+# 9e22451e
+; 雲じゃない。暗くなった原因は別にあった。
+It's not a cloud. There was another reason why it got dark.
+
+# 541616f7
+; 山みたいな大きな物が後ろに来て、影ができていた。
+A big mountain came behind me, and a shadow was formed.
+
+# cc99cae1
+; me: 「なんだ？」
+me: "What?"
+
+# 22feb32e
+; 振り向いたらそこには……
+When I turned around, I found ……
+
+# 1ef5ebc5
+; unknown: 「にゃー」
+unknown: "The Moew,"
+
+# 2d08a778
+; me: 「うわぁぁぁぁｌ！！！」
+me: "`Oh my gosh!'"
+
+# 4b081074
+; 大きな猫の目が、光っていた。
+The big cat's eyes were shining.
+
+# 5dc4e130
+; 山だと思っていたそれは、
+I thought it was a mountain.
+
+# a3e492da
+; 巨大な猫の影だった。
+It was the shadow of a huge cat.
+
+# 8a52baea
+; me: 「ば、化け猫！？！？」
+me: "Oh, a monster cat!?!?"
+
+# 896229dc
+; keruta: 「あ、うちの猫です」
+keruta: "Oh, it's my cat."
+
+# 3183f1c7
+; me: 「へ？」
+me: "What?"
+
+# d96211aa
+; keruta: 「ディムボルギルに住むユールキャットです。[i]ヨールの夜の恐怖の存在として、人間世界でのおとぎ話がまた面白いのですが、[i]それはまたの機会にして……」
+keruta: "I am Yuleat living in dimmuborgir.[i]As the horror of Jol's night, fairy tales in the human world are interesting again, but [i]That's another occasion ……."
+
+# c83a7623
+; そう言いながらケルタちゃんは、俺の手を取り、
+As she spoke, Kerta took me by the hand.
+
+# 651e8722
+; keruta: 「行きましょう」
+keruta: "Let's go,"
+
+# cf5267b2
+; ジャンプをした。
+I jumped.
+
+# dc481532
+; me: 「うわあっ！」
+me: "Oh, my God!"
+
+# 8941a2d4
+; とんでもないジャンプ力だ。
+It's an incredible jump.
+
+# f76852cb
+; てか、これも魔法かな。
+I guess this is magic, too.
+
+# bcfef75f
+; me: 「あ」
+me: "Ah,"
+
+# 9f0d7783
+; 気がついたら、俺は高いところに立っていた。
+I found me standing high.
+
+# 4dd11ab6
+; 遠くまでが、よく見渡せた。
+I could see far and wide.
+
+# f444ee9
+; 地面は、もふもふ。
+The ground is soft.
+
+# 3a1057af
+; これは……
+This is ……
+
+# 3e2c6f36
+; me: 「ば、化け猫の背中？？」
+me: "Oh, the ghost cat's back?"
+
+# a459d46d
+; keruta: 「ですです。これでユールちゃんが休んでるところまで一飛ですよ。[i]ささ、行きましょう、ユールキャット！」
+keruta: "Yes, it's only one jump to the point where Yule is resting.[i]Sasa, let's go, Yuleat!"
+
+# 81321d48
+; unknown: 「にゃ―！」
+unknown: "Oh, my God!"
+
+# dc481532
+; me: 「うわあっ！」
+me: "Oh, my God!"
+
+# 94bb2498
+; いったい何回目の『うわあっ！』なのかわからんが、それしか言えない。
+I don't know how many times 『 it was, but that's all I can say.
+
+# b0d53e5d
+; 俺たちを乗せて、化け猫は走った。
+I With them on board, the cat ran.

@@ -1,0 +1,65 @@
+; Japanese <ja> to English <en> localization document for `3_01_2_hukairi` naninovel script
+
+# 2ef0248
+; me: 「どんな家の事情なのか、聞いていいか？」
+me: "May I ask you what the circumstances of the house is?"
+
+# c02c4524
+; yule: 「うーん。でもこれだけは他人には話せません。[i]話せるとしたら……」
+yule: "Well, but this is the only thing I can't tell anyone.[i]If I could speak, ……."
+
+# e5849bc8
+; me: 「話せるとしたら……？」
+me: "If I could speak, ……?"
+
+# 1856dbf3
+; yule: 「他人じゃなくなる事ですね。くすくす」
+yule: "You're not a stranger, are you? giggle."
+
+# 8ff51dba
+; me: 「そっか。では、結婚するか！」
+me: "Well, then, shall we get married?"
+
+# 5f9441a1
+; yule: 「え、本当ですか？[i]あ、後で『今のなし』とか言うんじゃありませんよ？」
+yule: "Really?[i]Ah, you're not going to say 『 without 』 later, are you?"
+
+# 94b93bd6
+; me: 「こんな事で嘘はつかない」
+me: "I won't lie about this,"
+
+# 5b9c8d8e
+; yule: 「まぁ！ついにユールちゃんにも夢にまで見てた新しい家族が！」
+yule: "Well! Finally, a new family that I had dreamed of both Yule!"
+
+# bdbaf372
+; me: 「ああ、家族になろう」
+me: "Oh, let's be a family,"
+
+# fb2425e9
+; yule: 「嬉しいです！！それでは[i][char yule.car_hand_dere_close_bigemi]早速夫婦のち契を……」
+yule: "Nice to meet you!"Then [i][char yule.car_hand_dere_close_bigemi] I'll sign a marriage contract right away ……"
+
+# 14b7974f
+; me: 「おうよ！」
+me: "Yes!"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# fe4dff57
+; こうして俺は、ユールちゃんの家の事情も何もかも俺は知る事ができた。
+Thus me knew everything about Yule's family.
+
+# 6d8584b7
+; そしてそれからは、幸せな人生を生きたとさ。
+And since then, he has lived a happy life.

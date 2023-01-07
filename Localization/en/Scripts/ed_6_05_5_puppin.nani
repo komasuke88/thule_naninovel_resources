@@ -1,0 +1,125 @@
+; Japanese <ja> to English <en> localization document for `ed_6_05_5_puppin` naninovel script
+
+# 7969159
+; me: 「モンスターか！」
+me: "Monster!"
+
+# e2576f83
+; 何故か手には弓。
+For some reason, there is a bow in the hand.
+
+# e3397a2c
+; 俺は目の前のモンスターを狙って弓を引いたのだが……
+I drew a bow at the monster in front of him ……
+
+# 3c9f0fc3
+; unknown: 「か—————」
+unknown: "Oh, my God."
+
+# 339692a5
+; しかし、返り討ち。
+But the revenge.
+
+# 236d51ce
+; me: 「くわっ！」
+me: "Hush!"
+
+# b625ae02
+; 俺、致命傷。
+I a fatal wound.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 14ad4f8c
+; 俺は死んだ。
+I is dead.
+
+# a28182cc
+; なのにこの爽快な効果音は何だ？
+What's this refreshing sound effect?
+
+# fcd5f55d
+; unknown: 「ふう、狩ったな」
+unknown: "Well, you hunted,"
+
+# 24c229c3
+; モンスターが喋ってる。
+The monster is talking.
+
+# 7f1fa053
+; そして俺に近づいた。
+and approached me.
+
+# 2baedd0f
+; しかし、俺は動くことができなかった。
+However, me could not move.
+
+# 2136a303
+; なぜなら、俺の体は、金貨になっていたから。
+because me's body was in gold.
+
+# 4e69c175
+; unknown: 「うむ、１０００００ゴールドか。結構あるな」
+unknown: "Well, 100,000 gold. Quite a few."
+
+# 2b8ec25e
+; モンスターに拾われた。
+I was picked up by a monster.
+
+# 99002ec5
+; 俺は、ドロップアイテムになったのだ。
+I has become a drop item.
+
+# 10d9590a
+; unknown: 「それにしても、初めて見るタイプのモンスターなのだが、はて、ステタースは……」
+unknown: "It's the first time I've ever seen a monster, but the status is ……."
+
+# a3902d24
+; unknown: 「童貞？……ああ、レアモンスターだな。なんて醜い……」
+unknown: "Children's? …… Oh, it's a rare monster.What an ugly ……"
+
+# bb984dbd
+; unknown: 「でも報酬は中々のもんだな。満足だ」
+unknown: "But the reward is quite good.I'm satisfied."
+
+# 17f4d400
+; モンスターは、そのまま金貨になった俺をポケットに入れて、空へ向かった。
+The Monster, with his gold me in his pocket, headed for the sky.
+
+# ecc3af88
+; そして俺はそれ以上、考える事ができなくなった。
+and me could no longer think.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 86534dc1
+; yule: 「{playerName}！？……な、何でここでいきなり狂死ですか！せっかく今まで頑張ったのに……うぅぅ」
+yule: " {playerName}!? ……, why are you suddenly dying mad here?"I've worked so hard so far …… Ugh!"
+
+# c14a4e5b
+; ごめんな、ユールちゃん…………俺は……
+Sorry, Yule…………me is ……
+
+# 9b1f7d11
+; yule: 「うぅ。[i]……せめて温かい墓場を用意してあげるのが、ユールちゃんの役目……」
+yule: "Ugh. [i] ……'s role is to at least provide a warm grave for Yule."
+
+# f54d03a1
+; ああ、最後まで、ありがたい……
+Oh, to the end, thank you ……
+
+# 61c29136
+; yule: 「<ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。パーフィンの祝福をあなたに……」
+yule: "The <ruby=" Gledileg jol"> Gleðileg jól</ruby>.…… bless you Puppin."

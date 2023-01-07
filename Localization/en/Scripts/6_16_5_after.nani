@@ -1,0 +1,489 @@
+; Japanese <ja> to English <en> localization document for `6_16_5_after` naninovel script
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# b0c477ff
+; 事が終わって、
+It's over.
+
+# 1c9f5de8
+; しばらく、互いの肩を合わせて、静かに湯船に浸かって休んでいた。
+For a while, they sat shoulder to shoulder and rested quietly in the bathtub.
+
+# 6f166b6a
+; 温泉洞窟の隙間からは、夕日の光が差してきた。
+Through the gaps in the hot spring cave, the sunset shone.
+
+# 67032c7d
+; yule: 「そろそろ日が落ちますね」
+yule: "It's getting dark,"
+
+# ed4d246e
+; me: 「そうだな。体はもう完全回復したのか？魔力とか……」
+me: "Well, have you recovered completely?"Magical Power and ……."
+
+# da9ff7a6
+; yule: 「あと、もう少しだけで」
+yule: "Just a little more,"
+
+# 984f55d9
+; ユールちゃんは俺の肩にそっと、頭を乗せてきた。
+Yule gently put his head on me's shoulder.
+
+# cba296ac
+; yule: 「……{playerName}？」
+yule: "Is it ……{playerName}?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 5dad0daf
+; yule: 「大好きです」
+yule: "I love you"."
+
+# 26f7a4db
+; me: 「……！[i]……あ、ああ」
+me: " ……! [i] …… Ahhhhhhhhhhhhhhhhh."
+
+# d01954e3
+; yule: 「くすくす♥」
+yule: "giggle♥"
+
+# 75e58914
+; な、なんだよ。
+Oh, what?
+
+# 77532508
+; 無性に、前よりもユールちゃんの事が、愛らしく感じられる。
+I feel that Yule is more lovely than before.
+
+# ee9fb51a
+; こいつ、こんなに可愛かったっけ？
+Was he this cute?
+
+# 2649e920
+; 初めての相手だったから、特別に思えるのかな？
+Do you think it's special because it's your first time playing with someone?
+
+# d2b90e9c
+; もうこれ本当に、ユールちゃんの事を好きになってしまったのか？俺。
+Have you really fallen in love with Yule? me.
+
+# 5289b5d1
+; 今更、恋に落ちたのか？俺。
+Are you in love now? me.
+
+# b8ed4dcf
+; この魔法の湯船で、夫婦の契ってのを結んだ後で、今更。
+It's too late after we made a couple's contract in this magical bathtub.
+
+# 26990af8
+; me: 「……お、おれも……す……」
+me: "Oh, I …… ……,"
+
+# 7dd0801a
+; 俺も好きだ？
+Do you like me?
+
+# b5a809cf
+; なんだよ。こんなの。
+What's wrong with this?
+
+# 66604678
+; 照れくさくて言えない。
+I'm too shy to say it.
+
+# 9f69f37b
+; yule: 「くすくす、なんですかもう？最後まで言ってくださいよー」
+yule: "What, giggle?"Please tell me to the end."
+
+# 3152ee19
+; me: 「……い、いや」
+me: "No, ……,"
+
+# 6dc5c31d
+; だ、だめだ。
+Oh, no.
+
+# 73c6b300
+; こいつを見れば見るほど、可愛く見える。
+The more I look at him, the cuter he looks.
+
+# 75097dc3
+; 照れくさくて、顔が見れない。
+I'm so shy that I can't see your face.
+
+# 3ea899f
+; ……
+……
+
+# aeca637d
+; しかしこんな可愛いやつと、これからずっと一緒に過ごすのか。
+But I wonder if I'll be with such a cute guy forever.
+
+# 572a8b8c
+; それって、結構幸せ者なんじゃね？俺。
+You're quite happy, aren't you? me.
+
+# e433192e
+; yule: 「くすくす、まぁ、いいんですけど。……ありがとうございます」
+yule: "Well, giggle, I hope so. …… Thank you."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 1b5cc78a
+; yule: 「ユールちゃんの願い、これでやっと叶いましたから」
+yule: "Now that Yule's wish has come true,"
+
+# a8973184
+; me: 「願いって……」
+me: "Wish ……,"
+
+# d1fbf7cc
+; yule: 「{playerName}に一目惚れして、こうして旦那さまに迎える事ができました。[i]新しい家族ができました」
+yule: "I fell in love with {playerName} at first sight and was able to welcome her husband like this.[i]I have a new family."
+
+# 6aa5d268
+; me: 「お、おう。そうか……」
+me: "Oh, yes, ……,"
+
+# 8f348887
+; 家族か。
+Family?
+
+# 8c47ff93
+; そうだな。これで俺とユールちゃんは家族だな。
+Right. Now me and Yule are family members.
+
+# eb756041
+; yule: 「……もうこれで」
+yule: " …… Now,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 5a882de3
+; yule: 「これで心残りなく、ユールちゃん、頑張れますよ」
+yule: "Now I can do my best, Yule."
+
+# 70d46d51
+; me: 「頑張る……？」
+me: "Do your best ……?"
+
+# 980dc044
+; ああ、そういや、エッチで忘れていたけど、大事な事があったんだよな。
+Oh, by the way, I forgot about the etch, but something important happened.
+
+# 6533dc22
+; me: 「それは……今夜の事だな」
+me: "That's …… to-night,"
+
+# 6e27c254
+; yule: 「そうです。[i][char yule.onsen_angry_close_hae]負けたらトゥーレ滅亡かも知れません。そうさせませんよ」
+yule: "That's right. [i] [char yule.onsen_angry_close_hae] If you lose, Thule might be destroyed.I won't let you do that."
+
+# 9373d606
+; me: 「お、おう。頑張って」
+me: "Oh, good luck."
+
+# 8366fb3e
+; yule: 「勝ち切って、【トゥーレ還元】を再実行して、[i]新しいトゥーレで、{playerName}と暮らすんです！」
+yule: "You win, rerun 【Thule reduction 】, and [i] live with {playerName} in the new Thule!"
+
+# cf8e6f2b
+; me: 「新しいトゥーレ……俺も一緒に行くんだよな？」
+me: "You're going with the new Thule……me, aren't you?"
+
+# ff98961e
+; yule: 「もちろんです。{playerName}はもう半分フルドゥフォルクですもん。[i][char yule.onsen_b_nemu_w]ユールちゃんと契を結んで、家族になりましたから」
+yule: "Of course, {playerName} is half Huldufolk.[i][char yule.onsen_b_nemu_w]Yule We made a contract and became a family."
+
+# c33ca92c
+; me: 「そうだな。[i]まぁ、昨日トゥーレに戻された時点で、そうじゃないとは思ってたんだが」
+me: "Yes. [i] Well, when I was sent back to Thule yesterday, I thought it wasn't."
+
+# db785d31
+; yule: 「そうです。[i]新しいトゥーレは、人口が少なくて寂しい星かも知れませんが、[i]これから繁栄すればいいですから」
+yule: "That's right. [i]The new Thule may be a lonely star with a small population, but [i]I hope it will prosper from now on."
+
+# ef0608ca
+; me: 「繁栄……そういやお前たち、個体数が少ないって言ったな」
+me: "Prosperity ……by the way You said the population is small."
+
+# cf6b292
+; yule: 「はい。[i]だから繁栄しましょう！[i]ユールちゃんたちの子供で、トゥーレを埋め尽くしましょう」
+yule: "Yes. [i] So let's prosper![i]Let's fill Thule with their children."
+
+# 804f8c80
+; me: 「……うん。それは、いいかもな」
+me: "…… "Yes, that might be good."
+
+# 2d636b94
+; ユールちゃんのとんでも発言にも、慌てず答える俺。
+I answered Yule's outrageous remarks without panic.
+
+# 41841c66
+; 脱DTで最強になった俺。
+I became the strongest in DT.
+
+# ea174576
+; 心から余裕が湧いてくる。
+I feel relaxed in my heart.
+
+# cffc14cd
+; yule: 「ここから遠い宇宙の星で、ジェネシスを！」
+yule: "Genesis on the stars of the universe far from here!"
+
+# 2c88ee11
+; me: 「……ああ」
+me: " …… Ah,"
+
+# 7258e885
+; トゥーレ還元は、トゥーレを元の星座に戻す事。
+Thule To reduce is to restore Thule to its original constellation.
+
+# def592f4
+; 地球との共倒れから逃げる事。
+Escape from falling together with the earth.
+
+# 632dfb00
+; ……逃げるって表現があまり気に入らないが、結局はそういう事だ。
+…… I don't like the expression of running away, but in the end, that's what it is.
+
+# f458082a
+; そして俺は逃げる方に合流したのだから、ちょっとだけ後ろめたい気分にもなるが、仕方ない。
+And since me joined the fleeing party, he felt a little guilty, but there was nothing he could do about it.
+
+# cddcf642
+; 今は新しい家族ーユールちゃんと共に生きるだけだ。
+Now I just live with my new family, Yule.
+
+# 7e8c72a1
+; me: 「トゥーレが消えるよりは、それがいいんだけど、[i]でも地球はどうなるんだ？還元が終わったら……」
+me: "It's better than Thule disappearing. [i] But what happens to the earth?"When the reduction is complete, ……."
+
+# 49808ed7
+; yule: 「そうですね。特になにもありません。[i][char yule.onsen_sad_close_dot]ゆっくりと、終わっていくだけ」
+yule: "Well, nothing in particular.[i][char yule.onsen_sad_close_dot] It just ends slowly."
+
+# 4b623c
+; me: 「終わっていく、か」
+me: "It's coming to an end,"
+
+# 33d2ef5d
+; 地球が終わる。
+The earth ends.
+
+# a6fea32
+; 人間が住めない星になる。
+Become an uninhabitable star.
+
+# ab1ff687
+; 誰もが、うすうすと思っていた事。
+What everyone thought was stupid.
+
+# 8dade79d
+; しかしそれはどうしようもない事だから、
+But there was nothing I could do about it.
+
+# b3dec91b
+; 受け入れる事しかできないんだ。
+I can only accept it.
+
+# 65e64945
+; me: 「やっぱりそうなるかな。今年のような異常気象がずっと続く事になると……」
+me: "I wonder if that's the case.If abnormal weather like this year continues, ……."
+
+# e0fd8f6d
+; yule: 「はい。[i]こうなってしまったのは、あの外界の神の影響みたいですが、もうどうにもならない事です」
+yule: "Yes. [i] This seems to be the influence of the god of the outside world, but there's nothing we can do about it."
+
+# 952c655d
+; me: 「……あいつを殺すとかは、できないのかな」
+me: "Can't you kill him?"
+
+# d2a00ccd
+; yule: 「はい。[i]殺す事も不可能ですし、それができたとても、[i]もう進んでしまった温暖化は、どうにもできません」
+yule: "Yes. [i] It's impossible to kill, and we can't do anything about the warming that's already progressed."
+
+# 36ee1f58
+; me: 「……そうか」
+me: " …… I see,"
+
+# eefc57da
+; yule: 「地球は、あと数百年ですべての氷河が消えて、[i]高気温で災害が続く、人間が住めない星になるんです」
+yule: "In a few hundred years, all the glaciers will disappear and [i] become uninhabitable stars with high temperatures and disasters."
+
+# 23f19fc1
+; me: 「人類も、滅亡なのかな？」
+me: "Is it the destruction of mankind?"
+
+# 35adcb4c
+; yule: 「なんとか生き延びる者たちはいると思いますが、徐々に衰退していくのでしょう」
+yule: "I'm sure some of them will survive, but they will gradually decline."
+
+# 17c90d5b
+; me: 「人間が少ない星になるんだな。地球は」
+me: "It's going to be a star with few people.The earth."
+
+# 8fe9bb27
+; yule: 「そしてみんな、早死するようになると思います。[i]少しでも体が弱くなると、耐えられない環境になるんですもの」
+yule: "And I think they will all die prematurely.[i]If you become a little weak, you will have an unbearable environment."
+
+# 3560f2d5
+; me: 「医学が発展して、人間の寿命は長くなっていくと聞いたんだけど、それがむしろ逆になっていくんだな」
+me: "I've heard that medical science is developing and human life expectancy is getting longer, but it's going to be the other way around the corner."
+
+# 183b65e5
+; yule: 「今の時代の人間には実感がないかも知れませんが、[i]これから生まれてくる人間の子供たちは、それを思い知る事になるでしょう」
+yule: "People of today may not feel it, but [i] The human children who are coming to be born will realize it."
+
+# 8ed43383
+; me: 「……数百年って、まだ遠い未来だとは言え、悲しい事だな」
+me: "…… "A few hundred years is still a long way off, but it's sad."
+
+# 9f71273c
+; yule: 「それは残念な事ですが、[i][char yule.onsen_sad_nemu_emi]でもユールちゃんは{playerName}と一緒に脱出できるようになって、よかったと思いますよ」
+yule: "I'm sorry to hear that, but [i][char yule.onsen_sad_nemu_emi] But I'm glad Yule is able to escape with {playerName}."
+
+# bc54e5c6
+; me: 「脱出、か」
+me: "Escape?"
+
+# 1850f3df
+; 終わっていく両方の世界。
+both worlds ending.
+
+# d2be40b1
+; 今のままではトゥーレは数十年、地球は数百年で終わる。
+At this rate, Thule will end in decades and the earth in hundreds of years.
+
+# 15889248
+; でも今夜、うまくいけば、トゥーレだけは救われる。
+But tonight, if all goes well, only Thule will be saved.
+
+# e394ae49
+; すぐに消えるはずのトゥーレは、遠い星に戻るという。
+Thule, which is supposed to disappear soon, returns to the distant stars.
+
+# c098f3f1
+; そして俺は、そのトゥーレで暮らしていく。
+And me lives on that Thule.
+
+# 1921f1f2
+; ユールちゃんと一緒に、ずっと。
+With Yule, all the time.
+
+# 766c01f8
+; me: 「でもトゥーレに行ったって、[i]俺はどうせ早死するんじゃないか？[i]ユールちゃんよりは、すぐに歳を取って」
+me: "But if you go to Thule, [i] wouldn't me die early anyway?"[i]Yule Rather than getting old quickly."
+
+# 951decb9
+; yule: 「いいえ。あそこでは{playerName}も、あと数百年は生きられますよ？」
+yule: "No. {playerName} can live there for a few hundred more years?"
+
+# d735edc5
+; me: 「数百年って？俺、人間なのに」
+me: "A few hundred years? me, you're a human being."
+
+# b1840e9c
+; yule: 「{playerName}はもう半分フルドゥフォルクですよ。[i]それにトゥーレの大気は、質が違いますから。[i]生き物はみんな、長生きですよ」
+yule: "The {playerName} is half Huldufolk.[i]Besides, the air quality of Thule is different.[i]All living things live long."
+
+# bd979371
+; me: 「そ、そうか。じっくりこないけど、俺、もうトゥーレの住民になったんだよな」
+me: "Oh, I see. I don't think it's going to be long, but me is now a resident of Thule."
+
+# dff8c071
+; yule: 「そうですよ。ユールちゃんの旦那さまですから。[i][char yule.onsen_b_a_w]これからは、ユールちゃんの家族もみんな、{playerName}の親族ってわけで……」
+yule: "Yes, sir, Yule's husband.[i][char yule.onsen_b_a_w] From now on, Yule's family is all relatives of {playerName}."
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# 73293b79
+; yule: 「トゥーレでも{playerName}の家族がいっぱいですから。[i]もうトゥーレは{playerName}の故郷だと思っていいですよ！」
+yule: "But Thule's family is full.[i]Thule is now home to {playerName}!"
+
+# b1539e1b
+; me: 「そうだな。[i]考えてみたら、１２人のお義姉さんができたんだな？」
+me: "I know. [i] Now that you think about it, you have 12 sisters-in-law."
+
+# 1ef5042c
+; yule: 「ああっ！[i][char yule.onsen_angry_nemu_auu]でも女の子がいっぱいだからって、浮気しちゃ駄目ですよ！」
+yule: "[i][char yule.onsen_angry_nemu_auu] But don't cheat just because you're full of Girl!"
+
+# b6b6e463
+; me: 「し、しないって」
+me: "But I won't,"
+
+# 5b58a90b
+; yule: 「うぅぅ、考えてみるとちょっと心配だな。みんな{playerName}の事狙いそうだし」
+yule: "`Well, now that I think about it, I'm a little worried.I think they'll all aim at {playerName}."
+
+# 991c85e1
+; me: 「そういえば、お父さんお母さんにも、挨拶しないと行けないのかな？」
+me: "Come to think of it, do I have to say hello to my mom and dad?"
+
+# e5e4f8c6
+; yule: 「ええっ！？い、いやいや！[i][char yule.onsen_angry_a_gununu]それはやめてください。[i]せっかく家族になったのに、亡くしたくないです」
+yule: "Huh!? No, no! [i] [char yule.onsen_angry_a_gununu] Don't do that.[i]I don't want to lose my family even though I've become a family member."
+
+# c45c97c9
+; me: 「お、おう……」
+me: "Oh, ……,"
+
+# c13338a5
+; yule: 「すみません。こんな家族で……」
+yule: "Excuse me. …… with a family like this."
+
+# a97df855
+; me: 「あ、いやいや。俺は気にしないさ」
+me: "Oh, no, no.me I don't care."
+
+# c24e6987
+; yule: 「……ユールちゃんの母は……」
+yule: "The mother of ……Yule is ……."
+
+# 92ebd79c
+; ユールちゃんは、何か思うものがあったようだ。
+Yule seemed to have something in his mind.
+
+# b06bc6a1
+; yule: 「自分の夫でも食べてしまうような、とんでもない化け物ですけど」
+yule: "It's an outrageous Monster that even my husband would eat."
+
+# 12cb8677
+; me: 「……そう、だったな」
+me: "…… "Yes, sir,"
+
+# d924f3db
+; ユールちゃんたちの母、グリーラは、数千年も生きていて、もはや理性のない化け物になったという。
+Yule's mother, gryla, has lived for thousands of years and is said to have become Monster without reason.
+
+# 66f81d50
+; yule: 「ユールちゃんは、絶対にそうはなりません。[i][char yule.onsen_angry_nemu_hm]逆にこの命を掛けて、旦那様の事をずっと守ってみせますから」
+yule: "That's never the case with Yule.[i][char yule.onsen_angry_nemu_hm] On the contrary, I will risk my life to protect my husband forever."
+
+# b07bd259
+; 真面目な口調で話すユールちゃんは、ちょっとだけかっこよかった。
+Yule, speaking in a serious tone, was a little cool.
+
+# 687c0b63
+; me: 「……ありがとう。[i]俺は、幸せものだ」
+me: "Thank you …….[i]me is a happy thing."

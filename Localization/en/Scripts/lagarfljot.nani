@@ -1,0 +1,245 @@
+; Japanese <ja> to English <en> localization document for `lagarfljot` naninovel script
+
+# fe239c94
+; me: 「キレイな湖だ」
+me: "It's a beautiful lake,"
+
+# 7c728f4b
+; ここは <ruby="ラーガルフリョゥト"> Lagarfjlót</ruby>。
+This is <ruby=" Lagarfljot">Lagarfjl ót</ruby>.
+
+# 41b369aa
+; 東アイスランドで一番長い湖である。
+It is the longest lake in East Iceland.
+
+# c0d04849
+; アイスランで一番多いな森である <ruby="ハロムスタダスコグル"> Hallormsstaðaskógur</ruby>の隣の湖だ。
+It is the lake next to <ruby="Hallormssta ðask ógar</ruby>, the most common forest in the ice run.
+
+# 4e33e450
+; アイスランドには山が多いけど、森はあまりないが、
+Iceland has a lot of mountains, but there aren'
+
+# 23c6557
+; ここは森も広くて、森の中に町も存在する。
+This place has a wide forest and Village exists in the forest.
+
+# 3ec08c6b
+; それだけで、ここはアイスランドではとても珍しい場所とも言える。
+That alone makes this a very rare place in Iceland.
+
+# 1e25325f
+; me: 「アイスランド一の森か」
+me: "Is it Iceland's best forest?"
+
+# 2816c383
+; こんな場所を歩いてると、アイスランドに来たって実感が沸かないな。
+When I walk in a place like this, I can't believe I'm in Iceland.
+
+# d2de1c6a
+; 日本の故郷を思い出す。
+It reminds me of my hometown in Japan.
+
+# 4db57a56
+; しかし……１２月にこんな緑か。
+…… But in December, it was this green.
+
+# f07306b3
+; やっぱり、ありえないんだよね。
+It's impossible, after all right.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# 8bdf54b3
+; アイスランド最大の森から出て、また湖のところまできた。
+We came out of Iceland's largest forest and back to the lake.
+
+# 75ce611a
+; me: 「さて、撮影の準備をしてみるか」
+me: "Well, let's get ready for the shoot."
+
+# 46330f45
+; 風景写真を撮影するかって？
+Do I take a picture of the scenery?
+
+# 25122076
+; いや、違う。
+No, it's not.
+
+# 3418dd00
+; 俺は化け物の写真を取ろうと待機してるんだ。
+I is waiting to get a picture of Monster.
+
+# c69b471a
+;  <ruby="ラーガルフリョゥトの蛇"> Lagarfljótsormur</ruby>。
+<ruby="The Snake of Lagarfljot">Lagarflj ótsormur</ruby>.
+
+# cbfb1cbd
+; <tip="largar">ラーガルフリョゥトルムリン</tip>とも呼ばれてる。
+Also known as <tip="largar"> Lagarfljotrumlin</tip>.
+
+# 96434ac9
+; この湖に昔から住んでる、巨大な虫の化け物だ。
+Monster a huge insect that has lived in this lake for a long time.
+
+# 6ed31b4b
+; その大きさはサッカーのフィールド（91m）よりも長く、
+It is longer than the soccer field (91 meters).
+
+# 1f30de48
+; 水の外の木に巻きついているとも報告されている。
+It is also reported to be wrapped around trees outside the water.
+
+# 24dff0e9
+; 海面より低い氷河地域の淡水に生息するため非常に可視性は低い。
+It lives in fresh water in glacial areas lower than sea level, so visibility is very low.
+
+# 3a97bebd
+; ただの今どきの噂話ではない。
+It's not just modern gossip.
+
+# 39ba3173
+; アイスランドでは西暦１３４５年から、その目撃談の記録が残ってる。
+In Iceland, the sightings have been recorded since 1345 A.D.
+
+# ed6dce3e
+; 『背瘤のような不思議なもの』が目撃されたと、スカールホルト年代記に記載されてる。
+『 A mysterious 』, such as a dorsal aneurysm, has been seen, according to the Scarholt chronicle.
+
+# bf39ffb2
+; さらには同地の大蛇について、16世紀末の世界地図、17世紀の奇跡集、
+Furthermore, about the great snakes of the region, a map of the world at the end of the 16th century, a collection of miracles in the 17th century,
+
+# c8755852
+; 17世紀の詩に言及がみられる。
+There are references to 17th-century poetry.
+
+# d52d5b80
+; 1749–1750年の目撃談も記録されており、
+Eyewitness accounts of 1749–1750 are also recorded.
+
+# afcde3ca
+; 20世紀、21世紀にも目撃が報道されている。
+Eyewitnesses have been reported in the 20th and 21st centuries.
+
+# 2b335413
+; 1963年にアイスランドの国際森林警備隊に目撃され、
+It was seen by the International Forest Service in Iceland in 1963.
+
+# 292c8208
+; 1998年には学校の教師と生徒たちに目撃されている。
+In 1998, school teachers and students were seen.
+
+# f0e21826
+; 1983年にはこんな事件もあった。
+In 1983, there was an incident like this.
+
+# 6b630242
+; 湖底に設置された電話ケーブルが破損していることが見つかった。
+The telephone cable installed on the bottom of the lake was found to be damaged.
+
+# a4aeca26
+; 関係者はその時の状況についてこう語ってる。
+The person concerned said about the situation at that time.
+
+# 9a379ced
+; [br]「ねじらないように設計されたケーブルが、いくつかの場所に巻き付いており、
+[br] "Cables designed to be non-twisted are wound around several locations.
+
+# 5eec4e68
+; 22か所においてひどく破損していた……。
+…… severe damage in 22 locations.
+
+# 6b39ae52
+; 口で銜（くわ）えたのでなければ、
+unless he had it in his mouth;
+
+# 70ec1749
+; 私は怪物がこのケーブルを腹で引っ張ったと思う」
+I think the monster pulled this cable with his belly."
+
+# 6a718e72
+; me: 「これだけ古くからの目撃談が多いと、本当に存在するかのように思えるよな」
+me: "When there are so many old sightings, it seems like they really exist."
+
+# ebd75048
+; ネス湖の化け物、ネッシーとも似ている湖の怪物。
+Monster of Loch Ness, a lake monster similar to Nessie.
+
+# 1b2f0855
+; 多くの目撃談はあるけど、実際に確認された情報はない。
+There are many eyewitness accounts, but there is no actual confirmed information.
+
+# afe91a8e
+; me: 「そんなものが俺に撮影できたら、それは旅行記を書くどころではなくなるな」
+me: "If me could shoot such a thing, it would be far from writing a travel journal."
+
+# dbfb797e
+; ま、俺も本気で撮ろうとしてるんじゃない。
+Well, I'm not serious about taking me either.
+
+# 2ef0313
+; ただ遊び半分で、湖の撮影がてらにやってるだけだけど……
+It's just for fun. I'm just filming the lake. ……
+
+# e35161d2
+; me: 「……って、あれ！？」
+me: "What is ……?"
+
+# 98ea82d2
+; いつの間にか、湖全体に濃い霧ができていた。
+Before I knew it, there was a thick fog all over the lake.
+
+# 27301729
+; ど、どういう事だ？
+What's going on?
+
+# 179efc6b
+; 少し前まで晴れだったのに、こんないきなり……うん？
+It was sunny until a little while ago, but suddenly …… Huh?
+
+# 854e86ba
+; me: 「なっ！？！？！？！？」
+me: "What?!?!?"
+
+# 48240097
+; 今一瞬、たしかに見えた！
+I could see it for a moment!
+
+# 1c709bc9
+; あの蛇のような巨大な影！
+That huge snake-like shadow!
+
+# f51a5c9
+; me: 「さ、撮影を……うんっ！？」
+me: "Now, …… the shooting!"
+
+# 6c3c56a
+; と、カメラを手にした瞬間、
+he said, as soon as he picked up the camera.
+
+# a119f63b
+; 霧は消えてまた晴れた空が見えて、水面には何も見えなくなった。
+The fog was gone and the clear sky was visible again, and nothing was visible on the surface of the water.
+
+# 577143ed
+; me: 「い、いったいこれは……」
+me: "Well, this is ……,"
+
+# 64cbc70a
+; 確かに化け物を見たけど、なんだ？幻覚だったのか？
+I saw Monster. What is it?Was it a hallucination?
+
+# 580763e8
+; me: 「俺、どうかしてるのかな？」
+me: "What's wrong with me?"
+
+# 3c9848bf
+; それからもしばらく、ラーガルフリョゥトの蛇の写真を撮るために待機してみたけど、
+I waited for a while to take a picture of Lagarfljot's snake.
+
+# a2f90855
+; 化け物は現れなかった。
+Monster did not show up.

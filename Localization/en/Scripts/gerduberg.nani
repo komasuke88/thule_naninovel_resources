@@ -1,0 +1,61 @@
+; Japanese <ja> to English <en> localization document for `gerduberg` naninovel script
+
+# 33adf601
+; me: 「……城壁だ」
+me: "It's a castle wall ……,"
+
+# b1884020
+;  <ruby="ゲルズベルグ"> Gerðuberg</ruby>。
+ <ruby="Gelsberg">Ger ðuberg</ruby>.
+
+# 1552d367
+; 長さ１Km以上、高さ７〜１４ｍ、幅１．５ｍの玄武岩の崖の壁。
+The basalt cliff wall is more than 1 km long, 7-14 m high, and 1.5 m wide.
+
+# f22b16cd
+; この柱状節理を見た時、多くの人が俺と同じ感想を抱いたという。
+It is said that many people felt the same way as me when they saw this columnar joint.
+
+# fe6739f7
+; me: 「どうみても城壁でしょう」
+me: "It must be a castle wall,"
+
+# 117a652f
+; まるで萬里長城のようだ。
+It looks like the Manri Wall.
+
+# 7c82b902
+; 長く伸びてる形があまりにも対称的で、どう見ても人工物のように感じられる。
+The long stretch is so symmetrical that it obviously feels like an artifact.
+
+# e613d19c
+; me: 「この六角形……本当に不思議なものだな」
+me: "This hexagonal …… is a really strange thing,"
+
+# 557b17d4
+; 柱状節理は日本でも見た事があって、そんなに珍しいものでもないんだけど、
+I've seen the columnar joint in Japan, and it's not that unusual.
+
+# d172793b
+; いつ見ても、どこで見ても、やっぱりこれが自然物だって事は不思議なもんだ。
+It's strange that it's a natural thing, no matter when and where you look at it.
+
+# fefefe84
+; me: 「特別な場所に見えて調査してみたけど、特にこの場所にまつわる昔話とかはなかったな」
+me: "It looked like a special place, so I looked it up, but there was no particular old story about this place."
+
+# 854a6ad2
+; 人工物の城壁だったら、それが建てられた背景などを知る事ができたんだろうけど、
+If it had been an artificial wall, I would have known the background of the building.
+
+# a9f52e14
+; この自然の城壁にはなんのストーリーもない。
+There is no story in this wall of nature.
+
+# 50b1705b
+; 本当に、なんでもない自然の一部に過ぎない。
+It's really nothing but a part of nature.
+
+# 7c795d73
+; その事実が逆に、俺には新鮮だった。
+The fact, on the contrary, was fresh for me.

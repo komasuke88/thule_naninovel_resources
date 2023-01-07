@@ -1,0 +1,769 @@
+; Japanese <ja> to English <en> localization document for `6_09_8_hildur3` naninovel script
+
+# e07b5f3d
+; 俺たちはユールちゃんに続いて、ヒルドルの家の裏に行った。
+They followed Yule to the back of Hildur's house.
+
+# f41fb7b9
+; yule: 「それでは開きますよ！」
+yule: "`Then I'll open it!'"
+
+# 639b6199
+; と、ユールちゃんが大きなスプーンを振り回した。
+said Yule, brandishing a great Spoon.
+
+# f80ee4ea
+; こいつの魔法にももう慣れて、俺にもなんとなく、魔法の行使する時の感覚がわかるようになった。
+Now that I am accustomed to his magic, me somehow understands the sense of the use of magic.
+
+# 48c42076
+; だけど、今はユールちゃんの魔法は、何故か少し不安だった。
+But now, for some reason, the magic of Yule was a little magic of
+
+# 62a9025e
+; me: 「ど、どうだい？できたか？」
+me: "What do you think?"Is it done?"
+
+# 9d67e699
+; yule: 「……あれ？」
+yule: "What ……?"
+
+# 23a03269
+; ユールちゃんは何やら慌ててた。
+Yule was in some hurry.
+
+# 59f4d5d7
+; yule: 「お、おかしいですね。もう一回……」
+yule: "Oh, that's strange.Again ……"
+
+# 7df63a17
+; ユールちゃんがまたスプーンを降ったけど、
+Yule had Spoon again.
+
+# 295f4579
+; yule: 「……ひ、開かない……」
+yule: "…… Oh, it won't open ……."
+
+# c6e7e5a6
+; me: 「……も、もしかして、失敗？」
+me: "Did …… fail?"
+
+# 8c64383b
+; yule: 「……え、えっと。魔力の流れはちゃんと感じ取りましたけど……」
+yule: "…… "Well, let me see.I could feel the flow of Magical Power, but ……."
+
+# cae46fbe
+; me: 「その……ユールちゃん？」
+me: "Is that ……Yule?"
+
+# ecaa7f3f
+; yule: 「……はい？」
+yule: "What ……?"
+
+# 1aae6d4
+; me: 「【妖精の道】って、前回も開かなかったよな。あの南の海で」
+me: "The Fairy Way 】 didn't open last time either.in that southern sea."
+
+# 97c8e6e2
+; 先から感じた不安感の正体はこれだった。
+This was the true feeling of anxiety that I felt for a long time.
+
+# 90658fd0
+; yule: 「……はい。そうでした。[i]その時も何か変だとは思いましたけど……[i]また失敗するとは、どういう事でしょう……？」
+yule: "…… Yes, it was.[i]I thought something was wrong at that time ……[i]What does it mean to fail again ……?"
+
+# c81361bd
+; hime: 「え、えっと。ヒルドルさんに、聞いてみたらどうかな？」
+hime: "Well, why don't you ask Hildur?"
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# 3dcd3fb
+; me: 「ヒルドルに聞く？」
+me: "Do you want to ask Hildur?"
+
+# 880f494c
+; hime: 「彼女は魔法に詳しいでしょう？ちょっと待っててねー」
+hime: "She knows a lot about magic, doesn't she?"Wait a minute."
+
+# 59781c10
+; yule: 「え、ちょ、ちょっとまっ……もう行った？」
+yule: "Oh, hey, wait a minute …… Have you gone yet?"
+
+# a6719a24
+; ヒメはすぐに家の壁を通過して、中へと姿を消した。
+Hime soon passed through the walls of the house and disappeared into it.
+
+# a93aaef3
+; hildur: 「きゃぁぁ！」
+hildur: "Oh, my God!"
+
+# 12fe32b
+; ヒルドルのびっくり声が聞こえた後、すぐにヒメとヒルドルが俺たちの前に来た。
+Immediately after hearing Hildur's astonishment, Hime and Hildur came before them.
+
+# 217363c4
+; hildur: 「いきなり家の中に入らないでもらえる？びっくりするわぁ」
+hildur: "Would you mind keeping out of the house?"What a surprise!"
+
+# c8e90cd8
+; hime: 「す、すいません」
+hime: "Yes, I'm sorry,"
+
+# b9016f9e
+; hildur: 「で、妖精の道が開かないってぇ？」
+hildur: "`And the fairy way won't open?'"
+
+# 3746419
+; yule: 「え、ええ。変です。いつもならこう……」
+yule: "Oh, yes, it's strange.…… as usual."
+
+# 2ee27b27
+; ユールちゃんがもう一度スプーンを降ったけど、
+Yule had Spoon again.
+
+# ba7cf7d8
+; yule: 「……うぅぅ……開きません」
+yule: "`I can't open …… ……,'"
+
+# 3a1dc407
+; 同じみたいだった。
+It looked the same.
+
+# 30d0a3b
+; hildur: 「……あ、これは……」
+hildur: " …… Oh, this is ……."
+
+# 5d341618
+; hime: 「なにかわかりました？」
+hime: "Do you know what it is?"
+
+# aa59f3fa
+; hildur: 「……スヴォルさん、あなた今、あまり魔力が残ってないわぁ」
+hildur: "Mr. ……Thuvor, you don't have much Magical Power left."
+
+# 28ba3dc0
+; yule: 「えっ？そんなはず……？[i][char yule.kum]あ、それはそうと、あたしの事はユールちゃんと呼んでください」
+yule: "What? I suppose so, ……?"[i][char yule.kum] Oh, by the way, call me Yule."
+
+# 749a1af9
+; hildur: 「ユールちゃん？[i]……ま、とにかくあなた、[i]妖精の道を開くくらいの魔力が、今はないのよぉ」
+hildur: "Is it Yule?"[i]…… Well, you, [i] don't have enough Magical Power to open the way for fairies now."
+
+# feae33e9
+; yule: 「それはおかしいです。魔力が足りない時くらい、自分でわかりますけど……」
+yule: "That's strange.Magical Power I know for myself when I don't have enough ……."
+
+# bf719a93
+; hildur: 「……多分、あなたの魔力感知回路、少しおかしくなってるみたいだわぁ」
+hildur: "I think your Magical Power sensing circuit is a little strange."
+
+# 3a1eeb0f
+; yule: 「えっ？そんな事がありえるんです？」
+yule: "What? Is that possible?"
+
+# b084a6bc
+; hildur: 「今のトゥーレは、魔力の流れがおかしくなってるからねぇ。妾の魔法さえも、たまに変な結果になるしぃ」
+hildur: "The current flow of Magical Power is strange in Thule.Even the magic of a concubine sometimes turns out strange."
+
+# 6acbef93
+; yule: 「そ、そうですか。[i]これは困りましたね。[i]魔力は時間が経ったら回復するだろうけど……時間があまり……」
+yule: "Oh, is that so?[i]This is a problem.[i]Magical Power will recover over time, but …… time is too ……"
+
+# da665344
+; ユールちゃん、落ち込んでるな。
+Yule You're depressed.
+
+# f23bb9c6
+; hime: 「パーちゃんに乗って行くしかないかな？」
+hime: "Is there no other way but to ride DearPuppin?"
+
+# 44bc9a9d
+; yule: 「うーん。そうですかね。時間もないし、一番早い道で行こうと思いましたけど……」
+yule: "Well, I suppose so.I didn't have time, so I thought I'd take the fastest way, ……."
+
+# e9e46a09
+; me: 「うむ……」
+me: "Well, ……,"
+
+# e1a30056
+; 【妖精の道】はワープポイントみたいな扉。
+【 Fairy Way 】 is a door like warp Point.
+
+# aeabf236
+; 急ぎの目的地があるのなら、最高の移動手段だ。
+If you have an urgent destination, it's the best means of transportation.
+
+# c07a4754
+; ユールちゃんがそれを開いてくれたお陰で、俺は今まで色々と時間短縮できたわけで……
+Thanks to Yule's opening, me has been able to save a lot of time so far, so ……
+
+# dba08def
+; me: 「……あ！」
+me: " …… Ah!"
+
+# 5a7a28e2
+; yule: 「うん？{playerName}、どうしました？」
+yule: "Huh? {playerName}, what's the matter?"
+
+# c664271
+; ……妖精の道って、別にユールちゃんが開かなくても……
+…… Even if Yule doesn't open, …… will be ……
+
+# 9bbac7ab
+; me: 「ヒルドルさんが開いてくれてもいいじゃない？妖精の道」
+me: "Wouldn't it be alright if Mr. Hildur opened it?"The Way of the Fairies."
+
+# b891ef70
+; 俺はヒルドルの方を向きながらそういった。
+said me, turning to Hildur.
+
+# 8b709997
+; hildur: 「へぇ？妾が？」
+hildur: "What? A concubine?"
+
+# 7580e75b
+; yule: 「た、たしかにヒルドルにもできるでしょうけど……それは……えっと……」
+yule: "Well, I'm sure Hildur can do it, but …… ……,"
+
+# 5f3f2da6
+; me: 「だよな。エルフの女王の魔力なら」
+me: "Yes, Magical Power, the queen of Elf,"
+
+# c4d04aef
+; hime: 「そうはいいアイデアだね！うん、是非お願いします！」
+hime: "That's a good idea! Yes, please!"
+
+# 9a9db10
+; hildur: 「……いいえ。[i]そんな義理はないわぁ。[i]妾も魔力を無駄遣いできない時期だし」
+hildur: "…… No. [i] I have no obligation.[i]It's time for a concubine to waste Magical Power."
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# f9781d93
+; hime: 「ええええ？」
+hime: "What?"
+
+# 2848b3a
+; yule: 「そうでしょうね。自分でもそうしたと思います。[i]妖精の道は、意外と魔力の消耗が激しいですから」
+yule: "I suppose so.I think I did it myself.[i]The fairy path consumes a lot of Magical Power unexpectedly."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9da21df7
+; yule: 「それにユールちゃんもプライドがあるし、[i]エルフの魔法に頼るのもちょっと……」
+yule: "And Yule is proud, and [i] relying on the magic of Elf is a bit ……."
+
+# 8c0ccdb6
+; ユールちゃんは、この話には気乗りしないようだった。
+Yule did not seem to be pleased with this story.
+
+# 50803ffe
+; しかし、俺たちには時間が足りない。
+However, mes do not have enough time.
+
+# 67b73fe3
+; この手が一番だと思ってるけど、拒否されるとは……
+I think this is the best way, but I can't believe I'm rejected ……
+
+# 14e148e8
+; me: 「……こうなったら」
+me: "…… "If this happens,"
+
+# 2c3dab69
+; だけど、俺は知ってる。
+But I know me.
+
+# ac76365e
+; ヒルドルを丸く言いくるめる方法を！
+Hildur How do you talk round?
+
+# 34f4dd6c
+; @choice "叩く" goto:.tataku
+@choice "hit" goto:.tataku
+
+# c0d013ad
+; @choice "褒める" goto:ed6_09_7_hildur_homeru
+@choice "Praise" goto:ed6_09_7_hildur_homeru
+
+# 6981d9a1
+; hildur: 「きゃん！！」
+hildur: "Oh, my God!"
+
+# 43825b49
+; hime: 「えっ？？{playerName}！な、なにを！？」
+hime: "What? {playerName}! What!"
+
+# b7b7be9d
+; hildur: 「そ、そんないきなり……な、何を……♡♡」
+hildur: "Oh, …… all of a sudden, what ……♡♡"
+
+# df8aada2
+; hime: 「え、えっと……？う、嬉そう？」
+hime: "What, ……? You look happy?"
+
+# d3bc5f80
+; me: 「…………おぉ」
+me: "Oh, …………,"
+
+# a3c402b3
+; hildur: 「ふぅぅ……♡な、なにこれ、すごい……♡」
+hildur: "`Wow, ……♡, what a great ……♡'"
+
+# c14de0fe
+; 想像もできなかったいい手応え。
+It's a good response that I couldn't imagine.
+
+# 23529234
+; 素手でおっぱいを叩くなんて、生まれて初めてだ。
+It's the first time in my life that I've ever hit a breast with my bare hands.
+
+# 2958f348
+; いや、過去の記憶はないけど、多分、童貞の俺ならこれ絶対に初体験だ。
+No, I don't remember the past, but this is probably the first time I've ever experienced me.
+
+# 9bef59e8
+; しかしこの感覚、結構、しびれるな……
+But this feeling is quite numb ……
+
+# da51d402
+; hildur: 「…………」
+hildur: "…………"
+
+# bf77538f
+; me: 「ど、どうだい。道を開く気になったか？」
+me: "Well, what do you think?Do you feel like opening the way?"
+
+# 38c6822f
+; hildur: 「……ま、まさか。こ、この程度では、の、乗らないわぁ……♥」
+hildur: "No, ……, I don't think so.I won't ride this much ……♥"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9f02ea50
+; hildur: 「うっふ……」
+hildur: "Ugh ……,"
+
+# 5dbde366
+; って言いながらも、期待に満ちた眼差しを俺へと向けるヒルドル。
+Hildur, however, turned his expectant eyes to me.
+
+# c37306be
+; hildur: 「そ、それにしても、流石は男の手は違うわね。この重さ、くせになるかも……[i]いやいや、そ、その手には、乗らないけどね♥」
+hildur: "Well, by the way, Man's hands are different. This weight might be a habit ……[i] No, no, I won't ride that hand ♥"
+
+# 7e4faa5
+; これはどうみても拒絶の眼差しではない。
+This is obviously not a look of rejection.
+
+# bd6b893d
+; me: 「この！早く開かんか！」
+me: "Hey! Why don't you open it quickly."
+
+# f9936a25
+; hildur: 「やぁぁん♡♡♡」
+hildur: "Hi ♡♡♡"
+
+# 5d6bb8fc
+; むちゃくちゃ叩いた。
+I hit him like crazy.
+
+# a561a52b
+; hildur: 「はぁはぁ……」
+hildur: "Yes, ……,"
+
+# 3f41beee
+; me: 「……ど、どうだ！」
+me: "What do you say, ……?"
+
+# b0cff150
+; hildur: 「い、いいわぁ。開いてあげる」
+hildur: "Yes, that's great.I'll open it for you."
+
+# df175a65
+; me: 「……お、おう」
+me: "…… "Oh, my God,"
+
+# 648554c
+; もう少し叩きたかったけど、ま、これでいいか。
+I wanted to hit it a little more, but I don't know if it's okay.
+
+# e2b25060
+; hildur: 「ふう」
+hildur: "Well,"
+
+# 50b068b
+; ヒルドルは魔法のステッキみたいなのを取り出して、何やら呪文を唱え始めた。
+Hildur took out a sort of magical Steki, and began to cast some spell.
+
+# 4542c965
+; yule: 「くっ、エルフの魔法に頼るなんて、不本意ですけど、仕方ありませんね」
+yule: "Well, I don't want to rely on the magic of Elf, but I can't help it."
+
+# f11cef08
+; me: 「ヒメがヒルドルさん呼んでくれたおかげだな。ありがとうな、助かった」
+me: "Thanks to Hime for calling me.Thank you, I'm saved."
+
+# 86d94011
+; hime: 「……」
+hime: "……"
+
+# 8a995250
+; me: 「ヒメ？」
+me: "Is it Hime?"
+
+# b0c3c01c
+; hime: 「………………………………」
+hime: "………………………………"
+
+# b27e7e14
+; yule: 「あっ！またこうなった？た、大変です！」
+yule: "Oh! Is this what happened again?Oh, my God!"
+
+# ccdae18c
+; me: 「ああああああああああ」
+me: "Ah, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,'"
+
+# 43d8db78
+; そして、頭痛。
+And a headache.
+
+# e1730a7d
+; またあれが、始まってしまった。
+That started again.
+
+# f51e0c15
+; そして、俺の衝動は……
+And me's impulse is ……
+
+# 56e70b23
+; @choice "耐える" goto:.taeru
+@choice "I'll endure" goto:.taeru
+
+# 4382ae80
+; @choice "犯す" goto:ed_6_09_8_noroi
+@choice "Crime" goto:ed_6_09_8_noroi
+
+# 4680ebd1
+; me: 「た、たすけ……」
+me: "Oh, …… Tasuke,"
+
+# 29e43358
+; yule: 「くっ！魔力が弱ってる時に……でも仕方ない。残りの魔力すべてを……」
+yule: "Damn it! …… can't be helped when Magical Power is weak.…… all remaining Magical Power"
+
+# df812788
+; hildur: 「えぃいっ」
+hildur: "Yes,"
+
+# a39001f7
+; me: 「おおっ！？」
+me: "Oh!"
+
+# 899a788c
+; 治った。
+It's healed.
+
+# aad57d56
+; 今のは、ヒルドルが……？
+Is Hildur ……?
+
+# 350ab217
+; yule: 「あ、ありがとう、ヒルドル、礼を言います」
+yule: "Oh, thank you, Hildur, thank you."
+
+# c7892ac7
+; me: 「おう、ありがとうな」
+me: "Oh, thank you,"
+
+# 8bf422e
+; hildur: 「いいわ。妾の家の近くで、狂死など見たくないもの」
+hildur: "Never mind. I don't want to see a mad death near my concubine's house."
+
+# f0b30511
+; そして俺は、ヒメの方を見つめた。
+Then me looked at Hime.
+
+# 14bec036
+; 相変わらず止まってるが……
+It's still stopped, but ……
+
+# 2b116cd7
+; me: 「ヒメの方は、少し待てみるか」
+me: "Will Hime wait a little longer?"
+
+# 10760f7
+; yule: 「あ、いいえ。え、えっと……」
+yule: "Oh, no. Uh, ……."
+
+# a3c95e
+; me: 「うん？でも少し待てば、また元に戻るんじゃないか？」
+me: "Huh? But if I wait a little bit, I think I'll get back to normal again."
+
+# bbe0bc7d
+; この前、俺が慌ててた時に、ユールちゃんが余裕な表情でそう言ったはずだが。
+The other day, when me was in a hurry, Yule would have said so with a relaxed expression.
+
+# 17c7680e
+; yule: 「この前とは状況が違います。[i]まだ発現までは至ってませんが、今は……」
+yule: "The situation is different from last time.[i]I haven't developed it yet, but now I have ……."
+
+# d8108e10
+; me: 「今は、なにか違う？」
+me: "What's the difference now?"
+
+# ced5a26b
+; yule: 「今は、ちゃんと戻れるかどうか……」
+yule: "Now, …… to see if I can get back."
+
+# 9554444a
+; me: 「なっ！？ヒメ、正気に戻らないかもしれないって事？」
+me: "What!? Hime, you might not come to your senses?"
+
+# 2edaaced
+; hildur: 「これ、悪霊化だわねぇ？それも、末期の」
+hildur: "`This is demonization, isn't it?'It's at the end of my life."
+
+# 2d1a6663
+; 俺たちのやりとりを見ていたヒルドルが割り込んできた。
+Hildur interrupted me, who had been watching their conversation.
+
+# f64a5e67
+; me: 「ああ！そうだけど……[i]末期？」
+me: "Ah! That's right, but ……[i] terminal?"
+
+# a7da7e71
+; yule: 「そうですよ。末期です。[i]ユールちゃんたちが知らない間に、何日も経ってしまったじゃないですか？」
+yule: "Yes, it's the last stage.[i]Yule It's been a few days since they didn't know."
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# 7345e2f8
+; 確かに悪霊化は、早ければ３日でも発現すると言ってたな。
+You said that demonization would occur as early as three days.
+
+# ce494f8e
+; 俺たちが人間世界に行ってきた際に、時間が経ってしまったから……３日以上過ぎてる！
+I It's been more than three days since time passed when they went to the human world!
+
+# f60946ef
+; me: 「ど、どうしよう。数日過ぎたじゃないか」
+me: "What shall I do?It's been a few days."
+
+# dc2a9100
+; yule: 「はい。このまま発現するまで、ずっとこの状態って可能性も……[i][char yule.l-nayami]そうなったら……もう……除霊しか……」
+yule: "Yes, it's possible to stay in this state until it's expressed as it is ……[i][char yule.l-nayami] Then …… is the only …… exorcism ……"
+
+# fe6687a
+; me: 「い、いやいや、除霊は駄目だろう！」
+me: "No, no, no, no exorcism!"
+
+# 47bd4b09
+; yule: 「うぅぅ……でも……」
+yule: "`Well, ……, but ……,'"
+
+# 967b7c8d
+; 俺たちの話を聞いていたヒルドルが、横から入ってきた。
+I Listening to them, Hildur came in from the side.
+
+# cd30d49f
+; hildur: 「妾が力を貸そうか？」
+hildur: "Will a concubine help you?"
+
+# 21f3a4fc
+; yule: 「え？」
+yule: "What?"
+
+# 312fec99
+; me: 「えっ？これ、止められるの？」
+me: "What? Can you stop this?"
+
+# b990bada
+; hildur: 「完全に止める事はできないけど、遅らせる事はできるわぁ」
+hildur: "I can't stop it completely, but I can delay it."
+
+# 3469d2c5
+; yule: 「うわっ！本当ですか！」
+yule: "Wow! Really?"
+
+# 8b9c7f4c
+; me: 「それすごいな！流石にエルフの女王だ」
+me: "`That's great!'As expected, she is the queen of Elf."
+
+# 374c43b5
+; hildur: 「うーん。しかしちょっとまた魔力使う事になるし……[i][char hildur.heart_uhe]どうしようっかなー」
+hildur: "Well, but I'm going to use Magical Power again. ……[i][char hildur.heart_uhe] What should I do?"
+
+# 3cd30244
+; ヒルドルはもったいぶりながら、俺の方を見つめた。
+Hildur looked at me, pretentiously.
+
+# 556bc0ca
+; yule: 「…………」
+yule: "…………"
+
+# fe2daf34
+; ユールちゃんは、少し呆れた顔でヒルドルを見つめた。
+Yule stared at Hildur with a slightly dumbfounded look.
+
+# 578725f2
+; hildur: 「……ふふふ」
+hildur: " …… Huff,"
+
+# 87a400f3
+; ヒルドルは、意味ありげに俺を見つめてる。
+Hildur stared meaningfully at me.
+
+# f46855cf
+; 期待に満ちた眼差しで……
+…… with a hopeful look
+
+# ada4f804
+; hildur: 「悪霊化、遅らせる事もできるけど、やめようなかなぁ」
+hildur: "I can delay demonization, but I think I should stop."
+
+# 7762093
+; 頬を赤く染めながら、俺を見つめてる。
+I'm staring at me with my cheeks dyed red cheeks.
+
+# 56960bf7
+; @choice "叩く" goto:.tataku2
+@choice "hit" goto:.tataku2
+
+# 9614d02f
+; @choice "お願いする" goto:ed6_09_7_hildur_onegai
+@choice "Please" goto:ed6_09_7_hildur_onegai
+
+# 1e1c2eb3
+; hildur: 「きゃ
+hildur: "Well,"
+
+# 585c482b
+; hildur: ん！!♡♡」
+hildur: "Yes! ♡♡"
+
+# 396bcebf
+; me: 「この！早くやれ！！悪霊化を遅らせるんだ！」
+me: "Hey! Hurry up and do it!Delay the demonization!"
+
+# 982c2e5e
+; またおっぱいを叩いた。
+I hit the breast again.
+
+# 374c2478
+; 今回は両手で！めちゃくちゃに！
+This time, with both hands! What a mess!
+
+# c428ec0c
+; hildur: 「はぁはぁ………な、なにこれ♡……あ、あなたの手、たまらないわぁ……」
+hildur: "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+# b6953f14
+; ヒルドルははぁはぁと息を荒らして、大喜びながら言った。
+Hildur gasped and said with great delight,
+
+# bc0e1333
+; hildur: 「はぁぁ……」
+hildur: "Yes, ……,"
+
+# c95ad06b
+; ヒルドルは軽く逝ったみたいに、身を震わせながら固くなっていた。
+Hildur was stiff, trembling, as if he had passed away lightly.
+
+# 556bc0ca
+; yule: 「…………」
+yule: "…………"
+
+# fecad769
+; ユールちゃんはそんなヒルドルをゴミを見るような目で見てる。
+Yule looks at Hildur as if she were looking at trash.
+
+# aa34e828
+; こんなユールちゃんは初めてだ。
+I've never had Yule like this before.
+
+# 5a61145e
+; me: 「……ふ、ふぅぅ」
+me: "` …… Phew,'"
+
+# 75f1abfe
+; しかし、俺はこの行為に、少しだけ高揚感を覚えた。
+However, me felt a little elated by this act.
+
+# 97f44aa9
+; こんな時なのに、俺は何を感じてるんだ？
+What does me feel at times like this?
+
+# 6f13ebfe
+; 俺までHENTAIになってしまう……？
+Even me will become HENTAI ……?
+
+# 31f6b438
+; @choice "冷静になる" goto:.isogaseru
+@choice "Calm down" goto:.isogaseru
+
+# 6c91311c
+; @choice "熱くなる" goto:ed6_09_8_hildur_tataku
+@choice "get hot" goto:ed6_09_8_hildur_tataku
+
+# ee295289
+; hildur: 「きゃん！」
+hildur: "Oh, my dear fellow!"
+
+# 38282571
+; me: 「早くしてくれ！時間がないんだ！」
+me: "Hurry up!I'm running out of time!"
+
+# 5c0c8387
+; 実は、連発でずっとめちゃくちゃに叩き続けたかったけど、一発だけで止めた。
+Actually, I wanted to keep hitting him like crazy with a series of shots, but I stopped with just one shot.
+
+# 376ccd48
+; ふぅ、冷静になってよかった。
+Well, I'm glad I'm calm.
+
+# 99b8be8f
+; me: 「ふぅぅ……」
+me: "`Whoo ……,'"
+
+# 2657239b
+; しかし、ちょっと物足りない感じが……
+However, I feel a little unsatisfied ……
+
+# 556bc0ca
+; yule: 「…………」
+yule: "…………"
+
+# 143a6742
+; me: 「こ、コホン！[i]さて、そろそろ遅らせてもらおうか」
+me: "Here, Koheon! [i] Well, let's delay it now."
+
+# f4cd4a67
+; hildur: 「い、いいわぁ。」
+hildur: "Yes, that's great."
+
+# e505c7f
+; 少し興奮した俺を、ユールちゃんが死んだ目で見つめてた。
+Yule looked a little excitedly at me with dead eyes.
+
+# df20defb
+; 冷静になってよかった。
+I'm glad I'm calm.
+
+# 969127e
+; hildur: 「ふぅ……」
+hildur: "`Phew ……,'"
+
+# 687afa28
+; hildur: 「それでは、[i]悪霊化を遅らせる魔法、今から掛けてあげる」
+hildur: "Then, [i] I'll put on the magic of delaying demonization now."

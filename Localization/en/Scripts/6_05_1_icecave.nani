@@ -1,0 +1,277 @@
+; Japanese <ja> to English <en> localization document for `6_05_1_icecave` naninovel script
+
+# 7745c98e
+; ………………………………
+………………………………
+
+# 9d9662d
+; そうか。
+Really。
+
+# bd4f580a
+; 記憶を元に作られた幻想空間。
+Fantastic space created from memory.
+
+# b10f300d
+; 記憶を取り戻したら、また消えてしまったんだな。
+When I got my memory back, it disappeared again.
+
+# 7745c98e
+; ………………………………
+………………………………
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 20cbb295
+; どれくらい気を失っていたのかな。
+I wonder how long he fainted.
+
+# 18e0ba33
+; そろそろ考える事ができるようになっていた。
+I was about to be able to think.
+
+# f04f8b6a
+; 最初に思ったのは、冷たいって事。
+The first thing I thought was that it was cold.
+
+# b864ade5
+; 感覚があるって事は、どうやら俺は……
+Sensibility means that me is ……
+
+# afd34e54
+; @choice "生きてるみたいだ" goto:.ikiteru
+@choice "I feel like I'm alive" goto:.ikiteru
+
+# 53dfa297
+; @choice "死んでるみたいだ" goto:ed_6_05_1_die
+@choice "I feel like I'm dead" goto:ed_6_05_1_die
+
+# 93cebceb
+; me: 「当たり前だ。これくらいで死んでたまるか」
+me: "Of course, I can't die like this."
+
+# c5d318ad
+; 冷えた空気に、自分の声が鳴り響いた。
+My voice rang out in the cold air.
+
+# cfc29937
+; ここは……
+This is ……
+
+# cec3232
+; me: 「洞窟？」
+me: "Cave?"
+
+# 6e2388e1
+; 閉鎖空間みたいだけど、光が差してきて、周りはよく見える。
+It's like a closed space, but the light is shining and you can see the surroundings well.
+
+# 55e1aa5d
+; 上も、下も、エメラルド色に光る内壁。
+The upper and lower walls glowed emerald.
+
+# c8083eec
+; そのガラスのような壁に手をつけてみたら……
+When I put my hand on the glassy wall,
+
+# 67bfae84
+; me: 「冷たっ！」
+me: "It's cold!"
+
+# c759a45d
+; 手のひらに伝わる水の感覚。
+The sensation of water in the palm of your hand.
+
+# 52571891
+; これは、氷だ。
+This is ice.
+
+# c71fa16e
+; ここは全てが氷で作られた空間。
+This is a space where everything is made of ice.
+
+# d6882df5
+; 氷の洞窟。
+an ice cave.
+
+# 9944459a
+; me: 「またも不思議な場所に出たな」
+me: "You're in a strange place again,"
+
+# d4d2d151
+; エルフの幻想空間が崩れて、俺はここに落ちたみたいだけど。
+me's fantasy space collapsed and Elf fell here.
+
+# 948b6050
+; こっちの方が、幻想空間って言葉がビッタリ似合う。
+The word "fantastic space" suits you better.
+
+# 3826041e
+; 何でいきなりこんな場所が現れたんだ。
+Why did this place suddenly appear?
+
+# da5eb52a
+; me: 「……先まで俺が居たのは確かに……」
+me: "…… "It is true that me was there before."
+
+# 84a1fa71
+; 氷河の上から……
+…… from above the glacier
+
+# 6e0ba0d3
+; クレバスの中に飛び込んで……
+Jump into crevasse and ……
+
+# 4d43c9e9
+; エルフの隠れ家（幻想空間）があって……
+There is a hiding place (fantastic space) for Elf ……
+
+# a53bcfdc
+; そこが崩れて、また落ちたんだから……
+It collapsed and fell again. ……
+
+# 46b1460a
+; 同じ位置だとすると……
+…… in the same position
+
+# 8b4d17a9
+; me: 「ここは、氷河の中かな？」
+me: "Is this in a glacier?"
+
+# 655d9b2
+; 確信はできないけど。
+I'm not sure.
+
+# 3bca819
+; そういえば、[i]ユールちゃん達はどこに？
+Come to think of it, [i]Where are Yule?
+
+# bf5e3d64
+; me: 「おーい〜！ユールちゃん？！ビューちゃん？！」
+me: "Hey! Yule?! Byu?"
+
+# 1b239906
+; ちゃん———ちゃん———ちゃん————
+Chan-chan-chan-chan-chan-chan-chan-chan-chan-chan-chan-chan-chan-chan
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 97f0cb66
+; 叫んでみても、自分の声だけが反響して、エコーに聞こえるだけ。
+Even if you scream, only your own voice echoes and sounds like an echo.
+
+# 6c80959d
+; 返事がない。
+There is no answer.
+
+# 93d1954a
+; me: 「はぐれちゃった？」
+me: "Have you lost it?"
+
+# 50b489d
+; ってことは……
+That means ……
+
+# c7abd4e6
+; me: 「……こんなところに、俺一人？」
+me: "Is …… alone here?"
+
+# ff2d6995
+; どうしよう。
+What should I do。
+
+# 11149967
+; こんな冷凍庫みたいな寒い場所に一人取り残されたのか。
+Was he left alone in such a cold place like a freezer?
+
+# 7e052e0d
+; ここで凍死では、今までの頑張りが虚しくなるぞ。
+If you freeze to death here, you'll lose all your efforts.
+
+# 2071500c
+; me: 「と、とりあえず……」
+me: "Well, …… for now,"
+
+# db333be2
+; 一人でなんとかするしかない。
+I have no choice but to do something by myself.
+
+# 4dac0f5b
+; 幸いにこの洞窟には光も差してきて通路が見えるし、
+Fortunately, there was light in this cave, and I could see the passage;
+
+# dfbcf9b5
+; ちゃんと人が通れるくらいの大きさもある。
+It's big enough for people to pass by properly.
+
+# f405617a
+; 探索だ。
+It's a search.
+
+# c3172e38
+; まず、俺が探すべきものは……
+First, what me should look for is …….
+
+# 4f270d3b
+; @choice "ユールちゃんたち" goto:.sagasu
+@choice "The Yules" goto:.sagasu
+
+# d0b335d3
+; @choice "出口" goto:ed_6_05_1_icecavefall
+@choice "Exit" goto:ed_6_05_1_icecavefall
+
+# c5cb62e8
+; と言っても、
+Nevertheless,
+
+# fcbcf7e2
+; 足跡なども見当たらなく、何の音もしない。
+There were no footprints, and there was no sound.
+
+# 76294d33
+; 俺は光の方向へ、狭い通路をゆっくり前に進みながら、叫び続けた。
+I went on shouting, slowly moving forward in the direction of the light, down the narrow passage.
+
+# fbc0f5f1
+; me: 「ユールちゃん！！ビューちゃん！！」
+me: " Yule!!Byu!"
+
+# 347df14e
+; ちゃん———ちゃん———ちゃん———
+Chan: "Chan: Chan: Chan: Chan: Chan: Chan: Chan: Chan: Chan: Chan: Chan: Chan"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# c9661c49
+; やっぱり、いくら名前を呼んでみても、エコーだけ。
+As expected, no matter how many names you call, only echoes.
+
+# 58caf120
+; だけど、俺にできる事は、それしかないから。
+But that's the only thing me can do.
+
+# 3895e0eb
+; ずっと歩きながら叫び続けるしかない。
+All I can do is walk all the way and scream.
+
+# ea45e748
+; ……どう叫んだらいいかな。
+…… How should I shout?
+
+# d33d3fef
+; @choice "ソーセージ！" goto:6_05_2_icecavebyu
+@choice " sausage!" goto:6_05_2_icecavebyu
+
+# 696f235c
+; @choice "もうダメだ！" goto:ed_6_05_1_dame
+@choice "No more!" goto:ed_6_05_1_dame

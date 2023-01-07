@@ -1,0 +1,269 @@
+; Japanese <ja> to English <en> localization document for `5_04_5_kioku` naninovel script
+
+# 9822ed75
+; 『雪にはのぅ、魔法が宿ってるんや』
+『 There's magic in the snow 』
+
+# e30471
+; [br]昔の記憶が、頭に流れてきた。
+[br] Memories of the past came to my mind.
+
+# 5df700e8
+; それは、死んだお爺さんの言葉。
+Those were the words of the dead old man.
+
+# d2121cba
+; 子供の頃の記憶は大体失ってしまったけど、
+I lost most of my childhood memories.
+
+# 30bb2964
+; この言葉だけは、ずっと覚えていた。
+I've always remembered these words.
+
+# 7664712b
+; 何故、その言葉がそんなに特別だったのか。
+Why were those words so special?
+
+# 4febe201
+; 未だにわからない。
+I still don't know.
+
+# b8677e7d
+; それから段々と、失った記憶が、頭に流れて来る。
+Gradually, the memory of the loss comes to my mind.
+
+# 574d79a
+; これは、大学の時の記憶。
+This is my memory from college.
+
+# dc1008fc
+; あの頃、俺は一人暮らしの部屋に引きこもって、ネトゲばかりしてた。
+At that time, me was confined to a room where she lived alone, and was always netting.
+
+# 9fbcd636
+; 何の悩みのなく、ぬるま湯に浸かったような生活。
+Life is like soaking in lukewarm water without any worries.
+
+# f6168fc7
+; 今思えばあれも懐かしい記憶だ。
+Now that I think about it, that is also a nostalgic memory.
+
+# 2ed077f8
+; ……あれから、随分と時間が経ったな。
+…… It's been a long time since then.
+
+# 4f4dbe79
+; 色々あった。
+A lot of things happened.
+
+# a9fa40a8
+; 感染症の世界的大流行で、お爺さんが死んでから、
+After the death of my grandfather during the pandemic of infectious diseases,
+
+# a29e1c0a
+; 俺は会社に入って、頑張って働こうとしたけど、
+I tried to work hard after joining the company.
+
+# 226c73a4
+; 社会生活に馴染めなくて、人間関係も上手くいなかくて、
+I'm not familiar with social life, and I'm not good at relationships.
+
+# 3a22c98b
+; ３３歳になった今の俺は、仕事から逃げて、何もかも投げ捨て、
+Now 33 years old, me ran away from work and threw everything away.
+
+# 32dd3656
+; このアイスランド行の飛行機に乗ったんだよな。
+I got on this flight to Iceland.
+
+# cf1a5806
+; ……それから……
+…… And then ……
+
+# 30a5cece
+; yule: 「おお、{playerName}！人間に戻りましたね」
+yule: "Oh, {playerName}! You're back to being human."
+
+# 8ff417ec
+; me: 「あ、ああ……」
+me: "Oh, oh, ……,"
+
+# a98ca95a
+; yule: 「くすくす。で、どうですか？[i][char yule.r-kusu]ユールちゃんとの事、思い出しました？」
+yule: "What do you think, giggle?"[i][char yule.r-kusu]Yule Did you remember that?"
+
+# 6d983d37
+; me: 「まあ……とりあえず……そうだけど」
+me: "Well, …… …… for now,"
+
+# c4f1cdc5
+; yule: 「あれ？なんだかすっきりしない感じですね。どうしたんですか？」
+yule: "Huh? I don't feel comfortable.What's the matter?"
+
+# f6ac574e
+; 俺は、ここで頭の中に入って来た情報を、ユールちゃんに話そうとして。
+I tried to tell Yule the information that came into her head.
+
+# 72d7f784
+; me: 「うっ……」
+me: "Ugh ……,"
+
+# bc0d23d6
+; 恐ろしい場面が浮かんだ。
+A terrible scene came to mind.
+
+# 4eb1e22
+; me: 「きょ、巨人が！！」
+me: "To-day, the Giant!"
+
+# 870c8197
+; yule: 「あ……あれですね」
+yule: "Oh, …… That's it,"
+
+# 49ad53bb
+; me: 「あれは一体なんだったんだ？」
+me: "What on earth was that?"
+
+# db15188d
+; ユールちゃんは少しバツが悪そうな顔で、こういった。
+Yule said with a slightly embarrassed look,
+
+# ffe130c0
+; yule: 「あれ、うちのお母さんですよ」
+yule: "That's my mother,"
+
+# 32f1c805
+; me: 「お母さん？？」
+me: "Mom?"
+
+# 131ca17d
+;  <ruby="グリーラ"> Grýla</ruby>。
+<ruby=" gryla">Gr ýla</ruby>.
+
+# b70ec4b6
+; １３世紀の北欧神話、旧エッダに登場する巨大な人食い女だ。
+She is a huge cannibal who appears in the 13th century Norse myth, the Old Eddah.
+
+# d9a5974c
+;  <ruby="女性オーガ"> オーガレス</ruby>の彼女はトロールの男と関係を持ち、１３人の子供を生んだ。
+<ruby=" Woman auger">Augerless</ruby> had a relationship with Man of Troll and had 13 children.
+
+# 162f80c7
+; それがユールラッズ、ユールちゃんの姉妹たちだ。
+These are the sisters of Yulelads, Yule.
+
+# 4d23cb3b
+; つまりあの巨人は、ユールちゃんたちのお母さんだ。
+In other words, the giant is the mother of Yule.
+
+# f8b470e3
+; このトロールの一族は、知っての通り、ディムボルギルに住んでる。
+This family of Troll, as you know, lives in dimmuborgir.
+
+# 138ad97b
+; グリーラの夫は <ruby="レッパルジ"> Leppalúði</ruby>というトロール男。
+gryla's husband is TrollMan <ruby="Leppal úði</ruby>.
+
+# a9a31bf2
+; でも彼はユールちゃんたちの実の親ではない。
+But he is not the biological parent of Yule.
+
+# 9bf45c42
+; 彼は三度目のお父さんだ。
+He is the third father.
+
+# fbd1b7f2
+; 実のお父さんと、その次のお父さんは、お母さんに食い殺されてる。
+My biological father and my next father have been eaten to death by my mother.
+
+# cf3ccade
+; yule: 「しかしお母さんは、人間たちの世界には降りられないはずだったのですが……」
+yule: "But my mother should not have been able to descend into the human world ……."
+
+# 93ae7e5c
+; me: 「……人間たちの、世界？」
+me: "…… "The world of men?"
+
+# f1255b5a
+; 何故か、その言葉が気に触った。
+For some reason, I was offended by that remark.
+
+# 2b87e6b1
+; yule: 「いったいどうやってあそこに現れて、{playerName}を食ったのか、[i]ユールちゃんにも謎です。[i]その後はまた姿をくらましたし……」
+yule: "It is a mystery to [i] Yule how on earth they appeared there and ate {playerName}.[i]After that, he disappeared again ……"
+
+# 29c3f9fb
+; me: 「俺は……食われた？」
+me: "Did me eat ……?"
+
+# 5a98fe86
+; その言葉を聞いて、改めて思い出した。
+The words reminded me of it again.
+
+# 4c264654
+; そう。[i]
+That's right. [i]
+
+# 76d50df7
+; 俺はあの巨大な女に、丸呑みされた。
+I was swallowed up by the huge woman.
+
+# ffd783db
+; 信じられないけど、今でも鮮明に思い浮かぶ。
+I can't believe it, but it still comes to my mind.
+
+# 4781fdfd
+; この記憶は事実だ。
+This memory is true.
+
+# 79c1b47b
+; 俺は死んだはずだ。
+I must have died.
+
+# bfa89e39
+; なのに、何で、
+But why?
+
+# 9d3930cc
+; 俺はここで生きてるんだ……？
+Is me alive here ……?
+
+# 103c77a0
+; me: 「……なぁ、ユールちゃん」
+me: "Well, ……,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 4075d827
+; me: 「……俺は、死んだんじゃないのか？」
+me: "Isn't ……me dead?"
+
+# 2019d3ff
+; yule: 「……死にましたね。一度」
+yule: "…… You're dead. Once."
+
+# 3f0485e3
+; me: 「ここは……[i]天国とか、地獄とか……そういうところなのか？」
+me: "Is this ……[i] heaven, hell, ……?"
+
+# c8171ea4
+; yule: 「いいえ。ここは、トゥーレといいます」
+yule: "No, this is Thule."
+
+# f830baf2
+; me: 「……アイスランドでは、ないのだな」
+me: "Not in …… Iceland,"
+
+# 3766064f
+; yule: 「そうです。同じ位相に位置してるけど、異なる世界なのです」
+yule: "That's right. We're in the same phase, but we're in a different world."
+
+# 49a15378
+; me: 「教えてくれユールちゃん。[i]俺はどうやって生きていて、[i]何でここにいるのか……」
+me: "Tell me Yule.[i]How does me live? [i]Why are you here? ……"
+
+# b0462897
+; yule: 「……そうですね。[i]記憶も取り戻したし、そろそろ教えてあげましょう」
+yule: "…… Yes, sir.[i]I've got my memory back, and I'll tell you about it."

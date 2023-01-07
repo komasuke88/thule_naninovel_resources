@@ -1,0 +1,33 @@
+; Japanese <ja> to English <en> localization document for `borgarnes` naninovel script
+
+# a5ef8853
+;  <ruby="ボルガルネース"> Borgarnes</ruby>。
+<ruby="Volgarnes">Borgarnes</ruby>.
+
+# b8b25d3c
+;  <ruby="ボルガルフィヨルズル"> Borgarfjörður</ruby>海岸半島に位置した町で、ボルガルビグ地方で一番大きな町だ。
+ <ruby="Borgarfj ðr öur</ruby> Located on the coastal peninsula, it is the largest Village in the Borgarvig region.
+
+# a7a9fc
+; アイスランドで二番目に大きな橋である <ruby="ボルガルフィヤルザルブルー"> Borgarfjarðarbrú</ruby>が、この町とレイキャヴィクを繋げてくれる。
+Iceland's second-largest bridge, <ruby="Volgarfjarzalblue">Borgarfjar ðarbr ú</ruby>, connects the Village with the Reykjavik.
+
+# d2f0b23f
+; この町はアイスランドの主要な交差点であり、スナイフェルス半島国立公園への関門だ。
+The Village is Iceland's main intersection and a gateway to the Sneifels Peninsula National Park.
+
+# c98630e3
+; me: 「あ、そういえば」
+me: "Come to think of it,"
+
+# dddabe55
+; 車の燃料残量が気になるな。
+Don't worry about the amount of fuel left in your car.
+
+# 1ab2dba1
+; ここから先はアイスランド最西端、スナイフェルスネス半島に続くから、今のうちに給油しておこう。
+From here to the westernmost part of Iceland, the Snaefellsnes Peninsula, so let's refuel before long.
+
+# 9678bdab
+; me: 「さて、ガソリンスタンドの位置は……」
+me: "Now, the gas station is located in ……."

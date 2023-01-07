@@ -1,0 +1,473 @@
+; Japanese <ja> to English <en> localization document for `6_02_1_londrangar` naninovel script
+
+# b71f6573
+; そり立つ断崖絶壁で、断ち切られた陸地の端。
+the edge of land cut off by a steep cliff.
+
+# a13f952
+; 冷たい潮風が顔を叩いて、息苦しい。
+The cold sea breeze hit my face and I can't breathe.
+
+# ee973658
+; 荒い波が海岸を叩いて、うるさい。
+Rough waves hit the coast and it's noisy.
+
+# 8ba62b2e
+; この厳しい一帯の、また最果ての、あの黒い影が……
+…… that dark shadow of this harsh region, and the last of it,
+
+# 28c111a9
+; yule: 「見つけましたね」
+yule: "You've found it,"
+
+# ee2848d7
+; me: 「ああ、俺にも見えるよ、ご先祖様」
+me: "Oh, it looks like me, my ancestors,"
+
+# a26e9d17
+; ソルスモルクから車に戻った俺たちは、
+I returned to the car from Thorsmork.
+
+# 39a06bf9
+; そのまま妖精の道を通過して、直にトゥーレの西の果てまで来た。
+and passed the fairies' path, and soon came to the western end of Thule.
+
+# c4ae261b
+; そこですぐに、ご先祖様を見つけられた。
+So I was able to find my ancestors right away.
+
+# 6ba2b052
+; ２つの巨大な岩、 <ruby="Lóndrangar"> ロゥンドランガル</ruby>。
+Two huge rocks, <ruby="L óndrangar"> Londrangar</ruby>.
+
+# 36487ce5
+; 太陽の光を浴びて石化した二人のトロールだ。
+They are two Troll petrified in the sun.
+
+# 6a3c8795
+; アイスランドの民話によると、
+According to Icelandic folklore,
+
+# a3959c44
+; 背の高い方は男性のトロール、低い方は女性のトロールで、
+The taller one was Troll of Man, and the lower one was Troll of Woman;
+
+# 7f127a25
+; そのトロール達は、元は人間だった説もあると言う。
+The Trolls say there is a theory that they were originally human.
+
+# 24ae84a
+; yule: 「二人は、老夫婦だったのです」
+yule: "They were an old couple,"
+
+# d8cbb569
+; me: 「夫婦が一緒に、石化されたのか」
+me: "Was the couple petrified together?"
+
+# 20debef9
+; yule: 「はい。二人は、自ら太陽の下に出ました。[i]眠るような感覚で、一緒に逝きたかったと」
+yule: "Yes, they went out into the sun themselves.[i]I wanted to go with you as if I were sleeping."
+
+# 1044856b
+; me: 「そ、それって心中じゃねか」
+me: "Well, that's your heart,"
+
+# 4ffc3829
+; yule: 「フルドゥフォルクの生活はですね」
+yule: "The life of Huldufolk,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# e10ab46c
+; yule: 「夏には寝て、冬には食べて、あとは暇を弄ぶだけです。[i]ユールちゃんみたいな小さなトロールは、まだ人間世界で遊ぶ事もできますが」
+yule: "All I have to do is sleep in summer, eat in winter, and play with my leisure.[i]A little Troll like Yule can still play in the human world."
+
+# 61c644d8
+; me: 「あ、ああ」
+me: "Oh, my God,"
+
+# b146ecb6
+; yule: 「何千年生きてるトーロルはですね。そのデカさ故に旅も難しく、[i]何よりも、人生の全てが、面倒くさくなるんだって」
+yule: "Toroll, who has lived for thousands of years,It's so big that it's hard to travel. [i] Above all, everything in life becomes troublesome."
+
+# 1659c427
+; me: 「めんどくさい？……まさか、生きるのも面倒くさくなってたり？」
+me: "Are you tired? …… Are you getting tired of living?"
+
+# a6add9f0
+; yule: 「そうみたいです」
+yule: "I think so,"
+
+# b2a3b2ef
+; me: 「なんという怠けさ。だからって自殺はね……」
+me: "What laziness!But suicide is ……"
+
+# 309422ed
+; yule: 「自殺ではありませんよ。[i]石化は、普通の死とは違うといいます。[i]肉体は消えても、魂は消滅してません。[i]消滅寸前に、永遠になるのです」
+yule: "It's not suicide.[i]It is said that petrification is different from normal death.[i]The body disappeared, but the soul did not.[i]It's almost gone, and it's forever."
+
+# aba079bb
+; me: 「それは、まるで冷凍保存だな」
+me: "It's like freezing,"
+
+# 4c69d4a5
+; yule: 「くすくす、そうですね」
+yule: "Yes, giggle,"
+
+# e41c32d6
+; me: 「死んでるように見えても、死んでないか」
+me: "You look dead, but you're not."
+
+# cc3a1a2b
+; yule: 「はい。石化したトロールは動けませんが、[i]代わりに色んな情報が頭に入るんだそうです。自動的に」
+yule: "Yes, petrified Troll can't move, but [i]Instead, he gets a lot of information.automatically."
+
+# a3107c66
+; me: 「それは、便利だな。だから俺たちに色々と教えられる事ができるのか」
+me: "That's convenient.That's why I can teach me a lot."
+
+# c6d2d29d
+; yule: 「はい。じっと座って、ずっとテレビを見るような感覚だって」
+yule: "Yes, it's like sitting still and watching TV all the time."
+
+# 4aaa10bc
+; me: 「怠けてるな」
+me: "You're lazy,"
+
+# ad3d109b
+; yule: 「そうですね」
+yule: "Yes,"
+
+# e5f1000f
+; me: 「長く生き続き過ぎると、そんな考えもするもんかな……俺には理解はできないな」
+me: "I don't think ……me would think that if he lived too long."
+
+# 31571ebd
+; yule: 「ま、実はユールちゃんにも理解できません。[i]ユールちゃんは、体を動かした方が楽しいですから」
+yule: "Well, actually Yule doesn't understand either.[i]Yule It's more fun to move your body."
+
+# db9240c
+; そして俺たちはご先祖様の前まで近づいた。
+and the me approached their ancestors.
+
+# a4e2f4d
+; 近づいて見ると、結構大きい。
+If you look closer, it's pretty big.
+
+# ad637ecc
+; 大きな建物の前に立ってる気分だ。
+I feel like I'm standing in front of a big building.
+
+# 88a0e01a
+; yule: 「ここで少し待ってくださいね。話してきます」
+yule: "Wait here for a moment, please.I'll tell you."
+
+# 61c644d8
+; me: 「あ、ああ」
+me: "Oh, my God,"
+
+# 449c0b81
+; yule: 「グレリヨ―ル。ご先祖様。今日も微笑ましいですね」
+yule: "Grelior, my ancestors.You're smiling again today."
+
+# e3947097
+; troll3: 「<s>　　　　　　　　</s>！」
+troll3: "<s></s>!"
+
+# 9af749a4
+; troll4: 「<s>　　　　　　　　　　　　</s>！」
+troll4: "<s></s>!"
+
+# f0d37316
+; yule: 「え？スヴォルスレイキルですよ。もうご先祖様ったら、ボケちゃって」
+yule: "What? Thvorusleikir.If you're an ancestor, you'll be out of your mind."
+
+# 29f196ed
+; troll3: 「——」
+troll3: "——"
+
+# 5776ad7a
+; yule: 「へ？そうですか！？ヒルドルめ、いったい何を企んでるのやら」
+yule: "Huh? Is that so!?"Hildur I don't know what you're up to."
+
+# 90ea1333
+; troll3: 「<s>　　　　　　　　　　</s>」
+troll3: "<s></s>"
+
+# 166cf388
+; yule: 「えっ？海の民も？……最近、このトゥーレにいったい何が起こってるのでしょうね」
+yule: "What? The people of the sea, too? …… I wonder what's going on with this Thule these days."
+
+# fed0d423
+; troll4: 「<s>　　　　　　　　</s>」
+troll4: "<s></s>"
+
+# f6666b0a
+; yule: 「あ、そうです。今日は……はい、エルフです。なるほど、ヴァトナヨークトルですか」
+yule: "Oh, yes.Today is …… Yes, Elf.I see, Vatnajokull?"
+
+# ff52553a
+; troll3: 「<s>　　　　　　　　　　　　</s>」
+troll3: "<s></s>"
+
+# 51d8844b
+; yule: 「はい。あたしがやってる事はそれとは関係なく……えっ！？、ち、違いますって！」
+yule: "Yes. What I'm doing has nothing to do with it …… Huh!? No, no!"
+
+# b2ceb245
+; troll3: 「<s>　　　　　　</s>」
+troll3: "<s></s>"
+
+# 81bd1e9d
+; yule: 「や、やだ。そ、そんなんじゃ……[i][char yule.l-nayami-w]いや、でも、それもありかも。くすくす」
+yule: "No, I don't want to. That's not the case ……[i][char yule.l-nayami-w] No, but maybe that's the case. giggle."
+
+# 162df7fc
+; troll4: 「<s>　　　　　　</s>」
+troll4: "<s></s>"
+
+# 845f72bf
+; yule: 「えっ……それは本当ですか！
+yule: "Oh …… Is that true?"
+
+# 984ce4dc
+; やぁだー{playerName}ってば初ですね」
+Hey, {playerName} is the first time I've ever heard of it."
+
+# ff52553a
+; troll3: 「<s>　　　　　　　　　　　　</s>」
+troll3: "<s></s>"
+
+# 41e632e9
+; yule: 「はい。あたしが手取り足取り教えてあげなきゃ」
+yule: "Yes, I must show you how to do it."
+
+# 7ee4f215
+; troll4: 「<s>　　　　　　　　　　</s>」
+troll4: "<s></s>"
+
+# 426da4ab
+; yule: 「いやいや、エッチなんてそんな……でもそれいいかも」
+yule: "No, no, I don't think it's a good idea to have …… like that,"
+
+# b2ceb245
+; troll3: 「<s>　　　　　　</s>」
+troll3: "<s></s>"
+
+# 41fb0ba
+; yule: 「くすくす、なるほど。役に立つアドバイスの数々、ありがとうございます」
+yule: " giggle, I see. Thank you for all the useful advice."
+
+# ed4de607
+; troll4: 「<s>　　　　</s>~~~！」
+troll4: "<s></s>~~!"
+
+# 57bbefba
+; troll3: 「——~！」
+troll3: "——~！"
+
+# 76a801c2
+; yule: 「はい！では、お二人とも、どうかお安らかに」
+yule: "Yes! I hope you both rest in peace."
+
+# 5d3b7d3c
+; ユールちゃんが戻ってきた。
+Yule is back.
+
+# 16433126
+; yule: 「ねね。{playerName}って……」
+yule: "Well, {playerName} means ……."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 63adbc6d
+; yule: 「童貞なんだって！？」
+yule: "You're a virgin!"
+
+# 925e55d6
+; me: 「なっ！？どうしてそれを？？」
+me: "What!? Why did you do that?"
+
+# 3ea02921
+; yule: 「ご先祖様が霊力で見きったと」
+yule: "Your ancestors saw it with their spiritual powers."
+
+# 9f884aac
+; me: 「あ、あいつら余計な事を……！」
+me: "Oh, they ……!"
+
+# a49de849
+; yule: 「あの時ユールちゃんが助けなかったら、童貞のまま死んじゃうところでしたね、くすくす」
+yule: "If Yule hadn't saved me then, I would have died as a child, giggle."
+
+# 43da3549
+; me: 「……くっ……それはたしかに。感謝してるけど……」
+me: "……Damn …… That's for sure.Thank you, but ……."
+
+# 4e80b8dc
+; yule: 「いやーでもトゥーレは危ないところですからね。今でもいつ死ぬかわからないっすよ。今のままではきっと、{playerName}はあの世で後悔するでしょうね」
+yule: "No, but Thule is a dangerous place.I still don't know when I'll die.I'm sure {playerName} will regret it in the afterlife."
+
+# acf38bf6
+; me: 「……それは、そうかも」
+me: "…… "That may be so,"
+
+# 8897deb6
+; yule: 「くすくす、死ぬ前に一回くらいはやりたいって、思ってるでしょう？」
+yule: "You want to do giggle at least once before you die, don't you?"
+
+# c6143964
+; me: 「そ、それは……ま、たしかに、ちょっとは、ね……」
+me: "Well, that's ……, indeed, a little ……,"
+
+# a5eb23fd
+; yule: 「せっかくだから、ユールちゃんが叶えてあげてもいいですよ？」
+yule: "Now that you're here, can I make Yule come true?"
+
+# ad652ab1
+; me: 「か、叶えるって……何を……」
+me: "Or what …… to make it come true?"
+
+# 6e24ac33
+; yule: 「やだなーもう。クスクスクスクス」
+yule: "I don't want to.gigglegiggle"
+
+# 5bed5875
+; ユールちゃんは意味ありげに少し近づいて、俺をじっと見つめた。
+Yule approached him a little meaningfully and stared at me.
+
+# f1339e88
+; me: 「……も、もしかして」
+me: "By any chance, ……,"
+
+# 4e27b2c8
+; @choice "まずは記憶探し" goto:.yaranai
+@choice "First, look for memories" goto:.yaranai
+
+# 703a101a
+; @choice "今すぐやりたい" goto:ed_6_02_1_lond_h
+@choice "I want to do it now" goto:ed_6_02_1_lond_h
+
+# aef7133c
+; yule: 「あら」
+yule: "Oh, my God,"
+
+# 1661d7de
+; me: 「そんな事したら、責任取らなきゃならないと思う。まずは記憶を探した後に、ちゃんと決めるよ」
+me: "If you do that, I think you have to take responsibility.I'll make up my mind after I look for my memory."
+
+# bfcaa7e1
+; yule: 「真面目ですね」
+yule: "You're serious,"
+
+# a23684ea
+; me: 「まぁ、こんな性格なんだ」
+me: "Well, this is my personality,"
+
+# d4e36ce
+; yule: 「別に一回くらいやっても、結婚しないといけないってルールはありませんけど」
+yule: "There's no rule that you have to get married even if you do it once."
+
+# f083924e
+; me: 「えっ？そう？？なら……」
+me: "What? Really? Then ……."
+
+# 4f80eeaa
+; yule: 「でももう遅いです。[i]{playerName}がそんなこと言ったから、記憶を取り戻すまで、やらせてあげませんよ」
+yule: "But it's too late.[i]{playerName} said that, and I won't let you do it until you get your memory back."
+
+# e6d25da0
+; me: 「くっ……」
+me: "Damn ……,"
+
+# 14130800
+; yule: 「まあ、でもどうしても我慢できなくなったら、{playerName}の本能にまかせてもいいのです」
+yule: "Well, but if you can't stand it, you can leave it to {playerName}'s instinct."
+
+# e7c12b8
+; me: 「そ、それって……」
+me: "Oh, that's ……,"
+
+# 690aca39
+; yule: 「童貞のまま死んじゃうなんて、悲しすぎて我を失うのもわかりますから。くすくす」
+yule: "I know you're too sad to die as a child, giggle."
+
+# e9a9004d
+; ……からかわれてる。
+…… He's teasing me.
+
+# f333f946
+; yule: 「しかし記憶がないのに、童貞ってのは覚えてますね」
+yule: "But I don't remember, but I remember being a child."
+
+# c6c215a
+; me: 「ああ、なぜか童貞ってのはステータスとして思い出したんだ」
+me: "Oh, for some reason, I remembered the status of a child."
+
+# 49c07fc9
+; yule: 「ステータスだって！くすくすくす」
+yule: "Status! giggleick"."
+
+# 2562cfa5
+; me: 「くっ……こんな事、思い出さなきゃよかった」
+me: "Damn …… I wish I hadn't remembered this."
+
+# 6ba4e5ca
+; yule: 「いえいえ。いい情報でしたよ。[i][char yule.r-kusu]これからはユールちゃんが、女について色々と教えますね。童貞に」
+yule: "No, no, it was good information.[i][char yule.r-kusu] From now on, Yule will teach you a lot about women."To my virginity."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 6952b893
+; こいつ、上から目線になりやがって。
+He looked at me from above.
+
+# ab97036
+; me: 「……で、俺の記憶の行方は、どうなったんだ？」
+me: "And what happened to me's memory?"
+
+# bb42a82e
+; 話題を戻す。
+return to the subject.
+
+# f6860789
+; yule: 「ああ、それはわかりました。今度もエルフが持って行ったようです」
+yule: "Oh, I see.It seems that Elf took it again this time."
+
+# 62133e5c
+; me: 「またエルフの隠れ家を襲撃するのか。……それで、位置は？」
+me: "Are you going to attack Elf's hideout again?…… And where?"
+
+# b09233f8
+; yule: 「ヴァトナヨークトルです。アイスランドの屋根みたいなところですね」
+yule: "It's Vatnajokull.It's like the roof of Iceland."
+
+# 5704240c
+; ヴァトナヨークトルとは、聞いた事がある地名だった。
+Vatnajokull was the name of the place I had heard of.
+
+# 67500e38
+; me: 「そこは氷河じゃなかったか？車で行けないんじゃ……」
+me: "Wasn't it a glacier?You can't go by car ……."
+
+# 81d0a2a4
+; yule: 「はい。ここからまた遠いし、少し山を登る必要がありますが……」
+yule: "Yes, it's a long way from here, and I need to climb a mountain a little bit, ……."
+
+# 32cbfaf2
+; そういったユールちゃんは少し悩んだ後に、
+After thinking about it a little bit, Yule,
+
+# 99f295fb
+; yule: 「また【妖精の道】を利用するしかなさそうです。まずは車に戻りますか」
+yule: "I think I have no choice but to take advantage of 】 Fairy Road again.Are you going back to the car first?"
+
+# d3ba98f4
+; me: 「ああ、うん」
+me: "Oh, yes,"

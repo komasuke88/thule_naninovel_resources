@@ -1,0 +1,189 @@
+; Japanese <ja> to English <en> localization document for `2_04_3_sara` naninovel script
+
+# a868175e
+; カシャッと、どこかで写真を撮る音がした。
+I heard the sound of taking pictures somewhere.
+
+# 86ba0e90
+; 振り向いてみると、遠くに小さく人影が見えた。
+I turned and saw a small figure in the distance.
+
+# f377bf4f
+; カメラの三脚をセッティングしてるみたいだった。
+It was like setting up a tripod for the camera.
+
+# 5b5b383f
+; 暗さで見えなかったけど、そこにいたんだな。
+I couldn't see it because of the darkness, but it was there.
+
+# 7b3a9f0b
+; 俺はその人に近づいて、声をかけた。
+I approached him and spoke to him.
+
+# e8c32811
+; me: 「あの……？」
+me: "Is that ……?"
+
+# 39e3c5ba
+; unknown: 「きゃっ！？」
+unknown: "What!"
+
+# 319b60f9
+; びっくりした女性の声……女の人だったのか。
+Surprised Woman's voice …… woman?
+
+# 5f9df6ad
+; 俺が近づくのに気づいてなかったのか。
+Didn't you notice me approaching?
+
+# 1802283
+; よっぽど集中してたのかな。
+I guess I was concentrating a lot.
+
+# f5ac4602
+; me: 「す、すみません。エーリック教授の紹介でここに来たのですが」
+me: "Yes, I'm sorry.I came here to introduce Professor Eric."
+
+# 89bc44e1
+; unknown: 「ファッキング驚いたわー！[i][char sara.e]そう、あのヴァイキングが……[i][char sara.w]ってことはアンタ、ヒルドルハットの泊り客だね」
+unknown: "F○cking! [i] [char sara.e] Yes, that Viking is …… [i] [char sara.w] That means Anta, Hildur Hut is a guest."
+
+# e2e1718e
+; me: 「はい。俺はルームメイトの……[i]うん……？」
+me: "Yes, me is …… of Room mate. [i] Yes, ……?"
+
+# aba2551a
+; 姿がはっきりと見えるようになって、違和感を覚えた。
+I felt uncomfortable when I could see myself clearly.
+
+# 1bfd7bad
+; ガサツな話し方とは裏腹に、可愛く整えた顔。
+Contrary to his rough way of speaking, his face looks cute.
+
+# 9515209d
+; そして……小さい体。
+And …… a small body.
+
+# 88f3a371
+; me: 「……子供？」
+me: "Children ……?"
+
+# c4cc9489
+; unknown: 「だぁれが子供だわい！！」
+unknown: "`Who's the child!'"
+
+# 5a1583c1
+; me: 「……す、すみません！」
+me: "Sorry, ……!"
+
+# d630db3b
+; 外国人の女性の割には背が低くて、つい子供だと思った。
+I thought he was a child because he was short for a foreigner's Woman.
+
+# b79ab9a8
+; sara: 「…………まぁ。よく言われるけどよ。[i][char sara.e]こう見えても３０歳なんだ。[i][char sara.close_sad2]実はおばさんってわけよ」
+sara: " ………… Well, it's often said.[i][char sara.e] He looks like this, but he's 30 years old.[i][char sara.close_sad2] Actually, she's an aunt."
+
+# 3bb4d44a
+; me: 「……失礼しました」
+me: "Excuse me ……,"
+
+# 2d9fbbe6
+; sara: 「……やだな、年取るの。[i]子供も嫌だけど、おばさんも嫌だな……」
+sara: "I don't like ……, I'm getting old.[i]I don't like children, but I don't like aunts either ……"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 67f26774
+; 何かぶつぶつ独り言を言ったけど、反応に困るので黙っていた。
+I muttered something to myself, but I didn't know how to react, so I kept silent.
+
+# 7e0117d5
+; sara: 「まぁいい。[i][char sara.w]それで、ルームメイトの、誰だって？」
+sara: "I don't mind. [i] [char sara.w] So who's Room mate?"
+
+# ac69dbfb
+; 女の子はため息をついて、そう言った。
+Girl sighed and said,
+
+# 65615b69
+; ……見た目は中学生くらいだけど、思ったよりは歳があるな。
+…… He looks like a middle school student, but he's older than I thought.
+
+# 351b3141
+; といっても、俺よりは年下だけどな。
+But he's younger than me.
+
+# 898c0379
+; 気を取り直して、挨拶をする。
+Get back together and say hello.
+
+# 76ef6c97
+; me: 「{playerName}って言います。同じ部屋だし、しばらくの間、よろしくお願いします」
+me: "It's called {playerName}.We are in the same room, and I look forward to seeing you for a while."
+
+# 9369a772
+; sara: 「{playerName}？変わった名前だね」
+sara: " {playerName}? That's a strange name."
+
+# 5a0a4447
+; そう言いながら、俺の顔をまじまじと見つめた。
+As he spoke, he stared intently at me's.
+
+# 24aa2384
+; sara: 「いや、よく見たら、いかにも{playerName}って顔だ！」
+sara: "No, if you look closely, you'll see {playerName}!"
+
+# 9e912c29
+; me: 「我ながらいい名前だと思います」
+me: "I think it's a good name."
+
+# e769e631
+; sara: 「ボクはサラっていうんだ。ニューヨークから来た。よろしくな、{playerName}」
+sara: "My name is Sara.I'm from New York. Nice to meet you, {playerName}."
+
+# a3e91bd4
+; アメリカ人か。
+Are you American?
+
+# 41c9810c
+; だからこんな気さくなのかな。
+I wonder if that's why he's so open-minded.
+
+# bbe06e04
+; me: 「あ、ああ。よろしく」
+me: "Oh, yes. Nice to meet you."
+
+# 648118c7
+; 英語は敬語とかないから、なんでも呼び捨て、タメ口になる。
+English doesn't have honorifics, so they call everything away and speak informally.
+
+# dcfdffb4
+; こういうの、フラットでいい。
+It's flat.
+
+# 3aba0702
+; sara: 「で、ボクはカメラをセッティングしてたところでな。作業に戻るよ」
+sara: "And I was setting up my camera.I'll go back to work."
+
+# f8513ffc
+; me: 「うん。どうぞ。俺も撮ろうとしてたんだし」
+me: "Yes, sir.me I was going to film it, too."
+
+# fae5800
+; サラは元のところに戻って、自分の三脚の角度を調整しはじめた。
+Sara returned and began to adjust the angle of his tripod.
+
+# f560aa9d
+; me: 「うむ」
+me: "Yes,"
+
+# b2ee94ad
+; 俺もカメラを取り出して、夜空を撮るための調整をはじめた。
+I also took out the camera and began making adjustments to capture the night sky.
+
+# 104de2ca
+; …………
+…………

@@ -1,0 +1,245 @@
+; Japanese <ja> to English <en> localization document for `6_04_6_himekako` naninovel script
+
+# 3ae5fcea
+; me: 「ああああっ！」
+me: "`Oh, my God!'"
+
+# c2fff91b
+; 記憶が流れ込む。
+Memories flow in.
+
+# ebfebc66
+; しかし、違和感があった。
+However, I felt uncomfortable.
+
+# 2c68ca83
+; 前回とは違う感覚。何も変わってない感覚。
+It feels different from last time.It feels like nothing has changed.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 1d47b644
+; yule: 「どうですか？{playerName}の記憶、完全体になりましたか？」
+yule: "What do you think? Is {playerName}'s memory complete?"
+
+# 656b602
+; me: 「……ああ、しかし……」
+me: "Yes, but ……,"
+
+# 1dda93db
+; 確かに情報は頭に入ってきた。
+The information certainly came into my head.
+
+# e2b02b4e
+; 自分の過去とは思えないものが。
+Something that doesn't seem like my past.
+
+# afa8b022
+; me: 「……他人の記憶が入り込んだり、そんな事もあるのか？」
+me: "…… Is there a chance that other people's memories get in?"
+
+# 51a99bf9
+; yule: 「他人の記憶？？」
+yule: "Memories of others?"
+
+# 329a3657
+; ユールちゃんは少し考えた後、逆に聞いてきた。
+Yule thought for a moment, and then asked him the other way round.
+
+# b4e80c40
+; yule: 「ここにあったの、{playerName}の記憶ではないと？」
+yule: "Here it is, {playerName}'s memory?"
+
+# 94682d16
+; me: 「ああ。そんな気がする」
+me: "Yeah, I think so."
+
+# 128a053a
+; 前回とは違って、今回はまるで映画を見てるような感覚だったな。
+Unlike last time, this time it felt like watching a movie.
+
+# ce457ef9
+; yule: 「変だな。{playerName}の記憶はここだと、ご先祖様が教えてくれたのに……」
+yule: "That's strange. My ancestors told me that {playerName}'s memory is here, but ……."
+
+# 4a3b5771
+; byu: 「そのご先祖様って、もしかしてロンドランガールの老夫婦？」
+byu: "Is the ancestor, by any chance, an old couple in London?"
+
+# 19492e3b
+; ビューちゃんが会話に割ってきた。
+Byu interrupted the conversation.
+
+# 6d8620ad
+; yule: 「はい。西の海で」
+yule: "Yes, in the West Sea."
+
+# 7878b61f
+; byu: 「ああ、やっぱり！」
+byu: "Oh, indeed!"
+
+# ae58ff94
+; yule: 「へ？」
+yule: "What?"
+
+# 29749d62
+; byu: 「あの二人、最近ボケがひどいんだよ！」
+byu: "They've been so dazed lately!"
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# 1bbee0c2
+; me: 「なっ？」
+me: "What?"
+
+# 423c6805
+; なんと、あの老夫婦はボケてるのだったのか。
+What a fool the old couple were!
+
+# b6e9bc96
+; byu: 「間違った情報を教えたんだよ。ボクも最近やられた！」
+byu: "I gave you the wrong information.I've been beaten recently"
+
+# df0bd756
+; yule: 「そ、そんな……」
+yule: "Oh, that ……,"
+
+# 6cb2473f
+; me: 「大丈夫なのか俺？他人の記憶が流れこんだのが確実みたいだが」
+me: "Are you all right, me?"It seems certain that other people's memories flowed in."
+
+# 6bb7b471
+; yule: 「有り得なくはないですね。[i]でも大丈夫です。他人の記憶は、知識として知るだけですから」
+yule: "It's not impossible.[i]But it's okay.We only know other people's memories through knowledge."
+
+# 4b4ee9fc
+; me: 「そ、それはよかった」
+me: "Well, that's good,"
+
+# 7850a71
+; yule: 「はい。でも、それって誰の記憶でしょう……」
+yule: "Yes, but whose memory is that ……?"
+
+# f81cc35a
+; me: 「それが、もっと変な話だけどね」
+me: "That's a lot more strange,"
+
+# e8ab4e1c
+; 俺は頭の中に入ってきた記憶の情報を、みんなに話した。
+I told everyone about the memory that had come into his head.
+
+# 178a63b2
+; 長い話だった。
+It was a long story.
+
+# 9e49238f
+; 「あと十数年で、地球は人間が住めない星になる」
+"In more than a decade, the earth will become an uninhabitable star."
+
+# 110a4bcc
+; 「いやあなた、そんな否定的な事言わないで」
+"No, honey, don't say such a negative thing."
+
+# 2b8dafb
+; 「本当だって。異常気象は毎年ひどくなってるし」
+"Really. The weather is getting worse every year."
+
+# fdfc8f18
+; 「だとしても、わたしたちがどうにかできる問題でもないし」
+"But it's not a problem we can manage,"
+
+# 5808e4b8
+; 「だからもっと未来に備えて生きていかなきゃ」
+"So I have to live more for the future."
+
+# 7b835bd8
+; 「それよりは、もっと今を楽しんだほうがいいんじゃない？」
+"Wouldn't it be better to enjoy the present more than that?"
+
+# f74a4c94
+; お父さんとお母さんは、よくこんな話をするようになった。
+My mom and dad often started talking about this.
+
+# fff39d51
+; 環境問題とか、地球の終わりとか。
+Environmental problems and the end of the earth.
+
+# 9808dde3
+; お母さんはポジティブな性格でそんな事全然気にしなかったけど、
+My mom had a positive personality and didn't care about it at all.
+
+# a0c46ef
+; お父さんはいつも心配性だった。
+My father was always worried.
+
+# a93a4f97
+; それから一年後、お父さんの転職のお知らせがあった。
+A year later, there was an announcement about his father's change of job.
+
+# da89d7a7
+; [br]「ソコプテラ・カンパニー？」
+[br] "Socoptera Company?"
+
+# 9a81469
+; 「お金をたくさんもらえて、地球の終わりを備える仕事をする会社だよ」
+"It's a company that gets a lot of money and prepares for the end of the world."
+
+# cf5ab598
+; 「へー？どんな仕事？」
+"Huh? What kind of work?"
+
+# 28c64b2d
+; 「宇宙開発だって」
+"It's space development.
+
+# fd808a15
+; 「かっこいいな」
+"You're handsome".
+
+# b6514767
+; 「それで、お父さん……アメリカに行くことになったよ」
+"So, Dad …… I'm going to America."
+
+# 453bf38d
+; 「へ？転職先って、アメリカなの？」
+"Huh? Are you changing jobs in America?"
+
+# d817f00e
+; 「そうさ」
+"Yes,"
+
+# a34acd02
+; 「いいなー！家族みんなで引っ越すの？」
+"Good! Are you moving with your whole family?"
+
+# 64fa1e05
+; 「いや、お前は高校を卒業しないといけないからね」
+"No, you have to graduate from high school."
+
+# bd43cf3
+; 「卒業した後、みんなでアメリカに住もうね、姫化」
+"Let's all live in America after graduation, princess."
+
+# c57879e7
+; それはとある家族の会話だった。
+It was a conversation between a family conversation.
+
+# 311836f6
+; お父さんと、お母さんと、そして多分娘の名前。
+The names of father, mother, and probably daughter.
+
+# 4a4ca701
+; そう、たしかにきいた。
+Yes, I did.
+
+# 44f35351
+;  <ruby="ひめか"> 姫化だと</ruby>。
+<ruby="Himeka">Himeka</ruby>.
+
+# 9dfefaa7
+; それから……
+Then ……

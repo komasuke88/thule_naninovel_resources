@@ -1,0 +1,37 @@
+; Japanese <ja> to English <en> localization document for `olafsdalur` naninovel script
+
+# af0970ae
+; me: 「あんなところに建物が……」
+me: "There's a building ……,"
+
+# 637af3d6
+;  <ruby="ギルスフィヨルド"> Gilsfjordur</ruby>の美しい山々に囲まれた小さな谷。
+ A small valley surrounded by beautiful mountains of <ruby="Gilsfjordur">Gilsfjordur</ruby>.
+
+# e97f38df
+; 捨てられた農場、 <ruby="オラフスダルドル"> Ólafsdalur</ruby>。
+An abandoned farm, <ruby="Olafsdalur"> Ólafsdalur</ruby>.
+
+# 61d7d646
+; １８８０年、ここではアイスランドの最初の農業学校が設立された。
+In 1880, Iceland's first agricultural school was established here.
+
+# d6d1615d
+; この建物の近くには９〜１０世紀のヴァイキングの遺跡もある。
+There are also ruins of Viking from the 9th to 10th centuries near the building.
+
+# 32f580ff
+; me: 「入場料、６００ISK」
+me: "Entrance fee: 600 ISK"
+
+# 83f589ae
+; 今では学校の他にも様々な用途で使われてる建物だ。
+In addition to schools, the building is now used for a variety of purposes.
+
+# a98e73e7
+; 中では学校についての展示の他にも、カフェ、レストランがあって、野菜販売までしてる。
+In addition to exhibitions about schools, there are cafes and restaurants that sell vegetables.
+
+# fffeb75f
+; me: 「長い旅の途中、小さな癒やしであった」
+me: "It was a little healing during the long journey."

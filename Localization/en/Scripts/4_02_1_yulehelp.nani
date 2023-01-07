@@ -1,0 +1,273 @@
+; Japanese <ja> to English <en> localization document for `4_02_1_yulehelp` naninovel script
+
+# c761b189
+; 「{playerName}！……{playerName}！」
+" {playerName}! ……{playerName}!"
+
+# f01dc699
+; [br]……
+[br]……
+
+# 901f5cb5
+; [br]「よ、よかった！間に合いました。[i]ちゃんと息がついてる」
+[br] "Well, that's a relief!I made it in time.[i]He's breathing well."
+
+# f01dc699
+; [br]……
+[br]……
+
+# a2a426b0
+; 「あのエルフめ、ユールちゃんが乗ってる車に、正気じゃないですね」
+"You Elf, you're insane with the car in which Yule is riding."
+
+# f01dc699
+; [br]……
+[br]……
+
+# 8d504be0
+; [br]「最近、南のエルフたちが可怪しいって、本当だったんだ。[i]いったい何が……」
+[br] "It was true that the southern Elfs are suspicious these days.[i]What on earth ……?"
+
+# f01dc699
+; [br]……
+[br]……
+
+# 19c0d44
+; [br]「……いやいや、それを調べるのは後です。[i]とにかく今は{playerName}の事を……」
+[br] " …… No, no, I'll look into it later.[i]Anyway, now I'm …… about {playerName}."
+
+# a476c6e5
+; 「ユールちゃんの魔法で、命だけは助かったのですが……」
+"The magic of Yule saved my life, ……."
+
+# f01dc699
+; [br]……
+[br]……
+
+# 27bf688
+; [br]「呪いが消えません。放っておくといつまでも目が覚めないでしょう」
+[br] "The curse won't go away.If you leave it alone, you won't wake up forever."
+
+# f01dc699
+; [br]……
+[br]……
+
+# 782661a7
+; [br]「……でもユールちゃん、もうそんな魔力は残ってないし」
+[br] "But Yule doesn't have that Magical Power left."
+
+# a4bf2af1
+; 「……仕方ないですね。これを{playerName}に捧げましょう……」
+…… It can't be helped.I will dedicate this to {playerName}."
+
+# f01dc699
+; [br]……
+[br]……
+
+# 175791d4
+; [br]「ユールちゃんの大事なお守りです。[i]この魔力ならきっと……」
+[br] "It's an important charm for Yule.[i]I'm sure this Magical Power will ……
+
+# f01dc699
+; [br]……
+[br]……
+
+# c16c5bf7
+; [br]「これがないと色々と不都合はありますが、仕方ないです。今はこれしか……」
+[br] "Without this, there are many inconveniences, but it can't be helped.This is the only …… for now."
+
+# 2a16b7ff
+; 「{playerName}、どうか…………」
+"Please {playerName},"
+
+# 7e145781
+; ………………
+………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# c041b322
+; これは、あの時の記憶だな。
+This is the memory of that time.
+
+# c06ccf17
+; エルフに出くわして死にそうになったあの時、その後の出来事。
+What happened after that time when I almost died when I came across Elf.
+
+# f31eb002
+; この記憶が途切れて、気がつけば俺はレイキャヴィクにいたんだ。
+This memory was interrupted, and I realized that me was in Reykjavik.
+
+# 821ff3d5
+; その空白を今、思い出した。
+I just remembered that blank space.
+
+# 83f74c3c
+; 車が空から落ちた時から、どれくらい時間が経ったのか。
+How long has it been since the car fell from the sky?
+
+# 65d27005
+; 失ったはずの意識が、少しだけ戻った。
+The consciousness that I had lost came back a little.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 7e5e7f8b
+; 目を開けると、
+When I opened my eyes,
+
+# 7a035b52
+; オーロラが輝く綺麗な夜空と、
+The beautiful night sky with Northern Light shining,
+
+# a8ecb516
+; 少し泣きそうな顔をした、女の子の姿が見えた。
+I saw Girl with a slightly tearful face.
+
+# 7ce3e1ba
+; yule: 「ああ！[i][char yule.help_sad_a_w]よかった！目を覚ましたんですね。ユールちゃんのお守り、効果あったみたいです」
+yule: "Oh! [i] [char yule.help_sad_a_w] Good job!You woke up.The charm of Yule seems to have worked."
+
+# a398e5ca
+; 女の子が話しかけてきた。
+Girl spoke to me.
+
+# 8366912f
+; でもその言葉に何も言い返す事ができなかった。
+But I couldn't say anything back.
+
+# 2fc85cc1
+; 体に力が入らない。
+I have no strength in my body is weak.
+
+# c58a92fd
+; yule: 「まだ回復中で、今は元の状態とは程遠いでしょうけど」
+yule: "I'm still recovering, and now I'm far from what I was."
+
+# e9162d0f
+; yule: 「夜が明けたら、何もかも元通りになりますので、ご安心を」
+yule: "Don't worry, everything will be all right after dawn."
+
+# 8bf87425
+; 俺はただ、その子を見つめながら、その子の話だけをずっと聞いていた。
+I only looked at him and listened to his story.
+
+# ab2da784
+; yule: 「むしろ体は前よりも丈夫になりますね。[i]ただ頭はちょっとね。[i]そして一番の問題は、フルドゥフォルクに惹かれやすい体質になってしまった事かな」
+yule: "Rather, your body will be stronger than before.[i]But my head is a bit of a head.[i]And the biggest problem is that I've developed a tendency to be attracted to Huldufolk"
+
+# 1a09ace9
+; yule: 「トロールの魔力を直接当てられてるんだから、仕方がないです。[i]でも気をしっかりしていれば問題ない事ですし」
+yule: "I can't help it because you're directly guessing Magical Power from Troll.[i]But there's no problem as long as you keep your mind on your guard."
+
+# 4f69c4df
+; yule: 「ま、死ぬよりはマシでしょう！」
+yule: "Well, it's better than death!"
+
+# 6668c629
+; 女の子は少し寂しげな表情で、話しを続けた。
+Girl continued, with a rather lonely expression.
+
+# 62372763
+; yule: 「……でも、ユールちゃんの旅は、これにて終了ですね」
+yule: "But that's the end of Yule's journey."
+
+# 773bc081
+; yule: 「お守りがないとユールちゃん、太陽の下には出られませんから」
+yule: "If you don't have a charm, Yule, you can't go out into the sun."
+
+# bc85f817
+; yule: 「残念です。{playerName}はいい旦那候補でしたのに」
+yule: "That's too bad. {playerName} was a good husband candidate."
+
+# d91a575a
+; ……何を言ってるのかわからなかったけど、少し、悲しかった。
+…… I didn't understand what you were saying, but I was a little sad.
+
+# 7400ddbd
+; yule: 「……<ruby="ヤーヤ">　Jæja</ruby>、でもまた会える可能性もゼロじゃないんですね」
+yule: "…… <ruby=" Jaya"> Jæja</ruby>, but the possibility of seeing you again is not zero."
+
+# ebac087b
+; yule: 「ユールタイムには、魔力が満タンになりますから。[i]お守りがなくてもユールちゃん、人里に下りられるんです」
+yule: "At Yule time, Magical Power is full.[i]Even without a charm, Yule can go down to the village."
+
+# c305e274
+; yule: 「どこかで偶然、また会えるかも？」
+yule: "Maybe we'll meet again by chance somewhere?"
+
+# bf10e7f
+; yule: 「そしたら今度は、もっと強引に攻めてみたいですね。くすくす」
+yule: "Then I'd like to try harder next time, giggle."
+
+# b6ce7448
+; ……よくわからないけど、楽しそうだった。
+…… I'm not sure, but it looked fun.
+
+# 9942121a
+; yule: 「とりあえず街に戻って、{playerName}の旅を続けてくださいな」
+yule: "Go back to town and continue your journey of {playerName},"
+
+# 2d24003d
+; yule: 「{playerName}の相棒にも魔法をかけておいたから、{playerName}を無事にレイキャヴィクまで案内しますよ」
+yule: "I've cast a spell on {playerName}'s partner, and I'll lead her safely to Reykjavik."
+
+# 9a1359ee
+; yule: 「あと、呪いの邪気が消えるまでは、ユールちゃんのお守り、絶対に身体から外すんじゃありませんよ？」
+yule: "And until the curse Evil Force disappears, you must never remove the charm of Yule from your body?"
+
+# 804e77b9
+; yule: 「いや、できればユールちゃんにまた出会うまでは、ずっと外さないでいてくれる方が安全かな」
+yule: "No, if possible, it would be safer if you didn't take it off until I met Yule again."
+
+# fb56aadb
+; yule: 「{playerName}が生きる意志さえ失わなければ、どんな時にでも{playerName}の身を守ってくれるはずですから」
+yule: "If {playerName} doesn't lose his will to live, he will always protect him."
+
+# 3ef9f134
+; yule: 「……<ruby="ヤーヤ">　Jæja</ruby>、でも今の会話、覚えていてくれるのでしょうか、くすくす」
+yule: " …… <ruby=" Jæjaya"> Ja</ruby>, but will you remember the conversation now, giggle?"
+
+# b8994ada
+; そして突然と、
+And suddenly,
+
+# b09a5a94
+; yule: 「……あ」
+yule: " …… Ah,"
+
+# cb30de00
+; 女の子の体が、透明になった。
+Girl's body became transparent.
+
+# 84bb1e1b
+; yule: 「……早いですね。もうちょっと一緒にいたかったんですが。[i]安全装置が発動してます」
+yule: "…… That's fast.I wanted to be with you for a while.[i]The safety device is activated."
+
+# 4ffbbed7
+; だんだん透明になって、ふわっと宙を舞う。
+It gradually became transparent and fluttered through the air.
+
+# 12b3bd1
+; yule: 「お別れですね。[i]ユールちゃんはもう、戻ります」
+yule: "Good-bye, sir.[i]Yule is going back."
+
+# 280ff31
+; やがてその体はオーロラの夜空と一体になって……
+Eventually, the body became one with the night sky of Northern Light ……
+
+# ae04c9f3
+; yule: 「それでは、また会える事を祈りながらー」
+yule: "Well, I hope to see you again."
+
+# 50828171
+; <s>　　　　　　　　　　　　</s><ruby="グレリヨール">　Gleðileg jól</ruby>。[br]４日目のユールラッズ、スヴォルスレイキルからの祝福を、あなたに。
+<s>            </s><ruby=" Glediyol"> Gleðileg jól</ruby>. [br] Day 4 Yulelads, congratulations from Thvorusleikir.

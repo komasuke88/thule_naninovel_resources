@@ -1,0 +1,149 @@
+; Japanese <ja> to English <en> localization document for `budardalur` naninovel script
+
+# 21a10f19
+;  <ruby="ブーザルダールル"> Búðardalur</ruby>は西アイスランドの小さな海辺の町だ。
+<ruby="Bouzardalur">B úðardalur</ruby> is a small seaside Village in Western Iceland.
+
+# cde355f8
+; 町の名前の由来はブースデール。キャンプバレーという意味だ。
+The name Village comes from Boothdale, meaning Camp Valley.
+
+# a4a89076
+; 入植者がこの地域に来るときに一時的なキャンプをした場所で、そんな名前がついた。
+It was named after the place where settlers camped temporarily when they came to the area.
+
+# 193d8b77
+; この村はアイスランドの最初の入植の時からさかのぼる長い歴史を持ってる。
+The village has a long history dating back to Iceland's first settlement.
+
+# 2c183637
+; me: 「ここで、少し補給しようか」
+me: "Shall we replenish a little here?"
+
+# 1cdf70f6
+; 北アイスランドとレイキャヴィクの間。
+between North Iceland and Reykjavik.
+
+# 5f56c98b
+; そしてスナイフェルスネス半島とウエストフィジョルトを間に位置してる。
+and between the Snaefellsnes Peninsula and West Fijort.
+
+# 8df4a66e
+; 旅行者には何気に重要な補給処のような町だ。
+Village is like an important supply center for travelers.
+
+# 6d3ee154
+; me: 「よし」
+me: "All right,"
+
+# d6a7c852
+; 給油を完了して、食べ物もいくつか用意したところで、町から出た。
+After completing the refueling and preparing some food, Village came out.
+
+# 2b1d785
+; me: 「そういや……」
+me: "The by the way……,"
+
+# fe445de0
+; この近くには、自然温泉もあったよな。
+There is also a natural hot spring near here.
+
+# 4a01ce67
+; 少し寄ってみよう。
+Let's stop by.
+
+# 3e06f4ef
+; me: 「へぇー」
+me: "Yes,"
+
+# 92ba5416
+; 思ってたよりも小さいけど、それなりに趣があるな。
+It's smaller than I thought, but it has its own charm.
+
+# 9b6f582
+;  <ruby="グズルナルロイグ"> Guðrúnarlaug</ruby>
+<ruby="Guzurnalogue">Gu ðr únarlaug</ruby>
+
+# 5e548dea
+; グズルーンの温泉という意味の温泉だ。
+It is a hot spring which means Guzu Rune hot spring.
+
+# c6851c6e
+; <tip="gudrun">グズルーン</tip>は北欧神話、【古エッダ】に登場する人物。
+<tip="gudrun">Guz Rune</tip> appears in Nordic mythology, 【 Old Edda 】.
+
+# 6d7cc97a
+; ギューキ王グンナルの妹で、英雄シグルドの妻だ。
+She is the younger sister of King Gunnar of Gewki and the wife of the hero Sigurd.
+
+# c1702b65
+; 【ニーベルンゲンの歌】のクリームヒルトの原型となる人物だ。
+【 He is the archetype of Creamhilt in Nibelungen's song 】.
+
+# a709d037
+; この浴場は1000年以上前からこの場所にあったという。
+The bathhouse has been in the area for more than 1,000 years.
+
+# 79a8227c
+; 19世紀後半に地すべりがあり140年もの間土砂に埋もれたままだった。
+There was a landslide in the late 19th century and it remained buried in earth and sand for 140 years.
+
+# 897e5bca
+; でも2009年に再建されて、今のような形になった。
+But it was rebuilt in 2009 and looks like it is now.
+
+# 73ecf12d
+; me: 「クリームヒルトが入浴してた場所か」
+me: "Is it where Cream Hilt bathed?"
+
+# 370e835f
+; 【ニーベルンゲンの歌】は数々のサブカルチャーで引用されてるために、
+【 Nibelungen's song 】 is quoted in many subcultures.
+
+# 39de4f45
+; その登場人物たちの名前にも馴染みがある。
+The names of the characters are also familiar.
+
+# 2d4a7405
+; だからか、クリームヒルトの温泉という名を聴いて、何だか親しみが湧いた。
+"Maybe that's why the name ""cream-hilt hot spring"" gave me some familiarity."
+
+# 91c5b64f
+; me: 「……あ」
+me: " …… Ah,"
+
+# 2e6f7ed
+; いかん！
+Oh, no!
+
+# a2c1340e
+; 不敬かも知れないけど、少しだけクリームヒルトの裸姿を想像してしまった。
+It may be disrespectful, but I imagined a little bit of creamhilt naked.
+
+# 1b8f1565
+; me: 「……ちょっとだけ入って、頭を冷やすか」
+me: "…… "Let's go in and cool our heads."
+
+# 13268cc6
+; 幸い、ここには誰も居なかったから、小屋の後ろで服を脱いで湯船に入った。
+Fortunately, nobody was here, so I took off my clothes behind the hut and took a bath.
+
+# e577f15a
+; ちなみに無料温泉なので、空いていれば誰でも入れる。
+"By the way, it is a free hot spring, so anyone can take a bath as long as they are free."
+
+# 9a8012
+; me: 「ふぅ」
+me: "`Phew,'"
+
+# c56d277f
+; すっきりした。
+It's refreshing.
+
+# 1aa5ed2
+; me: 「さて」
+me: "Well,"
+
+# b2ffddd7
+; 補給も温泉も済ませたし、旅を続けよう。
+We've had supplies and hot springs, so let's continue our journey.

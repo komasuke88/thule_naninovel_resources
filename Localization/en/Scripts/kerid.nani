@@ -1,0 +1,201 @@
+; Japanese <ja> to English <en> localization document for `kerid` naninovel script
+
+# c499e9bb
+;  <ruby="ケリド"> Kerið</ruby>クレーター
+<ruby="Keride">Keri ð</ruby>crater
+
+# c8ea4df4
+; その下に、カルデラ（火山火口湖）が見える。
+Below it, you can see Caldera (volcanic crater lake).
+
+# 39f5ac96
+; 湖の色は不透明で鮮やかなアクアマリンで、
+The color of the lake is opaque and vivid aquamarine.
+
+# 375e6f16
+; 周りの斜面は、赤、緑、黒など、色とりどりのカルデラだ。
+The surrounding slopes are caldera of various colors, including red, green and black.
+
+# a1704e8c
+; 北欧の独特な空の色も合わせて、不思議な雰囲気を作ってる。
+The unique colors of the sky in Northern Europe combine to create a strange atmosphere.
+
+# 15fac7c9
+; me: 「美しい。４００ISKを払っただけの価値はあったな」
+me: "Beautiful. It was worth the 400 ISK."
+
+# 5bc9a0b4
+; 入場料を取るとは意外だった。
+It was unexpected that I would charge an admission fee.
+
+# 1ccb3c68
+; unknown: 「すごーい！」
+unknown: "Awesome!"
+
+# af827459
+; 隣から、日本語が聞こえてきた。
+I heard Japanese from next door.
+
+# 464a9a54
+; 最近のアイスランドは、日本からの来客も多いんだな。
+Iceland has a lot of visitors from Japan these days.
+
+# 99046542
+; どんな人なのかと、隣を見てみたら……
+I looked next to him and found out what kind of person he was ……
+
+# 8cccd8cf
+; me: 「！？」
+me: "！？"
+
+# 8a064602
+; 俺が視線を向けたら、相手もこちらに振り向いた。そして……
+When me turned his gaze, he turned to him.And ……
+
+# e41b968
+; unknown: 「あれ？あなたは……」
+unknown: "Huh? You're ……."
+
+# 575865f
+; me: 「ど、ど、どうも……」
+me: "Well, well, thank you ……,"
+
+# c9cb0db7
+; tomoko: 「もしかして、先輩じゃないですか？[i]アイスランドで出会うなんて、こんな偶然もあるんですね」
+tomoko: "Isn't he a senior by anyhow.[i]It's such a coincidence that we met in Iceland."
+
+# c45c97c9
+; me: 「お、おう……」
+me: "Oh, ……,"
+
+# 1f118be6
+; unknown: 「うん？どうしたん？ともこ」
+unknown: "Huh? What's wrong? Tomoko."
+
+# 3e1cc49b
+; 後ろから、また日本人が声をかけてきた。
+A Japanese person called out to me again from behind.
+
+# 8d22e853
+; どうも連れが居たようだ。
+I think I had a companion.
+
+# 669e2b5a
+; tomoko: 「いやね？大学の時の先輩に出会ったんだよ」
+tomoko: "No? I met a senior from college."
+
+# febd018d
+; unknown2: 「へー！？こんなところで？まじで？」
+unknown2: "Huh!? Here?"Are you serious?"
+
+# ffd6b61e
+; もう一人連れがいた。
+There was another companion.
+
+# a6ac0657
+; どうも三人で旅行に来たらしいな。
+It seems that the three of us have come on a trip.
+
+# 3532e71d
+; unknown: 「すごい偶然じゃん！てか運命？付き合う？」
+unknown: "What a coincidence! Is it fate?Do you want to go out with me?"
+
+# be4da2b
+; tomoko: 「いやいやいや、ありえんしょ！」
+tomoko: "`No, no, no, no!'"
+
+# f2c87fa8
+; unknown2: 「てか先輩、せっかくだし、この後飲みに行きません？レイキャヴィクに居るんでしょう？」
+unknown2: "Why don't we go out for a drink after this?"Are you in Reykjavik?"
+
+# b1b54931
+; me: 「あ、いや」
+me: "Oh, no,"
+
+# a6663c92
+; 初対面なのにいきなり先輩呼ばわりされた。
+I met him for the first time, but he suddenly called me a senior.
+
+# 5ded9bc4
+; 馴れ馴れしい子たちだな。
+They're very familiar.
+
+# 1b16ce68
+; ま、こういうの嫌いではないけど、昔の知り合いが居るこの場は、ちょっと気が重くなる。
+Well, I don't hate this kind of thing, but I feel a little depressed when I have an old acquaintance.
+
+# 37456d80
+; @choice "立ち去る" goto:.saru handler:ButtonList
+@choice "Leave" goto:.saru handler:ButtonList
+
+# 60906f14
+; me: 「いや、俺、そろそろ行かなくてはならないんでね」
+me: "No, me, I must go now."
+
+# 94965308
+; tomoko: 「あれ？そうですか？」
+tomoko: "Huh? Really?"
+
+# 38d908d1
+; unknown: 「あら残念」
+unknown: "Oh, that's too bad."
+
+# 6855b9d9
+; me: 「ちょっと急いでいたから。悪いけど、先に失礼するよ。じゃあ」
+me: "I was in a bit of a hurry.I'm sorry, but I'll go first."
+
+# e1a84a81
+; tomoko: 「仕方ないですね。それでは、よい旅を」
+tomoko: "It can't be helped.Have a good trip."
+
+# 75d0460a
+; me: 「おう。そちらも、楽しんで帰りなよ。よい旅を」
+me: "Yes, have a good time there, too.Have a nice trip."
+
+# 859efda9
+; そう言って俺は、ケリドから去り、駐車場へと向かった。
+Then me left Kerrid and headed for the parking lot.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# 8cd7c42a
+; こんなところで日本の知り合いに出会うなんて、すごい偶然もあるものだ。
+It's a great coincidence to meet someone you know in Japan here.
+
+# a0beb86a
+; しかし、あまり色々とお喋りする気分にはなれなかった。
+However, I didn't feel like chatting in many ways.
+
+# 8c47dd69
+; あの頃の冴えない自分を、思い出してしまうから。
+It reminds me of my dull self back then.
+
+# c807bb6
+; 特に彼女には昔、軽く振られた事もあったから、更に気まずい。
+Especially since she used to give me a slap on the wrist, I feel even more uncomfortable.
+
+# 890b54c6
+; そんな大したイベントでもなかったから、向こうは忘れてしまったと思うが。
+It wasn't such a big event, so they probably forgot about it.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9076f849
+; いきなり、現実に引き戻されてしまった。
+I was suddenly brought back to reality.
+
+# f12d88f0
+; me: 「……ま、日本での事は、今は忘れよう」
+me: "…… Well, let's forget about Japan now."
+
+# cd3b997e
+; 少なくとも旅先では、何者でもない俺でいたい。
+At least when I'm traveling, I want to be nothing me.
+
+# 87ff935d
+; me: 「次へ行くか」
+me: "Shall we move on?"

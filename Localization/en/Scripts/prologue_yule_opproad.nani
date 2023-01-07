@@ -1,0 +1,77 @@
+; Japanese <ja> to English <en> localization document for `prologue_yule_opproad` naninovel script
+
+# fece7a2c
+; yule: 「レイキャヴィクは反対方向ですよ？」
+yule: "The Reykjavik is in the opposite direction?"
+
+# e9af1166
+; me: 「そうだっけ？」
+me: "Is that so?"
+
+# d7b9a4
+; yule: 「くすくす、そうですよ。もうしっかりしてくださいよ」
+yule: "Yes, giggle.Be firm now."
+
+# f560aa9d
+; me: 「うむ」
+me: "Yes,"
+
+# cf3f3fc0
+; yule: 「ま、ユールちゃんは、{playerName}がどこに行ったって構わないんですけどね？」
+yule: "Well, Yule doesn't care where {playerName} goes?"
+
+# e82c31da
+; me: 「そうだな」
+me: "Yes,"
+
+# ec26f5b1
+; @choice "引き返す" goto:.modoru
+@choice "turn back" goto:.modoru
+
+# 186b35bf
+; @choice "突っ走る" goto:.susumu
+@choice "Running" goto:.susumu
+
+# 7156e6b2
+; me: 「街には戻らない」
+me: "I'm not going back to town."
+
+# 3070f4b8
+; yule: 「えっ！？」
+yule: "What!"
+
+# e396d49a
+; me: 「このまま進むぜ。ユールちゃんとどこまでも行くよ」
+me: "I'll go on like this way.Yule I'll go all the way."
+
+# 87c09d09
+; yule: 「ほ、本当ですか？それってつまり……」
+yule: "Oh, really?That means ……."
+
+# bde55775
+; me: 「ああ、ユールちゃん、俺と付き合ってくれ！」
+me: "Oh, Yule, go out with me!"
+
+# 44c20ec7
+; yule: 「う、嬉しいです！それではさっそく、夫婦の契を……」
+yule: "Yes, I'm glad!and now …… the covenant of a married couple."
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# fe87b226
+; me: 「引き返そう」
+me: "Let's turn back,"
+
+# 742f3dbb
+; yule: 「はい〜」
+yule: "Yes~"

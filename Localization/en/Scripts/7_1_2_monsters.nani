@@ -1,0 +1,501 @@
+; Japanese <ja> to English <en> localization document for `7_1_2_monsters` naninovel script
+
+# 38165c89
+; me: 「お……」
+me: "Oh ……,"
+
+# 9ff52fa
+; 俺たちは、先の場所まで戻っていた。
+The me had returned to their former position.
+
+# 18df1e50
+; byu: 「危なかったね。[i][char byu.emi]万が一のために備えていてよかったよ」
+byu: "That was dangerous.[i][char byu.emi] I'm glad I was prepared just in case."
+
+# 35804395
+; yule: 「助かりました」
+yule: "Thank you for your help."
+
+# 3ee7b4d5
+; me: 「……あ、ありがとうな」
+me: "…… "Oh, thank you,"
+
+# 34ac5598
+; そういえば、１３姉妹で役割を手分けして、魔法陣への対応をするって言ってたな。
+Come to think of it, you said you would divide the roles between the 13 sisters and deal with The Magic Circle.
+
+# 15ee46e2
+; keruta: 「そちらの進歩はどうですか？魔法陣の分析」
+keruta: "How's the progress there?"Analysis of The Magic Circle"
+
+# f18c530f
+; glugga: 「も、もう少し、じ、時間かかるかも」
+glugga: "But it may take a little longer,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 6519fcd5
+; 声がする方向を見てみると、初めて見る女の子もいた。
+When I looked in the direction of the voice, I saw Girl for the first time.
+
+# c3eb48fb
+; 彼女は丘の隅っこで、望遠鏡を持ってどこかを観察しててるみたいだった。
+She seemed to be looking somewhere in the corner of the hill with a telescope.
+
+# 932bf841
+; yule: 「１３姉妹の一人、 <ruby="グルッガガイギル"> Gluggagægir</ruby>です。覗き見の専門家で、今は魔法陣の分析をしてます」
+yule: "One of the 13 sisters, <ruby="Gluggagaigil">Gluggag ægir</ruby>.I'm a peeping expert, and now I'm analyzing The Magic Circle."
+
+# e678ddad
+; glugga: 「は、はじめまして！[i]え、えっとえっと。[i]い、今はちょっと手が離せなくて、その……ちゃんと挨拶は……」
+glugga: "Nice to meet you! [i] Well, let's see.[i]Yes, I can't take my hands off it now, and the greeting with …… is ……."
+
+# f4d9aeb7
+; me: 「あ、ああ。わかったよ」
+me: "Oh, oh, I see,"
+
+# 8187101f
+; おどおどしてる子だな。
+You're a timid kid.
+
+# de11d620
+; そういや、１３姉妹みんなここにいるか？
+by the way Are all 13 sisters here?
+
+# 53c56749
+; ちょっと気になって周りを見たんだけど、この４人だけみたいだった。
+I was a little curious and looked around, but it looked like these four were the only ones.
+
+# cd75b6c9
+; byu: 「ここにはボクたちだけだよ？」
+byu: "We're the only ones here?"
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# a927defe
+; keruta: 「他の姉妹たちは東西南北に散らばって、２〜３人組で、各方面から魔法陣を分析してるんです」
+keruta: "The other sisters are scattered across the east, west, north, south, and south, and are analyzing The Magic Circle in groups of two or three."
+
+# e2dd2058
+; me: 「あ、そうだったんだ」
+me: "Oh, I see,"
+
+# 8f6b2d56
+; yule: 「ユールちゃんとケルタちゃんが中央担当だったんですが、あれでは分析は無理ですので」
+yule: "I was in charge of Kerta and Yule, but I can't analyze them with that."
+
+# 4a7ab566
+; glugga: 「あ、えっとその、ケルタ？ちょ、ちょっとだけ、手伝ってくれないかな？いろんなところ、様子を見ないと」
+glugga: "Oh, well, Kerta?"Hey, can you help me a little?We have to wait and see in various places."
+
+# 78d34362
+; そう言ってグルガちゃんは、数個の望遠鏡をこちらへ投げた。
+Then Glugga threw several telescopes over here.
+
+# 410de84e
+; keruta: 「了解です」
+keruta: "All right,"
+
+# b6e4eb73
+; yule: 「はい。[i]……{playerName}も」
+yule: "Yes. [i] ……{playerName}, too."
+
+# 9aa264e8
+; me: 「え、俺も？」
+me: "What, me?"
+
+# 5e703ed8
+; といいながらも、言われた通りにする。
+he said, but did as he was told.
+
+# f3b6c7bb
+; 遠くから、様子を観察した。
+I watched him from afar.
+
+# dc4a2a09
+; 沢山の得体を知らない化け物と、数え切れない魚人たち。
+Monster who don't know many talents and countless Fishmans.
+
+# 9627fddf
+; me: 「あ、あいつら、何やってるんだ？」
+me: "Oh, what are they doing?"
+
+# 6e5c71b7
+; アークティック・ヘンジの周りで、騒がしく動いてる。
+There's a lot of noise moving around the Arctic henge.
+
+# 5cd2e9f2
+; 望遠鏡で見ると、更にわけのわからない状況だった。
+The situation was even more puzzling when I saw it through the telescope.
+
+# 1bc66712
+; yule: 「踊ってますね、魚人たち」
+yule: "You're dancing, Fishman"."
+
+# 93a1b48b
+; me: 「お、踊ってる？」
+me: "Oh, are you dancing?"
+
+# 38d1bd7a
+; yule: 「魔法陣発動のための、儀式みたいなものでしょう」
+yule: "It's like a ceremony to invoke The Magic Circle,"
+
+# d6696060
+; me: 「魔法陣発動の儀式って……【トゥーレ還元】ではないよな」
+me: "The ceremony of invocation of 】 is not ……【Thule reduction The Magic Circle."
+
+# f94fe078
+; yule: 「はい。他に目的があるはずです。どんなものかは知りません。姉妹たちの分析を待ってみましょう」
+yule: "Yes, there must be other purposes.I don't know what it is like.Let's wait for the sisters' analysis."
+
+# 76e8b552
+; その時、遠くで大地が響くような揺れを感じた。
+At that time, I felt the earth tremble in the distance.
+
+# a0657e17
+; 望遠鏡で揺れの正体を確認してみたら……
+When I checked the shaking with a telescope, ……
+
+# fe58f967
+; me: 「あ、あの巨大なのが、暴れてるみたいだが？」
+me: "Oh, that huge thing seems to be raging?"
+
+# 67c38e4e
+; yule: 「あれも……踊りのつもりですね」
+yule: "That's also meant to be a …… dance."
+
+# 387902d8
+; me: 「お、踊りか……」
+me: "Oh, dancing or ……."
+
+# 81bebf1
+; 巨大な化け物の踊りのせいで、
+Because of the huge Monster dance,
+
+# de720d64
+; 周りの、小さい化け物は潰されて死んでる。
+The small Monster around me was crushed to death.
+
+# e6c572f2
+; たくさんの血を散らしながら。
+with a lot of blood.
+
+# 86c943f0
+; しかし、誰も構わす踊ってる。
+But no one cares.
+
+# 75a19c3f
+; 滑稽ではありけど、恐ろしかった。
+It was funny but scary.
+
+# d36cf3ab
+; me: 「ぐっ……」
+me: "Good ……,"
+
+# 9a26dca5
+; yule: 「ヒルドルは、魔法陣の真ん中ですね」
+yule: "The Hildur is in the middle of the The Magic Circle."
+
+# 104de2ca
+; …………
+…………
+
+# 8bd90245
+; me: 「そうだな。あいつ、どうなってしまったんだ……？」
+me: "Well, what happened to him ……?"
+
+# acac720a
+; yule: 「多分、【外界の神】の依代になってると思います。南の島で感じた邪気と同じものを感じました」
+yule: "I think it's probably a yorishiro of 【, the god of the outside world.I felt the same Evil Force that I felt on the southern island."
+
+# c26e8566
+; me: 「それは……あのときの……」
+me: "It was …… then ……,"
+
+# b9909f47
+; あの恐ろしい感じ。
+That scary feeling.
+
+# 1e8b051d
+; 思えば、たしかにそうだ。
+If you think about it, that's true.
+
+# b325870a
+; yule: 「取り憑かれたヒルドルは、あそこで【外界の神】の意思を実行しようとしてるんじゃないですかね」
+yule: "Isn't the possessed Hildur there trying to carry out the will of 】, the god of the outside world?"
+
+# 1cd3494f
+; me: 「それはなんだ？」
+me: "What is that?"
+
+# ccb556c
+; yule: 「それも、他の姉妹たちが分析してますんで、待ってみましょう」
+yule: "The other sisters are analyzing that, so let's wait."
+
+# c45c97c9
+; me: 「お、おう……」
+me: "Oh, ……,"
+
+# 4ec14ed7
+; そして俺は、アークティック・ヘンジの真ん中に突っ立ってるヒルドルを見てみた。
+and me saw Hildur standing in the middle of the Arktick Henge.
+
+# 2f7c02ff
+; me: 「……そういえば、あの男はどこにいるんだ？[i]ヒルドルと一緒にいた、ニセアゥサトゥルの」
+me: "…… Come to think of it, where is that Man?[i]of fake Hildur with Asatru."
+
+# b81f4385
+; yule: 「あの男？……そういえば、見えませんね、あの人間」
+yule: "That Man? …… Come to think of it, I can't see him."
+
+# 422a6e63
+; me: 「化け物たちに隠されて見えないのかな？」
+me: "Can't you see Monster hiding behind you?"
+
+# cdec4306
+; yule: 「そうかも。……というより、もうとっくに死んてるかも知れませんね」
+yule: "Maybe so. Rather than ……, he may have died a long time ago."
+
+# a8faf2b7
+; me: 「あ……？」
+me: "Oh, ……?"
+
+# 7b2afa17
+; そういえば、彼らの一人はあっさりと死んでしまったな。
+Come to think of it, one of them died easily.
+
+# 49cae8ff
+; 思い出すと恐ろしい事だった。
+It was a terrible thing to think of.
+
+# 46427ad7
+; 人間って、こうも簡単に死ぬものだったんだな。
+Humans would die so easily.
+
+# 428f90a3
+; me: 「あ、あの化け物たち、俺たちも殺しに来たりしないのかな？」
+me: "Oh, won't they come to kill me?"
+
+# f383be3e
+; yule: 「今のところ、特にユールちゃんたちを探しにくるそぶりはないですね。踊ってるし」
+yule: "So far, I have no intention of coming to look for Yule in particularly.I'm dancing."
+
+# fa8eba5c
+; me: 「……そうだな」
+me: "…… "Yes,"
+
+# 4fc18519
+; yule: 「ユールちゃんたちを敵対してるわけではなさそうです」
+yule: "I don't think I'm hostile to Yule."
+
+# 24866d92
+; 化け物たちは特に何か目的を持って動いてる様子ではなかった。
+Monster they did not seem to be moving with any particular purpose.
+
+# ed9cd9ae
+; ただ狂ったみたいに、踊りながら、殺し合ってる。
+They just dance like crazy and kill each other.
+
+# b1b56ae1
+; yule: 「……って、あれ？」
+yule: "What is ……?"
+
+# df8ee2dc
+; me: 「どうした？」
+me: "What's the matter?"
+
+# ce3df78d
+; yule: 「あの魚人たちの、体につけてるものは……」
+yule: "What they wear on their bodies is ……."
+
+# a4135676
+; me: 「ああ、何か飾ってるように見えるな。魚人のくせに」
+me: "Oh, you look like you're decorating something.Fishman and yet."
+
+# 84b104cd
+; 自分たちのハナに、赤い飾りをつけながら、踊ってる。
+They're dancing while putting red decorations on their Hana is dancing.
+
+# a8e0fc5c
+; 化け物たちが自分たちの鼻に飾っていたのは……
+Monster They had …… on their noses.
+
+# 234d2932
+; me: 「なっ！！」
+me: "Oh, my God!"
+
+# b55c2e90
+; yule: 「首ですね」
+yule: "It's my neck,"
+
+# 5383ccaf
+; エルフの首だった。
+It was Elf's neck.
+
+# 134f9348
+; 小さなサイズで、まるでボールみたいに。色んなところに付けて飾っていた。
+It's a small size, just like a ball.It was attached to various places and decorated.
+
+# e22aef25
+; fishman: 「ククククククククククククククク」
+fishman: "LOL, LOL, LOL, LOL."
+
+# 6425198f
+; エルフだけじゃない。人間の生首もあった。
+Elf It's not just that.There was also a human head.
+
+# 23fd4c61
+; 魔法陣の周りには、無数のエルフと人間の生首が、血の跡を残しながら転がっていた。
+Around The Magic Circle lay countless Elfs and human heads, leaving traces of blood.
+
+# e474de04
+; やつらはそれを、まるでボールみたいに扱って遊んでいた。
+They were playing with it like a ball.
+
+# 754f6fc1
+; fishman: 「ケケケケケケケケケケケケ」
+fishman: "Kakekekekekekekekekekekekekekekekekekekekekekekekekeke"
+
+# ceed5e58
+; 一匹の魚人が地面に転がってた生首を拾った。
+A Fishman picked up the raw head lying on the ground.
+
+# 1921ab75
+; fishman: 「くくくくくくく」
+fishman: "`Giggle,'"
+
+# c19cdcaa
+; いきなりバレーボールが始まった。
+Volleyball suddenly started.
+
+# 3ee1fd8b
+; 生首をトス、トス、強烈なスパイク。
+Toss, toss, and powerful spikes on the raw head.
+
+# c82c8c6a
+; 爆ける生首。
+an explosive head.
+
+# eae30a3c
+; スパイクに失敗したその魚人を責めながら、ツッコミを入れようと仲間が頭を叩く。
+While blaming Fishman for the failure of the spike, his companions hit him on the head to put in the tsukkomi.
+
+# 41f95c2b
+; ツッコミを食らって、その魚人の頭も爆ける。
+The tsukkomi blew up Fishman's head.
+
+# 70e99d11
+; fishman: 「きききききききききき」
+fishman: "`Listen,'"
+
+# 80640470
+; fishman: 「けけけけけけけ」
+fishman: "Break it up,"
+
+# 7b41bf31
+; 全員で楽しく愉快なダンス。
+It's a fun and fun dance for all of us.
+
+# 926fe869
+; 血祭り状態。
+a bloodbath.
+
+# e77691a8
+; fishman: 「け—————————————」
+fishman: "Ke----------------------------------------------------------"
+
+# 87b885f5
+; また巨大な化け物の体が落ちて、魚人が一匹、潰されて死んだ。
+Another giant Monster fell, and one Fishman was crushed to death.
+
+# 22749601
+; fishman: 「けけけけけけけけけけけけけ」
+fishman: "`Break it up!'"
+
+# e371378e
+; それでも他の魚人たちはまた、笑って踊ってる。
+But the other Fishmans are laughing and dancing again.
+
+# 645ccd7b
+; me: 「うぐぁぁっ……」
+me: "Ugh ……,"
+
+# cc987e8
+; 望遠鏡から目を離した。
+I took my eyes off the telescope.
+
+# 512409ae
+; 吐き気がした。
+I felt nauseous.
+
+# db39eb14
+; あれはまさに、狂乱の状態だ。
+That's just a state of madness.
+
+# 85e7452b
+; yule: 「流石にキツイでしょうね。今の{playerName}に、こんな場面は……」
+yule: "It must be tough as expected.For {playerName} now, this kind of scene is ……."
+
+# ceda2347
+; me: 「……あ、ああ」
+me: "…… "Oh, oh, oh, oh, oh, oh, oh, oh."
+
+# 5dc6d838
+; 記憶が全部戻ったせいで、俺の頭の中は普通の人間社会なのに、
+me's mind is a normal human society because all the memories are back.
+
+# d094f488
+; 今見てた風景は、とてもそうではない。
+The scenery I've just seen doesn't look like that.
+
+# 89aa189c
+; ここは非現実だと、改めて実感した。
+I realized once again that this place is unreal.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 5f017bff
+; 疲れてぽかんとしてたら、グルガちゃんの声が聞こえてきた。
+I was so tired that I heard Glugga's voice.
+
+# 8e44614a
+; glugga: 「ぶ、分析が終わったよぉ」
+glugga: "Well, the analysis is over."
+
+# 2abd8c94
+; keruta: 「成功ですね。魔法陣の様子はどうですか？」
+keruta: "It's a success. How's The Magic Circle doing?"
+
+# ce72e8b3
+; glugga: 「さ、最悪、かな……[i]他の姉妹たちの情報も確認する必要はあるけど、い、今もままでは……」
+glugga: "Well, worst, maybe ……[i] I need to check the information of the other sisters, but as it is now, ……."
+
+# 45d15084
+; byu: 「えっ……？」
+byu: "What ……?"
+
+# 44c69c81
+; glugga: 「そ、その……そ、想定してた範囲ではあるけどぉ……」
+glugga: "`Well, that ……, that's what I expected, ……,'"
+
+# ce042d8c
+; keruta: 「悪い方向の……予測が当たったんですか」
+keruta: "Did you get the bad …… prediction right?"
+
+# 514c6fcd
+; yule: 「あ、もしかしてもう……」
+yule: "Oh, by any chance, …… already."
+
+# 90c9e525
+; me: 「え？どういう状況なんだ？」
+me: "What? What's the situation?"
+
+# bb595426
+; glugga: 「あ、えっと、そ、それは……」
+glugga: "Oh, well, that's ……,"

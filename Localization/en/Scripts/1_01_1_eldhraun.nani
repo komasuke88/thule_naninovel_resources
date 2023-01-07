@@ -1,0 +1,205 @@
+; Japanese <ja> to English <en> localization document for `1_01_1_eldhraun` naninovel script
+
+# 3cc9b7bb
+; 「……っと、寒い寒い」
+"It's cold, it's cold."
+
+# 4b9eeeef
+; [br]世界的な異常高温というこの２０２５年でも、
+[br] Even in 2025, when the global temperature is unusually high,
+
+# a760540d
+; さすがに北欧の冬は冷えてる。
+As expected, winter in Northern Europe is cold.
+
+# 358561f0
+; [br]車のエンジンを掛け、暖房をつけた。
+[br] I started the car and turned on the heater.
+
+# 279167d6
+; 「ふぅ……」
+`Phew ……,'
+
+# 59d697a6
+; 暗緑色のデコボコに覆われた奇怪な大地。
+a strange land covered with dark green bumps.
+
+# 99cef0d8
+; 苔の原野、<ruby="エルドフロイン">Eldhraun</ruby>。
+Moss field, <ruby=" Eldhraun">Eldhraun</ruby>.
+
+# 70a84f6f
+; その中を横切ってる、この国道204号には誰の影も見当たらなく、
+No one was seen on National Highway 204, crossing it.
+
+# 2d76cf53
+; 俺の車だけが強風で揺られてる。
+Only me's car is shaken by the strong wind.
+
+# 538976cc
+; 先よりも暗くなった空を見上げて、ポツリとつぶやく。
+He looked up at the sky darker than before and murmured.
+
+# e34e3bdf
+; @choice "早く帰らないと" goto:.kaeru
+@choice "I have to go home early" goto:.kaeru
+
+# 7d85646e
+; @choice "寝よう" goto:1_01_1_a_sleep
+@choice "Let's sleep" goto:1_01_1_a_sleep
+
+# 14730aad
+; アイスランド旅行、二日目。
+The second day of my trip to Iceland.
+
+# 8470278a
+; 初めて見る異国の景色に心が踊り、
+My heart danced to the scenery of a foreign country that I saw for the first time.
+
+# 5dfe97e2
+; つい予定にもなかったこんな遠い場所まで車を走らせてしまった。
+I drove to such a distant place that I had never planned before.
+
+# 190e3bc4
+; 気がついたら、午後３時だった。
+I found myself at 3 p.m.
+
+# dc154ce9
+; １２月のアイスランドは日の入りが早い。
+The sun sets early in Iceland in December.
+
+# 98892b55
+; 午後４時にはもう暗くなり、夜が始まる。
+By 4 p.m., it was already dark and night began.
+
+# b35e2dbc
+; 夜のアイスランドは危険だ。
+Iceland at night is dangerous.
+
+# 73eb95e0
+; 先日も真夜中のドライブで客死しそうになったんだ。
+The other day, I almost died on a midnight drive.
+
+# 1fa757c9
+; 真っ暗になる前に、早くここから離れないといけない。
+We need to get out of here before it gets dark.
+
+# 5253bb0b
+; 車のダッシュボードにスマホをセットして、俺はアプリを起動した。
+With Smartphont on the dashboard of the car, me started the app.
+
+# 8526b9cf
+; @choice "グー○ルマップ" goto:.Goglemap
+@choice " Goggle map" goto:.Goglemap
+
+# e69b7f3e
+; @choice "Ｆ○Ｏ" goto:1_01_1_b_fgo
+@choice "F○O" goto:1_01_1_b_fgo
+
+# 27f523d5
+; me: 「宿まで、どれくらいかかるのだろう」
+me: "How long does it take to get to the inn?"
+
+# b82db1b8
+; グー○ルマップでナビをセットした。
+Set the navigation on the Goggle map.
+
+# c7fe66bf
+; レイキャヴィクのホステルまでは、[br]あと3時間弱。
+[br] is just under three hours away from hostel.
+
+# dd5e5632
+; 休まずに走ったら、真っ暗になる前には、危ないエリアからは離れられる。
+If you run without a break, you can get away from the dangerous area before it gets darkens.
+
+# 7f149c0c
+; me: 「よし、踏むか」
+me: "All right, step on it,"
+
+# a10ca9ba
+; アクセルを踏み付けて、徐々に速度を上げようとしていた。
+I was stepping on the accelerator and slowly trying to speed up.
+
+# cdc16b40
+; その時、
+At that time,
+
+# 9ef4bba8
+; me: 「…………え？」
+me: "What …………?"
+
+# da504e27
+; 真っ直ぐに伸びてる道路の先、その端っこに、
+At the end and end of the straight road,
+
+# 325642df
+; 人影が見えた。
+I saw a figure.
+
+# 19cd3b76
+; me: 「女の子？」
+me: "Is it Girl?"
+
+# c7832ce
+; つい先まで誰もいなかったはずなのに……
+No one should have been there until just now ……
+
+# ae13f801
+; いきなり現れた？
+Did you show up all of a sudden?
+
+# c966683b
+; ……いや、俺が見落としてたのかな？
+…… No, I wonder if me overlooked it.
+
+# b7a0880d
+; 目を疑って改めて見たけど、やっぱり女の子がいる。
+I looked at it again because I couldn't believe my eyes, but there was Girl.
+
+# b8b9c6bb
+; ……何で、先までは見えなかったのだろう？
+…… Why didn't I see it before?
+
+# 25f90019
+; 広い荒野の中で、一人。
+Alone in the open wilderness.
+
+# 21f0ffbe
+; 暗い背景の中で、あの子だけが白く光ってるように見えた。
+Only she seemed to shine white in the dark background.
+
+# 24a602ec
+; 女の子は道端で立ち止まり、こっちを見ていた。
+Girl stopped at the side of the road and looked at him.
+
+# 5bb4b2bc
+; me: 「……？」
+me: "……？"
+
+# bf6f658a
+; なんか、パタパタと動いてる。
+It's kind of fluttering.
+
+# 54e37e1e
+; 何をしてるんだ？
+What are you doing?
+
+# 23dea199
+; 何かのサインを、俺に送ってるように見えた。
+It looked like I was sending some sign to me.
+
+# aee6b951
+; 腕をまっすぐ伸ばし、親指を立てて。
+Straighten your arms and raise your thumb.
+
+# a46041c3
+; あれは……
+That is ……
+
+# 4b7670c3
+; @choice "ヒッチハイク？" goto:1_01_2
+@choice " Hitchhiking?" goto:1_01_2
+
+# f6aa19e1
+; @choice "一人遊び" goto:1_01_1_c_pass
+@choice "Playing alone" goto:1_01_1_c_pass

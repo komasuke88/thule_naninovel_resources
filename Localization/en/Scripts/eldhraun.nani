@@ -1,0 +1,125 @@
+; Japanese <ja> to English <en> localization document for `eldhraun` naninovel script
+
+# 7e18e0b7
+; yule: 「あれ？何でまたエルドフロインに戻ったんですか？」
+yule: "Huh? Why did you go back to Eldhraun?"
+
+# 3f9a1f49
+; me: 「あ、えっと……」
+me: "Oh, ……,"
+
+# ec26f5b1
+; @choice "引き返す" goto:.modoru
+@choice "turn back" goto:.modoru
+
+# f5952093
+; @choice "ここにいる" goto:.susumu
+@choice "Here I am" goto:.susumu
+
+# 7156e6b2
+; me: 「街には戻らない」
+me: "I'm not going back to town."
+
+# 3070f4b8
+; yule: 「えっ！？」
+yule: "What!"
+
+# 4e94237b
+; me: 「ここでユールちゃんと一晩を過ごしたい」
+me: "I want to spend the night here with Yule."
+
+# 57689560
+; yule: 「えっ！？そ、それって……そ、そんな！」
+yule: "What!? That's ……, that's it!"
+
+# b2ea7762
+; me: 「なんだよ。ユールちゃんもこうしたいって言ってたんじゃないか？」
+me: "What? Didn't Yule say she wanted to do this?"
+
+# 1bf33058
+; yule: 「もちろん、嬉しいです！くすくす、それではさっそく、夫婦の契を……」
+yule: "Of course, I'm glad! giggle, and now …… the marriage contract."
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# fe87b226
+; me: 「引き返そう」
+me: "Let's turn back,"
+
+# 742f3dbb
+; yule: 「はい〜」
+yule: "Yes~"
+
+# 88594e49
+; 暗緑色の奇怪なデコボコに覆われた大地。
+the earth covered with dark green and strange bumps.
+
+# 649b3fd4
+; 苔の原野、 <ruby="エルドフロイン"> Eldhraun</ruby>。
+Moss field, <ruby=" Eldhraun">Eldhraun</ruby>.
+
+# 70a84f6f
+; その中を横切ってる、この国道204号には誰の影も見当たらなく、
+No one was seen on National Highway 204, crossing it.
+
+# 2d76cf53
+; 俺の車だけが強風で揺られてる。
+Only me's car is shaken by the strong wind.
+
+# 9be5a97a
+; <tip="eldhraun">Eldhraun</tip>溶岩地帯。
+<tip="eldhraun">Eldhraun</tip> lava zone.
+
+# b6a9c779
+; 歴史上一番大きな噴火の一つであるLakiの爆発で生まれた地域だ。
+It is an area that was created by the explosion of Laki, one of the largest eruptions in history.
+
+# c350c11e
+; ハイランドの<tip="lakagigar">Lakagígar</tip>と、その生成背景が同じだ。
+<tip="lakagigar">Lakag ígar</tip> in Highland has the same generation background.
+
+# 9ecdd9f0
+; Lakiの噴火は1783年から一年以上続き、
+The eruption of Laki has lasted for more than a year since 1783.
+
+# bd242ccc
+; アイスランドだけでなくヨーロッパ全域を暗黒に染めたという。
+It is said that it has darkened not only Iceland but all of Europe.
+
+# 96f0fcc6
+; その噴火は人々には災いでしかなかったけど、数々の絶景を作り上げた。
+The eruption was nothing but a disaster for people, but it created many spectacular views.
+
+# ac7a262c
+; この５６５km2に至るこの苔の荒野も、その一つだ。
+This 565km2 moss field is one of them.
+
+# 8faee377
+; me: 「確かに出会ったんだよな。ここで、ユールちゃんと」
+me: "I'm sure we've met.Here, with Yule."
+
+# 390d6ab3
+; しかし、今はなんの人影も見えない。
+But now I can't see any figures.
+
+# e6b8002e
+; 苔だけで、何もない場所だ。
+It's just moss, and it's nothing but moss.
+
+# 7b41c8de
+; me: 「……彼女に再び会えるとしたら……」
+me: "…… "If I could see her again, ……."
+
+# 5a51fdac
+; ここではなく、北のディムボルギルの可能性が高い。
+There is a high possibility of dimmuborgir in the north, not here.

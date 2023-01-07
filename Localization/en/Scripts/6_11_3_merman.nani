@@ -1,0 +1,373 @@
+; Japanese <ja> to English <en> localization document for `6_11_3_merman` naninovel script
+
+# 5eaa0fad
+; そうして、ヒメとユールちゃんとお喋りしながら、川を横切ってた時の事だ。
+and when he was crossing the river chatting with Hime and Yule.
+
+# 953b5d2b
+; unknown: 「ギャァァァー！」
+unknown: "Geez!"
+
+# fff0703a
+; me: 「ヒヒーン！？」
+me: "The niegh!"
+
+# ecfabe6c
+; 何かを踏んでしまった！
+I stepped on something!
+
+# 5e719642
+; yule: 「えっ？な、なんです？」
+yule: "What? What?"
+
+# 6f385306
+; hime: 「た、大変だよ、{playerName}の足の下に、人が！！」
+hime: "Oh, no, there's a man under {playerName}'s feet!"
+
+# 275cecf
+; me: 「ヒヒーン！？（人？）」
+me: "niegh!? (Person?)"
+
+# a25ef980
+; 急いで足を退かしてみた。
+I hurried back.
+
+# f091eca
+; unknown: 「くぅぅ」
+unknown: "`Ugh,'"
+
+# 4bb08b54
+; hime: 「あ、起きた」
+hime: "Oh, I'm up."
+
+# 921eb07c
+; 俺の足に踏まれていた何かは、よろよろと起き上がった。
+Something on me's foot staggered up.
+
+# 81636ff1
+; unknown: 「……死ぬかと思ったぜ！」
+unknown: "I thought …… I was going to die!"
+
+# c40d6ead
+; yule: 「あ」
+yule: "Ah,"
+
+# dae55c33
+; 背は小さい、おっさんだった。
+He was short, old man.
+
+# 527e0833
+; エルフ？いや、人間？
+Elf? No, human?
+
+# 3f35603d
+; ……よく見たら、どちらでもなかった。
+…… When I looked closely, it was neither.
+
+# b69a1e1f
+; me: 「ヒィーン！！（ば、化け物だ！）」
+me: "neigh!!! (It's Monster!)"
+
+# 20f4623
+; hime: 「か、下半身が、魚だよ！」
+hime: "`Oh, my lower body is a fish!'"
+
+# e349d770
+; merman: 「愚かどもめ！我を <ruby="化け物"> スクリムスリ</ruby> だと！」
+merman: "You fool! You call me <ruby=" Monster"> Skrimsli</ruby>!"
+
+# 7c817567
+; yule: 「マーマンですね。 <ruby="化け物"> スクリムスリ</ruby> ではないです」
+yule: "It's merman. <ruby=" Monster">Not Skrimsli</ruby>"
+
+# b0956781
+; me: 「マーマン？」
+me: "Is it merman?"
+
+# d02569b3
+; yule: 「ええ。こう見えても【海の賢者】とも呼ばれてる、知性のある一族ですよ」
+yule: "Yes, we are an intelligent family called 】, the wise man of the 【 Sea."
+
+# 4c8cc25f
+; マーマンは、人魚だ。
+merman is a mermaid.
+
+# 31d902a0
+; 上半身は人間、下半身は魚だ。
+The upper body is human and the lower body is fish.
+
+# 4e6fcf41
+; 世間で知られてる人魚姫の男バージョンだ。
+This is the Man version of the world-famous Little Mermaid.
+
+# 5729869c
+; 体のサイズはエルフよりは大きく、人間よりは小さい。
+The body size is larger than Elf and smaller than humans.
+
+# 2a53865b
+; そのため、海のドワーフと呼ばれてる。
+Therefore, it is called the Dwarf of the sea.
+
+# 536b5f7a
+; アイスランドには【Then the merman laughed】ってことわざがある。
+There is a saying in Iceland that says 【 Then the Merman Laughed 】
+
+# 99277a8e
+; 【すると、マーマンが笑った】という意味だ。
+【 means 】 laughed.
+
+# 73f20d
+; 真実を見抜く力を持ってるマーマンが、人間の愚かな行動を嘲笑う、
+merman, who has the power to see through the truth, ridicules the foolish behavior of man;
+
+# 38e6503a
+; そんなアイスランドのおとぎ話から来たことわざだ。
+It's a proverb from such an Icelandic fairy tale.
+
+# 2d76e006
+; 真実を見抜く力ってのは、予見と予知といった類のものだ。
+The power to see the truth is the kind of foresight and foresight.
+
+# de0bbbd5
+; そのためマーマンは、海の賢者とも呼ばれてる。
+Therefore, merman is also called the wise man of the sea.
+
+# 6f3e6f74
+; merman: 「ガハハハ！そう、我こそ海の賢者、マーマンなり」
+merman: "Hahaha! Yes, I am the wise man of the sea, merman."
+
+# 1d658f98
+; 踏まれて死にそうだったのに、もうすっかり立ち直って、偉そうな態度になってらっしゃるおっさん。
+He was almost trampled to death, but now he's completely recovered and he's putting on airs.
+
+# f3304255
+; yule: 「で、マーマンが、何でこんなところに？」
+yule: "And why is merman here?"
+
+# 7b877832
+; hime: 「そうだね。海に住んでるんじゃ？」
+hime: "Yes, you live in the sea, don't you?"
+
+# 8da80c1c
+; merman: 「海はもう、終わった」
+merman: "The sea is over."
+
+# 3459c0be
+; yule: 「海が、終わったって？」
+yule: "The sea is over?"
+
+# 5f48a7fb
+; merman: 「水温は上がるわ、酸性化するわ、決定的にあの【邪気】……もう潮時だわい」
+merman: "The water temperature will rise, it will acidify, it's definitely time for that 【Evil Force】……."
+
+# 20362a7c
+; yule: 「邪気って、あの【外界の神】の？」
+yule: "Is Evil Force the 】 god of the outer world?"
+
+# 4b98f811
+; merman: 「流石にみんな知ってるんだな。そうだよ。海はあの神の邪気に満ちてる」
+merman: "As expected, they all know.Yes, the sea is full of Evil Force of God."
+
+# 8afb5874
+; me: 「ヒヒーン（それで海で住めなくなったと？）」
+me: "niegh (And you can't live in the sea anymore?)"
+
+# bde58361
+; merman: 「ああ。[i]今の海に住めるのは、【外界の神】にやられて同類になった、化け物だけだ。[i]もうそれは、地球の生き物ではない」
+merman: "Yes. [i] Only Monster, who has been made a class by 】, the god of the outside world, can live in the present sea.[i]It is no longer a creature of the earth."
+
+# 5e232572
+; yule: 「なるほど、それでここまで……[i][char yule.emi]知性のあるあなたは、あの邪気から逃げて来たわけですね？」
+yule: "Well, so far ……[i][char yule.emi] You've escaped from that Evil Force, haven't you?"
+
+# 64cf0045
+; merman: 「そうだよ。そして我の見立てでは、このハイランドの【海】が、我が引っ越すのにちょうどよかった」
+merman: "Yes, and in my opinion, this 【 Sea 】 of Highland was just right for me to move in."
+
+# ab7b6f7b
+; hime: 「引っ越し？」
+hime: "Moving?"
+
+# 1264a298
+; merman: 「ああ。海から川を遡って、この近くまで移動してきた」
+merman: "Yeah. I've been moving up the river from the sea to this neighborhood."
+
+# 4f71574c
+; me: 「ヒヒーン（でも何でこんな水のないところで、倒れてたんだ？）」
+me: "niegh (But why did he fall down in such a waterless place?)"
+
+# f02eddb8
+; merman: 「それがね。途中から、ドラウグが追ってきてよ」
+merman: "Well, Draugur follows me halfway."
+
+# 55dee578
+; hime: 「ドラウグって、先のあれだよね？」
+hime: "The Draugur is the one ahead, isn't it?"
+
+# 2c5a9476
+; me: 「ヒーン（あの化け物、こいつが引き寄せてきたんだ……）」
+me: " niegh (That Monster, he drew me in ……)"
+
+# 6df88a70
+; merman: 「いきなり攻撃してきて、小さな傷は負ってしまったが、緊急脱出には成功した。[i]しかし、飛んできた先がこの地面でな」
+merman: "He suddenly attacked me and sustained a small wound, but I succeeded in getting out of the way.[i]But the end of the flight is here."
+
+# 883bb591
+; yule: 「ああ、だからこんなところで倒れてたんですね」
+yule: "Oh, that's why you fell down here,"
+
+# 35e0192b
+; merman: 「ああ。こう、少しずつ湖の方まで、移動はしてたんだけど……」
+merman: "Yes. I was moving towards the lake little by little, ……."
+
+# c79abb2
+; マーマンは地面で体をくねくねしながら、陸地での移動のマネをした。
+merman, wriggling on the ground, imitated the movement on land.
+
+# 3c2d31aa
+; なるほど。足がないから、手と体を使って移動か。
+I see. Since you don't have legs, do you use your hands and body to move?
+
+# d5ee84c4
+; 気持ち悪いな。
+That's disgusting.
+
+# 4a1e34c3
+; merman: 「流石に疲れるわ！移動も遅いし、このままでは……」
+merman: "As expected, I'm tired! I'm moving slowly, and if things go on like this, ……."
+
+# 973b007b
+; yule: 「そうですか。災難でしたね」
+yule: "I see. It was a disaster."
+
+# 357235a
+; merman: 「しかし、今回はついてるな。[i]ちょうどよかったわ！」
+merman: "But this time it's lucky.[i]It's just right!"
+
+# a2604261
+; yule: 「何がです？」
+yule: "What?"
+
+# b3740a79
+; merman: 「お前ら、そこの広い湖まで、我を連れて行きたまえ」
+merman: "Take me to the great lake there,"
+
+# b4b9a8fe
+; 偉そうにいいやがった。
+He said with great importance.
+
+# 5be1a832
+; yule: 「いや、面倒くさいですけど」
+yule: "No, it's too much trouble,"
+
+# bc70b52c
+; me: 「ヒヒーン（うん。あまり乗せてあげたくないな）」
+me: "niegh (Yes, I don't really want to give you a ride.)"
+
+# db2f36ee
+; yule: 「ですね。では、{playerName}。もう行きましょうか」
+yule: "Well, then, {playerName}. Shall we go now?"
+
+# a2921bef
+; me: 「ヒーン（ああ、行こう）」
+me: "niegh (Oh, let's go.)"
+
+# 46d1df6e
+; hime: 「えっ？でも……うん」
+hime: "What? But …… Yes."
+
+# db54ebe6
+; ほっておいてもどうにかなるだろう。
+It will be all right to leave it alone.
+
+# f306fcb9
+; ちょっと楽しようとしてる奴など助ける暇はない。
+There's no time to help a guy who's trying to have fun.
+
+# e0b679de
+; me: 「ヒヒーン！！」
+me: " niegh!"
+
+# 81bab332
+; このキモいやつから早く離れようと、足を蹴り始めたところが……
+I started kicking my foot to get away from him quickly ……
+
+# 95268e29
+; merman: 「ちょ、ちょ、ちょ、ちょっとまって！」
+merman: "`Wait a minute!'"
+
+# ab0197f7
+; マーマンが、俺の足を引っ張った！
+merman pulled me's leg!
+
+# 217e16c8
+; me: 「ヒヒーン！」
+me: " niegh!"
+
+# 256a789e
+; merman: 「グギャァァァー！」
+merman: "Goo-goo-goo-goo-goo-goo!"
+
+# c0b837f
+; me: 「ぶるるる（あっ、すまん）」
+me: "`I'm sorry,'"
+
+# beb23962
+; 思わす蹴ってしまった。
+I kicked it to remind you.
+
+# 441cf66b
+; あまりにも気持ち悪くてな。
+It's so disgusting.
+
+# 69047481
+; merman: 「いたいじゃねーか！」
+merman: "`I wish I had!'"
+
+# ed9e342e
+; 俺に蹴られて、少し離れたところで、マーマンがまた俺たちを引き止めた。
+At a short distance, being kicked by merman, me stopped them again.
+
+# 799503fd
+; merman: 「ち、ちょっと、話を聞いてくれ」
+merman: "Well, listen to me,"
+
+# 209202d1
+; yule: 「なんです？ユールちゃんたちも急いでるんで」
+yule: "What? Yule are in a hurry, too."
+
+# abcc8f47
+; merman: 「お前たち、何か知りたい事はないか？[i]ほら、我が教えてあげられるぞ。[i]我、賢者だからよ」
+merman: "Is there anything you want to know?"[i]Look, I can teach you.[i]for I am a wise man."
+
+# 967dc566
+; yule: 「ああ。色々と教えてあげる代わりに、そこの湖まで連れて行けって？」
+yule: "Yes. Instead of teaching you a lot, you want me to take you to the lake there?"
+
+# fe02ccd8
+; merman: 「そうさ」
+merman: "Yes,"
+
+# d1164d5d
+; yule: 「どうします？{playerName}。マーマンの申し出を受けますか？」
+yule: "What shall I do, {playerName}?merman Will you accept my offer?"
+
+# 2cf328e8
+; me: 「ヒーン（そうだな……）」
+me: " niegh (Well, ……)"
+
+# 6c903359
+; 言われて見たら、色々と知りたい事は多かったな。
+There were a lot of things I wanted to know.
+
+# 96938e1d
+; しかしこいつ、どう見ても賢者っぽくないけど、信じていいのかな？
+But he's obviously not a wise man, but can I trust him.
+
+# 2ee6902d
+; @choice "受ける" goto:6_11_4_merman2
+@choice "Receive" goto:6_11_4_merman2
+
+# d27e5e7a
+; @choice "受けない" goto:ed_6_11_4_merman
+@choice "I won't accept" goto:ed_6_11_4_merman

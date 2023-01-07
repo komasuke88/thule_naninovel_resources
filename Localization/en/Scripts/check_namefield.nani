@@ -1,0 +1,41 @@
+; Japanese <ja> to English <en> localization document for `check_namefield` naninovel script
+
+# e5a4bcd1
+; @input playerName summary:"俺の名前は……" value:{T_DefaultName}
+@input playerName summary:"The name of the me is ……" value:{T_DefaultName}
+
+# 9dee4e81
+;     girl: 「そんな、でっち上げにしても安直すぎませんか？」
+girl: "Isn't it too cheap to make up?"
+
+# bb23a652
+;     girl: 「それは人名ではないですよ」
+girl: "That's not a person's name,"
+
+# 77a3422d
+;     girl: 「えっ、それはアタシの名前にしたいです」
+girl: "Oh, I'd like to name it Atsushi."
+
+# 977a478d
+;     girl: 「えっ、アタシの本名と同じです」
+girl: "Oh, it's the same as Atashi's real name."
+
+# fcac9266
+;     girl: 「えっ、それはアタシの姉妹の名前から、他にしてください」
+girl: "Oh, please change it from the name of Atashi's sisters."
+
+# 754cdf4
+;     girl: 「えっ、それはお母さんの名前」
+girl: "Oh, that's your mother's name."
+
+# 1100fe06
+;     girl: 「えっ、それはドＭな変態の名前」
+girl: "Oh, that's the name of a strange metamorphosis."
+
+# f9600d5
+;     girl: 「えっ、性別ではなくてですね」
+girl: "Oh, not by sex,"
+
+# 694c8d45
+;     girl: 「えっ、そんな名前はイヤですよ。他にしてください」
+girl: "Oh, I don't like that name.Please do something else."

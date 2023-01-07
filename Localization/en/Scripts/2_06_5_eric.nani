@@ -1,0 +1,417 @@
+; Japanese <ja> to English <en> localization document for `2_06_5_eric` naninovel script
+
+# 5ad65d92
+; eric: 「まったくあの子は……」
+eric: "`She's ……,'"
+
+# 6b180de5
+; me: 「ハハハ……[i]教授とサラは、結構前からの知り合いですか？」
+me: "Hahaha ……[i] Have you known Sara for quite some time?"
+
+# 460299b5
+; eric: 「ああ。サラの母親はアイスランド人でね。[i]私とは昔から知り合いだったんだよ」
+eric: "Yes, Sara's mother is Icelandic.[i]I've known him for a long time."
+
+# 1e43d089
+; me: 「あ、なるほど」
+me: "Oh, I see,"
+
+# 629869e9
+; eric: 「思えば懐かしいもんだな。[i]サラの母親は今、ソコプテラ・カンパニーという大きな会社のオーナーで、お偉いさんになってるんだけど……」
+eric: "It's nostalgic to think of it.[i]Sara's mother is now the owner of a large company called Socoptera Company, and she is a great man ……."
+
+# 1cf8038f
+; me: 「ほぉ、そうだったんですね」
+me: "Oh, I see,"
+
+# e2f38b4b
+; サラってお金持ちって感じはしたんだけど、やっぱりそんな家柄があったのだな。
+Sara I thought he was rich, but he had such a family background.
+
+# 1e467e0a
+; ……それにしても……この教授の雰囲気……ちょっとやばいな。
+…… But …… This professor's mood …… It's kind of crazy.
+
+# 3ff0c3ec
+; eric: 「実はその会社は、彼女が２０歳の時に創ったもんでね。あの時はまだひよこだったんだ。と言っても私よりお姉さんだけど、彼女はすごい冒険家で……」
+eric: "Actually, the company was founded when she was twenty.She was still a chick then, but she's older than me, but she's a great adventurer and ……."
+
+# aaec1631
+; eric: 「最初は社員でもない私まで、散々振り回されたな……そう、それはもう４０年前の事、当時、お隣さんだった私は…………」
+eric: "At first, even I, who wasn't an employee, was swayed a lot …… Yes, that was 40 years ago, when I was my neighbor, …………."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9f8a137c
+; やっぱりだ。始まってしまった。
+I knew it. It started.
+
+# 92eb05dc
+; 説明好きな教授魂に火がついてしまった。
+The professor's love of explanation caught fire.
+
+# d64b1240
+; サラの家の話にも興味がないわけじゃないけど、
+It's not that I'm not interested in talking about Sara's house.
+
+# c67e927b
+; とても長くなりそうだったので、俺は急いで話題を変えた。
+It looked so long that me hurriedly changed the subject.
+
+# de73243d
+; me: 「と、ところで先、何か話そうとしてませんでした？」
+me: "By the way, didn't you try to say something?"
+
+# d9e39948
+; eric: 「あ、そうだった！」
+eric: "Oh, yes!"
+
+# 68b787f9
+; かかった。
+I got it.
+
+# 9c03cd1d
+; eric: 「{playerName}君。聞いてくれ。昨日また変な事件があったのだよ！」
+eric: "Listen, Mr. {playerName}.There was another strange incident yesterday!"
+
+# 6d2bbf87
+; me: 「はい。どんな話ですか？」
+me: "Yes, what are you talking about?"
+
+# 7860001e
+; eric: 「ここから一時間くらいの距離にある道路のサイドに【エルフの住処】が一軒あるんだけど」
+eric: "On the side of the road about an hour from here, there is a 】 residence."
+
+# ce0a9676
+; やっぱりエルフ関係の事件の話だったな。
+It was about the Elf affair, after all.
+
+# 6adc3d91
+; でも教授の昔話よりはこっちの方が面白い。
+But this is more interesting than the professor's old story.
+
+# f5745acd
+; me: 「また誰かが触れたんですかね？」
+me: "Did someone touch it again?"
+
+# 715e8ad
+; eric: 「毎朝、そのエルフの住処にお祈りを捧げてる知人が居るんだけどね」
+eric: "I have an acquaintance who prays at the residence of Elf every morning."
+
+# 63e02796
+; エルフの住処に祈りか。
+Prayers for the residence of Elf.
+
+# 890a86b8
+; アイスランドの民間信仰だと聞いたけど、さすがだな。
+I heard it's Icelandic folk belief, but that's a good idea.
+
+# dc182838
+; eric: 「そのエルフの住処が、一晩中、消えたらしい」
+eric: "It seems that the residence of Elf disappeared all night."
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# f04bd8f
+; ……と、一瞬驚いたけど、
+…… I was surprised for a moment.
+
+# 8fc6b5cd
+; 考えてみると、そんな大した事でもないかも。
+Come to think of it, it may not be such a big deal.
+
+# 79df83f9
+; なにせエルフの住処ってのは、道端に置かれてる人形の家のようなもんだ。
+After all, Elf's home is like a doll's house on the side of the road.
+
+# b99cd920
+; me: 「誰かが持って行ったりしたんじゃないですかね？」
+me: "Didn't someone take it?"
+
+# a757be2a
+; eric: 「でも痕跡さえも残ってない。[i]昨日まではちゃんとあったのに、今朝には跡形もなく」
+eric: "But there's not even a trace.[i]It was all right until yesterday, but there was no trace this morning."
+
+# 25ae46a2
+; me: 「泥棒が痕跡を消したりしたのかな……」
+me: "I wonder if the thief erased the traces ……"
+
+# 133d876
+; eric: 「いや、いくら周りを見ても破片さえも見当たらなく、最初から何もなかったように消えたんだとよ。それに盗まれたんじゃなくてな……」
+eric: "No, no matter how much I looked around, I couldn't find any fragments, and they disappeared as if nothing had happened from the beginning.And it wasn't stolen ……"
+
+# d89d6a5f
+; 教授は大事件みたいに言ってるけど、
+The professor says it's like a big incident.
+
+# 7352c2a7
+; あまり大した事件ではなさそうなので、適当に聞き流そうとした。
+It didn't seem to be a big deal, so I tried to ignore it.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 55874e57
+; eric: 「壊されて消えたのだ。[i]エルフの住処は、壊されたら消えると言うがな、[i]実例を聞いたのは、私も初めてだ」
+eric: "It was broken and disappeared.[i]Elf's place of residence will disappear if destroyed, but [i] I've never heard of such an example."
+
+# 9ab36686
+; me: 「……壊されたら、消える？」
+me: "If …… is broken, will it disappear?"
+
+# ac5999a0
+; eric: 「タイアの痕跡が残ってると言うのだ。[i]エルフの住処があった場所に。[i]きっと誰かが車でうっかりぶつかったんだよ」
+eric: "They say there are traces of Tyre left.[i]where Elf lived.[i]Someone must have accidentally bumped into me in the car."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 1e6ca9b1
+; eric: 「でも壊されたら普通、破片とか、痕跡が残るのだろう？[i]しかし、エルフの住処は何も残さなく、突然と幻みたいに消えるんだ」
+eric: "But if it is broken, do they usually leave debris or traces?[i]But the residence of Elf suddenly disappears like a vision without leaving anything behind."
+
+# c1adf13a
+; その話しを聞いて、俺は昨日の事を思い出した。
+The story reminded me of yesterday.
+
+# 5e5a0287
+; me: 「……そ、それ、壊した人は、どうなるんですかね？」
+me: "…… "Well, what will happen to the person who broke it?"
+
+# 8394357e
+; eric: 「最近のエルフの凶暴だからな。触れるだけでも祟りなんだ。壊したら……[i]その場で何かされただろうよ」
+eric: "It's the ferocity of Elf these days.It's a curse just to touch it.……[i] If you broke it, you would have done something on the spot."
+
+# 12c8b2be
+; me: 「……そ、その【エルフの住処】がある場所、詳しい位置を知ってるんですか？」
+me: "Do you know the exact location of 】 where 【Elf lives?"
+
+# 437899c8
+; eric: 「そうだ。知人の家がその辺だからな」
+eric: "Yes, my acquaintance's house is about there."
+
+# a21b911d
+; me: 「その場所はもしかして……」
+me: "The place is ……, by any chance."
+
+# d7a439b3
+; 俺はスマホを取り出して、グー○ルマップを開けて、教授に見せた。
+I took out Smartphont, opened the Goggle map, and showed it to the professor.
+
+# cbb4e13
+; me: 「この辺ですかね？」
+me: "Around here?"
+
+# 2e0388dd
+; eric: 「ああ、確かにこの辺りだ。[i]リングロードを続いてちょうど一時間距離だろう」
+eric: "Oh, certainly about here.[i]It's exactly an hour away from the Ring Road."
+
+# c74442f8
+; me: 「はい。具体的には……」
+me: "Yes, specifically ……."
+
+# 2f842126
+; そして俺は、その場所の特徴を思い出した。
+Then me remembered the characteristics of the place.
+
+# 29bfd7dc
+; me: 「……小さな橋の、すぐ隣？」
+me: "…… "Right next to the little bridge?"
+
+# 86d90205
+; eric: 「橋？[i]……いや、そこに橋などないんだ。川ならあるけど」
+eric: "Bridge? [i] …… No, there's no bridge there.There's a river."
+
+# cad676f7
+; me: 「そ、そうですか」
+me: "Oh, really?"
+
+# fd1efb64
+; eric: 「もしかして君……昨日何かあったか？」
+eric: "`Maybe you ……What happened yesterday?"
+
+# 99d08241
+; me: 「はい。小さな橋の辺りで、うっかり道路から離脱したんですが……」
+me: "Yes, I accidentally left the road around a small bridge, ……."
+
+# 5d8c1390
+; eric: 「事故ったのか！」
+eric: "Did you have an accident?"
+
+# 713c4520
+; me: 「事故は大したものではなかったですが、[i]その時、何かにぶつかって、それを壊した気がして……」
+me: "The accident wasn't a big deal, but [i] I felt like I bumped into something and broke it ……."
+
+# 31c2e85
+; eric: 「なんと！」
+eric: "Oh, my God!"
+
+# 140dc589
+; me: 「俺、どうにかなるんですかね？」
+me: "What will happen to me?"
+
+# 3cd4615b
+; eric: 「……いや。あまり心配するな。エルフの住処ではないかもしれん」
+eric: "…… No, don't worry too much.It may not be the home of Elf."
+
+# 2f987b9f
+; me: 「それならいいのですが」
+me: "I hope so,"
+
+# 37fe54d3
+; eric: 「道路からの離脱事故など、アイスランドでは日常茶飯事だしな。君の仕業ではないかもしれん」
+eric: "It's common in Iceland, like road break accidents.You may not have done it."
+
+# 5e000b00
+; me: 「そうですか」
+me: "Is that so?"
+
+# cfe2267b
+; eric: 「大体、エルフの住処を壊すくらいの事をでかしたら、多分、その場で祟りにあってたからな」
+eric: "I would have been cursed on the spot if I had done anything to destroy the residence of Elf."
+
+# 26955fc0
+; me: 「それは穏やかじゃないですね……」
+me: "That's not calm, is it ……"
+
+# dfbc4fea
+; eric: 「{playerName}はこうして無事にここにいるんだし、ま、多分違うだろう。そこには橋もなかったし」
+eric: "This is how {playerName} is safely here, and perhaps not.There was no bridge there."
+
+# 2dc3f34b
+; me: 「そ、そうですか。教授がそういうなら、少し安心ですが」
+me: "Oh, is that so?If that's the case with the professor, I'm a little relieved."
+
+# 14e21aa2
+; eric: 「私が覚えてる限り、その辺りには橋などなかったが、念のために、その知人にも連絡してみるよ」
+eric: "As far as I can remember, there was no bridge around there, but just in case, I'll try to get in touch with the acquaintance."
+
+# ffeb643
+; me: 「あ、ありがとうございます」
+me: "Oh, thank you."
+
+# 7d8558fc
+; eric: 「あ、そしてまた別の話しなんだが」
+eric: "Oh, and on another note,"
+
+# e28b9b16
+; me: 「はい？」
+me: "What?"
+
+# a009bedf
+; eric: 「私が昨日、資料をまとめて新しくわかったものなんだがね！」
+eric: "`I had put together the data yesterday and found out new!'"
+
+# 282c97a0
+; 教授はまた目をキラキラしながら、自分の話を聞かせようとしてた。
+The professor tried to tell his story again with his eyes sparkling.
+
+# 58d3a628
+; その様子を見て、怖づいた心が少し解けてきた。
+I felt a little relieved when I saw the situation.
+
+# fc170931
+; me: 「なんですか？」
+me: "What is it?"
+
+# 69d4ae57
+; eric: 「最近、異常気温のせいで、あちこちに緑の芝生が生えてるんだ。知ってるか？」
+eric: "These days, green lawns are growing everywhere because of the unusual temperature.Do you know?"
+
+# 61ade304
+; me: 「緑？いいえ。知りませんでした」
+me: "Green? No, I didn't know."
+
+# f9b575bf
+; eric: 「ああ。今は１２月なのにね、たまに、こんな風景が現れる場所があるんだよ」
+eric: "Yeah. It's December now, but sometimes there's a place where this kind of scenery appears."
+
+# ced849d4
+; 教授は自分のスマホを取り出し、写真を見せてくれた。
+The professor took out his Smartphont and showed me a picture.
+
+# 2e508fb1
+; me: 「美しいですね。[i]でもこれ、夏の写真なんじゃ……」
+me: "It's beautiful.[i]But this is a summer photo ……"
+
+# 930a8eba
+; eric: 「いや。撮れたのは昨日だ。私の知り合いがね」
+eric: "No, it was yesterday.an acquaintance of mine."
+
+# 927bf24c
+; me: 「昨日って、１２月なのに？」
+me: "Yesterday was December?"
+
+# 4f3a4fad
+; eric: 「ああ。これは普通じゃない。[i]こんな夏草など、冬にはありえない事なんだよ」
+eric: "Yes, this is not normal.[i]It's impossible in winter to have a summer plant like this."
+
+# f83d39e
+; me: 「確かに、それはそうですね」
+me: "That's true,"
+
+# abf6b933
+; eric: 「それが今のアイスランドで起こってる、不可思議な現象の一つなんだ」
+eric: "That's one of the mysterious things that's happening in Iceland today."
+
+# eaba4
+; 異常高温に、異常な自然現象。
+Abnormal high temperatures, abnormal natural phenomena.
+
+# c83d16f9
+; eric: 「これについては今、国からでも調査中なのだが……まだ原因は何もわかってないみたいだ。[i]しかし、私はその原因に思い当たる事がある」
+eric: "We're investigating this from the government, but …… we don't seem to know the cause yet.[i]However, I have something that comes to mind."
+
+# a444f199
+; me: 「フルドゥフォルクの仕業だと？」
+me: "The work of Huldufolk?"
+
+# d0a75489
+; eric: 「そうだよ！最近も目撃談をまとめてみたら、すべて緑の芝生が生えてる場所だったんだ」
+eric: "Right! I've recently compiled eyewitness accounts and found that they were all green grasses."
+
+# 2e088a82
+; me: 「それは確かに発見かも」
+me: "It may indeed be a discovery,"
+
+# e954b1b9
+; eric: 「それで緑の芝生とエルフとの関係性をはっきりして、国に伝えようとしてるんだ」
+eric: "And I'm trying to clarify the relationship between the green grass and Elf and tell the country,"
+
+# 5e000b00
+; me: 「そうですか」
+me: "Is that so?"
+
+# c19c62da
+; eric: 「君も、旅行中に緑色の風景を発見したら、よく見回ってみるといい。エルフがいるかも知れない」
+eric: "If you find a green landscape while traveling, you should look around carefully.Elf There may be."
+
+# 9e2e0504
+; me: 「そうですね。エルフを見かけたら、その場所を教授に教えればいいわけですね」
+me: "Yes, if you see Elf, you can tell the professor where it is."
+
+# 5f4b7f16
+; eric: 「そうだよ。情報収集に協力してくれ」
+eric: "Yes, help me gather information."
+
+# 40ea62ba
+; me: 「はい。わかりました」
+me: "Yes, I understand."
+
+# 75913cbc
+; しかし、この異常現象は、俺には得かも知れない。
+However, this abnormal phenomenon may benefit me.
+
+# 32789b65
+; 冬なのに、アイスランドの夏の風景まで見れる事ができるんだから。
+Even though it's winter, you can see the summer scenery of Iceland.
+
+# 97b0d945
+; 今回の旅行記で、冬と夏のアイスランド写真も撮れて、ユニークな旅行記になりそうだ。
+With this travelogue, you can take pictures of Iceland in winter and summer, which is likely to be a unique travelogue.

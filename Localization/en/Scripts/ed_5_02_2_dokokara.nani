@@ -1,0 +1,89 @@
+; Japanese <ja> to English <en> localization document for `ed_5_02_2_dokokara` naninovel script
+
+# aadcc802
+; me: 「俺は海からきた」
+me: "The me came from the sea,"
+
+# ad96c57d
+; yule: 「はい？？？」
+yule: "What???"
+
+# ed53f2ea
+; そして俺は自分でも信じられないスピードで、海へと駆け出した。
+Then me ran to sea at an incredible speed.
+
+# 4d38dc78
+; 早く帰らないと！
+I have to hurry up and go home!
+
+# 698f45bb
+; me: 「けけけけけけけけけけけけけけけけけけけけけけけけけけけけ」
+me: "`I'm going to kick you, I'"
+
+# 9224a007
+; ああ海だ！
+Oh, the sea!
+
+# 34a2f265
+; 我らの故郷。
+our home town.
+
+# f8632d3e
+; ああ、
+Oh, my God.
+
+# b1ddc174
+; なんて、心地よいんだ！
+How comfortable!
+
+# 5913bfb0
+; すぐに行くからね。
+I'll be right there.
+
+# ed82c
+; いあ！いあ！
+Hey! Hey!
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 48e8f66f
+; yule: 「そ、そんな、{playerName}、なんて事……」
+yule: "Oh, my God, {playerName}, ……,"
+
+# a2e468b3
+; 「ゆ、ユールちゃんの魔法で、なんとかならない？」
+"Yu, can't you manage with the magic of Yule?"
+
+# 3d2836
+; 「……」
+「……」
+
+# 75f943f4
+; 「だ、駄目です。もう手遅れです」
+"No, I can't.It's too late."
+
+# 8b000ce1
+; 「こんなに早く狂死なんて、なんて悲しい事……ユールちゃんが愚かでした……」
+"What a sad thing …… was foolish to die so quickly."
+
+# 6585f9ff
+; 「うぅぅぅ……{playerName}」
+`Oh, ……{playerName},'
+
+# af3d7cbf
+; 「せめてあの世では、どうか穏やかな心を失わないように……」
+"At least in the afterlife, I hope you don't lose your peace of mind ……"
+
+# 41597cb1
+; <ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに……
+<ruby=" Gledileg jol"> Gleðileg jól</ruby>.Blessings of the Holy Night, …… to you

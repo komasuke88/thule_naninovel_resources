@@ -1,0 +1,229 @@
+; Japanese <ja> to English <en> localization document for `vik` naninovel script
+
+# 949481b8
+; yule: 「ここはレイキャヴィクじゃないですよ？なんでここで車停めてるんですか？」
+yule: "This is not Reykjavik, is it?"Why are you parked here?"
+
+# 851e817a
+; me: 「このVikが、一番近い街だったから」
+me: "Because Vik was the nearest town"."
+
+# 995d87ab
+; yule: 「えっ！？それはどういう……」
+yule: "What!? What kind of …… is that?"
+
+# 71613441
+; me: 「ユールちゃん、目的地はどこでもいいって言っただろう？」
+me: "I told you, Yule, that you could go anywhere?"
+
+# 162f02f
+; yule: 「えええ？いやいや、言ったじゃないですか〜！{playerName}について行くって」
+yule: "What? No, no, I told you! I'm going to follow {playerName}."
+
+# eaac6286
+; me: 「あれ？本気だった？」
+me: "Huh? Did you mean it?"
+
+# 27a1ecfe
+; yule: 「本気ですよ〜レイキャヴィクまで連れってってくださいよ」
+yule: "I'm serious. Please take me to Reykjavik."
+
+# a5bbda47
+; @choice "レイキャヴィクまで" goto:.return_road
+@choice "Until Reykjavik" goto:.return_road
+
+# e48069f3
+; @choice "降ろす" goto:.badend
+@choice "Down" goto:.badend
+
+# 4a4b88c1
+; me: 「わかった。引き返そう」
+me: "All right. Let's turn back."
+
+# bfd1cc0d
+; yule: 「やーい！ありがとうございます！愛してます！」
+yule: "Hi! Thank you!"I love you!"
+
+# 5b7d776c
+; me: 「いや、ここで降りろ」
+me: "No, get off here,"
+
+# fa35bba2
+; yule: 「ほ、本気ですか？」
+yule: "Are you serious?"
+
+# 9ffd2a7a
+; me: 「ああ。ここならヒッチハイクも容易そうだし」
+me: "Yes, Hitchhiking seems easy here."
+
+# ef43070c
+; yule: 「あ、いや、その、ユールちゃん、{playerName}について……」
+yule: "Oh, no, about ……, {playerName},"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# c06715ed
+; yule: 「……うぅぅ……わかりました。では、お気をつけて……」
+yule: "`I see …… ……,Be careful, ……."
+
+# 9f7cb445
+; こうして、俺はユールちゃんをVikで降ろして、一人でレイキャヴィクへ向かった。
+Thus me dropped Yule off with Vik and headed for Reykjavik alone.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# f4952392
+; そして俺は永遠に、街へ着く事はできなくなってしまった。
+and me could never reach the city.
+
+# b227216c
+; 南アイスランドの小さな町、 <ruby="ヴィーク・イ・ミルダル"> Vík</ruby> í Mýrdal
+a small Village of southern Iceland, <ruby="Vique is Mildal">V ík</ruby> íM ýrdal
+
+# f0e52e90
+; 通称、 <ruby="ヴィク"> vik</ruby>。
+Commonly known as <ruby="vik">vik</ruby>.
+
+# de9b9135
+; 近くでレイニスドランガルのトロール岩が見える位置にある町だ。
+It is Village, where you can see the Troll rock of Reynisdrangar nearby.
+
+# 73da185
+; 南アイスランドの真ん中くらいで、交通の要地ではあるが、
+It is in the middle of South Iceland, and it is a transportation hub.
+
+# 860bb0dd
+; 建物はあまり多くなく、人口は約300人くらいだという。
+There are not many buildings, and the population is about 300 people.
+
+# 495071e3
+; 『小さな町』って表現がビッタリ似合う。
+『 The expression "small Village』" suits you perfectly.
+
+# 9d5d5865
+; me: 「ガソリンスタンドは……[i]っと、それより……」
+me: "The gas station is ……[i] and more ……."
+
+# d417567a
+; 車もそうだけど、人も、腹が減った。
+Like cars, people are hungry.
+
+# 3380df9
+; 店を探そう。
+Let's find a shop.
+
+# 88449027
+; me: 「ふむ」
+me: "Well,"
+
+# d3825840
+; 適当に目の前で見えてるRestorantに入った。
+I went into Restorant, which I could see right in front of me.
+
+# f39c39d1
+; me: 「メニューは……」
+me: "The menu is ……."
+
+# 2eb17262
+; 羊肉にしようか。
+Shall we have lamb?
+
+# e9e46a09
+; me: 「うむ……」
+me: "Well, ……,"
+
+# 7aaa9252
+; 高い割には……[i]量も多くないし、見た目があまり美しくないな。
+……[i] It's not too much for its high price, and it doesn't look very beautiful.
+
+# d6842dd6
+; me: 「でもまぁ……頂きます！[i]……うぉ……？」
+me: "`But I'll have ……!'[i]…… ……?"
+
+# 9897d228
+; 味は意外と、いや結構……悪くない。
+The taste is surprisingly good, no, not bad …….
+
+# dcc97fec
+; 腹が減ってるせいなのかな。
+Maybe it's because I'm hungry.
+
+# 975291c0
+; じゅるっとした食感がたまらない。
+I can't stand the soft texture.
+
+# a6898f00
+; me: 「おぉぉぉ」
+me: "Oh,"
+
+# 20d3ad2a
+; me: 「ふぅ、食った食った」
+me: "`I've eaten,'"
+
+# 1e2f7d09
+; 量が少なかったため、すぐに一皿やってしまい、すぐにレストランを去っていた。
+The portion was small, so I quickly finished a plate and left the restaurant right away.
+
+# f5fba933
+; me: 「腹も満たしたし、ちょっとだけ散歩するか！」
+me: "`I'm full, and I'll take a little walk!'"
+
+# bda7094c
+; 散歩と言っても、少しだけ車で来た。
+I came by car for a short walk.
+
+# 7aae032d
+; VIK町の近くの観光名所、 <ruby="ギーギャギャ"> Gígjagjá</ruby>。
+<ruby="Giegaga">G ígjagj á</ruby> is a tourist attraction near VIK Village.
+
+# 7b71bbda
+; 通称『ヨーダーの洞窟』と呼ばれてる、 <ruby="クヨルレイフショフディ"> Hjörleifshöfði</ruby>という山の洞窟だ。
+It is a mountain cave called 』 of 『Yoda, commonly known as <ruby="Kuyeolleifshovdi">Hj örleifsh öf ði</ruby>.
+
+# ed845947
+; me: 「ヨーダーって何が……って、おお！？」
+me: "What …… is Yoda, oh!"
+
+# 773ec17c
+; ヨーダーの姿を思い出しながら観てると、頭に浮かんできた。
+As I watched Yoda remembering her figure, it came to my mind.
+
+# bde15c2e
+; 穴が開いてる様子が、確かにスターウォー○のヨーダーと似てる。
+The hole is certainly similar to Star War○'s Yoda.
+
+# 83f0b0d6
+; me: 「一番上の穴が頭で、胴体、足まであるな」
+me: "The top hole is the head, the torso, and the feet."
+
+# 6622b643
+; 一回ヨーダーだと思って見ると、もうヨーダーの姿しか思い浮かばない。
+Once I think of Yoda, I can only think of Yoda.
+
+# 3536666a
+; me: 「なるほどね」
+me: "I see,"
+
+# 8ceedfe4
+; ヨーダーの洞窟がある山も観物ではあるが、洞窟の写真だけ撮って、また町に戻った。
+The mountain where Yoda's cave is located is also a sight, but I only took pictures of the cave and returned to Village.
+
+# 183610bc
+; me: 「俺はお腹いっぱいだけど、相棒にも飯を食わせないとな」
+me: "I'm full of me, but I'll have to feed my partner."
+
+# 463e6061
+; ガソリンスタンドに寄って行くのをうっかり忘れてたよ。
+I forgot to stop by the gas station.

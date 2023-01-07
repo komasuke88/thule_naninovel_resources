@@ -1,0 +1,677 @@
+; Japanese <ja> to English <en> localization document for `3_03_3_yulelads` naninovel script
+
+# 3ea899f
+; ……
+……
+
+# e14f115
+; me: 「……で、その後の記憶がないんだ。だからこのネックレスが付けられるとしたら、昨日の夜なんじゃないかと……」
+me: "and I don't remember the rest of …….So if I could get this Neckless, I think it would be last night ……."
+
+# 43d3ac95
+; lilja: 「……そのユールちゃんって人、[i]家がディムボルギルだって？」
+lilja: "…… "That Yule is a person. [i] The house is dimmuborgir?"
+
+# 64c77488
+; リルヤは信じられない表情でそういった。
+said Lilya with an incredible expression.
+
+# f9c21bb0
+; ネックレスの事よりも、今はユールちゃんの方が気になるらしい。
+It seems that Yule is more concerned about him now than about Neckless.
+
+# 291d530a
+; me: 「ああ、たしかにそう言ってたよ。覚えてる」
+me: "Oh, I'm sure he said so.I remember."
+
+# 47e8fdf3
+; lilja: 「……なるほど、このネックレス、このスプーンの形、持ち主は多分……ディムボルギルの……」
+lilja: "…… "Well, this Neckless, this shape of Spoon, probably owned by ……dimmuborgir."
+
+# 7692eee2
+; リルヤは何か考えて一人でつぶやいた。
+Lilya murmured to himself, thinking of something.
+
+# c89645c3
+; me: 「ユールちゃんの事、知ってるの？」
+me: "Do you know about Yule?"
+
+# c0b7b5b3
+; lilja: 「いいえ。[i][char lilja]だけど彼女の家の事なら、知ってるの」
+lilja: "No. [i] [char lilja] But I know about her house."
+
+# 36a18631
+; me: 「家って、ディムボルギル？」
+me: "Is a house dimmuborgir?"
+
+# 3294ca29
+; lilja: 「ええ。ディムボルギル。[i]そこは、人が住んでない場所なの」
+lilja: "Yes. dimmuborgir. [i] It's a deserted place."
+
+# 8dfc780e
+; me: 「え、ではユールちゃんの家ってのは……」
+me: "Well, then ……'s house is Yule,"
+
+# 8b4110c4
+; lilja: 「そこに住んでるのは、人間ではない者たちよ」
+lilja: "Those who live there are not human beings,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# d9b49862
+; って事はなんだ。
+What does that mean?
+
+# cb7fe682
+; 人でならざる者？
+Who's not human?
+
+# 666b9b37
+; ユールちゃんが？
+Yule What?
+
+# f6d60737
+; @choice "そうかも知れない" goto:.soukamo
+@choice "Maybe so" goto:.soukamo
+
+# 3047766c
+; @choice "馬鹿げた事を" goto:ed_3_03_3_bakana
+@choice "Something ridiculous" goto:ed_3_03_3_bakana
+
+# f08c2a51
+; 人でならざる者。
+a person who is not a person.
+
+# 584dbaa8
+; それは、俺も最初に考えた事だ。
+That was the first thing me thought about.
+
+# 7bd044c4
+; ユールちゃんが自分の家を嘘で言ったのかも知れないが、
+Yule might have told a lie about his house;
+
+# 5ae4b816
+; むしろ嘘でない方が、納得がいく。
+Rather, it's more convincing if it's not a lie.
+
+# ae2de23a
+; ユールちゃんは、人間ではないかもしれない。
+Yule may not be human.
+
+# 7d7b7dd7
+; だとしたら、昨日の事も全て辻褄が合う。
+If that were the case, everything that happened yesterday would make sense.
+
+# 81b052a4
+; ユールちゃんがいきなり現れて、いきなり消えた事も。
+Yule appeared suddenly and disappeared suddenly.
+
+# e702b81e
+; 昨日の俺の不思議な出来事も。
+The mysterious events of me yesterday.
+
+# b3defde5
+; lilja: 「ユールラッズって、知ってる？」
+lilja: "Do you know Yulelads?"
+
+# 6a415df1
+; me: 「ユールラッズ？[i]……そういえば教授から聞いたような……」
+me: "Is it Yulelads?"[i]…… Come to think of it, ……, as I heard from the professor."
+
+# 79ec4c6a
+; lilja: 「ユールラッズはディムボルギルに住んでる、１３人のサンタクロースの事」
+lilja: " Yulelads is the 13 Santa Claus who live in dimmuborgir."
+
+# bef7965b
+; サンタクロース？？
+Santa Claus???
+
+# 7b400543
+; me: 「サンタクロースって、[i]クリスマスにプレゼントをくれる、ヒゲのおっさんの事？」
+me: "Do you mean the bearded man who gives you gift for Christmas?"
+
+# 821f6b5d
+; lilja: 「ヒゲ？そのイメージは人間たちが勝手に付けただけ。[i]そんな姿を見た者はいない」
+lilja: "Beard? That image was just put on by humans.[i]No one has ever seen such a figure."
+
+# d224ef57
+; me: 「それは、そうだろうな……」
+me: "Well, I suppose ……,"
+
+# c7126053
+; サンタクロースだし。
+Santa Claus That's right.
+
+# e4a91813
+; 誰も見たことがないはずだ。
+No one should have seen it.
+
+# 78d29fcd
+; me: 「というと、ユールちゃんの正体はそのサンタクロースだって事？」
+me: "So you mean Yule is that Santa Claus?"
+
+# 10fb89eb
+; lilja: 「うん。そう考えると、ワタクシが知ってる情報にピッタリと当てはまる」
+lilja: "Yeah. If you think about it that way, it fits perfectly into the information that vaxxes know."
+
+# b1a671de
+; me: 「どんな情報だ？」
+me: "What information?"
+
+# be280469
+; lilja: 「最近、そのユールラッズの目撃談が多く聞こえるんだけど」
+lilja: "I've heard a lot of sightings of Yulelads lately."
+
+# 223a2e62
+; me: 「も、目撃談？……サンタクロースを見たって？」
+me: "Witness accounts? You saw ……Santa Claus?"
+
+# 9b146ac2
+; lilja: 「ええ。そのサンタクロースはヒゲのおっさんではなく、赤い女の子だったっていう……」
+lilja: "Yes. The Santa Claus was not a bearded man, but a red Girl."
+
+# a7c55c5
+; me: 「赤い女の子……」
+me: "Red Girl……"."
+
+# 264727f
+; それを聞いて一瞬、頭によぎるものがあった。
+There was something in my mind for a moment when I heard it.
+
+# 70618bb2
+; ……あの時、ホットドッグの店の前で、たしかに……
+…… At that time, in front of a hot dog shop, ……
+
+# 9e1f8180
+; ……うっ……！
+…… Oh, ……!
+
+# ce1d7350
+; 思い出そうとしたら頭痛がして、思い出せない。
+When I try to remember, I have a headache and I can't remember.
+
+# 109531c6
+; ま、今の話とは関係ない事だろう。
+Well, it has nothing to do with what I'm saying.
+
+# f28cd8f4
+; lilja: 「あなたの昨日の体験談で、[i]彼女の家の名前を聞いて確信したわ」
+lilja: "[i]I was convinced to hear the name of her house from your experience yesterday."
+
+# 294daaa7
+; me: 「ユールちゃんが、ユールラッズだって事か」
+me: "You mean Yule?"
+
+# b5660c02
+; lilja: 「ええ。そしてそのネックレスは、そのユールラッズの物なの」
+lilja: "Yes, and the Neckless belongs to the Yulelads."
+
+# a3b9d190
+; me: 「……えっ？[i]これが、ユールちゃんの……？」
+me: "What ……? [i] Is this …… of Yule?"
+
+# e9cde413
+; lilja: 「１３人のユールラッズの一人に、[i]スプーンにまつわる伝承を持ってるヤツがいるの」
+lilja: "One of the 13 Yuleladss has a legend about [i] Spoon."
+
+# 6874af75
+; me: 「そうだったのか」
+me: "I see,"
+
+# 80dc7791
+; そう言われて、改めてユールちゃんの姿を思い出した。
+That reminded me of Yule again.
+
+# 9d9662d
+; そうか。
+Really。
+
+# aef48387
+; ユールちゃんが付けてたネックレスが、こんな形だったような気がする。
+I think the Neckless that Yule wore looked like this.
+
+# 7909692f
+; lilja: 「つまり、それはフルドゥフォルクのアイテム。[i]人間の手には余るものなの」
+lilja: "In other words, it is an item of Huldufolk.[i]It's too much for human beings."
+
+# f289d2b
+; me: 「……うん？」
+me: "What ……?"
+
+# 88057dba
+; lilja: 「あなたが持っていても仕方ないわ。[i][char lilja.b_a_u]そのネックレス、ワタクシにくれないのかしら」
+lilja: "It's no use having it.[i][char lilja.b_a_u] I wonder if you'll give that Neckless to a vaxxer."
+
+# f1d1f372
+; me: 「え？ユールちゃんのネックレスを、君に？」
+me: "What? Neckless of Yule to you?"
+
+# 6076b86c
+; lilja: 「ええ」
+lilja: "Yes,"
+
+# 38aa6e51
+; me: 「……うーん。[i]しかしユールちゃんの物っていうなら、他人に渡すのはちょっと気が引けるし」
+me: " …… Hmm. [i] But if it's Yule's, I'm a little reluctant to give it to others."
+
+# 4c07f1a
+; lilja: 「トロールの持ち物なんて、捨てても構わないのに」
+lilja: "I don't mind throwing away Troll's belongings,"
+
+# 1eecb5e3
+; me: 「トロール？」
+me: "Is it Troll?"
+
+# f4973b15
+; lilja: 「ユールラッズは、今ではサンタクロースとして知られてるけど、[i]もともとは邪悪なトロールなの」
+lilja: "The Yulelads, now known as Santa Claus, is originally an evil Troll."
+
+# 254069c0
+; その単語は知ってる。
+I know that word.
+
+# 9e1d8c8d
+; エルフと一緒に、多くのファンタジー物語に出てくる化け物の名前だ。
+It is the name of Monster, which appears in many fantasy stories along with Elf.
+
+# bba1599c
+; しかし、邪悪なトロールって、
+But the evil Troll,
+
+# 247148d4
+; ユールちゃんの可愛らしいイメージとはどうも合わない気がする。
+I don't think it matches the cute image of Yule.
+
+# 9553a741
+; 確かに最初のあの妖気は、そういう感じもしたけど……
+That first ghost felt like that, but ……
+
+# 1d367693
+; lilja: 「女の子の姿だからって油断しちゃいけないわ。[i]その本性は悪いトロールで、昔から人間に危害を加えてるの」
+lilja: "You must be on your guard just because you look like Girl.[i]It's a bad Troll, and it's been harming humans for a long time."
+
+# 66af969b
+; リルヤはトロールが嫌いみたいだ。
+Lilya seems to hate Troll.
+
+# 262fe76a
+; しかし俺はどうにもユールちゃんが憎めない。
+But me can't help but hate Yule.
+
+# 73b52ef0
+; lilja: 「そしてそのネックレスも、トロールの物なら、どんな呪いがかけてるのかわからない」
+lilja: "And I don't know what curse Neckless is under, if it belongs to Troll,"
+
+# 28aca586
+; そう、かな。
+I guess so.
+
+# 980d1dfd
+; これがユールちゃんのものだとしたら、悪いようにはならない気がするが……
+If this belongs to Yule, I don't think it's going to be bad, but ……
+
+# fca9a839
+; me: 「しかしな、人間の手に余る物って言うのなら、これ、リルヤにも渡せないじゃん？」
+me: "But if you say it's too much for a human being, you can't give it to Lilya, can you?"
+
+# 42d1fb98
+; lilja: 「ワタクシはいいの。[i]ワタクシは……普通の人間ではないのだから」
+lilja: "I don't mind vaxxes.[i]A viper is not an ordinary …… person."
+
+# 4e5b088f
+; me: 「……えっ？……普通の人間ではないって？」
+me: "What? …… You're not an ordinary person?"
+
+# 617f92ab
+; lilja: 「ええ。ワタクシは[i]エルフの末裔なの」
+lilja: "Yes, vaxxes are descendants of [i] Elf."
+
+# b7b81478
+; me: 「え、エルフの末裔？」
+me: "What? Descendants of Elf?"
+
+# 971f2ce
+; これまたとんでもない人が出てきた。
+There's another outrageous person.
+
+# ec50cdb8
+; 【エルフ教授】もかなり変だけど、それはギリギリ常識の範囲だ。
+【Elf Professor 】 is quite strange, but that's just common sense.
+
+# 8b53e643
+; しかし【エルフの末裔】ときたら、どうも常識の範囲では理解できない。
+However, 】, a descendant of 【Elf, cannot be understood by common sense.
+
+# 869b24e
+; 下手したら厨二病だ。
+If you're not good at it, you'll get kitchen sickness.
+
+# 2a1483b7
+; [br]普段だったらきっと真面目に聞かなかったのだろう。
+[br] He probably wouldn't have listened to it seriously.
+
+# 6ad8db7
+; だが、俺は昨日、常識の範囲では理解ない出来事を経験した。
+However, me experienced an incident yesterday that was beyond common sense.
+
+# d38afc75
+; だからリルヤの言葉も、ただ戯言だとは思わないで、尊重した。
+Therefore, I respected Lilya's words, not just a joke.
+
+# 664670a
+; 全てを信じるわけじゃないけど、可能性ならあると、そのまま受け入れた。
+I didn't believe everything, but I accepted that there was a possibility.
+
+# 36ee1f58
+; me: 「……そうか」
+me: " …… I see,"
+
+# 4e914466
+; lilja: 「……う、うん」
+lilja: "…… "Yes, yes,"
+
+# 8d59d5d
+; リルヤは俺が普通の反応をしたのが少し意外そうだった、
+Lilya seemed a little surprised that me had reacted normally;
+
+# 1738f20b
+; me: 「……このネックレスを欲しがるのも、何か理由があるんだな？」
+me: "Is there any reason why you want this Neckless?"
+
+# 54631655
+; lilja: 「そうよ。[i]ワタクシは、故郷へ帰りたいの。[i]ワタクシの、本当の家に……」
+lilja: "Yes. [i] The vaxxes want to go back home.[i]…… in the real house of a vaxxer."
+
+# 523cb18b
+; me: 「故郷？」
+me: "Hometown?"
+
+# ee1a2275
+; lilja: 「フルドゥフォルクが住んでる世界……人間が居ない、こことは異なる次元の世界」
+lilja: "The world where Huldufolk lives …… There are no humans, a different dimension from this one."
+
+# 4a338ae5
+; me: 「エルフの世界に、行きたいって事か」
+me: "Do you want to go to the world of Elf?"
+
+# 63c2edab
+; lilja: 「そうなの。ワタクシの本当の姿を出すために、どうしても、帰らなくてはならないの」
+lilja: "I see. I have to go home to show my true self."
+
+# 95904a0
+; me: 「えっと……」
+me: "Well, ……,"
+
+# 830d43de
+; よくわからない話になってきた。
+I don't understand the story.
+
+# e87806b4
+; lilja: 「この世界でも、時々は出てくるんだけど、それはホンの一瞬だけ。ここでは、本当のワタクシは自由になれない」
+lilja: "Even in this world, sometimes it appears, but it's only for a moment of Hong.Here, the real vaxxes cannot be freed."
+
+# 6e62b706
+; リルヤにも何やら事情があるらしい。
+Lilya There seems to be some reason for that.
+
+# 16d623e1
+; lilja: 「フルドゥフォルクは人間世界の裏側、パラレルワールドに住んでるけど……」
+lilja: " Huldufolk lives in the parallel world behind the human world, but ……"."
+
+# d0367e6e
+; それからもリルヤはフルドゥフォルクの世界について、ずっと話を述べた。
+Lilya continued to talk about the world of Huldufolk.
+
+# 2222d532
+; 理解できない話が多かったけど、面白かった。
+There were a lot of things I didn't understand, but it was fun.
+
+# 27333f50
+; フルドゥフォルクについて話してるリルヤは楽しそうだ。
+Lilya talking about Huldufolk looks fun.
+
+# 91592e32
+; 最初のぼーっとしてるイメージはもはやなく、情熱的な感じになってる。
+I no longer have the image of being absentminded at first, but I feel passionate.
+
+# a1c6b29b
+; こんなの、少しエーリック教授に似てるな。
+It's a bit like Professor Eric.
+
+# a1e59392
+; lilja: 「……それで」
+lilja: "And ……,"
+
+# c45c97c9
+; me: 「お、おう……」
+me: "Oh, ……,"
+
+# c4e25b2c
+; ひとしきり話し終えて、リルヤはまた俺のネックレスを指しながら。
+After a pause, Lilya pointed again to Neckless of me.
+
+# 71ab7ace
+; lilja: 「フルドゥフォルクのアイテムは、その世界の入り口を探すための、手がかりになるの。[i] <ruby="ガルドラボーク"> Galdrabók</ruby>の魔術書に、そう書いてあったわ……」
+lilja: "The items of Huldufolk provide a clue to finding the entrance to the world.[i] That's what <ruby="Galdraboke">Galdrab ók</ruby>'s magic book says ……"
+
+# f2e56acf
+; そう言いながら、物欲しそうな目で俺の首の方をじっと見つめた。
+As he spoke, he stared wistfully at me's neck.
+
+# 2cbe60d9
+; lilja: 「……人間がそんなもの持っていても、ロクな事にならないけど、[i][char lilja.b_close_e]……ワタクシには意味があるの。[i][char lilja]……だから……」
+lilja: "…… It doesn't make sense for people to have such things, but [i][char lilja.b_close_e] …… vaxxes have meaning.[i][char lilja] …… So ……."
+
+# a83dc701
+; me: 「うーん」
+me: "Well,"
+
+# d9e8a3f8
+; リルヤはもう一度俺にお願いした。
+Lilya asked me again.
+
+# ca23a2ba
+; これ、リルヤにあげるか？
+Should I give this to Lilya?
+
+# f4e432f3
+; いつの間にか俺の首に付けられていたけど、
+It was attached to me's neck.
+
+# abade9ec
+; どうせ俺にはいらないアイテムだし。
+It's not an item in me anyway.
+
+# dbc80ec7
+; ……いや、しかし……
+…… No, but ……
+
+# 9ef1da4b
+; ユールちゃんの物だとしたら、他人に渡すのは気が引けるし。
+If it belongs to Yule, I feel uncomfortable giving it to others.
+
+# b280f25
+; それに、
+Besides,
+
+# 944b57a4
+; このネックレスを持っていれば、再びユールちゃんに会える気がする。
+If I have this Neckless, I feel like I can see Yule again.
+
+# 64813cdf
+; そしたら、昨日の事についても、聞けるのではないか。
+Then, I wonder if I can hear about yesterday's
+
+# 867bdc97
+; @choice "あげない" goto:.agenai
+@choice "I won't give you" goto:.agenai
+
+# c99a6dca
+; @choice "あげる" goto:ed_3_03_2_ageru
+@choice "I'll give it to you" goto:ed_3_03_2_ageru
+
+# 96d20bae
+; me: 「ごめん。このネックレスは、俺が後でユールちゃんに返したい」
+me: "I'm sorry. me wants to return this Neckless to Yule later."
+
+# 222361ad
+; lilja: 「返す？そのネックレスを？そのトロールに？」
+lilja: "Do you want me to return that Neckless? To that Troll?"
+
+# 5ec73e05
+; me: 「うん。……どこでどうやって会えるかわからないけど、そんな気持ちなんだ」
+me: "Yeah. …… I don't know where and how we can meet, but that's how I feel."
+
+# 271af98e
+; lilja: 「……そう……」
+lilja: "…… "Yes, ……"
+
+# b3ed3dae
+; リルヤはがっかりした表情でうつむいた。
+Lilya looked down disappointed.
+
+# cdc16b40
+; その時、
+At that time,
+
+# 95611afa
+; プーンと。
+with a whizzing sound.
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 22f5ae3
+; 俺のスマホが鳴った。
+The Smartphont of me rang.
+
+# a6f963aa
+; 確認してみると、スケジュールの通知。
+I checked and found out that the schedule was notified.
+
+# 13cbb97f
+; me: 「あ、チェックアウトの時間？」
+me: "Oh, check-out time?"
+
+# 318d79
+; lilja: 「？」
+lilja: "？"
+
+# e4af7c8e
+; １２月１０日、１２時。
+December 10th, at midnight.
+
+# 140dd185
+; このヒルドルハットを、去る時だ。
+It's time to leave this Hildur Hut.
+
+# dccb29a5
+; タイムリミット。
+Time limit.
+
+# a11f881f
+; me: 「俺は、そろそろ行くよ……」
+me: "I'm about to go ……,"
+
+# 590a6a36
+; lilja: 「えっ？」
+lilja: "What?"
+
+# f6687d12
+; me: 「このホステル、今日までなんだ」
+me: "This hostel is to this day,"
+
+# 30312dd
+; lilja: 「……もう、ここには戻らないのかしら？」
+lilja: "…… "Are you not going back here?"
+
+# f7a1a9f8
+; me: 「そうなるね」
+me: "That's right,"
+
+# 271af98e
+; lilja: 「……そう……」
+lilja: "…… "Yes, ……"
+
+# ed150bbf
+; me: 「それではな。[i]短い間だったけど、情報ありがとう。とても助かった」
+me: "Well, then. [i] Thank you for the information. It was very helpful."
+
+# 24b37ada
+; そう挨拶して、部屋からさろうとした時、
+When I was about to leave the room after saying hello,
+
+# 52502ad7
+; lilja: 「……ディムボルギルに行けば」
+lilja: "If you go to ……dimmuborgir,"
+
+# 68c6e7e9
+; 背中越しに、リルヤが話しかけてきた。
+Lilya spoke over his back.
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# 86165b32
+; lilja: 「ディムボルギルに行けば、会えるかもよ」
+lilja: "If you go to dimmuborgir, you may see each other."
+
+# 40b12603
+; me: 「彼女の家に？」
+me: "In her house?"
+
+# 94f072be
+; lilja: 「ええ。そこの入り口には、ユールラッズを呼び出す方法が書いてわるから」
+lilja: "Yes. At the entrance, there's a way to call Yulelads."
+
+# 4c9b6763
+; me: 「トロールを呼び出す？そんな事できるの？」
+me: "Call Troll?"Can you do that?"
+
+# cec7ecf9
+; lilja: 「ええ。普通ならできないけど、あなたなら、もしくは……」
+lilja: "Yes, I can't normally do it, but if it's you, or ……."
+
+# dbb06882
+; me: 「いや、俺は別に特別じゃないんだけどね。普通の人間なんだし」
+me: "No, me is nothing special.He's an ordinary person."
+
+# 28617d0
+; lilja: 「でも、そのネックレスを返したいのでしょう？[i]なら、試してみる価値はあるわ」
+lilja: "But do you want to return the Neckless?"[i]Then it's worth a try."
+
+# 4d42a496
+; me: 「そうかな。[i]なら、行ってみるとするよ」
+me: "I see. [i] Then I'll go there."
+
+# 45fa3757
+; lilja: 「スヴォルスレイキルは１２月１５日に、人里に降りるの」
+lilja: "On December 15th, Thvorusleikir is going down to the village."
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# 425889a2
+; lilja: 「呼び出すならその前に行った方がいいわ。[i]ユールラッズは人里に降りたら、どこに行くか知らないから」
+lilja: "You'd better go before that, if you'd like to call me.[i]Yulelads for he doesn't know where to go when he gets off to the village."
+
+# f59c8905
+; me: 「呼び出すタイミングがあったのだな。[i]色々とアドバイス、ありがとう！」
+me: "There was a time to call.[i]Thank you for all your advice!"
+
+# fe911ef
+; lilja: 「……ええ」
+lilja: " …… Yes,"
+
+# 32d05c04
+; リルヤはトロールが嫌いだと思ったけど、意外と親切なのね。
+I thought Lilya didn't like Troll, but she's surprisingly kind.
+
+# 81d588b8
+; 俺は感謝の言葉を最後に、部屋を出ていった。
+I left the room with a word of thanks.

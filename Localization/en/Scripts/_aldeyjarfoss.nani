@@ -1,0 +1,113 @@
+; Japanese <ja> to English <en> localization document for `_aldeyjarfoss` naninovel script
+
+# a592a983
+; me: 「これは……神々のプールなのか？」
+me: "Is this the pool of the …… gods?"
+
+# 2e3beb8
+;  <ruby="アルデイヤフォス"> Aldeyjarfoss</ruby>
+ <ruby="Aldayaphos">Aldeyjarfoss</ruby>
+
+# 2d4fd18e
+; 広い柱状節理の玄武岩列に囲まれた滝。
+a waterfall surrounded by basalt rows of broad columnar joints.
+
+# a6148318
+; 円型のプールのような、キレイなエメラルド色の滝壷。
+A beautiful emerald waterfall basin like a circular pool.
+
+# 7dc6f3e5
+; その作り物めいた景色は、まるで異世界の建築物のような雰囲気を出してる。
+The picturesque scenery gives off an atmosphere like a building from a different world.
+
+# 5de6723f
+; 南のSvartifossにも似たような風景だけど、
+It's similar to Svartifoss in the south.
+
+# 8cd51353
+; こっちの滝が、より規模が大きく、壮大な感じがする。
+This waterfall is bigger and feels grander.
+
+# fe0a34f1
+; この滝は約９千年前の噴火で作られた <ruby="バルダダルスフロイン"> Báðardalshraun</ruby>溶岩地帯から、
+This waterfall is from the <ruby="Baldadalsfroin">B áðardalshraun</ruby> lava zone created by an eruption about 9,000 years ago.
+
+# 856eb65
+; その水の源流が流てくる。
+The source of the water flows.
+
+# 8d2d7e77
+; 名前はアルデイ島の滝という意味だけど、
+The name means Aldei Island Falls.
+
+# 9e84d7c8
+; アルデイ島が何なのかは現地の人も知らないという。
+Local people don't know what Aldei Island is.
+
+# 69318f46
+; yule: 「この近くには数々の有名な滝が多いですが、このアルデイヤフォスが一番だと言う人もいるんです」
+yule: "There are a lot of famous waterfalls around here, but some people say this Ardayaphos is the best."
+
+# 5eefe74b
+; me: 「ま、わかる気がする」
+me: "Well, I think I understand,"
+
+# d3857e64
+; アイスランドのどんな滝よりも、この円型の滝壷と玄武岩の壁は作り物めいて、また密かに隠されてる感じの空間感がすごい。
+More than any other waterfall in Iceland, this circular waterfall basin and basalt walls are constructive and have a hidden sense of space.
+
+# cdcb233a
+; yule: 「ですが、ここはFロード上にある滝なので、アクセスが簡単ではなく、観光客が多い場所ではないみたいです」
+yule: "But this is a waterfall on the F Road, so it's not easy to access and it's not a place with many tourists."
+
+# f9a08471
+; me: 「通りでね。人間世界に居た時には見過ごせたみたいだ」
+me: "On the street. I think I could have overlooked it when I was in the human world."
+
+# 69994eb4
+; この滝ももまた、アイスランドの秘境だって事だ。
+This waterfall is also a secluded part of Iceland.
+
+# a6e3d140
+; yule: 「ここはユールちゃんたちの家からも近いので、よくお母さんが入浴しに来ますよ」
+yule: "This is close to Yule's house, so my mom often comes to take a bath."
+
+# b392ccd0
+; me: 「えっ、グリーラが！？」
+me: "What, gryla!"
+
+# 7f9c24e2
+; yule: 「お母さんが今はどこにいるかは知りませんが、ここには居ないからご安心を」
+yule: "I don't know where your mother is now, but she's not here, so don't worry."
+
+# 29078b14
+; me: 「そ、そう」
+me: "Yes, yes,"
+
+# 618987e2
+; それにしても入浴って……
+Even so, taking a bath ……
+
+# 1e64de4e
+; ま、確かにあのデカさなら、この滝壺はバースみたいな形でちょうどいいかもな。
+Well, if it's that big, this waterfall pot might be just right in the shape of a berth.
+
+# ee743241
+; yule: 「ここから少し北へ向かうと、北アイスランドのリングロードが出ますよ」
+yule: "If you head a little north from here, you'll find the Ring Road of Northern Iceland."
+
+# 7508efad
+; me: 「ああ、もうすぐこのF26ロードの終点なんだな」
+me: "Oh, it's almost the end of this F26 Road."
+
+# b1854ef6
+; リングロードに出て他の場所へ向かうか、
+Go out to the Ring Road and go somewhere else.
+
+# f1a533f6
+; それともF26ロードの南の戻ってもうちょっとハイランドを回ってみるか。
+Or should I go back south of the F26 Road and go around Highland a little more?
+
+# 567ddfa
+; ……ま、気の向くままに行くぜ。
+…… Well, I'll do as I please.

@@ -1,0 +1,65 @@
+; Japanese <ja> to English <en> localization document for `saudarkrokur` naninovel script
+
+# 54fee11
+; me: 「町が見えてきたな」
+me: "I see Village,"
+
+# bd107359
+;  <ruby="ソイザウルクロウクル"> Sauðárkrókur</ruby>は、北アイスランドの大きな町。
+ <ruby="soiza ur crookle">Sau órkr Villagekur</ruby> is a large ðá in northern Iceland.
+
+# 5de287d8
+; アイスランド北部沿岸では2番目に大きな町だ。
+It is the second largest Village on the northern coast of Iceland.
+
+# 64be6576
+; 町の名前はこの地を横切ってる小川から由来した。
+Village's name came from a stream that ran across the land.
+
+# 4f67a363
+; 小川の名は <ruby="ソイザ"> Sauðá</ruby>で、
+The name of the stream is <ruby="soiza">Sau ðá</ruby>.
+
+# 385b58a7
+;  <ruby="ソイザウルクロウクル"> Sauðárkrókur</ruby>はソイザが北極海と接してる海岸を示す。
+ <ruby="Sau ðárkr ókur</ruby> indicates the coast where Soiza borders the Arctic Ocean.
+
+# 1d4e31a
+; ９世紀、ヴァイキングの定着地として始まったま町だ。
+Village began as a settlement for Viking in the 9th century.
+
+# e2d48cd2
+; me: 「ここは、天然温水プールが有名だってな」
+me: "This place is famous for its natural hot water pool."
+
+# b79289c
+; そのプールの名はGrettislaug、
+The pool is named Grettislaug;
+
+# 2f48f28e
+; だけど車でのアクセスが難しいため、あまり訪問者は多くない。
+However, it is difficult to access by car, so there are not many visitors.
+
+# f5628604
+; アイスランドの昔の伝説、 <ruby="グレッティル・サーガ"> Grettis</ruby> sagaで
+At the old Icelandic legend <ruby="Grettil Saga">Grettis</ruby> saga
+
+# 94ab956b
+; 主人公である無法者 <ruby="グレッティル"> Grettir</ruby>が、この近くのDrangey島から、
+Master A public outlaw named <ruby="Grettil">Grettir</ruby> from the nearby island of Drangey,
+
+# 95bfa881
+; およそ7.5kmを泳いできて、ここの天然温水プールで体を温めたという。
+He swam about 7.5 kilometers and warmed himself in this natural hot water pool.
+
+# 795903d4
+; 湯船は二つあって、自然でできた湯船を国が管理しながら維持してるみたいだ。
+There are two hot tubs, and it seems that the government maintains a natural bath.
+
+# fb21fce2
+; me: 「無法者の温泉か」
+me: "Is it an outlaw hot spring?"
+
+# c5b2b10
+; ま、久しぶりに湯船に浸かってみたい気持ちもあるけど、今は遠慮しとこう。
+Well, I want to soak in the bathtub for the first time in a while, but let's refrain from doing so now.

@@ -1,0 +1,221 @@
+; Japanese <ja> to English <en> localization document for `5_04_8_kakera` naninovel script
+
+# 3c7c6dd5
+; いきなりの、頭痛。
+A sudden headache.
+
+# 8a696547
+; アイスランドに来る前、日本での記憶を思い出そうとしたんだが、
+Before I came to Iceland, I tried to remember my memories in Japan.
+
+# 5939e745
+; しかし記憶がぼやけていて、思い出せない。
+But my memory is blurred and I can't remember.
+
+# febde694
+; 代わりに、激しい頭痛が俺を襲った。
+Instead, a severe headache hit me.
+
+# 95b837a8
+; me: 「あ、あ、あたまが……」
+me: "Oh, my head ……."
+
+# 12645948
+; yule: 「ど、どうしたんですか！{playerName}！？」
+yule: "What's the matter! {playerName}!"
+
+# 1adf937
+; me: 「日本での事を思い出そうとすると、頭が痛くて、思い出せない」
+me: "When I try to remember things in Japan, my head hurts and I can't remember."
+
+# 3070f4b8
+; yule: 「えっ！？」
+yule: "What!"
+
+# e301f7fa
+; me: 「こ、これはいったい……」
+me: "Oh, this is ……,"
+
+# 816acd23
+; yule: 「……えっと、{playerName}？」
+yule: "What, ……?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 8184989d
+; yule: 「{playerName}ってのは、ペンネームだって言いましたね？」
+yule: "I told you that {playerName} is a pen name?"
+
+# bfa0850d
+; me: 「そうだけど、それが？」
+me: "Yes, but that?"
+
+# fe15c9b3
+; yule: 「本当の名前、思い出せますか？」
+yule: "Do you remember the real name?"
+
+# 83a551fb
+; me: 「本当の名前？[i]……そうだな。[i]俺の本当の名前は……[i]っ！？」
+me: "Real name? [i] …… Yeah.[i]me's real name is ……[i]?"
+
+# 6ec109d7
+; まただ。
+Again.
+
+# 61b145f4
+; あたまがぼーっとなる。
+My head is dazed.
+
+# 749741e
+; me: 「お、思い出せない……」
+me: "Oh, I can't remember ……."
+
+# a03b5857
+; yule: 「……これは……多分あれですね」
+yule: "This is …… ……, I guess."
+
+# acc82dca
+; me: 「何か知ってるのか？」
+me: "Do you know what it is?"
+
+# b00aaa75
+; yule: 「{playerName}の記憶の欠片、[i]数人のエルフが分け持ってたと思いますよ」
+yule: "A fragment of {playerName}'s memory, [i] I think several Elfs shared it."
+
+# b326c508
+; me: 「えっ？俺の記憶の欠片？[i]今の記憶は、完全ではないって事？」
+me: "What? A fragment of me's memory?"[i]Do you mean that my memory is not perfect?"
+
+# 15ab0936
+; yule: 「はい。たまにこういうケースも事ありますよ」
+yule: "Yes, sometimes this happens."
+
+# d7d6f1d5
+; me: 「ど、どうしよう。こんな半端な記憶で」
+me: "What shall I do?with such a half-hearted memory."
+
+# db62d269
+; yule: 「この状態では、仮に元の世界に戻れても困りますね」
+yule: "In this situation, even if I could go back to the world I was in, I would be in trouble."
+
+# afbc95c0
+; me: 「そうだよ。これは困る。[i]名前も、住んでた家も、家族の顔も思い出せん」
+me: "Yes, that's a problem.[i]I can't remember the name, the house I lived in, or the face of my family."
+
+# 38754302
+; yule: 「ですよね」
+yule: "Right,"
+
+# 546b9243
+; me: 「……残りの記憶も、取り戻せるか？」
+me: "…… "Can I get the rest of my memory back?"
+
+# f4e57f85
+; yule: 「取り戻せますよ。少し面倒な事になりますが[i][char yule.l-kusu]……またご先祖様に尋ねればいいだけですよ」
+yule: "I can get it back.[i][char yule.l-kusu] …… All you have to do is ask your ancestors again."
+
+# 49476285
+; me: 「ご先祖様か、あいつら頼りになるな」
+me: "Your ancestors, don't count on them,"
+
+# fec6f0c7
+; yule: 「はい。ご先祖様は、偉い方々です」
+yule: "Yes, your ancestors are great people."
+
+# ad64f6a
+; me: 「ああ」
+me: "Ah,"
+
+# a13e8d73
+; yule: 「くすくす」
+yule: "The giggle,"
+
+# 5b0b8422
+; me: 「え、なに？」
+me: "What?"
+
+# 38851a06
+; yule: 「どうやら、{playerName}との旅は、もう少し続きそうですね」
+yule: "It seems that the journey with {playerName} will continue a little longer."
+
+# b471b24f
+; me: 「旅か……[i]ま、そうだな」
+me: "Travel or ……[i] Well, yes."
+
+# b6870765
+; ユールちゃんは、何故か嬉しそうだ。
+Yule looks happy for some reason.
+
+# ed7f8537
+; yule: 「それでは、行きましょうか」
+yule: "Well, shall we go?"
+
+# 2e0286bb
+; me: 「え、今直ぐ？」
+me: "What, right now?"
+
+# 1ecd4c8e
+; yule: 「ずっとここにいても仕方ないじゃないですか」
+yule: "It's no use staying here for a long time."
+
+# e1f2b10e
+; me: 「それはそうだが……[i]あ、また先の場所に、レイニスドランガルに戻るのか？」
+me: "Yes, but ……[i] Oh, are you going back to Reynisdrangar?"
+
+# 608d8da0
+; yule: 「いいえ。別の場所です。[i]一人のご先祖様に拝めるのは、一日一回で決まってますから」
+yule: "No, it's somewhere else.[i]You can worship one ancestor only once a day."
+
+# 5a01c7c7
+; そう言って、ユールちゃんは歩き出した。
+Then Yule began to walk.
+
+# f4a004b0
+; me: 「えっ、ちょっと」
+me: "Oh, wait a minute,"
+
+# a4a0d507
+; 俺もゆっくりと、ユールちゃんに続いて歩いていった。
+I followed Yule slowly.
+
+# f289d2b
+; me: 「……うん？」
+me: "What ……?"
+
+# 3ec7cf75
+; 歩いて数秒。
+A few seconds on foot.
+
+# e75bc317
+; 後ろで何か違和感を感じて、振り向いて見たら、
+I felt something was wrong behind me, so I turned around and looked at it.
+
+# 7c1d7521
+; そこにあった家は、消えていた。
+The house which was there had disappeared.
+
+# 81152f4a
+; me: 「あれ？？？」
+me: "Huh???"
+
+# 87a639e2
+; yule: 「あれは、{playerName}の記憶から作られた幻想空間ですからね。記憶を取り戻したら消えますよ」
+yule: "It's a fantasy space created from the memory of {playerName}. It will disappear when you regain it."
+
+# 47d04b05
+; me: 「そ、そう……」
+me: "Yes, ……,"
+
+# b2069ca4
+; 狐につままれたようだった。
+I felt as if I had been possessed by a fox.
+
+# dd364fce
+; ここに来てから、こんなのばっかだな。
+It's been like this since I came here.
+
+# 990589ac
+; yule: 「くすくす。[i]さぁー、ついてきてくださいね」
+yule: " giggle. [i] Now, follow me."

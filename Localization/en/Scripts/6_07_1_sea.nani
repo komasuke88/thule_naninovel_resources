@@ -1,0 +1,345 @@
+; Japanese <ja> to English <en> localization document for `6_07_1_sea` naninovel script
+
+# af40d8e7
+; 高速のボートみたいに、氷山が走る。
+Icebergs run like high-speed boats.
+
+# e4ce70dd
+; 不思議と体のバランスは安定してて、落ちてない。
+Strangely enough, my body balance is stable and I haven't lost it.
+
+# 38b4fae1
+; しかし……寒すぎる。
+But …… It's too cold.
+
+# 9d491a8c
+; me: 「う、海風が寒すぎる。なんとかならないか」
+me: "Well, the sea breeze is too cold.Can't you manage it?"
+
+# 4b912028
+; yule: 「あら、そうですか？」
+yule: "Oh, really?"
+
+# d1d7c998
+; hime: 「わたしはなんともないけど？」
+hime: "I don't care,"
+
+# 7b80604c
+; me: 「いや、お前達はね……」
+me: "No, you ……,"
+
+# d4bb2fc0
+; 人外だし。
+It's out of the ordinary.
+
+# 4c4cbac0
+; me: 「幽霊が羨ましいな」
+me: "I envy Ghost,"
+
+# 7c69605c
+; hime: 「そう？[i]わたしはむしろ残念だよ。[i]風を感じたいんだけど、何も感じられない」
+hime: "Really? [i] I'm rather disappointed.[i]I want to feel the wind, but I can't feel anything."
+
+# a5efcd70
+; me: 「幽霊って、感覚どうなってるんだ？」
+me: "How do you feel about Ghost?"
+
+# bf2c362
+; yule: 「幽霊は第六感だけで動いてると聞きました」
+yule: "I heard that Ghost only works with a sixth sense."
+
+# 30584096
+; hime: 「第六感か。確かにそんな感じ。[i]感覚はなくて、ただ情報として知ってるんだ」
+hime: "Sixth sense, I'sounds like that.[i]I don't feel it, I just know it as information."
+
+# 14d619cc
+; me: 「そっか。[i]……ま、とにかく寒いって！[i]どうにかならない？この船、室内はない？」
+me: "I see. [i] …… Anyway, it's cold! [i] Can't you do something about it?Is there no room for this ship?"
+
+# db109fa9
+; yule: 「仕方ないですね。[i][char yule.r-w]ユールちゃんが温めてあげましょう！」
+yule: "It can't be helped.[i][char yule.r-w]Yule will warm you up!"
+
+# cb8c67c1
+; そう言ってユールちゃんは俺にだっこしてきた。
+said Yule, and he fell for me.
+
+# a1420560
+; me: 「ちょ、ちょ、ちょっと！？」
+me: "Wait, wait, wait, wait, wait, wait, wait, wait!"
+
+# 79eb6b8f
+; yule: 「くすくす、あったかいですねー」
+yule: "It's warm, giggle,"
+
+# 63b6f59c
+; hime: 「あ〜！いいな！わたしも抱っこしたい！」
+hime: "Oh! That's great!"I want to hold him, too!"
+
+# a37bc885
+; me: 「いや、いくらお前が抱っこしてもしょうがないんだ！[i]そもそも冷たいのは顔で……あれ？」
+me: "`No, it's no use holding you!'[i]Is it your face that is cold in the first place ……?"
+
+# fdb6cfd6
+; me: 「寒くない？」
+me: "Isn't it cold?"
+
+# 801415bc
+; 不思議と、風を感じなくなった。
+Strangely enough, I no longer feel the wind.
+
+# 9acf4dc8
+; 髪がなびくので、風がやんだのではない。
+The wind didn't stop because my hair fluttered.
+
+# 79b1ff0f
+; 風がこんなに強いのに、寒くない。
+It's not cold even though the wind is so strong.
+
+# 4e49fa98
+; ユールちゃんがだっこしてるのは腹のあたりだけなのに。
+It's only around the stomach that Yule is sticking around.
+
+# 6e18a963
+; yule: 「ユールちゃんが魔法で暖かくしましたよ」
+yule: "The Yule has magically warmed me up."
+
+# b2490a6d
+; me: 「あ、魔法だったのか」
+me: "Was it magic?"
+
+# 3173dfee
+; 肌から感じる寒さは、もうない。
+I don't feel the cold from my skin anymore.
+
+# 1ef7e628
+; me: 「ありがとうユールちゃん、もう寒くない」
+me: "Thank you Yule, it's not cold anymore."
+
+# 52e3beda
+; yule: 「くすくす、未来の旦那の健康はちゃんと守ってあげないと」
+yule: " giggle, I must protect my future husband's health."
+
+# 56a82058
+; me: 「……でもこんな魔法なら、お前の抱っこはいらないんじゃない？」
+me: "But with this kind of magic, wouldn't I need your hug?"
+
+# c4b1f918
+; yule: 「あー！そんなに嫌がる事ないじゃないですか！もう……」
+yule: "Ah! You don't have to hate it so much!Now ……"
+
+# 5712d46b
+; me: 「……ま、まぁ」
+me: "Well, ……,"
+
+# a4fc3d09
+; 照れてるんだよ。
+I'm shy.
+
+# aff02108
+; 俺たち三人は、そうして海を駆け抜けていった。
+I and the three of them ran through the sea.
+
+# 4420480c
+; そうするうちに、前方に島がよく見えるようになった。
+In the meantime, I could see the island well in front of me.
+
+# 1922032
+; me: 「島が見えてきたな。あの島が目的地？」
+me: "I see an island.Is that the island your destination?"
+
+# e5bf95ca
+; yule: 「いいえ。あの島の向こうにもう少し行きます」
+yule: "No, I'll go a little further beyond that island."
+
+# 59a3a14c
+; me: 「そういえば、ビューちゃんがこの南の海が危ないって言ったんじゃないか？」
+me: "Come to think of it, didn't Byu say that this southern sea is dangerous?"
+
+# e64b2499
+; yule: 「いかれたやつらがいると言いましたね。[i]大丈夫です。ちゃんと気をつけると、ユールちゃんがやられる事はないのです！」
+yule: "I told you there were some crazy people.[i]It's okay.If you are careful, you won't get Yule!"
+
+# 8ab4d7cb
+; me: 「……あの島、ちょっと怪しくないか？[i]リンギバクじゃないんだろうな？」
+me: "…… "Isn't that island a bit suspicious?"[i]Lyngbakur Is it not?"
+
+# 6087040b
+; yule: 「目の前の島はちゃんとした島ですよ。リンギバクではありません」
+yule: "The island in front of you is a proper island.Lyngbakur Not."
+
+# 7194f188
+; hime: 「リンギバクって？」
+hime: "What is Lyngbakur?"
+
+# b941c551
+; me: 「海の化け物。島に偽装してる大きな化け物だ。こんな海の真ん中で現れると危ない」
+me: "The Monster of the sea, a large Monster disguised as an island.It's dangerous to show up in the middle of the sea like this."
+
+# 61b6e5a7
+; yule: 「心配いりませんよ。リンギバクなど簡単に退治できます。ユールちゃんの魔法で！」
+yule: "Don't worry.It is easy to get rid of Lyngbakur.by the magic of Yule!"
+
+# ba8e8d25
+; me: 「それは、心強いな」
+me: "That's reassuring,"
+
+# cd81f68f
+; hime: 「魔法っていいな。わたしにはそんな能力とかないのかな？せっかく幽霊になったのに」
+hime: "Magic is good.Don't I have that kind of ability?I've come all the way to Ghost."
+
+# 9f1ded09
+; yule: 「あなたにも、一つだけ能力があるはずですよ」
+yule: "You must have only one ability,"
+
+# d1521a5d
+; hime: 「えっ？あるの？わたしも魔法が使える？」
+hime: "What? Do you have one?Can I use magic, too?"
+
+# cd12dbe7
+; yule: 「いいえ。あなたのは魔法ではなく、呪いです。[i]人間を呪って、狂わせる事ができます」
+yule: "No, yours is not magic, but a curse.[i]You can curse people and drive them crazy."
+
+# f1a23c5d
+; hime: 「なにそれ格好悪い。[i][char hime.nico]……でもモンスターにも効くのなら、ちょっとは役に立つかも？」
+hime: "That's not cool.[i][char hime.nico] If it works for …… or monsters, it might help a little."
+
+# 6a4f89b0
+; yule: 「いいえ。呪いなどにかかるのは、人間だけです」
+yule: "No, only humans fall under curses."
+
+# aee704c5
+; hime: 「何の役にも立たないじゃん～」
+hime: "What's the use of course."
+
+# f2f4f8fe
+; そう言ってるうちに、島に近づいた。
+As he spoke, he approached the island.
+
+# 5b4be6e
+; me: 「あの島は……」
+me: "That island is ……,"
+
+# a0395c62
+; 不思議な島だ。
+It's a strange island.
+
+# d1f36c55
+; 何もない孤島だと思ったのに、近づいてみると、一軒だけ家があった。
+I thought it was an empty island, but when I approached it, there was only one house.
+
+# e9bd2f2a
+; yule: 「 <ruby="エリザエイ"> Elliðaey</ruby>島。[i]あそこの家は『世界一寂しい家』として知られてます」
+yule: "「 <ruby=" Ellidaey">Eli ðaey</ruby> Island. [i] That house is known as 『 the loneliest house in the world."
+
+# 78455c90
+; hime: 「確かに、孤立されてる感じがする」
+hime: "I feel like I'm isolated."
+
+# 67dbdded
+; me: 「いったい誰が住んでるんだ？」
+me: "Who in the world lives there?"
+
+# d1abc38e
+; yule: 「今は誰も住んでませんよ」
+yule: "No one lives there now,"
+
+# 74b3f3d5
+; me: 「誰もいない？」
+me: "Nobody?"
+
+# cd06622
+; yule: 「少し前まではエルフの家族が住んでたのですが……今はその気配もないですね」
+yule: "Until a little while ago, Elf's family lived there, but now there's no sign of it."
+
+# bb9a374e
+; hime: 「空き家だね」
+hime: "It's an empty house,"
+
+# 806f51f1
+; yule: 「はい。人間世界でも１９３０年に最後の住民は去って、今は無人島になってます」
+yule: "Yes, the last inhabitants of the human world left in 1930 and are now uninhabited."
+
+# a600645b
+; me: 「トゥーレでもアイスランドでも、捨てられた家か」
+me: "Is it an abandoned house in Thule or Iceland?"
+
+# 383785d2
+; yule: 「後でアタシたちがもらいましょうか？[i]あの家をユールちゃんと{playerName}の愛の巣にするのです。くすくす」
+yule: "Shall we have them later?"[i]I will make that house the nest of love between {playerName} and giggle."
+
+# eb2316c7
+; hime: 「まぁ、ロマンティック！」
+hime: "Well, romantic!"
+
+# eeb1dacd
+; @choice "いやいや" goto:.iyaiya
+@choice "No, no" goto:.iyaiya
+
+# 31cebbbf
+; @choice "今から住もうか" goto:ed_6_07_1_ellidaey
+@choice "Shall we live now?" goto:ed_6_07_1_ellidaey
+
+# 5fbb6b8f
+; me: 「いやいや」
+me: "No, no,"
+
+# 11e9f39e
+; ユールちゃんがまたふざけた事を言いだしたので、適当に流した。
+Yule began to say silly things again, so I just let them play.
+
+# ca87495d
+; 俺たちはエリザエイ島を通り過ぎて、ヘイマエイ島という島へ近づいた。
+The me passed Ellidaey and approached the island of Haimeaay.
+
+# cc1d61b3
+; me: 「あの島は、大きいな」
+me: "That island is big,"
+
+# e2efbce2
+; yule: 「ヘイマエイ島です。人間の世界でも、沢山に人が住んでる、大きな島です」
+yule: "It's Haymaay Island.It is a big island where many people live in the human world."
+
+# 3264c9fc
+; me: 「そこに、ご先祖様が？」
+me: "And your ancestors?"
+
+# fdb85f3a
+; yule: 「あの島の近くの小さな島です。あの大きな岩を通り過ぎると、見えてくるはずです」
+yule: "It's a small island near that island.If you pass that big rock, you'll see it."
+
+# 98de84e3
+; 少し右に進むと、小さな島の横に、小さな岩が立ってのが見えてきた。
+Going a little to the right, I saw a little rock standing beside the little island.
+
+# b722d0fc
+; yule: 「ほら、あそこです」
+yule: "Here it is,"
+
+# a7317e97
+; hime: 「へぇ？もしかしてあの岩がご先祖様？」
+hime: "What? Is that rock your ancestor?"
+
+# 5f5b0241
+; me: 「ああ。でも今まで見たのよりは、サイズが小さいみたいだな」
+me: "Yeah, but it's smaller than I've ever seen."
+
+# 19bc584b
+; yule: 「はい。あの方は多分、ユールちゃんと同じ年くらいに石化されたご先祖様で、若いですから」
+yule: "Yes, he's probably a petrified ancestor of about the same age as Yule, and he's young."
+
+# c65be265
+; me: 「それで若いって言ったのか……」
+me: "That's why you said you were young ……"
+
+# 609b5bb5
+; yule: 「……しかし、少し変ですね。ご先祖様の気配が感じられません。ソルスモルクの時みたいに」
+yule: "…… But it's a little strange.I don't feel any signs of ancestors.Just like when we did Thorsmork."
+
+# 154bf682
+; me: 「えっ？あのご先祖様も、エルフにやられたんじゃ？」
+me: "What? Was that ancestor also attacked by Elf?"
+
+# f15e5695
+; yule: 「いいえ。海なんだから、エルフにやられる心配は無いはずですが……もうちょっと近づいてみましょう」
+yule: "No, since it's the sea, you don't have to worry about being attacked by Elf, but let's get a little closer."

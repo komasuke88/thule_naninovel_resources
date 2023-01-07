@@ -1,0 +1,513 @@
+; Japanese <ja> to English <en> localization document for `6_05_3_icecavebyu2` naninovel script
+
+# 995df5f5
+; ビューちゃんの後を続く。
+Byu follow.
+
+# 86175866
+; いくら歩いても、同じような風景だけが繰り返された。
+No matter how much I walked, only the same scenery was repeated.
+
+# de892638
+; byu: 「ここは、こっち」
+byu: "Here, this way."
+
+# f86b1464
+; 沢山の分かれ道が出てきても、ビューちゃんは迷いもなくどんどん進んだ。
+Byu went on without hesitation, even though there were many forked roads.
+
+# b7068c68
+; こんなに迷路みたいなとこなのに、流石は地元の人だな。
+It's like a maze, but you're a local.
+
+# ca5facf7
+; me: 「……俺一人だったら、絶対に迷っちゃったな」
+me: "If I were alone, I would have lost my mind."
+
+# 86220f25
+; 道を知ってる人がいてよかった。
+I'm glad someone knows the way.
+
+# b8c45369
+; 角を曲がると、また違う形の氷の通廊が出た。
+When I turned the corner, I saw another ice corridor.
+
+# 302d649a
+; 広くなって、明るくなってる。
+It's getting wider and brighter.
+
+# 81c49f80
+; 光が差すと、氷の壁がまるでクリスタルみたいで……
+When the light shines, the ice wall looks like a crystal ……
+
+# f9ed8136
+; me: 「美しい……」
+me: "Beautiful ……."
+
+# 1ea32081
+; byu: 「うん。美しいよね？この氷河洞窟。[i][char byu.w]クリスタルケイブとも呼ばれてるらしいよ」
+byu: "Yes, isn't it beautiful?This glacier cave. [i] [char byu.w]It's also called Crystal Cave."
+
+# de479202
+; me: 「あ、うん」
+me: "Oh, yes,"
+
+# bce71355
+; 美しいって言葉をビューちゃんの口から聞くとは思わなかった。
+I didn't expect Byu to say it was beautiful.
+
+# d16e5641
+; ソーセージ以外にも褒めるモノがあったんだな。
+sausage There was something else to praise.
+
+# b15d14f7
+; byu: 「中の形が毎日変わってる、不思議な洞窟でもあるんだ」
+byu: "It's a strange cave whose shape changes every day."
+
+# 2754a541
+; me: 「えっ？ここも幻想空間かな？」
+me: "What? Is this also a fantasy space?"
+
+# 92bb8cc7
+; byu: 「ううん、物理的に。[i]氷河が常に移動してるせいでね」
+byu: "No, physically.[i]because the glaciers are moving all the time."
+
+# 72ecafa8
+; me: 「ああ、氷河の中の洞窟だから、氷河の移動につれて形が変わるのか」
+me: "Oh, it's a cave in the glacier, so it changes shape as the glacier moves."
+
+# 25b61429
+; byu: 「そう」
+byu: "Yes,"
+
+# 349b0e58
+; ビューちゃんは歩く速度を落として、氷の壁を見ながら言った。
+Byu said, slowing down, looking at the ice-wall.
+
+# bed767f1
+; byu: 「……」
+byu: "……"
+
+# df8ee2dc
+; me: 「どうした？」
+me: "What's the matter?"
+
+# eedf41ad
+; byu: 「本当、美しいところなんだけどね……」
+byu: "It's really a beautiful place ……,"
+
+# 1d592b92
+; ビューちゃんは何故か悲しげだった。
+Byu seemed sad for some reason.
+
+# 3cd3c0cb
+; me: 「何かあるのか？」
+me: "What's going on?"
+
+# bd78161a
+; byu: 「氷河洞窟は、あと数年で消えちゃうんだ」
+byu: "The glacier cave will disappear in a few years."
+
+# 474f5055
+; me: 「……それって、温暖化のせいで？」
+me: "…… Is that because of global warming?"
+
+# 803169f3
+; byu: 「そう、アイスランドの氷河は、毎年少しずつ溶けてるんだ。[i][char byu.sad]完全消失まであと３０年だって」
+byu: "Yes, the glaciers in Iceland melt little by little every year.[i][char byu.sad] It's only 30 years before it's completely gone."
+
+# 8e10de0a
+; 前にも聞いたけど、３０年は……早すぎるだろう。
+As I've heard before, 30 years is probably too early for …….
+
+# 217935b4
+; byu: 「３年前までは１７０年くらいだって言ったのに、今年で３０年になったよ」
+byu: "I told you three years ago that it was about 170 years, but this year it's been 30 years."
+
+# 87a19732
+; me: 「この３年で、１００年以上早くなったんだ」
+me: "In the last three years, it's more than 100 years faster."
+
+# 75f51bec
+; byu: 「流石にこれ以上は早くならないと言うけど、[i]３０年って、あっという間だよ」
+byu: "[i]Thirty years goes by so quickly."
+
+# e6000916
+; me: 「今見てるこの風景は、今しか見れないって事か」
+me: "You mean you can only see the scenery now"."
+
+# ce697909
+; byu: 「うん。そのせいで、[i][char byu.sad]このトゥーレの魔法も、あと３０年で消えるんだよ」
+byu: "Yeah. That's why [i][char byu.sad] The magic of Thule will disappear in 30 years."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 61362853
+; いきなり魔法の話が出てきて、うろたえた。
+Suddenly a magical story came up and I was upset.
+
+# f16d7810
+; me: 「ユールちゃんたちが使う魔法の事？」
+me: "The magic that Yule use?"
+
+# b4daf2e2
+; byu: 「うん。ボクたちの魔力は、この氷河に積もってる雪の <ruby="トゥフランディ"> Töfrandi</ruby>から来るものなんだから」
+byu: "Yeah. Our Magical Power comes from the snow <ruby=" Tofrandi">T öbrandi</ruby> on this glacier."
+
+# adaf5a0
+; me: 「ああ、そうだったのか」
+me: "Oh, I see,"
+
+# 23927b5
+; そういや、ユールちゃんも似たような話をしてた。
+by the way and Yule said the same thing.
+
+# 788d594a
+; 氷河が魔力の源。
+Glaciers are the source of Magical Power.
+
+# 7132b247
+; でもアイスランドの氷河は毎年溶けてるから、その魔力も減ってるし。
+But Iceland's glaciers melt every year, so their Magical Power is decreasing.
+
+# 82ba46cd
+; やがては完全消失って事か。
+It will eventually disappear completely.
+
+# 25d86225
+; byu: 「毎年魔力が弱くなってるのを感じるんだ。[i]このままではもうすぐ、フェージングもできなくなっちゃう」
+byu: "I feel my Magical Power getting weaker every year.[i]If things go on like this, I won't be able to do Phasing soon."
+
+# 207927af
+; フェージングって確かに、ユールちゃんたちが世界を越えるときに使う魔法の名称だったよな。
+Phasing was certainly the magic name Yule used to cross the world.
+
+# 120bedbd
+; me: 「人間世界に行けなくなるって事？」
+me: "Do you mean you won't be able to go into the human world?"
+
+# 816b7601
+; byu: 「うん。フェージングには、相当な魔力が必要だから」
+byu: "Yeah. Phasing requires a lot of Magical Power."
+
+# 6be8a697
+; me: 「人間世界に行くの、簡単ではなかったんだ」
+me: "It wasn't easy to go into the human world."
+
+# e7bf448e
+; byu: 「うん。だから魔力があふれる１２月にだけ、ボクたちは人間世界に行けるの」
+byu: "Yeah, so we can only go into the human world in December when Magical Power is overflowing."
+
+# dd923d9f
+; me: 「そうだったのか。俺がユールちゃんに出会えたのは、１２月だったからな」
+me: "I see.It was in December that me met Yule."
+
+# d5831e40
+; byu: 「そうだよ」
+byu: "Yes,"
+
+# e0d8c35
+; byu: 「でももうすぐ１２月でもできなくなっちゃう。[i][char byu.hm]そうなるともう、ボクたちは一つの世界でしか生きられないんだ」
+byu: "But I won't be able to do it even in December soon.[i][char byu.hm] Then we can only live in one world."
+
+# 642958ca
+; me: 「人間の同じくなっちゃうんだな」
+me: "You're going to be like a human being,"
+
+# ee413461
+; byu: 「人間よりも脆くなっちゃうんだよ。[i]ボク達は昼間には行動できないから」
+byu: "They become more fragile than humans.[i]We can't act during the day."
+
+# b41dbac2
+; me: 「石化されるから？」
+me: "Because you're petrified?"
+
+# d07cb9dd
+; byu: 「へー？[i]ボクたちトロールの事、よく知ってるんだね」
+byu: "Huh? [i] We know Troll very well."
+
+# 7f761d31
+; me: 「ユールちゃんから聞いた。魔力の少ないトロールは、太陽の光を浴びると、岩になっちゃうんだって」
+me: "I heard from Yule.Troll, which has few Magical Powers, becomes rocks when exposed to sunlight."
+
+# 5ba3831f
+; byu: 「うん。石化の危険が一番の問題で、他にも色々と困るんだ。[i]食事とか」
+byu: "Yes. The danger of petrification is the biggest problem, and there are many other problems.[i]Like a meal."
+
+# 3503385c
+; me: 「食事？」
+me: "Dining?"
+
+# f386d1e
+; byu: 「人間から食べ物を盗めなくなるからね。[i]夏は一日中寝るから構わないけど、冬が困る」
+byu: "You won't be able to steal food from people.[i]I sleep all day in summer, so I don't mind, but winter is a problem."
+
+# 3bbe3483
+; me: 「ぬ、盗むって、今までずっと泥棒生活を？」
+me: "Well, have you ever been a thief?"
+
+# a0c21943
+; byu: 「うん。[i][char byu.o]あ、でももらってる分はちゃんと返してるつもりだよ？[i]クリスマスプレゼントで」
+byu: "Yeah. [i] [char byu.o] Oh, but I'm going to pay back what I got.[i]at Christmas gift."
+
+# 2b011730
+; me: 「そういえば、サンタだったな。君たち」
+me: "Come to think of it, it was Santa.You guys."
+
+# e27311c2
+; byu: 「そう、サンタのビューグナクライキルちゃんです！」
+byu: "Yes, it's Santa's Bjugnakraekir!"
+
+# cc9d7589
+; ビューちゃんは誇らしげに胸を張るポーズをした。
+Byu posed proudly to stretch his chest.
+
+# f3c6dc5
+; me: 「……！」
+me: "……！"
+
+# 20dd5863
+; ……こいつおっぱいでかいから、こういう仕草をすると目がいっちゃうから困る。
+…… He's so big that I can't help but look at him when he's so big.
+
+# 2cc9d550
+; byu: 「……？」
+byu: "……？"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 8c19c422
+; byu: 「……あの……もしかして、おっぱい見てる？」
+byu: "Do you happen to see …… …… milk?"
+
+# 59581720
+; me: 「……はっ！ち、違うぞ！」
+me: "Huh! No, no!"
+
+# 12789121
+; byu: 「欲しかったら、触ってもいいよ？」
+byu: "You can touch it if you want?"
+
+# 8e52e96a
+; me: 「さ、触らないから」
+me: "Well, I won't touch it,"
+
+# cd70c897
+; byu: 「そう？[i][char byu.emi]スヴォルから乗り換えたいのなら、歓迎だよ？[i][char byu.heart]ボクならいつでもオッケーだから」
+byu: "Really? [i] [char byu.emi] If you want to transfer from Thuvor, you're welcome.[i][char byu.heart] I'm always OK."
+
+# bf52f7ee
+; ビューちゃんは物欲しげに俺の股間を見つめながらそういった。
+said Byu, looking wistfully at me's crotch.
+
+# 1bcca378
+; me: 「い、いや。俺はその、ユールちゃんのものだから」
+me: "No, no. me belongs to Yule."
+
+# e3b425f8
+; byu: 「そっか。残念」
+byu: "Oh, that's too bad."
+
+# 18d696bc
+; 別にユールちゃんのものになった覚えはないけど、とりあえずそうごまかした。
+I don't remember being Yule's, but I just faked it.
+
+# 16977159
+; byu: 「スヴォルが羨ましいよ。{playerName}のような旦那を見つけるなんて。[i]ボクたち姉妹だから、男の趣向も似てるんだよね」
+byu: "I envy Thuvor for finding a husband like {playerName}.[i]Since we are sisters, Man has similar tastes."
+
+# ceeee56a
+; me: 「そ、それはどうも」
+me: "Well, thank you,"
+
+# 9a68af52
+; byu: 「まったく、人間の意志を尊重するとか、先着順とか、そんな掟などいなけりゃよかったのに」
+byu: "`I wish there had been no such rule as respect for human will, or first come, first served,'"
+
+# b8fc6093
+; 先着順って……
+…… on a first-come, first-served basis
+
+# f1f0e586
+; byu: 「あ～あ。[i]まだ魔力が残ってるうちに、早く婿を探さなくちゃいけないのになー」
+byu: "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+# 19623309
+; me: 「魔力が残ってうち、か……」
+me: "There's Magical Power left, or ……."
+
+# 11c2eeef
+; byu: 「魔力がなくなると、生き残るだけで精一杯なんだ、ボクたちは」
+byu: "When Magical Power is gone, all we can do is survive,"
+
+# d7873ee0
+; me: 「そうだったな……」
+me: "Yes, ……,"
+
+# ed162fc6
+; 石化とか、食事とか、色々困るって言ってたな。
+You said you had a lot of trouble with petrification and eating.
+
+# c838e4c2
+; 別に今すぐにってわけではないだろうけど、危ない時期が迫ってるんだな。
+I don't think it's right now, but there's a dangerous time ahead.
+
+# 7099fe9d
+; byu: 「急がないといけないんだ。種族保存のために」
+byu: "We must hurry.for the preservation of the race."
+
+# 378af5e2
+; me: 「そ、種族保存？[i]……ってトロールの？」
+me: "Oh, conservation of race?"[i]Is …… Troll?"
+
+# 7eedb10b
+; byu: 「うん。トロールは数が少ないからね。種族が滅びないためには、子供が沢山要るんだ」
+byu: "Yes. Troll is small in number. We need a lot of children to keep the race from dying."
+
+# c5d2040e
+; me: 「そうか。トロール、少ないんだ」
+me: "I see. There aren't many Trolls."
+
+# a8ea4636
+; byu: 「生きてるトロールは、もうボク達の姉妹と両親くらい。他はみんな岩になっちゃった」
+byu: "The only living Troll are our sisters and parents.Everything else has turned into a rock."
+
+# 4615027d
+; me: 「それは、悲しい事だね」
+me: "That's a sad thing,"
+
+# a6f84726
+; byu: 「魔力が溢れた頃には不死身に近かったから、そんなの気にしてなかったけどね」
+byu: "By the time Magical Power overflowed, I was close to immortality, so I didn't care about that."
+
+# 94be2517
+; me: 「もうすぐ不死身ではなくなるのか」
+me: "Will he be immortal soon?"
+
+# d67e6d10
+; byu: 「うん。氷河が溶けて魔力がなくなるのは、ボクたちには命がかかってる問題なんだ」
+byu: "Yes, melting glaciers and losing Magical Power is a life-threatening problem for us."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# b04458d8
+; 氷河の消失は、この子たちにとっては死活問題なのだな。
+The disappearance of glaciers is a matter of life and death for these children.
+
+# cfff2983
+; ま、それは人間たちも同じなんだけどね。
+Well, it's the same for humans.
+
+# ba1d6254
+; すぐにまではいかないが、氷河が消えると人間世界も無事ではいられない。
+It is not immediately possible, but the human world cannot be safe when the glaciers disappear.
+
+# f5f422df
+; 人間世界でも異世界でも、みんな世界の終わりが近づいてるのを感じてるんだ。
+We all feel the end of the world approaching, both in the human world and in other worlds.
+
+# 104de2ca
+; …………
+…………
+
+# d287779c
+; ビューちゃんと色んな話をしてるうちに、また分かれ道が現れた。
+Byu As we talked about many things, another fork appeared.
+
+# 25a4d1d0
+; me: 「あれ？この道、先通らなかった？」
+me: "Huh? Didn't you go this way?"
+
+# 282d131f
+; byu: 「そうだったのかな？」
+byu: "Is that so?"
+
+# b73f1ce3
+; me: 「そうだった気がするけど……[i]道、知ってるんじゃなかった？」
+me: "I think so, but ……[i]Didn't you know the way?"
+
+# c9509d69
+; byu: 「知らない」
+byu: "I don't know."
+
+# ca54c277
+; me: 「で、でも今まで、分かれ道とか、迷いもなく堂々と進んだじゃん？」
+me: "But until now, we've been able to go through the forked road without hesitation."
+
+# 41bb0d19
+; byu: 「なんとなく歩いただけ」
+byu: "I just walked,"
+
+# 8c0a4933
+; me: 「なんとなく？」
+me: "For some reason?"
+
+# 931828e6
+; byu: 「ボク、考えるのが苦手で」
+byu: "I'm not good at thinking"."
+
+# c12fb551
+; こいつ、別に道を知ってるわけじゃなかったのか。
+Didn't he know the way?
+
+# 268511de
+; me: 「……どうしよう」
+me: "What shall I do with ……?"
+
+# cde84987
+; byu: 「<ruby="セッタ・レッダスト">　Þetta reddast</ruby>！」
+byu: "<ruby=" Thetta reddast"> Thetta reddast</ruby>!"
+
+# 8f5bdb4d
+; me: 「セッタ・レッダストか」
+me: "Is it Thetta reddast?"
+
+# a34932e3
+; なんとかなるって意味だったよな。
+It meant something could be done.
+
+# 450578bf
+; なんとかなるかな？こんなに宛もなく歩いてて……
+Will it work?I walked so aimlessly ……
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# cdc16b40
+; その時、
+At that time,
+
+# 1bbee0c2
+; me: 「なっ？」
+me: "What?"
+
+# 2ee88e9c
+; ゴゴゴゴゴゴゴゴゴゴゴゴゴと、
+Go, go, go, go, go, go, go, go, go, go, go, go, go, go, go.
+
+# 58a0c89b
+; 洞窟の中に響く物音。
+a sound echoing through a cave.
+
+# a60a0d5d
+; byu: 「そ、底が崩れ落ちてるよ！」
+byu: "`Oh, the bottom is falling!'"
+
+# 5a3a3521
+; me: 「またかよ？？？」
+me: "Again?"
+
+# ea9f09eb
+; そして俺たちは、またも下に落ちる。
+And the mes fall down again.
+
+# 2288d70f
+; まったく、ここにきて、落ちるばっかだな。
+Oh, my God, I'm just falling down here.

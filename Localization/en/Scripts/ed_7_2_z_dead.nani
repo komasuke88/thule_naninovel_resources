@@ -1,0 +1,61 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_z_dead` naninovel script
+
+# 5df0cb33
+; …………………………
+…………………………
+
+# 96dd75b3
+; ……………
+……………
+
+# 3ea899f
+; ……
+……
+
+# 5c279842
+; unknown: 「{playerName}！{playerName}！しっかり！自分を見失わないで！」
+unknown: " {playerName}! {playerName}! Stay strong!Don't lose sight of yourself!"
+
+# 416d526f
+; 遠くなる意識の中で、
+In a distant consciousness,
+
+# 1ffafb7e
+; 誰かの声が聞こえた気がした。
+I felt like I heard someone's voice.
+
+# 3964b49b
+; 誰だったのか、忘れてしまったけど。
+I forgot who it was.
+
+# 41061230
+; 思い出す必要もない。
+I don't even have to remember.
+
+# a15ef5a5
+; きっとそれはもう、どうでもいい事だから。
+I'm sure it doesn't matter any more.
+
+# 721754bb
+; 疲れたよ、ママ。
+I'm tired, mom.
+
+# 2ffd11a1
+; 俺はもう消えるとするわ。
+Let's say me disappears.
+
+# cc78c271
+; あ、そうだ。
+Oh, that's right.
+
+# 7c892112
+; 寝る前に、このくそったれな世界にサヨナラを贈ろう。
+Before you go to bed, say goodbye to this crummy world.
+
+# 1f5d973a
+; <s>　　　　　　　　　　　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。
+<s>              </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>.
+
+# 4b11246d
+; 心地よい死を、あなたに。
+A pleasant death to you.

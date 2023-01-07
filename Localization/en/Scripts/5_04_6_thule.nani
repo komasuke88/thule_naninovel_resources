@@ -1,0 +1,437 @@
+; Japanese <ja> to English <en> localization document for `5_04_6_thule` naninovel script
+
+# 4514193b
+; あの時俺は、
+At that time, me...
+
+# 61f4d6cb
+; グリーラの口から、喉に呑み込まれて、胃袋まで流れて行き、
+It was swallowed up by the throat from the mouth of gryla, and flowed down to the stomach;
+
+# a4202b1a
+; 胃酸に体が解けられて、死にかけていた。
+My body was melting from stomach acid and my body was melting.
+
+# dded5a2c
+; 生者の世界から死者の世界へと、沈んでいた。
+It sank from the living to the dead.
+
+# c55a7a23
+; だけど、死ななかった。
+But he didn't die.
+
+# 3624b4ba
+; ユールちゃんがくれた、その魔法のネックレス。
+The magical Neckless that Yule gave me.
+
+# ff27f64
+; それが奇跡を起こしたのだ。
+That was the miracle.
+
+# bedcb836
+; ネックレスは俺が死ぬ直前、俺の身代わりに壊れて、
+Neckless broke in me's place just before he died;
+
+# a56a1ee8
+; 俺の破損した体を復元し、グリーラの胃袋から脱出させた。
+The damaged body of me was restored and escaped from gryla's stomach.
+
+# cd920e33
+; おかげで俺は死から蘇って、安全な場所へ飛ばされたのだ。
+It had brought me back from death and sent her to safety.
+
+# e6ea31fc
+; だけど、完全に元通りに戻ったわけじゃない。
+But it's not completely back to normal.
+
+# 93e8d8dc
+; 俺が飛ばされたここは、人間の世界ではなかった。
+This place where me was flown was not a human world.
+
+# 51bc69af
+; フルドゥフォルクの世界、トゥーレ。
+The world of Huldufolk, Thule.
+
+# d839e774
+; 位置的には同じアイスランドだけど、異なる次元の世界。
+It's the same Iceland in location, but it's a different world.
+
+# fa094987
+; ここには人間がいない。
+There are no people here.
+
+# ada7981c
+; エルフ、トロール、ドワーフ、そして化け物たちの世界だ。
+It is the world of Dwarf, Monster, Troll, and Elf.
+
+# 4e88a4a0
+; グリーラは古いオーガレスで、このトゥーレの住民だ。
+gryla is an old augerless resident of Thule.
+
+# 879d8bb9
+; グリーラは偶然人間の世界に現れて、俺を呑んで、トゥーレに戻った。
+gryla happened to appear in the human world, drank me, and returned to Thule.
+
+# 201f9605
+; 俺はグリーラの胃袋に入ったまま、一緒にトゥーレに来た。
+I came to Thule together, in his stomach.
+
+# 2385a168
+; ネックレスの奇跡で、命は助かったけど、
+The miracle of Neckless saved my life;
+
+# 45812802
+; 俺は元の世界ではなく、このフルドゥフォルクの世界、
+I is not the original world, but the world of Huldufolk.
+
+# cd83e6a2
+; トゥーレに迷い込んでしまったのだ。
+Thule had wandered into
+
+# a003601b
+; yule: 「というわけです」
+yule: "That's why,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 90af0000
+; @choice "そうか" goto:.sinjiru
+@choice "I see" goto:.sinjiru
+
+# 1dd57499
+; @choice "うそか" goto:ed_5_04_6_sinjinai
+@choice "You're kidding" goto:ed_5_04_6_sinjinai
+
+# f318052b
+; me: 「……そっか」
+me: " …… I see,"
+
+# cb9d71d
+; とても信じがたい話しだったけど、死の記憶はちゃんと残ってて、
+It was a very unbelievable story, but the memory of death was well preserved.
+
+# 8458128f
+; それでいて死ななかったのは、そういう事だったのか。
+But that was the reason why he didn't die.
+
+# 6ad4919b
+; me: 「……まずは、ありがとう。ユールちゃん」
+me: "…… First of all, thank you.Yule"
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# 4bb7b25e
+; me: 「ユールちゃんのネックレスのおかげで、俺は命を救われたんだな」
+me: "The Neckless of Yule saved me's life."
+
+# 657668ac
+; yule: 「あ、いえいえ。どういたしまして……」
+yule: "Oh, no, no.You're welcome ……"
+
+# 387d8cfe
+; me: 「しかもそのネックレス壊してしまって……」
+me: "`And I broke that Neckless, ……,'"
+
+# 807539b2
+; yule: 「あまり気にしないでください。[i][char yule.default]ユールちゃんは、ほら、新しいネックレスを作りましたから」
+yule: "Don't worry too much.[i][char yule.default]Yule, you see, I made a new Neckless."
+
+# 2c1f6eae
+; 改めて見ると、あの時見たものと似てるネックレスをしていた。
+When I looked at it again, I saw Neckless similar to what I saw back then.
+
+# 73ad21ce
+; me: 「ありがとうな。何かお礼ができたらいいけど、今の俺には何もなくて、すまんな」
+me: "Thank you.I wish I could thank you for something, but I'm sorry that there's nothing in me right now."
+
+# ddf8c175
+; yule: 「お礼ですか！[i][char yule.l-kusu]それなら{playerName}の体で払ってくださいな、くすくす」
+yule: "Thanks! [i] [char yule.l-kusu] Then pay with {playerName}'s body, giggle."
+
+# 7400fd23
+; me: 「……ああ、それはそうと……」
+me: "…… "Oh, by the way, ……,"
+
+# 88435e7b
+; yule: 「……スルーはひどいっす……」
+yule: "The ……-through is terrible ……."
+
+# 14fd6309
+; me: 「……お前、ちょっと変わってないか？」
+me: "…… "Have you changed?"
+
+# ecaa7f3f
+; yule: 「……はい？」
+yule: "What ……?"
+
+# 1b9a5f6e
+; me: 「この前会った時よりも幼く見えるというか、背が小さくなった気がする」
+me: "I think I look younger or shorter than the last time I saw you"."
+
+# a71b207c
+; yule: 「ああ、そうなんですよ。[i][char yule.l-nayami2]あの時ちょっと無理をして、予定よりも早く人里に下りたもので」
+yule: "Yes, indeed.[i][char yule.l-nayami2] I pushed myself a little too hard and went down to the village earlier than planned."
+
+# 6a1680e1
+; me: 「そういえば、スヴォルスレイキルが人里に下りるのは１２月１５日だと言ってたな」
+me: "Come to think of it, you said that Thvorusleikir will go down to the village on December 15th."
+
+# 90c22c63
+; yule: 「さすがによく知ってますね。そうなんですよ。[i][char yule.kusu]だからあの時はユールちゃん、普段よりも魔力が弱い状態でした。[i][char yule.yoko_b_close_dot]なのに想定外の魔力を使ってしまって……ちょっとだけ体に影響が……」
+yule: "You know it very well.That's right.[i][char yule.kusu] So at that time, Yule was weaker than usual.[i][char yule.yoko_b_close_dot] But I used an unexpected Magical Power and it affects my body a little bit ……"
+
+# 3e8be509
+; me: 「……そうだったのか。理屈はよくわからんけど、ごめんな。それも俺のせいだね」
+me: "…… I see.I don't know why, but I'm sorry.It's me's fault, too."
+
+# d1b72750
+; yule: 「まあ！だったらお詫びとして{playerName}の体を……」
+yule: "Well! Then ……'s body as an apology."
+
+# ade3a368
+; me: 「……それはそうと……」
+me: " …… But ……,"
+
+# 5f97fad8
+; yule: 「……またっすか……」
+yule: " …… or …… again."
+
+# f961ed5d
+; ユールちゃんが冗談を言ったけど、まだ理解できない事が多くて、[i]とりあえず話を進めたかった。
+Yule made a joke, but there were still many things I didn't understand. [i] I wanted to move on.
+
+# 733f1b41
+; me: 「ここは、俺がいた世界ではないと言うのだな」
+me: "This is not the world where me was,"
+
+# df3d943b
+; yule: 「そうですよ。[i][char yule.l-kusu]ま、異世界に来たって思えばいいのです」
+yule: "Of course. [i] [char yule.l-kusu] You just have to think that you're in a different world."
+
+# a24d0f80
+; me: 「なるほど、異世界ね」
+me: "Well, it's a different world,"
+
+# 60e9ed00
+; 何もかも納得させる魔法の単語だった。
+It was a magical word that convinced me of everything.
+
+# d6aa79a1
+; 受け入れがたい話だけど、とりあえず理解した。
+It's hard to accept, but I understand.
+
+# 15238ff6
+; 薄々と気づいてはいたけど、やっぱりそうだったな。
+I was faintly aware of it, but I knew it.
+
+# c09a7e7f
+; 考えてみたらそうだな。
+Come to think of it, I think so.
+
+# b814a26
+; 化け物とか巨人とかいるし、むしろ異世界でないほうが変であるな。
+There are Monster and giants, and it's rather strange that they're not in a different world.
+
+# 91291cfe
+; しかし、そうなると問題は……
+But then the problem is ……
+
+# dbb3d151
+; me: 「元の世界には、どうやって戻る？」
+me: "How do you get back to the original world?"
+
+# db269e1d
+; yule: 「戻れませんよ」
+yule: "I can't go back,"
+
+# ecde61e6
+; me: 「ええええっ！？」
+me: "`What!'"
+
+# e3c998a0
+; yule: 「{playerName}はここでユールちゃんと、一生過ごすんです」
+yule: "I will spend the rest of my life here with Yule."
+
+# 224a11ff
+; me: 「そ、そんな…………」
+me: "Oh, that …………,"
+
+# 7b8edbcf
+; yule: 「……そんなに嫌そうな反応はちょっとあまりです」
+yule: "…… "I don't get that bad reaction."
+
+# cd658f02
+; me: 「本当に、戻れない？」
+me: "Can't you really go back?"
+
+# 22e654e4
+; yule: 「まぁ、でも……[i][char yule.kusu]完全に不可能ってわけじゃないかもです。[i][char yule.l-nayami]今年は【サムスティラ】で、異変も起こってるから、もしかしたら……」
+yule: "Well, but ……[i][char yule.kusu] It may not be completely impossible.[i][char yule.l-nayami] This year it's 【Samstilla】, and there's something unusual going on, so maybe ……."
+
+# 4a256f80
+; me: 「それは何だ？」
+me: "What is that?"
+
+# 10efcbe8
+; yule: 「３３年に一度、このトゥーレには特別な時期が来ます。[i]サムスティラっていう、奇跡が起こる年です」
+yule: "Once every 33 years, this Thule has a special time.[i]Samstilla It's a year when miracles happen."
+
+# 7a7ce813
+; me: 「えっと……？」
+me: "Well, ……?"
+
+# eb30919f
+; 俺は少し難しい顔でそう話しを促した。
+I urged him with a rather difficult look.
+
+# af7ff931
+; yule: 「普通なら、人間は世界を越えられません。[i]でもこの時期には、人間が世界を越えてる事例もありますから」
+yule: "Normally, humans cannot cross the world.[i]But at this time of year, there are cases where humans are going beyond the world."
+
+# 24b98ac3
+; me: 「よくわからないが、今なら戻れるって事？」
+me: "I'm not sure, but can you go back now?"
+
+# bc487d3a
+; yule: 「いいえ。確実に戻れるって訳ではありません。[i][char yule.l-nayami3]普通なヨールにしか起こらない現象だし、[i][char yule.yoko_b_close_dot]そもそも明確なやり方があるわけでもないです」
+yule: "No, I'm not sure I can come back.[i][char yule.l-nayami3] It only happens in normal Jol. [i][char yule.yoko_b_close_dot] There's no obvious way to do it."
+
+# 1946dd0b
+; me: 「……え、えっと……」
+me: "Well, ……,"
+
+# 3822827a
+; さらに何を言ってるのかわからなくなってきた。
+I don't know what you're talking about anymore.
+
+# 778a81ae
+; me: 「……難しい事はわからんけど……つまり、戻れる『かも知れない』って事？」
+me: "…… "I don't know it's hard, but …… I mean, maybe 『 I can go back?"
+
+# cd95be81
+; yule: 「まずは、順を追って説明しましょう」
+yule: "I'll explain it step by step first,"
+
+# 29c8601c
+; 人間世界とトゥーレは、隔離された二つの世界。
+The human world and Thule are two isolated worlds.
+
+# 4de5e
+; 同じ位相に存在してるけど、異なる次元にある世界。
+A world that exists in the same phase but in different dimensions.
+
+# 92097554
+; 物理的な手段では、往来する事はできない。
+Physical means are not accessible.
+
+# ac8f5320
+; だけど魔力を持ってるフルドゥフォルクは、
+But Huldufolk, who has Magical Power,
+
+# 468f5cfd
+; 特定の条件を揃えたら、世界を越える事ができる。
+If you meet certain conditions, you can cross the world.
+
+# c877e2a9
+; その次元の移動を『フェージング』という。
+The movement of that dimension is called 『Phasing』.
+
+# 6e4b3c4a
+; あの時ユールちゃんが俺と出会ったのは、
+At that time, Yule met me.
+
+# 92d17c9c
+; ユールちゃんが【フェージング】して人間世界に来ていたからだ。
+Yule had 【Phasing】 and had come into the human world.
+
+# 3eef0785
+; そうやってエルフとトロールは、自分で二つの世界を往来できる。
+Thus Elf and Troll can travel between the two worlds by themselves.
+
+# 8662a0d9
+; でも魔力を持たない人間は、自分でトゥーレに訪れる事ができない。
+But people who don't have Magical Power can't visit Thule by themselves.
+
+# 4a83e79
+; ところが自分の意志ではなく、偶然訪れる事ならある。
+However, it's not your will, but you can come by chance.
+
+# 75b29be5
+; ２つの世界は、基本的には同じ地球を共有してる。
+The two worlds basically share the same earth.
+
+# a73f7842
+; そのせいで２つの世界が混ざり合う現象が起きたりする。
+Because of this, there is a phenomenon in which the two worlds are mixed together.
+
+# e9e5601d
+; 二つの世界が同期化される。
+The two worlds are synchronized.
+
+# 8c25fb56
+; その現象を、 <ruby="サムスティラ"> samstilla</ruby>という。
+This phenomenon is called <ruby=" Samstilla">samstilla</ruby>.
+
+# de23ad74
+; サムスティラは、１１年周期で来る。
+Samstilla comes every 11 years.
+
+# 1e4200d
+; それは巨大な魔力の爆発で、
+It was a huge Magical Power explosion.
+
+# 3f3670a6
+; 華やかなオーロラ・サブストームがお互いの世界の空を覆う。
+The gorgeous Northern Light and Substorm cover each other's world skies.
+
+# 1800d912
+; そのオーロラと共に、
+With the Northern Light,
+
+# a8713be4
+; 人間世界の物が、突然とこのトゥーレに現れる。
+Things from the human world suddenly appear in this Thule.
+
+# c949dd23
+; 車とか家とか道路とかが、
+Cars, houses, roads...
+
+# 2900c86
+; 複製されてトゥーレの物となる。
+Reproduced into Thule.
+
+# 213a98c3
+; もちろんこれは無生物だけで、生き物はそうならない。
+Of course, this is only inanimate objects, and not living things.
+
+# d1b84bc1
+; しかし、三度目のサムスティラ、
+However, the third Samstilla,
+
+# ad916f29
+; つまり３３年周期のサムスティラは特別だ。
+In other words, the 33-year cycle of Samstilla is special.
+
+# f30024b8
+; その時期には物だけでなく、生き物もトゥーレに現れる。
+At that time, not only things but also living things appear in Thule.
+
+# b62a900c
+; 動物とか、人間が迷い込んだ事例もある。
+There are also cases in which animals and humans have wandered.
+
+# de41efb
+; でも生き物の場合は複製ではなく移動だ。
+But in the case of living things, it's not reproduction, it's movement.
+
+# 783ca678
+; 生き物がトゥーレに現れたって事は、人間世界では消えたって事だ。
+The appearance of a creature in Thule means it has disappeared in the human world.
+
+# 41506c5e
+; ３３年に一度、アイスランドで謎の失踪事件が多いのはそのせいだ。
+That's why there are so many mysterious disappearances in Iceland every 33 years.

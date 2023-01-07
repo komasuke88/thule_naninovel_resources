@@ -1,0 +1,201 @@
+; Japanese <ja> to English <en> localization document for `_kerling` naninovel script
+
+# 953c8576
+; yule: 「ここから、 <ruby="ケルリンガルフィヨットル"> Kerlingarfjöll一</ruby>帯です」
+yule: "From here is the <ruby="Kellingarfj" > Kerlingarfj öll1</ruby> band."
+
+# 7b7d5423
+; me: 「……またも、長い名前がでてきたな」
+me: "…… `There's another long name,'"
+
+# 9184ee22
+; yule: 「この辺りは三十年前までは、夏でも雪で覆われて、スキーリゾートとしてお有名だったですよ」
+yule: "Until 30 years ago, this area was famous as a ski resort because it was covered with snow even in summer."
+
+# 226ff6d3
+; me: 「スキー場も氷河と同じく、溶けてなくなったのかな」
+me: "I wonder if the ski resort has melted away like a glacier."
+
+# a9ce8889
+; yule: 「そうなんですよ」
+yule: "Yes,"
+
+# acb96de8
+; me: 「アイスランドの雪の景色も、徐々に見れなくなるのだな……」
+me: "The snow scene in Iceland will gradually become impossible to see ……"
+
+# 3c82f22e
+; 道を続いてもう少しあるくと、また新しい景色が広がってきた。
+A little further down the road, and a new view began to unfold.
+
+# 3ffecc17
+; 惑星のような風景が広がっていた。
+There was a planetary landscape.
+
+# 8f5e3aa2
+; yule: 「ここはキェルトリンガルフィヨットルの中央部、地熱地帯、 <ruby="クヴェラダリル"> Hveradalir</ruby>です」
+yule: "This is <ruby=" Hveradalir">Hveradalir</ruby> in the center of Kerlingarfjoll, geothermal zone."
+
+# 48208cd
+; me: 「まるで火星に着陸した気分だ」
+me: "I feel like I'm landing on Mars."
+
+# a75dcc0e
+;  <ruby="ケルリンガルフィヨットル"> Kerlingarfjöll</ruby>はアイスランドの中央部の広い山脈の事。
+<ruby="Kellingarfj öll</ruby> is a large mountain range in the center of Iceland.
+
+# c961c46f
+; その中でもこの地熱地帯を <ruby="クヴェラダリル"> Hveradalir</ruby>という。
+Among them, this geothermal zone is called <ruby=" Hveradalir">Hveradalir</ruby>.
+
+# f1d2e186
+;  <ruby="ホフスヨークトル"> Hofsjökull</ruby>氷河と <ruby="ラングヨークトル"> Langjökull</ruby>氷河の間に位置してて、
+<ruby="Hofs Yorktor">Hofsj ökull</ruby> and <ruby="Langj ökull</ruby> glaciers.
+
+# b1881b5f
+; 火山の力と氷河の力がせめぎあって、アイスランドの最も大きな地熱地帯のひとつだ。
+Volcanic power and glacial power struggle one of Iceland's largest geothermal regions.
+
+# 79e019ca
+; ここには、緑がない。
+There's no green here.
+
+# c6b2505b
+; 黄色の丘と、白い雪、として蒸気だけが埋まってる。
+Yellow hills and white snow were filled with steam.
+
+# 57ec7452
+; ささってくる硫黄臭。
+It smells like sulfur.
+
+# d2f9fda3
+; 地面のところところで湯気が噴き出され、湯けむりができていた。
+Steam was spewing on the ground, and there was a splash of steam.
+
+# fa12a71c
+; そんな中で、いろんなところに雪が積もってる、独特な風景だった。
+In the midst of this, it was a unique landscape with snow piled up in many places.
+
+# f0c95ce0
+; yule: 「ここは、キェルトリンお婆さんのテリトリーでもあるんです」
+yule: "This is also the territory of Grandma Keltlin,"
+
+# d35e9af5
+; me: 「お婆さん？」
+me: "Grandma?"
+
+# c1a88ec9
+; yule: 「ご先祖様ですよ」
+yule: "It's your ancestors,"
+
+# c2dcf861
+; ここ、 <ruby="ケルリンガルフィヨットル"> Kerlingarfjöll</ruby>は、キェルトリンの山という意味だ。
+Here <ruby="Kellingarfj" öll</ruby> means a mountain of kiltrin.
+
+# 74a20b5b
+; キェルトリンとは、この山にある高さ約２５メートルの岩石柱の名前。
+Keltrin is the name of a 25-meter-high rock pillar on this mountain.
+
+# 365fa6a
+; それは日の光を浴びて石化された女トロールだ。
+It is Troll, a woman petrified in the sun.
+
+# d680c9b4
+; この地域は、トロールの名前から由来したものって事で、
+This area comes from the name of Troll.
+
+# 4f707ed1
+; この一帯は、トロールのテリトリーって事だ。
+This area is the territory of Troll.
+
+# 1c089b63
+; me: 「ご先祖様に、会いに行くのか？」
+me: "Are you going to see your ancestors?"
+
+# 3b8899d9
+; yule: 「ま、せっかくですから、行ってみましょうか？[i][char yule.l-nayami]会ってくれるのならいいですが……」
+yule: "Well, now that we are here, shall we go?"[i][char yule.l-nayami] I hope you'll meet me ……"
+
+# c64a585d
+; me: 「遊歩道、木の足場が作られてるんだ」
+me: "The promenade, the wooden scaffolding,"
+
+# 455f2452
+; yule: 「この足場がないとよく滑り落ちて、事故が発生してますから」
+yule: "If you don't have this scaffolding, you'll slip off a lot and have accidents."
+
+# 64b8c7df
+; me: 「そう危険には見えないが……」
+me: "It doesn't look very dangerous, but ……,"
+
+# 44d2a688
+; yule: 「下の川は熱湯でですね、落ちたら火傷ですよ」
+yule: "The river below is boiling water, and if it falls, it will burn."
+
+# d29272ab
+; me: 「えっ？そんなに熱い？普通の温泉ではないんだな」
+me: "What? Is it that hot?It's not an ordinary hot spring."
+
+# 17749b8d
+; yule: 「蒸気で表面温度が150度まで上がるんですから、人間が温泉を楽しむには厳しいです」
+yule: "The surface temperature rises to 150 degrees Celsius because of steam, so it is difficult for humans to enjoy hot springs."
+
+# e7fe2af9
+; me: 「そ、それは危険だ」
+me: "Well, that's dangerous,"
+
+# 25ff85e1
+; yule: 「裸足で入るとですね。皮膚がプラスチックやパンストのように、足から取られ落ちますよ」
+yule: "If you go in barefoot.The skin will fall off your feet like plastic or panto."
+
+# 31d9c409
+; me: 「……それは怖いな。ただの火傷じゃ済まない」
+me: "…… That's scary.It's not just a burn."
+
+# 2958b36
+; yule: 「ま、ユールちゃんたちトロールならこの温泉でも入れますけどね。[i][char yule.r-kusu]{playerName}と一緒には入れませんから今は入浴は遠慮しときます」
+yule: "Well, Yule and Troll can take a bath in this hot spring.[i][char yule.r-kusu] I can't take a bath with {playerName}, so I won't take a bath now."
+
+# e8995670
+; me: 「……いや、できても一緒には入らないが」
+me: "…… "No, I won't join you if I can."
+
+# 58d7af55
+; yule: 「もうー、ツンデレなんだから」
+yule: "Well, it's tundere,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 716f5ea7
+; yule: 「ああ、やっぱりお婆さん、答えてくれませんね。[i]山の向こうではあるけど、普段ならこの距離でも答えてくれたのに」
+yule: "Oh, old lady, you won't answer.[i]It's across the mountain, but he would normally have answered at this distance."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# de13c5b5
+; yule: 「折角ここまで来たんだし、{playerName}の記憶の欠片について、お婆さんに聞いてみてもいいんじゃないかって思ったんですが」
+yule: "Now that I've come this far, I thought I might ask my grandmother about a fragment of {playerName}'s memory."
+
+# 771e3c1d
+; me: 「ああ、ご先祖様に、俺の記憶の行方について聞いてみたかったんだな」
+me: "Oh, you wanted to ask your ancestors about the memory of me,"
+
+# 3169546c
+; yule: 「はい。しかし最近、キェルトリンお婆さんの霊力が弱くなったのか、呼んでも答えてくれません」
+yule: "Yes, but she won't answer me if I call her to see if her spirit has weakened recently."
+
+# 77a3ae23
+; me: 「ま、それは仕方ない。どうせ急ぎでもないからな」
+me: "Well, that can't be helped.I'm not in a hurry at all."
+
+# cf45276b
+; yule: 「ですね。では最初の計画通り、記憶探しはセリャラントスフォスからソルスモルクまでの道を利用しましょう」
+yule: "Well, let's take the path from Seljalandsfoss to Thorsmork to find memories as planned."
+
+# ad64f6a
+; me: 「ああ」
+me: "Ah,"

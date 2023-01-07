@@ -1,0 +1,77 @@
+; Japanese <ja> to English <en> localization document for `_karahnjukar` naninovel script
+
+# 139d330e
+; me: 「恐ろしい峡谷だな」
+me: "It's a terrible canyon,"
+
+# 7d2e77ae
+; yule: 「ここは、上流の水力発電所のダムで作られた峡谷です」
+yule: "This is a canyon built from the dam of an upstream hydroelectric power plant."
+
+# fa980f4b
+;  <ruby="カウランユーカル"> Kárahnjúkar</ruby>水力発電所。
+ <ruby="Kawlan Eucalyptus">K árahnj úkar</ruby> hydroelectric power plant.
+
+# 47e0557d
+; ヨーロッパでも最大級のダムが、この発電所にあり、
+One of the largest dams in Europe is in this plant.
+
+# 8bf925e5
+; アイスランドで一番大きくて、一番多い電力を生産してる発電所だ。
+It is the largest and largest power plant in Iceland.
+
+# 5b58403f
+; ここは東アイスランドの <ruby="レイダルフィヨルド"> Reyðarfjörður</ruby>にある、[br]アルミニウム製錬所に多くの電力を供給するため、建設された。
+It was built to provide a lot of electricity to the [br] aluminum smelter at <ruby="Radal Fjord">Rey ðarfj ör ður</ruby> in East Iceland.
+
+# 9fa383b2
+; ３つの貯水池を形成する、５つのダムが建設された。
+Five dams were built to form three reservoirs.
+
+# 358924c
+; 貯水池からの水は、約73kmの地下トンネルを通ったのち、
+The water from the reservoir goes through an underground tunnel of about 73 km.
+
+# 42abe0f0
+; 420m下にある地下発電所へ垂直落下して到達する。
+It will reach an underground power plant 420 meters below by falling vertically.
+
+# 220189d9
+; 上のダムから川が放流されると、高さ１００ｍの峡谷に水が落下し、
+When the river was released from the dam above, water fell into a canyon 100 meters high.
+
+# b439c5c4
+; 北のDettifossに比べられるほどの強力な水の落下が見られる。
+You can see water drops as powerful as Dettifoss in the north.
+
+# 8ccb9008
+; アイスランドの多くの発電所がそうだったけど、
+A lot of Iceland's power plants were like that.
+
+# 9576a2c1
+; この発電所も環境への影響と外国人労働者の問題の点から批判されてきた。
+The plant has also been criticized for its environmental impact and problems with foreign workers.
+
+# cf742fe
+; ダムの沿いの道をあるきなから峡谷の下を見てみた。
+I looked under the canyon without following the road along the dam.
+
+# 13c761b4
+; それはまるで底なしのようで、圧倒的で、恐ろしい感じがした。
+It felt as if it were bottomless, overwhelming and frightening.
+
+# b53fba65
+; me: 「ダムがなければ、ここは川だったんだよな」
+me: "If it had not been for the dam, this would have been a river."
+
+# b3a27ff0
+; yule: 「ですね。多分、今みたいに峡谷の底までは見えなかったでしょう」
+yule: "Well, you probably couldn't see the bottom of the canyon like you do now."
+
+# 11b4330b
+; この風景が恐ろしいと感じられるのは、自然から川を奪ったせいなのかも知れない。
+Perhaps the reason why this landscape is so frightening is because it took away the river from nature.
+
+# 6e5fb4f
+; と、そんな事を考えなたら俺たちは峡谷を去った。
+With that in mind, the mes left the canyon.

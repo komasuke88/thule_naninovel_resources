@@ -1,0 +1,37 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_a_atrantis` naninovel script
+
+# 4651c517
+; そう、アトランティス。
+Yes, Atlantis.
+
+# ceb7b698
+; この国は、もうすぐ海に沈んでしまうんだ。
+This country will soon sink into the sea.
+
+# 486b66d8
+; 世界地図から、消えてしまう運命なんだよ。
+It's meant to disappear from the map of the world map.
+
+# e98b37c5
+; 実はもう目の前まで、海水が寄せてきてる。
+In fact, the sea water is approaching right in front of us.
+
+# 11eda5
+; 目の前には、飛行機。
+There's an airplane in front of us.
+
+# ce5eb45f
+; 壊れた飛行機だけど、乗ったら飛べる気がする。
+It's a broken plane, but I think I can fly when I get on it.
+
+# fb4126ab
+; さて、俺がこの沈んでいくアトランティスから脱出するぞ。
+Now me is getting out of this sinking Atlantis.
+
+# 33f77abf
+; @choice "ディムボルギルへ" goto:7_2_5_dream.dimmuborgir
+@choice "To dimmuborgir" goto:7_2_5_dream.dimmuborgir
+
+# 418e075b
+; @choice "南極へ" goto:ed_7_2_a_nankyoku
+@choice "To Antarctica" goto:ed_7_2_a_nankyoku

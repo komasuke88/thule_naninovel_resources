@@ -1,0 +1,145 @@
+; Japanese <ja> to English <en> localization document for `_holuhraun` naninovel script
+
+# 4b2005e9
+; me: 「ここは……月面？」
+me: "Is this the …… moon?"
+
+# 490149a5
+; ユールちゃんの魔法で、猛スピードで車が走ったかと思ったら、いつの間にかこんな場所に出てきた。
+I thought the car was going at a furious speed under the magic of Yule, but before I knew it, I came out to a place like this.
+
+# f50af0f8
+; もしかした俺の車、空を飛んで月に来たのかな？
+Did me's car fly to the moon?
+
+# ba2bc5bf
+; yule: 「月面のような風景ですが、ほら、雪が積もってるでしょう？」
+yule: "It's a moon-like landscape, but you see, it's covered with snow, isn't it?"
+
+# a4a075c0
+; me: 「あ、本当だ。……ってことはまだアイスランドだよな」
+me: "Oh, that's true. …… is still Iceland."
+
+# 271eb595
+; yule: 「もちろんです。黒の大地、 <ruby="ホルフロイン"> Holuhraun</ruby>です」
+yule: "Of course.This is the black earth, <ruby="hollowin">Holuhraun</ruby>"
+
+# 558f2d9c
+; me: 「本当に奇怪だな」
+me: "It's very strange,"
+
+# cb804654
+; 今まで見てきたどんなアイスランドの景色よりも異質的な雰囲気を感じた。
+I felt a more heterogeneous atmosphere than any other Icelandic scenery I had ever seen.
+
+# aa996e2c
+; アイスランドの大体の溶岩地帯は黒の大地の上にかすかに緑の苔が掛かっていたが、
+Most of Iceland's lava areas were covered with faint green moss on the black earth;
+
+# c5bc950b
+; ここは一面と、黒一色だ。
+It's all black and all over the place.
+
+# 7fa0919a
+;  <ruby="ホルフロイン"> Holuhraun</ruby>溶岩地帯。
+ <ruby="hollowin">Holuhraun</ruby> lava zone.
+
+# 82a66668
+; ２０１４年、 <ruby="バルダルブンガ"> Bardarbunga</ruby>火山の爆発で、
+In 2014, <ruby="Bardarbunga">Bardarbunga</ruby> volcanic eruption,
+
+# 16c072e5
+; このホルフロインの大地に大きな亀裂が発生し、大量のマグマが噴火した。
+A large crack broke out in the Holfloin land and a large amount of magma erupted.
+
+# cb8627e2
+; マグマの亀裂は飛行機でもその赤いラインが確認できるくらい大きく、
+The magma crack was so large that the red LINE could be seen on the plane.
+
+# 2647c209
+; 噴出した溶岩流は１７８３のラキ火山の爆発以来、一番大きな規模だった。
+The lava flow was the largest since the eruption of 1,783 Rocky volcanoes.
+
+# 75ba94eb
+; それはまさにマグマの海のようだったと例えられた。
+It was likened to a sea of magma.
+
+# 4b0e8e09
+; 噴火が終わったあと、アイスランドで一番広いこの溶岩地帯を形成した。
+After the eruption, the largest lava zone in Iceland was formed.
+
+# 4075117f
+; 幸い、このハイランドは人が住めない地域だったため、
+Fortunately, this Highland was an uninhabitable area.
+
+# b0f84d51
+; 爆発による人命被害はなかったんだけど、
+There were no casualties from the explosion.
+
+# 12b6eb92
+; 火山性ガスと毒物の影響でたくさんの羊が死に、しばらく接近禁止の地域だった。
+Volcanic gases and toxic substances killed many sheep and kept them out of the area for a while.
+
+# 6d84c0a0
+; me: 「あっ、こ、この赤いのは？？」
+me: "Oh, this red one?"
+
+# 8483a010
+; 一瞬、マグマかと思ってびびった。
+For a moment I was frightened at the thought of magma.
+
+# bc583dfe
+; yule: 「大丈夫ですよ。それは土です。[i]溶岩の鉄成分が酸化し、火山の噴出物であるスコリアが着色されたから、そんな色をしてるだけです」
+yule: "It's all right.It's soil. [i] It's just that color because the iron component of lava has been oxidized and the volcanic eruption, the scoria, has been colored."
+
+# 5a3b8bb3
+; me: 「な、なるほど」
+me: "Well, I see,"
+
+# f534a84f
+; yule: 「新しい溶岩地帯では、よく見られる土の色ですよ」
+yule: "It's the color of the soil that's common in new lava areas."
+
+# 74e9afe5
+; me: 「それにしても……結構走って来たけど、道が見えないな」
+me: "But …… I've been running quite a bit, but I can't see the way."
+
+# 5722f168
+; yule: 「ホルフロインを横切るこのF910ロードは、一応地図上には道として示されてますが、道がわかりずらいですね」
+yule: "This F910 Road crossing the Holfroin is shown as a road on the map, but it's hard to find a way."
+
+# 99c53b
+; me: 「うん。ガイド棒もなく、車の跡とかもあまり見えないんだな」
+me: "Yeah. There's no guide stick, and you can't see many traces of cars."
+
+# 469b7290
+; まるで砂漠そのものだな。
+It's like the desert itself.
+
+# e9c9bbce
+; yule: 「ま、車の方向はユールちゃんが調整しますから、アクセルだけ踏んでください」
+yule: "Well, Yule will adjust the direction of the car, so just step on the accelerator."
+
+# 92abe1f3
+; me: 「えっ？うわっ！」
+me: "What? Whoa!"
+
+# a13e8d73
+; yule: 「くすくす」
+yule: "The giggle,"
+
+# a1968ad0
+; ユールちゃんの魔法なのか。
+Is it the magic of Yule?
+
+# 8aba0e90
+; ハンドルの操作もしてないのに、車は勝手に方向を転換して走り出した。
+Even though he didn't operate the steering wheel, the car turned around and started running.
+
+# 29d1a331
+; yule: 「とりあえず道が把握できる場所まで導きますね」
+yule: "I'll lead you to a place where you can find your way."
+
+# 8ff417ec
+; me: 「あ、ああ……」
+me: "Oh, oh, ……,"

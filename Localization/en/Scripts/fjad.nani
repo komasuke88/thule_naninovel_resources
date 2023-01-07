@@ -1,0 +1,209 @@
+; Japanese <ja> to English <en> localization document for `fjad` naninovel script
+
+# ce59e4ae
+; me: 「ほぉ」
+me: "Oh,"
+
+# 37178464
+; 峡谷から、清らかな川が流れていた。
+A clear river ran from the canyon.
+
+# ec0adad6
+; ここは、 <ruby="フジャラールグルジュフル"> Fjaðrárgljúfur</ruby>
+This is <ruby="Fujalal Gurujuful">Fja ðrglj úfur</ruby>
+
+# 113d8b4
+; １万年前、氷河が溶けた水が流れて来て、その侵食作用で作られて谷だ。
+It is a valley created by the erosion of water that melted from glaciers 10,000 years ago.
+
+# e231432a
+; 氷河が溶けた水は今でも川を生成していて、Fjaðrá川という名前がついた。
+The melting water of the glacier still produces the river, and it was named the Fja ðr á River.
+
+# 14972c33
+; この峡谷の長さは２Kmほど、深さは１００ｍほど。
+The canyon is about 2 km long and 100 m deep.
+
+# 2f5cbe04
+; 美しい湖や壮大な岩盤に囲まれた絶景が広がってる。
+Beautiful lakes and spectacular views surrounded by magnificent bedrock are spreading.
+
+# 52a43377
+; スケールがそんなに大きいわけではないが、それなりの規模はあって、とても綺麗で、
+It's not that big, but it's quite large, and it's
+
+# b7988088
+; リングロードからのアクセスも用意なため、観光客も多い。
+The Ring Road also provides access, so there are many tourists.
+
+# 73bffc3e
+; 十年前まではあまり知られてない静かな観光地だったけど、
+Until 10 years ago, it was a quiet sightseeing spot that was not well known.
+
+# 8e716dd6
+; 最近になって有名になった場所だ。
+It is a place that has recently become famous.
+
+# 275ecc8
+; me: 「道を登ってみるか」
+me: "Let's go up the road,"
+
+# 72f944d1
+; 少しだけ丘を登ると、峡谷の奥が見えてきた。
+After a short climb up the hill, I saw the back of the canyon.
+
+# 8ff9c4b9
+; me: 「流石に、絶景だな」
+me: "What a magnificent view,"
+
+# 9e68a1c1
+; 今では観光客の入場が許可されたけど、少し前までは立入禁止の場所だった。
+Tourists are now allowed to enter, but not long ago, it was a place where visitors were not allowed to enter.
+
+# 82b7405b
+; ２０１５年、有名なカナダのミュージシャン、 <ruby="ジャスティン・ビーバー"> Justin Bieber</ruby>がここで、
+In 2015, famous Canadian musician <ruby="Justin Bieber">Justin Bieber</ruby> was here.
+
+# 4f230cd1
+; <tip="illshowyou">I'll show you</tip>という曲のミュージックビデオを撮影した。
+<tip="illshowyou">I'll show you</tip>I filmed a music video.
+
+# 7b7e2b3b
+; あれ以来、そのミュージックビデオの景色を求めて、ここを訪れる観光客が増えてきて、
+Since then, more and more tourists have come here to look for the music video.
+
+# 4bef9018
+; 歩行者の急増によって、この脆弱な自然に損害がもたらされた。
+The rapid increase in pedestrians caused damage to this fragile nature.
+
+# f29465a4
+; それ故に２０１９年、アイスランド政府は自然保護のため、この峡谷を閉鎖していたのだ。
+That's why in 2019, the Icelandic government had closed the canyon for conservation
+
+# f6a9fce9
+; me: 「人が多くなると、自然は壊れていくものだな……」
+me: "Nature breaks down when there are more people ……"
+
+# 1284a71c
+; me: 「それにしてもここも、とても冬の景色とは思えないな」
+me: "But I don't think it's a winter scene here either,"
+
+# 5c6a8c81
+; 凍ってもいない川。広がってる緑色の景色。
+A river that's not even frozen. A green landscape.
+
+# 51692e6b
+; これが異常高温の結果か。
+Is this the result of an unusually high temperature?
+
+# 1e9a1e92
+; 冬なのに、夏のような景色が広がってる。
+Even though it's winter, the scenery looks like summer.
+
+# 7aab4ef7
+; 観光には便利ではありけど、ちょっと違和感が多すぎる。
+It's convenient for sightseeing, but I feel a little uncomfortable.
+
+# e87946e8
+; me: 「だからこその美しさも確かにあるけどね」
+me: "That's why it's so beautiful,"
+
+# 641e1448
+; 写真は十分撮ったし、そろそろ下りるか。
+I've taken enough pictures, so I think I'll be going down soon.
+
+# d7f3d820
+; me: 「小さな町だな」
+me: "Little Village,"
+
+# 1e0ab6d
+; ここは峡谷のすぐ隣、 <ruby="キルキュバイヤルクロイストゥル"> kirkjubaejarklaustur</ruby>という町。
+This is Village, right next to the canyon, <ruby="Kirkjubaejarklaustur">kirkjubaejarklaustur</ruby>.
+
+# 1ff59b4
+; ……いつも思うけど、アイスランドの地名って長すぎて難しいな。
+…… As I always think, Iceland's place name is too long and difficult.
+
+# cd3ceafe
+; 現地では <ruby="クラウストル"> Klaustur</ruby>という名で呼ばれてる。
+It is called <ruby="Krustur">Klaustur</ruby> locally.
+
+# e09c563
+; 人口は約１２０名くらい。
+The population is about 120.
+
+# 2ba05a07
+; 町の隣で見える滝は <ruby="シストラフォス"> Systrafoss</ruby>。
+The waterfall you can see next to Village is <ruby="System">Systrafoss</ruby>.
+
+# 8b30498
+; 姉妹滝という意味だ。
+It means sister waterfall.
+
+# 9916dc69
+; ちなみに滝の上の岩は、Sister's Rockと呼ばれてる。
+Incidentally, the rock above the waterfall is called Sister's Rock.
+
+# 6244b8d8
+; その名前どおり、この地域は二人のシスターに関係がある。
+As the name suggests, the area is related to two sisters.
+
+# f1403624
+; 昔、二人のシスターが罪を犯した。
+Once upon a time, two sisters committed crimes.
+
+# 46dfc5ff
+; 悪魔に魂を売る儀式と、肉欲に溺れて淫らな行為などで教会に訴えられた。
+He was sued by the church for the ritual of selling his soul to the devil and for his lustful acts.
+
+# c0e0c64c
+; その後二人のシスターは火刑に処せられ、ここに埋められたという。
+The two sisters were reportedly burned and buried here.
+
+# 204bfa22
+; me: 「そういや、教会に関する場所が、もうひとつあったな」
+me: "There was another place about the church, by the way,"
+
+# d73aed0d
+;  <ruby="キルクゴルフ"> Kirkjugolf</ruby>。
+ <ruby="Kirk Golf">Kirkjugolf</ruby>.
+
+# ba75bed
+; 教会の床という意味の柱状節理が、この隣の丘の上にある。
+A columnar joint, which means the floor of a church, is on the hill next to it.
+
+# 485f972f
+; いろんなものが、教会と関連付けてるが、それには理由がある。
+There are many things associated with the church, but there is a reason for this.
+
+# 543762ad
+; [br]ここは昔から、アイスランドのクリスチャンたちの定着地だったという。
+[br] This place has long been a settlement for Icelandic Christians.
+
+# 5b0f807f
+; 『どんな異教徒も、このクラウストルには足を踏み入れられない事を知れ』
+『 Know that no pagan can set foot in this kraustre 』
+
+# a44d240c
+; と、昔から伝われている、厳格なクリスチャンだけの町である。
+Village has long been handed down to strict Christians only.
+
+# 247655c4
+; me: 「教会の町か」
+me: "The Village of the Church?"
+
+# 4cd1c36f
+; 今ではクリスチャン以外に立ち入り禁止とか、そういう掟はなくなったんだろうけど、
+I suppose there are no more rules now, such as off limits.
+
+# a8f5a49
+; 色んなところら昔の厳しい宗教社会の端面が見られていた。
+There were many aspects of the harsh religious society of the past.
+
+# 506f494d
+; me: 「さて、写真も十分撮ったし、そろそろ行くか」
+me: "Well, I've taken enough pictures, and I think I'll be going soon."
+
+# 690874c7
+; カメラをしまい、俺はクリスチャンの町を去るのだった。
+He put the camera away and me left Christian Village.

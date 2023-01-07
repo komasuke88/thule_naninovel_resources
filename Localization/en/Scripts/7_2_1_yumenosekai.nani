@@ -1,0 +1,581 @@
+; Japanese <ja> to English <en> localization document for `7_2_1_yumenosekai` naninovel script
+
+# 6e1bc5eb
+; 遠くなる意識の中で。
+in a distant consciousness.
+
+# 51399ad6
+; unknown: 「{playerName}！しっかり！」
+unknown: " {playerName}! Keep it up!"
+
+# a42e0b77
+; と、誰かが俺を呼ぶ声が聞こえた。
+I heard someone calling for me.
+
+# afe48675
+; me: 「……{playerName}？」
+me: "Is it ……{playerName}?"
+
+# aff5ff47
+; はて、俺は北島健二なのだが。
+Well, me is Kenji Kitajima.
+
+# 43fa97c2
+; {playerName}って、
+{playerName} he said,
+
+# f5dfed70
+; 誰だ？
+Who is it?
+
+# 628abd0e
+; へんな夢だよな。
+It's a strange dream.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# fc023a7c
+; 目が覚めた。
+I woke up.
+
+# d2c6a13d
+; me: 「ここは……」
+me: "This is ……,"
+
+# df4baf74
+; @choice "学校" goto:.galtukou
+@choice "School" goto:.galtukou
+
+# 49d583f7
+; @choice "地獄" goto:ed_7_2_1_hell
+@choice "Hell" goto:ed_7_2_1_hell
+
+# 77d42aa5
+; キンコンカンコン。
+It's crunchy.
+
+# bac1086e
+; me: 「学校の、廊下？」
+me: "School hallway?"
+
+# d8a3c291
+; うん？
+Yup?
+
+# e71da492
+; いや、教室か。
+No, it's a classroom.
+
+# 7646eb27
+; 俺は、教室の椅子に座っている。
+I is sitting on a chair in the classroom.
+
+# 7b215617
+; 隣の席には……
+The seat next to me is ……
+
+# bfda49
+; @choice "女の子" goto:.girl
+@choice " Girl" goto:.girl
+
+# 67104efd
+; @choice "魚人" goto:ed_7_2_1_fishman
+@choice " Fishman" goto:ed_7_2_1_fishman
+
+# 9ccb7db0
+; hime: 「あら、ケンジくん、起きたのね」
+hime: "Oh, Kenji, you're up."
+
+# 86363a87
+; 隣の席に座ってる黒髪ロングの女の子が、微笑みながら俺の目を見てた。
+The long black-haired Girl sitting next to me smiled and looked into me's eyes.
+
+# c86856a2
+; me: 「あれ？ヒメ？」
+me: "Huh? Hime?"
+
+# 224e4005
+; hime: 「ヒメカだよ。ケンジの寝顔って可愛いから、ちょっとだけ見てたよ。てへっ」
+hime: "It's Himeka. Kenji's sleeping face is cute, so I was just looking at it. Hehe."
+
+# e2fd5a4f
+; yule: 「ちょっと！」
+yule: "Wait a minute!"
+
+# 28b605fb
+; と、その時、教室のドアが勢いよく開いて、ゆるふわ金髪の女の子が入ってきた。
+Then the door of the classroom burst open, and a loose, blond Girl came in.
+
+# 405a9e
+; yule: 「ケンジ！また他の女の子といちゃついてる！」
+yule: "Kenji! He's flirting with another Girl!"
+
+# 78c0ebd
+; hime: 「あ、ユールちゃんだ。こんばんは」
+hime: "Oh, Yule.Good evening."
+
+# ce5f38a7
+; 幼馴染のユールだ。
+This is my childhood friend Yule.
+
+# 126cd07e
+; ユールって変わった名前なんだけど、
+Yule It's an unusual name.
+
+# b5fbc59b
+; ま、そんな人もいるよね。
+Well, there are people like that.
+
+# aa15b99a
+; yule: 「ケンジはあたしが連れて行くよ」
+yule: "I'll take Kenji,"
+
+# 1df7643f
+; ユールって、ちょっと耳が長い気もするけど、
+Yule I think I have long ears.
+
+# b5fbc59b
+; ま、そんな人もいるよね。
+Well, there are people like that.
+
+# f0eb751e
+; hime: 「ずるい！わたしもケンちゃんと行きたい！」
+hime: "That's cheating! I want to go with Ken!"
+
+# a8f5ba44
+; yule: 「こ、こうなったら、強引にでも」
+yule: "If this happens, I'll force you."
+
+# 8f79b183
+; と言いながら、ユールは俺に近づいて、腕を組んだ。
+As he spoke, Yule approached me and folded his arms.
+
+# 2598ad5c
+; hime: 「わたしもやるもん！」
+hime: "`I'll do it!'"
+
+# d6d3fbb3
+; と言いながら、ヒメは反対側の腕を組んできた。
+said Hime, crossing the other arm.
+
+# 10068f9f
+; 両手に花か。
+A flower in both hands.
+
+# eba68e80
+; 俺は、彼女につれて行かれた。
+I was taken by her.
+
+# a1be1978
+; @choice "ユール" goto:.yule
+@choice " Yule" goto:.yule
+
+# 8c1183df
+; @choice "ヒメカ" goto:ed_7_2_1_hime
+@choice " Himeka" goto:ed_7_2_1_hime
+
+# 5eb0a02e
+; 学生の時。
+When I was a student.
+
+# 2a4fcf99
+; 俺はいつも一人だった。
+I was always alone.
+
+# 1eb3e002
+; 友達付き合いも悪かったし、恋人などいるわけもなかった。
+I didn't get along well with my friends, and I couldn't have a boyfriend.
+
+# 7932f75d
+; ご両親は共働きで忙しかったし、俺は家で本を読みながら過ごした。
+Both parents were busy working, and me spent time at home reading books.
+
+# a64894e1
+; 読んでたのは主にファンタジー小説と、旅行記の本だった。
+I mainly read fantasy novels and travel books.
+
+# 9e17177a
+; 遠い世界の話が好きだった。
+I liked to talk about the distant world.
+
+# 1550f654
+; そんな世界へと行く夢を見るのが、生きる原動力だった。
+The driving force behind my life was to dream of going to such a world.
+
+# a9b67b1e
+; いつかきっと、遠く、知らない世界に行くと。
+Someday, I'm sure I'll go to a world far away and I don't know.
+
+# 211cafba
+; yule: 「じゃあ、あたしはこっちだから」
+yule: "`Well, I'm this way,'"
+
+# 8e2ef897
+; me: 「おう」
+me: "Yes,"
+
+# 9044652b
+; 家へと帰る、海沿いの道。
+A coastal road home.
+
+# 74e98ecb
+; 海から、魚が出てきた。
+Fish came out of the sea.
+
+# 449c1330
+; fishman: 「やあ」
+fishman: "Hi,"
+
+# f263d309
+; me: 「おう、ご苦労さん」
+me: "Oh, thank you for your hard work,"
+
+# 90d34e89
+; fishman: 「一緒にどうだ？」
+fishman: "Why don't you join us?"
+
+# e6c18871
+; me: 「ああ、いいんじゃね？」
+me: "Oh, isn't it all right?"
+
+# 207742e9
+; 俺は魚人と……
+I is Fishman and ……
+
+# e9d3c6a5
+; @choice "飲み会" goto:.nomikai
+@choice "Drinking party" goto:.nomikai
+
+# 9e4cf8ef
+; @choice "殺し合い" goto:ed_7_2_1_korosiai
+@choice "Killing each other" goto:ed_7_2_1_korosiai
+
+# 8e453378
+; fishman: 「もうやってられないって」
+fishman: "I can't do it anymore"."
+
+# 32b2cee6
+; me: 「それな」
+me: "Well,"
+
+# 45d7e2cf
+; ここは、回転寿司。
+This is Kaitenzushi.
+
+# acb807c8
+; 俺は酒を飲みながら、レールの上の魚と会話をしてた。
+I was drinking and talking to the fish on the rail.
+
+# 48a1a0b9
+; 回ってるたくさんの魚たちは、俺の前を通るたびに話かけてくる。
+Many fish circling talk to me every time they pass me.
+
+# 7b294fd2
+; fishman: 「もう何回も回ってるんだワシ。早く誰か食べてくれや」
+fishman: "It's been round so many times, Eagle.I hope someone will eat it soon."
+
+# b6864abf
+; me: 「すまんな。もうお腹いっぱいで……」
+me: "I'm sorry, I'm so full ……."
+
+# d1a6170f
+; 酒の酔が回ってきて、頭がクラクラした。
+I felt dizzy when I got drunk.
+
+# 257dd91b
+; @choice "帰る" goto:.kaeru
+@choice "I'm going home" goto:.kaeru
+
+# b2a229a0
+; @choice "死ぬまで飲む" goto:ed_7_2_1_nomu
+@choice "Drink to death" goto:ed_7_2_1_nomu
+
+# 7d712777
+; me: 「俺、もう、田舎に帰るわー」
+me: "me `I'm going back to the country now,'"
+
+# db8db43c
+; fishman: 「まいどー」
+fishman: "My dear,"
+
+# 18bdb246
+; 廊下を通って、階段を降りて、大学の正門まで来た。
+I went down the corridor, down the stairs, and came to the front gate of the university.
+
+# ffba9982
+; yule: 「これから遊びに行くよ？」
+yule: "I'm going to play now."
+
+# 3d70345d
+; ユールって、変な服来てるよな？
+Yule You're wearing weird clothes, right?
+
+# d059f175
+; それより、出てきたのは飲み屋ではなかったっけ？
+Wasn't it a bar that came out?
+
+# c7ff7c30
+; まあいいか。
+I don't know.
+
+# 7e7d9902
+; そんな事もあるさ。
+That's possible.
+
+# 5fa56fd0
+; とりあえず遊びに行くぞ。
+Let's go hang out for now.
+
+# 20d9b8a7
+; @choice "惑星" goto:.iceland
+@choice "Planet" goto:.iceland
+
+# bf0f834a
+; @choice "会社" goto:ed_7_2_1_kaisha
+@choice "Company" goto:ed_7_2_1_kaisha
+
+# 79819b68
+; me: 「わくわくするな。この惑星は」
+me: "Don't be so excited.This planet is."
+
+# ba932a56
+; 一万光年離れた星に来てる俺。
+I on a star 10,000 light years away.
+
+# 20914f14
+; me: 「まるで、アイスランドみたいだ」
+me: "It's like Iceland."
+
+# 4b978ffa
+; アイスランド？
+Iceland?
+
+# c3efa758
+; はて？
+What?
+
+# b0bed06c
+; 俺、行ったことあるんだっけ？
+I Have you been there before?
+
+# 3ca997b5
+; yule: 「楽しかったです。{playerName}とのアイスランド旅行」
+yule: "It was fun. A trip to Iceland with {playerName}"."
+
+# c2be40a3
+; me: 「俺は北島健二なのだが」
+me: "My name is Kenji Kitajima."
+
+# b24f547c
+; yule: 「そうでしたっけ？」
+yule: "Is that so?"
+
+# 9a8bef02
+; me: 「でも{playerName}って名前、なんだか響きがいいな」
+me: "`But the name {playerName} sounds good,'"
+
+# f94128cb
+; yule: 「でしょう？」
+yule: "Right?"
+
+# 243f5954
+; me: 「違う人に、なれたらいいのにな」
+me: "I wish I could be someone else."
+
+# c83b926a
+; yule: 「あら？」
+yule: "Oh, my God?"
+
+# 4e58589
+; me: 「誰かに与えられた名前で、誰かに与えられた人生だけ、生きる事ができなかったな」
+me: "I couldn't live the life given to someone by the name given to someone"."
+
+# 9e000b01
+; yule: 「旅に、出たらどうですか？」
+yule: "Why don't you go on a trip?"
+
+# 8bc72f18
+; me: 「旅に？」
+me: "On a journey?"
+
+# 2eeaa209
+; yule: 「Hver er sinnar gæfu smiður」
+yule: "Hver sinnarg æ fusmi ður"
+
+# 673ca65f
+; me: 「それは？」
+me: "What about that?"
+
+# d3c0b5da
+; yule: 「人はみんな、自分の運命を作ってる鍛冶屋さんですよ」
+yule: "Every man is a blacksmith who makes his own destiny,"
+
+# 64d9d6c6
+; me: 「旅に、出られるかな？」
+me: "Can we go on a journey?"
+
+# 4e0f98bb
+; yule: 「いつでもできますよ。やろうと思えば」
+yule: "You can do it any time.If you want to do it."
+
+# e766551a
+; me: 「違う人に、なれるのかな？」
+me: "Can I be someone else?"
+
+# cef9e8c0
+; yule: 「旅に出ると、新しい自分をなれますよ」
+yule: "When you go on a journey, you can become a new self."
+
+# b84997a8
+; だけど、旅はいつか終わる。
+However, the trip will be over someday.
+
+# cde23617
+; 俺は、帰らないといけない。
+I I have to go home.
+
+# c1176c6f
+; 俺が帰るべき場所、そこは……
+The place where me should return is ……
+
+# c63e5e16
+; @choice "故郷" goto:.hurusato
+@choice "Home" goto:.hurusato
+
+# fabb0f16
+; @choice "病院" goto:ed_7_2_1_hospital
+@choice "Hospital" goto:ed_7_2_1_hospital
+
+# 82be6789
+; 幼い頃。
+When I was young.
+
+# 5708d891
+; 正月には、俺はご両親と田舎の婆さんちに行ってた。
+On New Year's Day, me went to a country old woman's house with her parents.
+
+# 5f30e3f0
+; お婆さんはいつも言ってた。
+said the old woman,
+
+# 25bf0388
+; 『雪にはのぉ、魔法がやどるわい』
+『 In the snow, magic stops 』
+
+# 94c1ea89
+; 俺はいつも『知ってるよ』と答えた。
+I always answered that he knew 『.
+
+# dbe09383
+; そう。雪は魔力の源。
+Right. Snow is the source of Magical Power.
+
+# 4fc3b959
+; 俺は魔法に覆われた田舎の風景が好きだった。
+I liked the magical countryside.
+
+# 7df85b8e
+; me: 「田舎の風景は、心が落ちつくな」
+me: "The countryside makes me feel at ease my mind."
+
+# c9c04cbf
+; 雪に覆われた田舎の山で、俺はぼっと風景を眺めてた。
+In the snow-covered countryside, me stared blankly at the landscape.
+
+# 4d47b60f
+; 木々: 「やぁ」
+Trees: "Hi."
+
+# 4976f24c
+; me: 「お前たちは、気楽でいいよな。ずっとそこに突っ立ってるだけでいいだろう？」
+me: "You're comfortable.All you have to do is stand there all the time?"
+
+# 858fa248
+; 木々: 「そうだよ。何も考えなくても、何もしなくてもいい」
+Trees: "That'sure.You don't have to think or do anything."
+
+# 789e7b88
+; me: 「気持ちいいか？」
+me: "Do you feel good?"
+
+# 5e67b3c0
+; 木々: 「もちろんさ。この大自然の中で、自然体でいられるんだぜ」
+Trees: "Of course.You can be natural in this great nature."
+
+# a6ec5f36
+; me: 「羨ましいよ。俺もそうなりたいわ」
+me: "I envy you. I want to be like me."
+
+# 7843590f
+; 木々: 「なれるぜ。ほら」
+Trees: "You can get used to it. See?"
+
+# 41f701de
+; @choice "気になる" goto:.kininaru
+@choice "Curious" goto:.kininaru
+
+# 58c23af0
+; @choice "木になる" goto:ed_7_2_1_tree
+@choice "become a tree" goto:ed_7_2_1_tree
+
+# b9e40f2a
+; 気になる。
+concern。
+
+# b96bbc1d
+; 何が？
+what?
+
+# 5586cc79
+; 彼女が。
+She...
+
+# 2de43482
+; me: 「俺、なんで忘れてたんだ？そんな、大切な人の事を」
+me: "Why did you forget me?"Such a precious person."
+
+# 154cde21
+; そうだ。
+That's it。
+
+# 587245e6
+; 彼女がどうしてるのか、
+I don't know how she's doing.
+
+# 42611a7a
+; どうしても気になる。
+I can't help but wonder.
+
+# f45e4ee1
+; 今頃、何やってるんだろう。
+What are you doing now?
+
+# cb92b71
+; @choice "ユールちゃん" goto:.yulechan
+@choice " Yule" goto:.yulechan
+
+# 4c4b648d
+; @choice "先生" goto:ed_7_2_1_doctor
+@choice "Teacher" goto:ed_7_2_1_doctor
+
+# d6ca10
+; me: 「彼女の元に、行かなくては……」
+me: "I must go to her ……,"
+
+# a74b306f
+; でももう、意識が……
+But now, my consciousness ……
+
+# 5df0cb33
+; …………………………
+…………………………
+
+# 96dd75b3
+; ……………
+……………
+
+# 3ea899f
+; ……
+……

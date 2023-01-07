@@ -1,0 +1,57 @@
+; Japanese <ja> to English <en> localization document for `_londrangar` naninovel script
+
+# b71f6573
+; そり立つ断崖絶壁で、断ち切られた陸地の端。
+the edge of land cut off by a steep cliff.
+
+# a13f952
+; 冷たい潮風が顔を叩いて、息苦しい。
+The cold sea breeze hit my face and I can't breathe.
+
+# ee973658
+; 荒い波が海岸を叩いて、うるさい。
+Rough waves hit the coast and it's noisy.
+
+# 32d28a36
+; この厳しい一帯の、また最果ての、黒い影が見える。
+I saw the last black shadow of this harsh region.
+
+# c0d46afe
+; yule: 「ご先祖様のところに来ましたね」
+yule: "You've come to your ancestors,"
+
+# aee8400f
+; me: 「あれ？こんな場所にも？」
+me: "Huh? Even in a place like this?"
+
+# 6c043c8d
+; yule: 「はい。ここは遠すぎるから、近くのソルスモルクに行こうと思ったんですが、もう来てしまったのならここでもいいんですよ」
+yule: "Yes, it's too far, so I thought I'd go to a nearby Thorsmork, but if you've already come, I don't mind here."
+
+# d718f37b
+; me: 「こっちのご先祖様にも、色々と聞けるって事か」
+me: "You mean you can ask your ancestors a lot of questions."
+
+# edce70e0
+; yule: 「はい。どうします？」
+yule: "Yes, what should I do?"
+
+# 4986f9f8
+; me: 「そうだな……」
+me: "Yes, ……,"
+
+# 55f6a2e
+; @choice "記憶を探す" goto:6_02_1_londrangar.lond_start handler:ButtonList
+@choice "Find Memory" goto:6_02_1_londrangar.lond_start handler:ButtonList
+
+# 5a722bc6
+; @choice "旅を優先する" goto:.tabi handler:ButtonList
+@choice "Prioritize Travel" goto:.tabi handler:ButtonList
+
+# d99963bd
+; me: 「いや、まずは自由に、色んなとこを回ってみたい」
+me: "No, first of all, I want to go around many places freely."
+
+# 25debdaa
+; yule: 「了解でーす。では」
+yule: "All right, then,"

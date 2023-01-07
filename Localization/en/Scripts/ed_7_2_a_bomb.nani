@@ -1,0 +1,113 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_a_bomb` naninovel script
+
+# e3b2fed1
+; みなぎる力。
+overflowing power.
+
+# 5c5a4f8
+; それを開放する。
+Open it up.
+
+# 68ec4662
+; おおおおおお！
+Oh, my God!
+
+# acb877b4
+; ば—————ん
+sound of something happening in a bad mood
+
+# 4822c525
+; 俺は大爆発を起こした。
+I caused a huge explosion.
+
+# 8da1b9d4
+; 核爆発？
+Nuclear explosion?
+
+# 3d508d94
+; いや、これはそんなちょろいもんではない。
+No, this isn't such a trifle.
+
+# 5b6fb49
+; これは、ビッグバンだ。
+This is the Big Bang.
+
+# 112b0062
+; me: 「……やってしまったな」
+me: "You've done ……,"
+
+# cc576eb8
+; 宇宙は、滅んでしまった。
+The universe has perished.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 25e642f
+; それでも時間は流れる。
+Still, time goes by.
+
+# 2ca9cb83
+; それから億、兆、京、垓、𥝱、穰、溝、澗、正、載、極…そして無量大数の時が過ぎた。
+Since then, the time has passed for billion, trillion, trillion, and...
+
+# 5fd41b90
+; 新しい宇宙が誕生した。
+A new universe was born.
+
+# 8da0ea87
+; 新しい太陽系も誕生した。
+A new solar system has also been created.
+
+# 44bd1124
+; 続いて新しい地球、海、大陸、生物、人間、歴史……すべてが同じく流れて、新しい現代にいたる。
+The new earth, sea, continents, living things, human beings, and history …… all flow in the same way, leading to the new modern age.
+
+# 367694c8
+; 俺は新しい日本でまた人間に生まれ変わり、
+I has been reborn as a human being in a new Japan.
+
+# 8dd4a0ac
+; またも飛行機に乗って、新しいアイスランドにきた。
+I flew to Iceland again.
+
+# 2d715cd5
+; また新しく記憶を失って、新しいユールちゃんに出会い、記憶を探す冒険をする。
+He also loses his new memory, encounters a new Yule, and takes an adventure to find memories.
+
+# 59c7063f
+; でもまた新しいグリーラに食べられて死に、
+But he died again after being eaten by a new gryla;
+
+# ea84c1f
+; またも新しく、俺は土になる。
+Again, me becomes soil.
+
+# 6a39bde
+; me: 「無限の時間を経て、俺はまた土に戻ったな」
+me: "After an infinite amount of time, me has returned to earth."
+
+# 64ef04eb
+; 見事な輪廻。
+a beautiful cycle of transmigration.
+
+# ad0cceab
+; すべてが同じ。
+Everything is the same.
+
+# 3775e092
+; そしてまたも、選択の時がきた。
+And again, the time has come for choice.
+
+# d380e424
+; さて、今度はどうする？
+Now, what do we do?
+
+# c8126638
+; @choice "生まれる" goto:7_2_5_dream.kusa
+@choice "Born" goto:7_2_5_dream.kusa
+
+# 2af76d4f
+; @choice "生まれ変わる" goto:7_2_5_dream.deru
+@choice "Reborn" goto:7_2_5_dream.deru

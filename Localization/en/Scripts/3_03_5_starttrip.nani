@@ -1,0 +1,516 @@
+; Japanese <ja> to English <en> localization document for `3_03_5_starttrip` naninovel script
+
+# f2a4e263
+; 車を停めていた場所に戻った。
+I went back to where I had parked my car.
+
+# cd502b30
+; 先はこの場所で目覚めて、わけがわからなくて、焦ったな。
+I woke up here before, and I was in a hurry because I didn't know why.
+
+# 5fda881b
+; でも、もうすっかり本調子だ。
+But I'm quite at it now.
+
+# 43f98619
+; [br]記憶がないのは相変わらずで、まだ少し心細いけど、
+[br] I still don't remember, and I'm still a little lonely.
+
+# cbca00b3
+; リルヤと話してたら、ちょっとすっきりした気分になった。
+Lilya I felt a bit refreshed talking to him.
+
+# 35036602
+; 短い時間だったけど、彼女にもお世話になったな。
+It was a short time, but she took care of me, too.
+
+# 848bf954
+; 車に乗って、エンジンをかけた。
+I got in the car and started the engine.
+
+# 9df25c05
+; ダッシュボードにスマホをセットして、画面を開いてみたら……
+When I set the Smartphont on the dashboard and opened the screen, ……
+
+# 4fa01aeb
+; me: 「あ、ヒメからだ」
+me: "Oh, it's from Hime,"
+
+# 5e873b5b
+; 通知が来ていた。
+There was a notice.
+
+# b1086dda
+; そういや、昨日からずっと確認してないな。
+by the way I haven't checked since yesterday.
+
+# f0730525
+; @print "ブルーラグーンに来たよ" author:hime speed:0 waitInput:false
+@print "I'm at Bluelagoon" author:hime speed:0 waitInput:false
+
+# 1193372b
+; hime: <alpha=#00>((hime_self5))<alpha=#ff>
+hime: <alpha=#00>((hime_self5))<alpha=#ff>
+
+# 8a803cac
+; me: 「ぷ————っ！」
+me: "`Pooooooooooooooooooooooooooooooo!'"
+
+# b7e95dbe
+; おっぱい写メが！
+The milk photo shoot!
+
+# a8aca4a9
+; 大きな胸の谷間が見える水着自撮り画像が送られてきた。
+A swimsuit selfie image showing the valley of the big chest was sent.
+
+# b89b0067
+; 見てはいけないものを見た気がして、一瞬狼狽えた。
+I felt like I saw something I shouldn't have seen, and I was flustered for a moment.
+
+# bb11d9a2
+; この子、なんてものを送るんだ。
+She's sending something.
+
+# d2010e54
+; 何かの間違いではないだろうか。
+I think it's something wrong.
+
+# 6ecdf690
+; [br]……それにしても、すごいな。
+[br]…… But it's amazing.
+
+# 5882441f
+; こんな可愛い顔で、おっぱいデカすぎ。
+You have such a cute face and are too big.
+
+# 7081218a
+; グラドルの写真かと思った。
+I thought it was Gladr's picture.
+
+# d2928b10
+; ヒメのスタイルがいい事はわかってたけど、改めて思い知った。
+I knew that Hime's style was good, but I realized it again.
+
+# a9fa4b4
+; me: 「……う、うーむ。それはそうと、メッセージは……」
+me: "…… "Well, yes.By the way, the message is ……."
+
+# 73afbcf2
+; @print ""
+
+# 7169d9c7
+; @print "" speed:0 waitInput:false
+
+# fd1302c7
+; 写真に気を取られて、メッセージをちゃんと見なかった。
+I was so distracted by the picture that I didn't read the message properly.
+
+# 1ae1aa82
+; ブルーラグーンか。
+Bluelagoon Is that so?
+
+# 78bc37ae
+; 露天温泉として世界一の規模を誇る、アイスランド随一の観光スポットだ。
+It is the largest open-air hot spring in the world and the largest tourist spot in Iceland.
+
+# ec004814
+; ここから一時間ほどの距離だけど、バスに乗って行ったのかな。
+It's about an hour from here, but I guess I took the bus.
+
+# 2b861f05
+; メッセージの時間は一時間前だった。
+The message was sent an hour ago.
+
+# 2dcd41d0
+; また確認が遅くなったな。
+I'm late to check again.
+
+# 91ffeca9
+; me: 「コホン」
+me: "Gohong"."
+
+# 9bd194de
+; ……しかしこれ、返信どうしたらいいんだ？
+…… But what should I do with this reply?
+
+# fa01b633
+; メッセージはえらくシンプルで、反応に困る。
+The message is very simple and difficult to respond to.
+
+# 448ba948
+; 水着似合ってるって、言ったらいいか？
+Should I say that my swimsuit looks good on me?
+
+# a1714c13
+; いや、写メには触れないで、メッセージだけ拾った方がいいかな。
+No, I think I should just pick up the message instead of touching the pictures.
+
+# b0d56fd2
+; @choice "ブルーラグーンいいな" goto:.kousha
+@choice "I like Bluelagoon" goto:.kousha
+
+# 6108d13c
+; @choice "ブルーラグーン行くよ" goto:ed_3_05_5_bluelagoon
+@choice "Here we go Bluelagoon" goto:ed_3_05_5_bluelagoon
+
+# 7d0de7e1
+; me: 「……後者かな」
+me: "The latter, ……,"
+
+# eee9af3e
+; 俺って本当、こんな場面ではビビってしまうんだよな。
+I I'm really scared in situations like this.
+
+# 73afbcf2
+; @print ""
+
+# c4e6c259
+; me: いいな！ブルーラグーン
+me: "Good! Bluelagoon"
+
+# 12ce7ac
+; me: 世界最大の露天温泉だと聞くけど、さすがに広そうだな
+me: "I heard that it is the largest open-air hot spring in the world, but it seems to be spacious."
+
+# ea2110dc
+; me: 後で俺も行ってみたいな
+me: "I want to go to me later."
+
+# 7940018
+; と、返信。
+replied he.
+
+# 7e145781
+; ………………
+………………
+
+# 73afbcf2
+; @print ""
+
+# 69a43f3a
+; 既読がついた。
+I've already read it.
+
+# 199ac331
+; ど、どう反応するかな。
+I wonder how they will react.
+
+# 4147af58
+; ………
+………
+
+# 7e145781
+; ………………
+………………
+
+# 58dfdc55
+; しかし、少し待ってみても返事がない。
+However, after waiting for a while, there was no answer.
+
+# 59c4b156
+; ……写真の事を触れてないのが気に食わなかったとか？
+…… You didn't like the fact that you didn't mention the picture?
+
+# 97bb7d75
+; いやいや、湯船に入ってて返信が打ちにくいかも。
+No, no, it might be hard to reply because I'm in the bathtub.
+
+# 1961b1a4
+; とりあえず返信はしたし、ラインはこれでしまおう。
+I replied for now, and let's get rid of LINE.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# a2cbc5d3
+; 焦った。
+I'm in a hurry.
+
+# e534b566
+; 今朝の焦りよりも強かったかも。
+It might have been stronger than this morning's rush.
+
+# 3dccc352
+; 童貞にこんなの、刺激が強すぎる。
+This kind of thing is too stimulating for a girl.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 44606c5d
+; も、もう一度だけ、見てみようかな……
+But I think I'll take a look at it one more time ……
+
+# 7169d9c7
+; @print "" speed:0 waitInput:false
+
+# c657203a
+; me: （ごくり）
+me: "(Gokuri)"
+
+# e3b4b699
+; 拡大表示して改めて見たけど、やっぱりすごい。
+I zoomed in and looked at it again, but it's amazing.
+
+# 3ea899f
+; ……
+……
+
+# e8f9d349
+; これ、保存しとこう……
+Save this ……
+
+# fae6099a
+; me: 「……[i]いやいや、俺は何してるんだ」
+me: " ……[i] No, no, what is me doing?"
+
+# f8eb11b9
+; スマホに保存したヒメのビキニ写真を、削除した。
+Removed the Hime bikini photo saved in Smartphont.
+
+# bfdf7cff
+; ふぅ……
+Whoo ……
+
+# 1b0e8c1e
+; 心頭滅却だ。
+It's all over the place.
+
+# 427f03ec
+; エロい事など、考えないようにするんだ。
+Try not to think of anything erotic.
+
+# 35f46254
+; 気を取り直して、旅の事を考えよう。
+Get back together and think about your journey.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# 7d33ee
+; 空を見上げた。
+I looked up at the sky.
+
+# 7e1089b6
+; いつの間にか空は晴れていた。
+Before I knew it, the sky was clear.
+
+# 9eb36fdc
+; グー○ルマップを開いて、真面目に、旅の事を考え始めた。
+I opened the Goggle map and began to think seriously about my trip.
+
+# 82dc5083
+; リングロードを回るという大きな目標はあるけど、
+I have a big goal to go around the ring Road.
+
+# 17c2ca5
+; 具体的な毎日の日程は決めてない。
+I haven't decided on a specific daily schedule.
+
+# 1e198551
+; 普通なら、先日の夜に予定を立てたんだろうけど、
+Normally, I would have made plans the other night.
+
+# 3ace95fc
+; 昨日はそれどころではなかったからな。
+It was far from that yesterday.
+
+# af32a62f
+; どうしようかと、今日の行き先について少し考えたら……
+After thinking a little bit about where to go today, ……
+
+# 55983fe
+; 「ディムボルギル……」
+"The dimmuborgir……,"
+
+# 9110d472
+; 真っ先に、またその地名が頭によぎった。
+The name of the place crossed my mind first.
+
+# 9d9103e
+; ……うむ。
+…… Yes.
+
+# dfa0c675
+; 今直ぐ向かうつもりはないが、
+I don't intend to go right now.
+
+# 3ad93920
+; 参考までに、ナビを確認してみるか。
+Let's check the navigation system for your reference.
+
+# bd534cf7
+; [br]グー○ルマップの検索フォームを開いた。
+Opened the search form for the [br]Goggle map.
+
+# 8f4ec50f
+; ディムボルギルを入力しようと、英語のスペルを考えた。
+I thought about spelling dimmuborgir in English.
+
+# f594ca9a
+; 「ディムボルギルだから……Dim……あれ？」
+"So ……Dim …… Huh?"
+
+# e9dfe43
+; 【Dimmuborgir】と、
+【 Dimmuborgir 】 and
+
+# 6713839a
+; オートコンプリートされた。
+AutoComplete.
+
+# 90899592
+; 検索の履歴に、その単語が残ってあったのだ。
+The word was left in the search history.
+
+# 45d9eac4
+; 「やっぱり、昨日の事は夢じゃなかったんだよな……」
+"Yesterday wasn't a dream, after all ……"
+
+# ec63746c
+; [br]色んなところに、昨日の痕跡が残ってる。
+[br] There are traces of yesterday in many places.
+
+# af0af8eb
+; [br]「ユールちゃん……」
+[br] " Yule……"
+
+# bb4b058e
+; ユールちゃんは、どこに行ったのかな。
+Where did Yule go?
+
+# 98c10067
+; このネックレスは、彼女の物であってるのかな。
+I wonder if this Neckless belongs to her.
+
+# 8eb8b9f1
+; 彼女は本当に、人外の存在だったのかな。
+I wonder if she really was an outsider.
+
+# b5c06c76
+; ユールラッズが住むと言われてるディムボルギル。
+dimmuborgir is said to live there.
+
+# b6f5273e
+; そこに行けば、彼女に会えるのかな。
+I wonder if I can see her there.
+
+# 3ea899f
+; ……
+……
+
+# 6b14ab7c
+; もうちょっと早く行ってみても、いいかな。
+Can I go a little earlier?
+
+# aeaffed3
+; 一応、所要時間を確認してみた。
+I just checked the time required.
+
+# 867fee89
+; 「８時間……」
+"Eight hours ……"
+
+# 3d953dab
+; [br]遠いのは知ってたけど、やっぱり一日で行くのは難しいか。
+[br] I knew it was far away, but I guess it's hard to get there in one day.
+
+# bbb6638e
+; 休まずに走ったら今日内には着けるだろうけど……
+If I run without a break, I'll be able to get there today ……
+
+# b4fdfe31
+; 「……いやいや、無理はしない方がいい」
+…… "No, no, don't push yourself too hard."
+
+# 229cffb
+; [br]別に急ぎの用事でもないし、夜は危険だからな。
+[br] It's nothing urgent, and it's dangerous at night.
+
+# b203a16c
+; 焦らないで、ゆっくりと行こう。
+Don't rush. Let's go slowly.
+
+# 4dbe2032
+; 最初の計画通り、旅の事を優先しよう。
+Let's prioritize our journey as planned.
+
+# 41b45570
+; リングロード一周しながら、途中で寄ってみといいだろう。
+Road You may want to go around and stop by.
+
+# 5064cbbb
+; me: 「ナビは、[i]セットしなくていいかな」
+me: "I don't think I need to set the navigation system [i]
+
+# fb7f99
+; アイスランドの海岸線を沿って、輪のように繋がってる国道1号線。
+National Highway 1 is connected like a circle along the Icelandic coastline.
+
+# 711902aa
+; 通称、リングロード。
+Commonly known as the ring Road.
+
+# a60c1ec3
+; リングロード一周とは、この国道1号線でアイスランドを一巡りする事だ。
+Ring Road One lap is a tour of Iceland on National Highway 1.
+
+# ff0bf469
+; ディムボルギルも、この道路の近くに位置してる。
+dimmuborgir is also located near this road.
+
+# 206ec9dc
+; 経路はどうあれ、俺はリングロードを一周するつもりだったから。
+for, whatever the route, me intended to go round the Ring Road.
+
+# 9adddf31
+; ずっと走ると、いつかはディムボルギルまでつく。
+If you keep running, you'll eventually reach dimmuborgir.
+
+# b32a6dc8
+; リルヤの話によると、１２月１５日まで行けばいいという。
+According to Lilya, they can go until Dec. 15.
+
+# 108a714
+; 今日は１２月１０日。
+Today is December 10th.
+
+# 723c7839
+; ５日の内なら余裕はある方だ。
+I can afford it within five days.
+
+# 976d635d
+; me: 「さて、出発するか」
+me: "Well, shall we go?"
+
+# c95deba
+; レイキャヴィクを去っていく。
+leave Reykjavik.
+
+# d6d5d09f
+; 街の外へと、[i]
+Out of town, [i]
+
+# 80f28b99
+; 道を辿っていく。
+follow a path.
+
+# 750aa834
+; とりあえず、国道1号線を目指して、
+First of all, I'm going to go to National Highway Line 1.
+
+# 60211381
+; 細かい経路は、気のままに決めよう。
+You can decide the detailed route at will.
+
+# 9a58a105
+; 自由に、どこにでも寄りながら。
+Feel free to go anywhere.
+
+# 585282a7
+; これこそが、本当の旅なのだろう。
+This must be the real journey.

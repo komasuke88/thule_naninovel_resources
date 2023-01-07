@@ -1,0 +1,201 @@
+; Japanese <ja> to English <en> localization document for `7_1_3_mahoujin` naninovel script
+
+# 21e048a3
+; 一瞬で、地球上の氷河をすべて溶かしてしまう。
+In an instant, it melts all the glaciers on Earth.
+
+# 4e6c82df
+; 今の魔法陣が発動しようとしてるのは、そういう大魔法だ。
+That's the kind of magic that The Magic Circle is trying to invoke now.
+
+# 5d6672be
+; トゥーレとフルドゥフォルクは、一瞬で滅亡する事になる。
+Thule and Huldufolk will be destroyed in an instant.
+
+# 8f188b1a
+; それだけじゃない。
+That's not all.
+
+# f8e70ad7
+; 今まで１３姉妹が集めた情報をまとめてみると、
+If you summarize the information collected by the 13 sisters,
+
+# 6333fe5c
+; 南極の氷河が溶ける事で、封印されていた【外界の神】が起きる。
+The melting of the Antarctic glacier causes the sealed 【, the god of the outer world, 】,.
+
+# 6c6115db
+; 邪気が地球を覆い尽くす。
+Evil Force covers the earth.
+
+# 17337b90
+; トゥーレだけでなく、人間世界までも滅亡だ。
+Thule Not only will the human world be destroyed.
+
+# 69360406
+; まさに世界滅亡の魔法陣になってしまったわけだ。
+It has become the The Magic Circle of the world's destruction.
+
+# f375209c
+; 地球の氷河を溶かす事は、本来、ヒルドルの魔法陣では不可能な事だ。
+Melting Earth's glaciers is essentially impossible with The Magic Circle of Hildur.
+
+# f3667964
+; トゥーレの魔法だけでは、そこまでの事はできない。
+The magic of Thule alone is not enough.
+
+# 1f27a83a
+; しかし、外界の神の力が混ぜたせいで、
+But because of the power of God in the outside world,
+
+# 63a5bbb5
+; そんな魔法陣ができてしまったという。
+It is said that such The Magic Circle has been developed.
+
+# 7e8898b3
+; トゥーレと地球、両方の運命を左右するほどのものだ。
+The fate of both Thule and the earth is so determined.
+
+# 618c1648
+; 滅亡の運命へと。
+To the fate of destruction.
+
+# 9ab30a5
+; それは、絶対にあってはならない事だ。
+That should never happen.
+
+# 31a58661
+; どうしても、防がなければならない。
+We must prevent it no matter whatsoever.
+
+# 51ad28e5
+; keruta: 「魔法陣の破壊、しかないですね」
+keruta: "There is nothing for it but the destruction of The Magic Circle."
+
+# 1fe4e2ba
+; me: 「は、破壊？」
+me: "Is it destruction?"
+
+# 826d9d7a
+; glugga: 「……あ、あのスクリムスリたちと、魔法陣ごと、一瞬でその……ぶっ飛ばすの」
+glugga: "Oh, with those Skrimslis, The Magic Circles, I'm going to smash that …… in an instant."
+
+# 4201a7a5
+; yule: 「奪い返すのがベストではあったんですけど……」
+yule: "It was best to take it back, ……,"
+
+# 3e572623
+; me: 「そ、そう。魔法陣は奪い返して、【トゥーレ還元】を再実行するんじゃなかった？」
+me: "Oh, yes, wouldn't The Magic Circle take it back and rerun the 【Thule reduction 】?"
+
+# ab799f71
+; byu: 「それができるといいけどね。[i]破壊は、あまりいい方法とは思えないけど、仕方ないね……」
+byu: "I hope I can do that.[i]Destruction doesn't sound like a very good way, but it can't be helped ……"
+
+# 23f7bdb9
+; me: 「となると……」
+me: "Then ……,"
+
+# 8addadc7
+; yule: 「現状維持ですね」
+yule: "Keep the status quo,"
+
+# b588cbe7
+; glugga: 「そ、その……じ、時間稼ぎでしか、ないんだけど、仕方ないよ」
+glugga: "Well, that ……ji is only to buy time, but it can't be helped."
+
+# f488c76
+; keruta: 「あと３０年くらいって期限に、戻るだけですね」
+keruta: "We'll only be back on time in about 30 years."
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# 6ed6ca6a
+; 簡単に解決できると思ってたのに、ここまで来て失敗か……
+I thought it would be easy to solve, but now that I've come this far, I've failed ……
+
+# 4f1a478d
+; yule: 「でもまぁ、今すぐ全滅ってよりは、マシでしょう」
+yule: "`But it's better than annihilation right now,'"
+
+# 9430d4d
+; byu: 「だね。まずは生き延びて、その間にまた、解決策を考えればいいし」
+byu: "Well, we can survive first and come up with a solution in the meantime."
+
+# dd7f6489
+; keruta: 「そうですね。そもそもあと３０年ってのも、あくまで予測値ですから。[i]本当はもっと長く生き延びれるかも知れません」
+keruta: "That's right. Thirty years is just a prediction.[i]I may actually survive longer."
+
+# affb36a9
+; glugga: 「う、うん。そうなの。だ、だから。まったく絶望ってわけでもない、かな」
+glugga: "Yes, yes, yes, yes, yes.It's not despair at all, I suppose."
+
+# b0b78d88
+; me: 「……<ruby="セッタ・レッダスト">　Þetta reddast</ruby>ってわけだ」
+me: "<ruby=" Thetta reddast"> Thetta reddast</ruby>"
+
+# 3c01540c
+; keruta: 「あら、{playerName}はいい言葉を知ってますね。そうですよ」
+keruta: "Oh, {playerName} knows a good word.Of course."
+
+# d1a33864
+; yule: 「何とかなりますから」
+yule: "I'll manage,"
+
+# 4dfe4ae7
+; glugga: 「あ、あの……あ、予め準備したあれがあるから。は、破壊を実行しよう、かな？」
+glugga: "Oh, that ……, there's something I've prepared in advance. Shall we carry out the destruction?"
+
+# c53b2e88
+; keruta: 「ですね。一刻も早くしないとですね」
+keruta: "Well, we must do it as soon as possible."
+
+# b25e802a
+; glugga: 「も、もっと遅くなる前に、他の姉妹たちにも連絡、しないと……」
+glugga: "But I must contact the other sisters before it's too late ……"
+
+# 417fed46
+; そう言って、グルガちゃんはどこかに行ってしまった。
+Then Glugga went somewhere.
+
+# 77d4e439
+; byu: 「ボクたちも行かないとね」
+byu: "We must go, too,"
+
+# 28fc8fc9
+; me: 「魔法陣のところに、戦いに行くのか？」
+me: "Are you going to fight with The Magic Circle?"
+
+# 414d45c3
+; yule: 「いいえ。それは危ないですから、少し離れたところで魔法を打ちます」
+yule: "No, it's dangerous, so I'll cast a spell a little further away."
+
+# 6e72c572
+; keruta: 「１３姉妹でアークティック・ヘンジを囲んで、一気に、魔法陣破壊の呪文を唱えます」
+keruta: "Thirteen sisters surrounded Arctic Henge and cast a spell of The Magic Circle destruction at once."
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# bc486d89
+; keruta: 「みんな自分の位置は指定されてますので、あとはやるだけです。[i]さぁ急いで」
+keruta: "Everyone has a designated position, so all you have to do is do it.[i]Now, hurry up."
+
+# f2126f45
+; みんなどこかに行ってしまった。
+They've all gone somewhere.
+
+# e0f929ba
+; me: 「お、俺はどうすればいいんだ？」
+me: "Oh, what should me do?"
+
+# d0b83598
+; yule: 「{playerName}はユールちゃんについて来てくださいね、さぁ」
+yule: "Come with Yule, {playerName},"
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"

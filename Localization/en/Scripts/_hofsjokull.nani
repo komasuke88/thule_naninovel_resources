@@ -1,0 +1,105 @@
+; Japanese <ja> to English <en> localization document for `_hofsjokull` naninovel script
+
+# 95cdb4fd
+; ハイランドのF26ロード、その真中の <ruby="スプレンギサンドル"> Sprengisandur</ruby>。
+F26 Road in Highland, right in the middle <ruby="sprangisandur">Sprengisandur</ruby>.
+
+# 4cca92f9
+; その黒い砂漠地域で、遠くからまた氷河が見えてきた。
+In the black desert area, another glacier came into view from a distance.
+
+# aeb471d6
+; me: 「あちらの氷河は……」
+me: "The glacier over there is ……."
+
+# 704dd356
+; yule: 「 <ruby="ホーフスヨークトル"> Hofsjökull</ruby>氷河ですね」
+yule: "「 <ruby="Hofs Yorktor">Hofsj ökull</ruby> Glacier, isn't it?"
+
+# 408bf84a
+; 『聖堂の氷河』という意味の <ruby="ホーフスヨークトル"> Hofsjökull</ruby>。
+『 <ruby="Hofsj ökull</ruby> meaning glacier 』 in the cathedral.
+
+# 5fd2930a
+; アイスランドで3番目に大きな氷河だ。
+It is the third largest glacier in Iceland.
+
+# ff538412
+; この氷河はアイスランドで一番長い川、 <ruby="ショウルス"> Þjórsá</ruby>川の水源でもある。
+The glacier is also the source of the longest river in Iceland, the <ruby="shallus"> Þj órs á</ruby>.
+
+# 9bc65a1
+; 氷河の下には、アイスランドで一番広い活火山が隠れてる。
+Under the glacier, Iceland's largest active volcano is hidden.
+
+# 9f1771d8
+; 楯状火山であり、カルデラを有している火山だ。
+It is a shield volcano and has caldera.
+
+# 48008ec6
+; その故に緩やかに傾斜する斜面を持ち、底面積が広く、
+Therefore, it has a gently sloping slope and has a large base area.
+
+# e77bd2b9
+; その上に積もってる雪もまたその形で形成されて、
+and the snow which lay upon it was formed in that form;
+
+# 8e2efb6
+; ホーフスヨークトルは全体的に楯のような形をしてる氷帽だ。
+The Hofs-Yorktor is an ice cap shaped like a shield.
+
+# d94f59fa
+; yule: 「この一帯は今になってまたエルフとのテリトリー争いが激しくなりました」
+yule: "The territorial dispute between Elf has intensified again in this area."
+
+# 66d5b22f
+; me: 「エルフと、トロールの争い？」
+me: "A battle between Elf and Troll?"
+
+# 57018bac
+; yule: 「はい。この <ruby="スプレンギサンドル"> Sprengisandur</ruby>は、昔から無法者と幽霊、エルフとトロールが出没する場所だと知られてましたけど」
+yule: "Yes, this <ruby="Sprengisandur">Sprengisandur</ruby> has long been known to be a place where outlaws and Ghost, Elf and Troll appear."
+
+# 4ad949b4
+; me: 「色んな者が出てくるな」
+me: "A lot of people are coming out"."
+
+# 8ee6cd99
+; yule: 「トゥーレに無法者は居なく、ゴーストは論外ですが、[i][char yule.huuu]エルフとトロールはあまり仲がいいわけではないでして」
+yule: "There is no outlaw in Thule, ghosting is out of the question, [i] [char yule.huuu]Elf and Troll don't get along very well."
+
+# e0d27c65
+; me: 「なるほどね。それでここでよく喧嘩してると？」
+me: "I see. So you often fight here?"
+
+# e0ecf486
+; yule: 「でも、少し前までは穏やかなムードでしたけどね。[i]今年になってまた、エルフたちがご先祖様の領域に侵入してきたりしてます」
+yule: "But until a little while ago, the mood was calm.[i]This year, Elfs have invaded our ancestors' territory again."
+
+# 3584295c
+; me: 「ご先祖様って、岩になったトロールか」
+me: "Is your ancestor Troll turned into a rock?"
+
+# 87ceb0b4
+; yule: 「そうです。戦いで負けたら、霊力を失うんですよ」
+yule: "Yes, if you lose a battle, you lose your spiritual power."
+
+# 71c35f85
+; me: 「ああ、呼んでも答えてくれないと言ってたな」
+me: "Oh, you said you wouldn't answer me if I called you,"
+
+# 3ce1a9ae
+; yule: 「そうです。[i][char yule.eto]で、あのホーフスヨークトルも今、エルフの女王、ヒルドルが陣をとっていて、何かしてますよ」
+yule: "That's right. [i] [char yule.eto] And that Hoffs-Yorktor is doing something with Elf, the queen of Hildur."
+
+# bee20fea
+; me: 「エルフとトロールの戦争地域だったか」
+me: "Was it a war zone between Elf and Troll?"
+
+# e800a08e
+; yule: 「ま、昔ほどの戦争はないんですが、ちょっとだけ、いざこざがありますよ」
+yule: "Well, there's no war as much as there used to be, but there's a little bit of trouble."
+
+# 7099dad1
+; そして俺たちはそのまま、F26ロードを沿って <ruby="スプレンギサンドル"> Sprengisandur</ruby>を離れていった。
+The mes then left the <ruby="sprangisandur">Sprengisandur</ruby> along the F26 Road.

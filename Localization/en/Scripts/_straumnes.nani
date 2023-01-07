@@ -1,0 +1,221 @@
+; Japanese <ja> to English <en> localization document for `_straumnes` naninovel script
+
+# 6d72c7
+; yule: 「ここはホルンストランディルの北西の果て、 <ruby="ストラウムネス"> Straumnes</ruby>岬。あの山々は、Straumnesfjallといいます」
+yule: "This is the northwest end of Hornstrandil, Cape <ruby="Straumnes">Straumnes</ruby>.Those mountains are called Straumnesfjall."
+
+# 9bbcbf72
+; me: 「荒涼たる場所だな」
+me: "It's a desolate place,"
+
+# 5e15f992
+; yule: 「アイスランドって、大体そうですけど」
+yule: "Iceland is pretty much like that,"
+
+# 9a6a4f42
+; me: 「確かにな。それが魅力でもあるが」
+me: "That's true, though that's the charm."
+
+# 12a4086a
+; yule: 「あら、その魅力がわかっていらっしゃるなら、きっといいアイスランド旅行記が書けますよ」
+yule: "Oh, if you know the charm, I'm sure you can write a good Icelandic travel journal."
+
+# bd060c59
+; me: 「まあ、人間世界に戻れたらな」
+me: "Well, I wish I could go back to the human world,"
+
+# 4f0cfcb6
+; それからユールちゃんと、しばらくストラウムネスの道を歩いた。
+Then, with Yule, I walked for a while along the path of Straumnes.
+
+# eb9ebde5
+; またも荒涼とした、フィヨルドの峡谷沿いの道。
+Another desolate road along the canyon of Fjord.
+
+# 3100a43b
+; 谷から北風が吹いてきて、涼しい気持ちになる。
+A north wind blows from the valley and makes me feel cool.
+
+# ca7aa068
+; me: 「不思議な場所だ。捨てられた地のようで、整ってる形。[i]しかも道があるな。今までなかったのに」
+me: "It's a strange place.It looks like an abandoned land and looks neat.[i]What's more, there's a way.I've never had it before."
+
+# 9693f86e
+; yule: 「捨てたれたってのは、まさにそうですね。昔のは本当に人が住んでた場所ですから」
+yule: "That's exactly what it means to throw it away.The old ones are really places where people lived."
+
+# decb6327
+; me: 「この果ての地に人が住んでたのか」
+me: "Was there a man living at the end of the land?"
+
+# de101a74
+; yule: 「この岬の先に、Latrar Air Stationという、アメリカ空軍の基地だった建物がありますよ」
+yule: "At the end of this cape is a building called the Latral Air Station, which was a U.S. Air Force base."
+
+# 8504a998
+; me: 「アメリカ空軍？」
+me: "The U.S. Air Force?"
+
+# 1bf9729d
+; yule: 「冷戦の頃に使われた場所で、軍隊は今は撤収しました」
+yule: "It was used during the Cold War, and now the troops have withdrawn."
+
+# e0da2052
+; me: 「なるほどね。あの頃は人が住んでたのか」
+me: "I see. Were there people living in those days?"
+
+# d89d6c98
+; 人に捨てられた地か。
+It's a land that's been abandoned by people.
+
+# 734e4532
+; ……もしくはこの地が人を捨てたか。
+…… Or did this land abandon people?
+
+# f16ac9df
+; yule: 「シガー・ロスという、有名なアイスランドのミュージシャンがいるんですが」
+yule: "There's a famous Icelandic musician named Cigar Ross."
+
+# 76e62647
+; me: 「シガー・ロス？」
+me: "Cigar Ross?"
+
+# f46467b
+; yule: 「彼らの曲で、Straumnesというタイトルの曲があります」
+yule: "There's a song called Straumnes that's their song."
+
+# 5b268d4c
+; me: 「この地に来てインスピレーションを受けて作った曲なのか」
+me: "Was it a song inspired by this place?"
+
+# 1d4ab31d
+; yule: 「ですね。後で機会があったら聞いてみてくださいな」
+yule: "Well, if you have a chance, please ask me later."
+
+# ac7f2e9d
+; me: 「お前も、人間世界の音楽も聞くんだな」
+me: "You listen to the music of the human world, too."
+
+# 8d4e173c
+; yule: 「そりゃそうですよ。[i][char yule.r-w]たまに人間世界に下りたときに聞いたりします」
+yule: "That's true.[i][char yule.r-w] Sometimes I listen to it when I go down to the human world."
+
+# 58219e32
+; me: 「ほお」
+me: "Cheek,"
+
+# c2ef704
+; yule: 「アイスランドは小さな国ですが、ミュージシャンは多い方です。[i][char yule.doya]ユールちゃんのお気に入りの曲、たくさんありますよ〜」
+yule: "Iceland is a small country, but there are many musicians.[i][char yule.doya] There are many favorite songs by Yule~"
+
+# 9d0f0a49
+; me: 「へぇ、じゃあ、他にも何かオススメの曲はあるか」
+me: "Well, then, do you have any other songs to recommend?"
+
+# d4cdc39a
+; yule: 「たくさん！[i][char yule.l-nayami-w]ユールちゃん、フォークソングが好きなんですが、今の推しはLiljurosという……」
+yule: "A lot! [i] [char yule.l-nayami-w]Yule I like folk songs, but now I'm pushing for …… called Liljuros."
+
+# 2644ab90
+; それからまたしばらく道を歩きながら、ユールちゃんはアイスランドの音楽の話を色々としてくれた。
+Then, walking down the street again for a while, Yule told me a lot about Icelandic music.
+
+# 52134f7a
+; me: 「ほお……」
+me: "Hoe ……,"
+
+# f838d189
+; 海が見えてきた。
+I can see the sea.
+
+# fc905359
+; 岬の先、アメリカ空軍基地のとなりの崖まで歩いてきたのだ。
+He walked to the cliff next to the U.S. Air Force Base at the tip of the cape.
+
+# 3231c9f7
+; 遠くでまた別の、雪に覆われた岬が見えてきた。
+In the distance came another snow-covered cape.
+
+# b8fd407f
+; me: 「ストラウムネスの一番奥まで来たんだな」
+me: "You've come to the innermost part of Straumnes,"
+
+# 4ef65fa5
+; yule: 「ですね。ここがウェストフィヨルドの北北西の端です」
+yule: "Well, this is the northwest end of West Fjord."
+
+# eef5f240
+; me: 「海の向こうはグリーンランドかな」
+me: "Beyond the sea is Greenland,"
+
+# 3a7c6a6d
+; yule: 「たまにグリーンランドから、北極熊が氷山の欠片に乗って来る事もありますよ」
+yule: "Sometimes polar bears come from Greenland on icebergs."
+
+# d5d4aa6a
+; me: 「北極熊？？危険じゃないのか？」
+me: "Arctic bear? Isn't it dangerous?"
+
+# 82b8d410
+; 俺は周りをギョロギョロを見回ってみた。
+I looked round.
+
+# ca100ecb
+; yule: 「大丈夫です。海を渡ってきた北極熊は弱ってますから。ユールちゃんが魔法なしでも勝てます」
+yule: "It's all right. The polar bear that came across the sea is weak.Yule can win without magic."
+
+# f6371f54
+; me: 「それって、もしかして海の上で、長い間に何も食べてないからかな」
+me: "Maybe it's because I haven't eaten anything on the sea for a long time."
+
+# 2fa8913e
+; yule: 「そうです。腹が減ってる分、凶暴ではありますが、パワーは落ちてます」
+yule: "That's right. I'm hungry, so I'm violent, but I'm losing my power."
+
+# 58219e32
+; me: 「ほお」
+me: "Cheek,"
+
+# 4cd9d7d8
+; yule: 「あ、でも戦おうと思わない事です。普通の人間は勝てませんから」
+yule: "Oh, but don't fight.Ordinary people can't win."
+
+# 15d34852
+; me: 「……今は、ユールちゃんがいるから安心だな」
+me: "…… "Now that Yule is here, I'm relieved."
+
+# 2e260f62
+; yule: 「でもここまで流れてきた北極熊は、とても可哀想な子だから。[i]攻撃しないでどこかの自然に転移してあげます」
+yule: "But the polar bear that has come this far is a very poor child.[i]Don't attack me, but I'll spread it to you."
+
+# 5d8621a1
+; me: 「そう、だな。[i]自分の意思とは関係なく、故郷から離されてしまったのだな」
+me: "Yes. [i] You've left your hometown regardless of your own will."
+
+# c906bbe8
+; yule: 「あら、同病相哀れむですか？」
+yule: "Oh, do you pity him?"
+
+# 83e43e74
+; me: 「……まあな」
+me: "…… "Well,"
+
+# 575e890b
+; グリーンランドの北極熊が、ここまで流れて来る、か。
+The polar bear of Greenland flows all the way here?
+
+# 4c173e89
+; me: 「……それもこの異常高温で、氷河が溶け落ちてるせいだな」
+me: "…… "That's because of the melting of the glacier at this extraordinary high temperature."
+
+# f055ead7
+; yule: 「そうですよ。[i][char yule.nayami]その北極熊と同病相哀れむのは、ユールちゃんたちも同じなんです。[i][char yule.ano]ユールちゃんたちの生命と魔力の源は、今でも枯渇してるのですよ」
+yule: "Yes. [i] [char yule.nayami] It's the same for Yule to feel sorry for the polar bear.[i][char yule.ano] The life of the Yules and the source of Magical Power are still depleted."
+
+# 2c88ee11
+; me: 「……ああ」
+me: " …… Ah,"
+
+# d6621421
+; 北極熊に関する、少しだけ悲しい話をしながら、俺たちはStraumnes地域を離れた。
+The mes left the Straumnes region with a little sad story about the polar bear.

@@ -1,0 +1,249 @@
+; Japanese <ja> to English <en> localization document for `6_15_1_dimmuborgir` naninovel script
+
+# cd0cc610
+; 思えば、
+If you think about it,
+
+# b79ff945
+; すべてここから始まったな。
+It all started here.
+
+# d910052b
+; トゥーレという異世界への旅立ち。
+Thule a journey to another world.
+
+# 749936c
+; 最初の場所。
+The first place.
+
+# 183ec547
+; その入口がここだった。
+This was the entrance.
+
+# cb744b77
+; ディムボルギル。
+dimmuborgir.
+
+# ad1a565e
+; ユールラッズが住んでる【暗黒の城】
+【 where Yulelads lives 】 The Dark Castle 】
+
+# 37b0d5fb
+; 相変わらずここだけは雪も溶けてなく、骨に染みるような冷気に満ちていた。
+As always, the snow had not melted here, and it was full of bone-soaking cold air.
+
+# 140cbf86
+; me: 「ヒヒーン（ユールちゃんは、やっぱりあそこにいるのかな？」
+me: "niegh (Is Yule there after all?)"
+
+# e900d071
+; ユールちゃんを探そうと、ユールラッズの寝所へ向かう。
+I went to Yulelads's bed to find her.
+
+# 6390e068
+; 黒い道を辿って、角を曲がると、
+Follow the black road and turn the corner.
+
+# 7d7740de
+; unknown: 「うふふっ、お客さんです？」
+unknown: "Whoa, are you?"
+
+# 3f34a4c1
+; どこからか、女の子の声が聞こえてきた。
+I heard Girl's voice from somewhere.
+
+# 32db7815
+; me: 「ヒヒーン（君は……？）」
+me: "niegh (Are you ……?)"
+
+# fa11addd
+; ユールちゃんと似たような服装と雰囲気。
+Yule Clothes and atmosphere similar to that of.
+
+# 69764519
+; １３姉妹の一人だと直感でわかった。
+I knew by intuition that she was one of the thirteen sisters.
+
+# a6e15029
+; unknown: 「あ、馬さんってもしかして、{playerName}さんではありませんか？」
+unknown: "Oh, isn't Mr. Ma {playerName} by any chance?"
+
+# 41ef82e1
+; me: 「ヒヒーン（あれ？ユールちゃんが言ってたのか！そう、俺が{playerName}だ）」
+me: "niegh (Huh?)What did Yule say?Yes, me is {playerName}."
+
+# d09988ae
+; unknown: 「なるほどなるほど〜　[i][char keruta.ww]ではでは〜」
+unknown: "I see~ [i] [char keruta.ww] See you~"
+
+# 4fd719f8
+; 女の子は有無を言わず、俺に近づいて、
+Girl approached me without saying yes or no;
+
+# 93f65cbd
+; unknown: 「よっと」
+unknown: "All right,"
+
+# 7390efc0
+; いきなり俺の背中に乗ろうとした。
+I suddenly tried to get on me's back.
+
+# db4b74e4
+; me: 「ヒヒーン（な、なんだ？）」
+me: "niegh (What?)"
+
+# 54d6f784
+; 思わず暴れた。
+I went on a rampage without thinking.
+
+# b1cdd306
+; unknown: 「あわわ！」
+unknown: "Oh, my God!"
+
+# e063575f
+; 女の子は俺から滑り落ち、
+Girl slipped from me;
+
+# 321bf4a4
+; unknown: 「あいたたたっ……」
+unknown: "I met you ……,"
+
+# fbbc7fbe
+; 尻餅をついて、よろよろと立ち上がった。
+and staggered to his feet.
+
+# a104bf54
+; unknown: 「もう、ひどいですよー」
+unknown: "`It's too much,'"
+
+# 493f0aa9
+; me: 「ヒィーン（す、すまん。いきなり乗ろうとするから）」
+me: "I'm sorry, neigh.I'm going to ride it all of a sudden.)"
+
+# 7895ae42
+; unknown: 「ユールちゃんに会いに行くんでしょう？ぼくが連れて行ってあげるのです」
+unknown: "You're going to see Yule, aren't you?"I'll take you there."
+
+# 385a52d7
+; me: 「ヒーン？（あ、そういう事なら言ってくれればよかったのにば）」
+me: "niegh? (Oh, you should have told me."
+
+# 502d9996
+; unknown: 「そうですよ。{playerName}一人では探しにくい場所にいますゆえ」
+unknown: "Yes, {playerName} I'm in a difficult place to find by myself."
+
+# 91d1707a
+; me: 「ヒーン？（えっ？ユールちゃん、ここにいないの？）」
+me: "niegh? (What?Yule Aren't you here?"
+
+# 45e40b85
+; unknown: 「近くの秘湯で体を回復してますゆえ」
+unknown: "Because I'm recovering from the secret bath nearby."
+
+# 18e0f944
+; そう言いながら女の子は、また俺に近づいて、背中に乗ろうと……
+As he spoke, Girl approached me again and tried to get on his back ……
+
+# e0b679de
+; me: 「ヒヒーン！！」
+me: " niegh!"
+
+# 601dc4b7
+; unknown: 「あわわわ！」
+unknown: "Oh, my God!"
+
+# 8acb5360
+; また思わず暴れてしまった。
+I went on a rampage again.
+
+# 2e0b700a
+; unknown: 「あいたたた……」
+unknown: "I missed you ……,"
+
+# 9b09760b
+; 女の子は自分のお尻をさすりながら、よろよろと立ち上がった。
+Girl staggered to his feet, rubbing his butt.
+
+# 9046888c
+; me: 「ブルルル（す、すまん。うっかり）」
+me: "I'm sorry, Brrrr.inadvertently)"
+
+# a104bf54
+; unknown: 「もう、ひどいですよー」
+unknown: "`It's too much,'"
+
+# 270667d6
+; 女の子はそう言って痛がりながらも、また俺に近づいた。
+said Girl, painfully, but approaching me again.
+
+# d1f96798
+; 根性あるな。
+You have guts.
+
+# 93f65cbd
+; unknown: 「よっと」
+unknown: "All right,"
+
+# 41447417
+; me: 「ブルルル（……）」
+me: " ……"
+
+# 8b21ea56
+; 今度はちゃんと乗らせてあげた。
+I let him ride it properly this time.
+
+# 593f6912
+; unknown: 「うふぁ、ありがたやー」
+unknown: "Oh, thank you,"
+
+# cbad3076
+; 女の子は、俺の毛並みをなでながらそういった。
+said Girl, stroking me's fur.
+
+# 30442d82
+; me: 「ヒヒーン（そういや、君の名前は？）」
+me: "niegh (What's your name, by the way?)"
+
+# e883b944
+; unknown: 「ぼくはユールラッズの末っ子。１３日目のサンタ、ケルタスニーキルです」
+unknown: "I am the youngest of Yulelads.I'm Santa Kerta Sneakil on the 13th day."
+
+# c329fe24
+; me: 「ヒヒーン（ケルタスニーキル……ケルタちゃんね）」
+me: "` niegh (Sneakyl ……Kerta-chan)'"
+
+# 1ec17122
+; keruta: 「うふふっ、いいですねそれ。ケルタちゃんでいいですよ」
+keruta: "Well, that's good.Kerta It's all right."
+
+# 7f03edc7
+; me: 「ヒヒーン（ああ、{playerName}だ）」
+me: "Yes, {playerName},"
+
+# 8ff46646
+; もう知ってるだろうけど、改めて言った。
+You already know, but I said it again.
+
+# cddc0fb5
+; keruta: 「それではユールちゃんのところへ向かいましょう。ぼくが道を案内しますから、走ってくださいませ」
+keruta: "Then we shall head to Yule.I'll show you the way, so please run."
+
+# 2da90d93
+; me: 「ヒヒーン（お、おう、わかった）」
+me: "niegh (Oh, oh, I see.)"
+
+# 50a038c1
+; 特にこういった世間話もないまま、まっすぐにそう言ったので、少しうろたえた。
+I was a little flustered when I said so straight away without any particular chat.
+
+# b68c0dfc
+; keruta: 「ハイヤー！」
+keruta: "Hi Ja!"
+
+# 66fd1242
+; こうして俺はディムボルギルについた途端、
+As soon as me reached dimmuborgir,
+
+# d8de377b
+; また変わった女の子を背中に乗せて、走る事になった。
+He ran again with a strange Girl on his back.

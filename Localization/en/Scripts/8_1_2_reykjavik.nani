@@ -1,0 +1,433 @@
+; Japanese <ja> to English <en> localization document for `8_1_2_reykjavik` naninovel script
+
+# a2b37877
+; １２月２６日。
+December 26th.
+
+# 9059a58d
+; クリスマスの次の日だというのに、街はまだ祭りのように賑やかだった。
+Even though it was the day after Christmas, the city was still as lively as a festival.
+
+# 3166548
+; とても楽しく、心地よい街の雰囲気。
+The atmosphere of the city is very fun and pleasant.
+
+# d4104de8
+; でも明日には帰らないと行けない旅行者の俺には、それが逆に寂しさを感じさせた。
+But for me, a traveler who had to return tomorrow, it made him feel lonely.
+
+# 87939d3c
+; me: 「あ、そういえば、ヒメはどうしてるんだろう？」
+me: "Oh, come to think of it, how is Hime doing?"
+
+# b476d438
+; レイキャヴィクを去ったあとは、まともに連絡もしなかったな。
+I haven't even contacted you since I left Reykjavik.
+
+# f560aa9d
+; me: 「うむ」
+me: "Yes,"
+
+# b541de7b
+; 急いでスマホを開いて、ラインを確認してみた。
+I hurriedly opened Smartphont and checked LINE.
+
+# f8bf7e44
+; me: 「えっ！」
+me: "What!"
+
+# d06afb7a
+; @print "{playerName}、どうしてますか？無事だったら返事をください" author:hime speed:0 waitInput:false
+@print " {playerName}, how are you doing?Please reply if you are safe." author:hime speed:0 waitInput:false
+
+# 470a0756
+; ヒメから今朝、俺の無事を確認するメッセージが来ていた。
+Hime sent me a message this morning confirming that me was safe.
+
+# 595e114c
+; 今日だけでなく、その前の日にも、沢山のメッセージが送られていた。
+Not only today, but also the day before that, many messages were sent.
+
+# a4c0070e
+; 俺を心配してるメッセージから、自分の話まで。
+From worrying about me to talking about yourself.
+
+# bd0ad294
+; 俺はじっくりと、過去のメッセージ履歴を読み上げた。
+I read the past message history carefully.
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# 2391fef1
+; ヒメも俺とまったく同じ事が起こってたらしい。
+It seems that the exact same thing happened to Hime.
+
+# 279be005
+; 数日間も行方不明になって、その間の記憶がないという。
+He has been missing for several days and has no recollection of the incident.
+
+# 6d4c3d82
+; ハイランドで発見されたヒメは、アメリカの旅行客に保護されて無事に街に戻った。
+Discovered in Highland, Hime returned safely to the city under the protection of American tourists.
+
+# c937a786
+; その後ヒメは、ずっと俺に連絡をしてみたけど、返事がなかった。
+After that, Hime kept trying to contact me, but there was no answer.
+
+# 65df05eb
+; もしかしたと思って、警察に俺の事を聞いてみたが、同じく行方不明だったという。
+Thinking that it was possible, he asked the police about me, but they said he was also missing.
+
+# e4af74ae
+; ヒメはその話を聞いて、俺の事が気になって仕方かなったけど、
+When Hime heard the story, she was worried about me.
+
+# d41b971
+; 自分ではどうしようもなく、できることもないから、
+There's nothing I can do and I can't do.
+
+# fa2b8baf
+; とりあえず日本へ帰ってはいる。
+For the time being, I'm going back to Japan.
+
+# 47785653
+; でも未だに俺の事が気にかかってるみたいだ。
+But he still seems to care about me.
+
+# e9e46a09
+; me: 「うむ……」
+me: "Well, ……,"
+
+# 1e2a80d1
+; こんな変な出来事が、お互いに同じく起こってたなんて、こんな偶然があるか？
+Is there such a coincidence that such a strange thing happened to each other?
+
+# bc93a552
+; ヒメのラインメッセージを全部読み上げた俺は、
+If me has read all of the Hime messages in LINE, click
+
+# d103ad41
+; 自分の無事を知らせるメッセージと、感謝のメッセージを送っておいた。
+I sent a message of my safety and a message of gratitude.
+
+# df5ed0e
+; それと日本に帰ったら、一度会って話をしましょうとも送っておいた。
+Also, when I return to Japan, I sent him a message saying that we should meet and talk.
+
+# 9fcbab5
+; me: 「……まぁ、色々あったけど、俺もヒメも無事だし、よかったな」
+me: "…… "Well, there were many things, but I'm glad Hime and me are safe."
+
+# 6c47c6f5
+; これで一安心だ。
+Now I'm relieved.
+
+# 3ea899f
+; ……
+……
+
+# 80eefab0
+; ヒルドルハットに着いた。
+Hildur Hut I arrived at .
+
+# 2010c45d
+; ホステルのフロントの風景は相変わらずだった。
+The scenery at the front desk of hostel remained the same.
+
+# 9905fcff
+; 幸いに、あまり混んでるようには見えなかった。
+Fortunately, it didn't look very crowded.
+
+# 82b91db1
+; さて、空いてる部屋があるか聞いてみるか。
+Well, let's see if there's a room available.
+
+# d002d01e
+; counter: 「ハロー」
+counter: "Hello"."
+
+# cf8288f4
+; me: 「ハロー……あれ？」
+me: "Hello …… What?"
+
+# 92ece71
+; 受付の人、変わってる？
+Is the receptionist strange?
+
+# 65a6a0e0
+; 愛想のいい女性が、俺の挨拶に親切に答えてくれた。
+A friendly Woman kindly answered me's greeting.
+
+# b36669cc
+; me: 「ま、前の人は？」
+me: "Well, the man in front of you?"
+
+# 890bee2e
+; counter: 「あ、前の人はもう来なくなりました。もしかして知り合いだったのですか？」
+counter: "Oh, the person in front of me is no longer here.Did you happen to know each other?"
+
+# a262d2e2
+; me: 「いいえ。ちょっと気になってただけです」
+me: "No, I was just curious."
+
+# 150a6d7d
+; あの無愛想な女の子、やめたのだな。
+You've given up that blunt Girl.
+
+# 944732f1
+; me: 「今、お部屋空いてますか？」
+me: "Is your room available now?"
+
+# a88c6d9f
+; counter: 「はい。ちょうど余ってますよ」
+counter: "Yes, there's just more left."
+
+# 579bd8be
+; 俺はいくつかのチェックインの段取りを終えて、すぐに部屋に入った。
+I had finished some check-in arrangements and immediately entered the room.
+
+# c5e811f2
+; まずはネットで飛行機の予約をして、ちょっとだけ寝るかな。
+First, I will book a flight online and sleep a little.
+
+# ac5003ec
+; そう思って、部屋に入ってみると、
+So I went into the room.
+
+# ba34153
+; eric: 「ほお？{playerName}くんじゃないか！」
+eric: "Cheek? It's Mr. {playerName}!"
+
+# e4fca348
+; me: 「えっ、教授？」
+me: "What, professor?"
+
+# 32573076
+; エーリック教授、通称エルフ教授だ。
+Professor Eric, commonly known as Professor Elf.
+
+# 187fefa6
+; またもベッドのから飛び降りてきた。
+He jumped out of bed again.
+
+# 64a7c73b
+; eric: 「君、行方不明だと聞いたが、戻って来たんだな。[i][char eric.kira_angry_w_w]ハハハ」
+eric: "I heard you're missing, but you're back.[i][char eric.kira_angry_w_w]Ha ha ha haha."
+
+# 43defa
+; 教授は何が嬉しいのか、俺にハグしてきた。
+The professor hugged me to see what made her happy.
+
+# b736c7ec
+; me: 「く、苦しいっす」
+me: "Oh, it's painful."
+
+# e0d7ca96
+; eric: 「ああ、すまんすまん。で、何があったんだい？その間に」
+eric: "Oh, I'm sorry, and what happened?"in the meantime."
+
+# af165625
+; me: 「そ、それが、何も思い出せないんですよ」
+me: "Well, I can't remember anything,"
+
+# 10f572d3
+; eric: 「うむ。やっぱり。君もそうなのか」
+eric: "Yes, as I expected.Are you?"
+
+# 34c6a26
+; me: 「……俺と同じような人、結構居るみたいですね」
+me: "There are quite a few people like ……me,"
+
+# b98c674c
+; eric: 「ああ。そうだよ。不思議な事もあるもんだ。[i][char eric.angry_w_w]やっぱりこれはエルフの仕業としか思えないな」
+eric: "Yes, sir.There are strange things, too.[i][char eric.angry_w_w] I can only think of this as Elf's work."
+
+# 6658a6d
+; me: 「そう、かもしれませんね」
+me: "Yes, perhaps,"
+
+# 69f4f88e
+; eric: 「記憶を失う前までは、どこを旅してたんだい？」
+eric: "Where did you travel before you lost your memory?"
+
+# a5a1363c
+; me: 「ああ、それが……」
+me: "Oh, that's ……,"
+
+# 90ec378f
+; 教授は何か興味深く俺に聞いてきたので、
+The professor asked me something interesting.
+
+# 4f782d89
+; 俺は、今までの経緯を、覚えてる限り詳しく話してあげた。
+I told him as much detail as he could remember.
+
+# 1e1a63fd
+; eric: 「そんな事があったのか。ディムボルギルね」
+eric: "That's what happened.dimmuborgir you know."
+
+# 35ee09d9
+; 教授は何か思い出したかのように言った。
+The professor said as if he had remembered something.
+
+# 8bc1d278
+; me: 「ディムボルギルに、何か？」
+me: "What for dimmuborgir?"
+
+# caa27a2b
+; eric: 「ディムボルギルはユールラッズが住んでるところだ。[i]君の場合はエルフではなく、ユールラッズと関係があるかもな」
+eric: " dimmuborgir is where Yulelads lives.[i]You may have something to do with Yulelads, not Elf."
+
+# bfddc0de
+; me: 「ユールラッズ……」
+me: "The Yulelads……,"
+
+# 5e45cdfb
+; その単語の響きがなぜか懐かしくて、オウム返しのように呟いた。
+The sound of the word was somehow nostalgic and muttered like a parrot.
+
+# 59834d6d
+; eric: 「ユールラッズとは、アイスランドの１３人のサンタクロースのことでね……」
+eric: "The Yulelads is the Santa Claus of the thirteen Icelanders, ……."
+
+# f7502e7c
+; 教授はまた、ユールラッズについて、無駄に詳しい話を聞かせてくれた。
+The professor also told me unnecessarily detailed stories about Yulelads.
+
+# 896716ff
+; ……実はこの話は、前にも聞いた事がある。
+…… Actually, I've heard this story before.
+
+# fb68a407
+; だけど俺は、ユールラッズについてもう一度聞いてみたくなって、ただじっと教授の話を聞いていた。
+But me, eager to hear about Yulelads again, listened intently to the professor.
+
+# 1fec029b
+; eric: 「……って事だ、つまり……」
+eric: "I mean ……, ……,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# a3d421c0
+; 教授の話を聞きながら、ユールラッズについて考えていた。
+While listening to the professor, I was thinking about Yulelads.
+
+# cd1d59d7
+; 既視感。
+a sense of foresight.
+
+# 18f926ff
+; 俺とはまったく関係のないアイスランドの民間伝承のはずなのに、
+I It was supposed to be an Icelandic folklore that had nothing to do with it.
+
+# 74de6158
+; 懐かしい思い出に浸ってるような不思議な感覚を感じた。
+I felt a strange feeling as if I were immersed in nostalgic memories.
+
+# 460d2ccb
+; そして、軽い頭痛とともに、麻薬のように、頭がぼんやりと霞む気がしてきた。
+and, with a slight headache, I began to feel faint and hazy, like a drug.
+
+# 89d75d25
+; me: 「……うっ」
+me: " …… Ugh,"
+
+# cea2f986
+; eric: 「ど、どうしたんだ」
+eric: "What's the matter?"
+
+# 3a3eb4cb
+; me: 「い、いや。ちょっと頭が痛くて」
+me: "No, no. I have a headache"."
+
+# 1b0f7d3
+; eric: 「おおっと、すまんすまん。病み上がりの人に長話が過ぎたな。ユールラッズの話はここまでにしておくよ」
+eric: "Oh, I'm sorry.It's been a long time since I got sick.I'll stop talking about Yulelads."
+
+# 5d4d40c6
+; me: 「い、いえいえ。別に大丈夫ですが……」
+me: "No, no, no.I don't mind, but ……."
+
+# a10ee7e6
+; eric: 「ごほん！」
+eric: "Oh, my God!"
+
+# 187478b1
+; 教授はわざとらしい咳をしたあとに、また俺に聞いてきた。
+After coughing deliberately, the professor asked me again.
+
+# 5eeef53c
+; eric: 「そういや、日本にはいつ帰るんだい？」
+eric: "When are you going back to Japan, by the way?"
+
+# 2b1bf61e
+; me: 「そうですね。一晩休んだら明日には帰ろうかと。飛行機の予約次第ですが」
+me: "Well, I think I'll be back tomorrow after a night's rest.It depends on your flight reservation."
+
+# 8ec88ca9
+; eric: 「……そうか」
+eric: " …… I see,"
+
+# 5fcc67e4
+; 教授は少し名残惜しそうな表情で続けた。
+The professor continued with a slightly regretful look.
+
+# e846543d
+; eric: 「……それで、どうだったのかね？」
+eric: "And how did it go?"
+
+# 7f21fe99
+; me: 「どうって？」
+me: "What do you say?"
+
+# 61d27dd7
+; eric: 「楽しかったか？アイスランド旅行は」
+eric: "Did you have a good time?"A trip to Iceland."
+
+# 67582517
+; me: 「……はい。素晴らしかったです。多分、一生忘れないくらいに」
+me: "…… Yes, it was wonderful.I'll probably never forget it."
+
+# 2e85c6a7
+; eric: 「いつか、また来るといいよ」
+eric: "I hope you'll come back some day,"
+
+# 5c8880ca
+; me: 「また来ますよ。しばらくはお金もないし無理だろうけど、せめて引退した後でも、きっと」
+me: "I'll be back.I won't be able to afford it for a while, but I'm sure even after I retire."
+
+# 7d70ae58
+; eric: 「引退って、何十年先なんだ、ハハハ」
+eric: "Retirement is decades away, haha."
+
+# 57670b24
+; me: 「そうですね。[i]……アイスランドの氷河が全部消える前には、また来たいですよ」
+me: "That's right. [i] …… I want to come back before all the glaciers in Iceland disappear."
+
+# 273338c0
+; なぜか俺は、そんな言葉を言っていた。
+For some reason me said such words.
+
+# 6f5324fe
+; eric: 「……そう、だな。それはいい考えだ」
+eric: "…… "Yes, sir.That's a good idea."
+
+# 812bc555
+; 教授は少し真面目な顔になって、
+The professor looked a little serious.
+
+# 5fa6e018
+; eric: 「君の引退後でも、まだヴァトナヨークトルが見れるように、お互いに頑張ろうじゃないか」
+eric: "Let's do our best to see Vatnajokull even after your retirement."
+
+# c671e5a0
+; me: 「はい」
+me: "Yes,"
+
+# 3ea899f
+; ……
+……

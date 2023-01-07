@@ -1,0 +1,177 @@
+; Japanese <ja> to English <en> localization document for `_lakagigar` naninovel script
+
+# ecaf7047
+; yule: 「ここは、ラーカギーガル」
+yule: "This is Lakagigar,"
+
+# c1189744
+; me: 「なんだか、恐ろしい感じの場所だな。まるで地面が爆撃されたようだ」
+me: "It's kind of a scary place.It's as if the ground was bombed."
+
+# d96929df
+; ラーカギーガル。
+Lakagigar.
+
+# c81a961f
+; ラキ火山の噴火口で、反芻する火口って意味だ。
+It is the crater of Rocky Volcano and means the crater that ruminates.
+
+# 99999b4a
+; 地面はまるで爆撃でもされたように亀裂が入ってて、
+The ground was cracked as if it had been bombed.
+
+# 72448936
+; 自然の暴力を感じてしまう。
+I feel the violence of nature.
+
+# f84799c7
+; １７８３年６月８日。
+June 8, 1783.
+
+# 75608d11
+; ハイランドの地下水がマグマに触れて水蒸気爆発を起こし、
+The groundwater of Highland touched the magma and caused a steam explosion;
+
+# cf543ecd
+; 長さ２６ｋｍに渡り、１３０もの火口が誕生した。
+Over 26 kilometers in length, 130 crater were born.
+
+# f9b4e953
+; それから始まった大規模の噴火は【スカフタ川の炎】と呼ばれ、
+The large-scale eruption that started there was called the flame 】 of the 【 Skafta River.
+
+# 52d3eba5
+; 人類史上において最大級の噴火だと言われてる。
+It is said to be one of the largest eruptions in human history.
+
+# 809b5c89
+; 噴火による火山灰がヨーロッパ全域の空を覆い尽くし、
+Volcanic ash from the eruption covered the skies all over Europe;
+
+# e5458eb8
+; １７８３年の夏は <ruby="砂の夏"> sand-summer</ruby>と呼ばれた。
+The summer of 1783 was called <ruby="sand-summer">sand-summer</ruby>.
+
+# b56b94c6
+; 噴火は４２０億トンの溶岩を流しながら数ヶ月も続いて、
+The eruption lasted for several months with 42 billion tons of lava flowing.
+
+# 93b761d5
+; アイスランドに壊滅的な被害をもたらした。
+It caused devastating damage to Iceland.
+
+# 54ae3cf9
+; 南アイスランドの半分が溶岩で覆われて、
+Half of South Iceland is covered with lava.
+
+# bbb44fda
+; 氷河が溶け出して洪水のような水が下流域の集落に流れ込み、
+Glaciers melt and flood-like water flows into downstream settlements.
+
+# bc3939ed
+; 21の村が破壊され、241人が亡くなった。
+Twenty-one villages were destroyed and 241 people died.
+
+# 64e6602e
+; また噴火後の飢饉で２１%の住民が死亡し、
+The famine after the eruption also killed 21 percent of the population.
+
+# f3765ad2
+; ５０％以上の家畜が死んだ。
+More than 50 percent of livestock died.
+
+# 93a63292
+; 被害はアイスランドのみならず、全世界に広がった。
+The damage spread not only to Iceland but also all over the world.
+
+# bc7e8b86
+; 1億2000万トンの火山ガスは【毒の雲】になり、
+120 million tons of volcanic gas became 】 poison cloud 【.
+
+# fac033cd
+; ヨーロッパの大気に広まり、数万人の命を奪った。
+It spread to the European atmosphere and claimed tens of thousands of lives.
+
+# dbac31d3
+; 噴煙の粒子と火山灰のせいで、北半球全体の気温が下がり、
+Because of the smoke particles and volcanic ash, the temperature of the entire northern hemisphere dropped.
+
+# 55463005
+; 異常気象による連載的な食糧不足が始まった。
+A series of food shortages have begun due to abnormal weather conditions.
+
+# 649a452
+; そのせいでヨーロッパでは、数年間も貧困と飢饉が続いた。
+This led to years of poverty and famine in Europe.
+
+# 57786fbc
+; またアフリカとインドでは雨期が変わって川の水量が減ったり、
+Also, in Africa and India, the rainy season has changed, and the amount of water in the river has decreased.
+
+# 7ea1b73d
+; アメリカでは大雪と、長い酷寒が続いた。
+Heavy snow and long, bitter cold continued in America.
+
+# d6719f0f
+; 日本にまでもその影響が届き、
+The influence reached Japan, too.
+
+# 46a6d39f
+; 同じ時期に発生した浅間山の大噴火と重ねて、
+It coincided with the eruption of Mount Asama at the same time.
+
+# 395f5208
+; 【天明の大飢饉】と原因になった可能性もあると言われてる。
+【 It is said that it may have been caused by 】 the Great Famine of Tenmei.
+
+# ecb2e71b
+; yule: 「今もこの大地に、あの時の傷跡が残ってるってわけですよ」
+yule: "There is still a scar on this earth from that time,"
+
+# e2d89b12
+; me: 「大変な事があった場所なんだな」
+me: "It's a place where something terrible happened,"
+
+# 2038c2aa
+; この殺伐した風景には、それに見合うほどの歴史があったわけだ。
+This savage landscape had a history worthy of it.
+
+# a53430f8
+; yule: 「そういえばここは『北北西に曇と往け』という日本の漫画にも出てくる場所ですが、知ってました？」
+yule: "Come to think of it, did you know that this is a place that appears in a Japanese manga called 『, Cloudy and Go to North-West 』"
+
+# 27328021
+; me: 「えっ？……聞いたことがあるような……うっ！」
+me: "What? …… I've heard of ……."
+
+# 13a3f9de
+; 軽い頭痛。
+a slight headache.
+
+# 2de320e4
+; yule: 「あ、そういえば、日本での記憶は失ったままでしたよね、ごめんなさい。無理に思い出さなくてもいいですよ」
+yule: "Oh, come to think of it, I'm sorry that I lost my memory in Japan.You don't have to force yourself to remember."
+
+# f2d4d4aa
+; me: 「どんな漫画だった？」
+me: "What kind of cartoon was it?"
+
+# 25e634e1
+; yule: 「主人公はアイスランドに住んでる日本出身の少年で、内容はちょい不思議なミステリーみたいな物語です。ユールちゃんの好きな作品なんですよ」
+yule: "The Duke of Master is a Japanese boy living in Iceland, and the story is a little strange and mysterious.It's a favorite work by Yule."
+
+# 5776b0a9
+; me: 「それは、なんだか今の俺に似てるな」
+me: "It's kind of like me now,"
+
+# 12390309
+; yule: 「記憶を取り戻したら、一緒に漫画について語り合いましょうよ！」
+yule: "Let's talk about manga together when we regain our memory!"
+
+# c45c97c9
+; me: 「お、おう……」
+me: "Oh, ……,"
+
+# 5db81a48
+; ユールちゃんって、日本の漫画も好きだったんだな。
+Yule I guess you liked Japanese comics, too.

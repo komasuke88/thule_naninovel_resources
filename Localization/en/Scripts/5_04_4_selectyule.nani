@@ -1,0 +1,105 @@
+; Japanese <ja> to English <en> localization document for `5_04_4_selectyule` naninovel script
+
+# 140481cf
+; suteki: 「あら残念。いっぱい可愛がってあげられるのに」
+suteki: "Oh, that's too bad. I can give you a lot of love."
+
+# faa5e9cb
+; yule: 「よ、よかったです」
+yule: "Well, I'm glad,"
+
+# b0b8dfcb
+; suteki: 「いい旦那を見つけたんだね、ユールちゃん」
+suteki: "You have found a good husband, Yule,"
+
+# 720eaa61
+; yule: 「ステッキちゃんも、早く探さないといけないでしょう？」
+yule: "We need to find Steki soon, right?"
+
+# 26b02a0e
+; suteki: 「あたしはいいわ。それより早く、羊牧場を完成したいわ」
+suteki: "I'm fine. I'd like to finish the sheep farm sooner than that."
+
+# 1c4700f5
+; yule: 「えっ？種族保存は？」
+yule: "What? How about preserving the race?"
+
+# 479ef2f3
+; suteki: 「そんな事より、やりたかった事をやり遂げたいじゃない？死ぬ前にはね」
+suteki: "Rather than that, don't you want to accomplish what you want to do?before I die."
+
+# 8d6a9ae1
+; yule: 「そうですか」
+yule: "Is that so?"
+
+# 80b43766
+; suteki: 「それでは、あたしはもう行くわ」
+suteki: "`Then I'll go now,'"
+
+# c92c360a
+; yule: 「あら、もう行きます？この羊の元の姿には興味ないですか？」
+yule: "Oh, are you going now?"Aren't you interested in this sheep's original appearance"
+
+# b19cd9f0
+; yule: 「人間なんて興味ないわ。[i][char suteki.default]それより、次の羊が待ってるから」
+yule: "I'm not interested in human beings.[i]' char suteki.default'But the next sheep will be waiting."
+
+# 8634e6d
+; yule: 「そうですか。ま、わかりました」
+yule: "Well, I see,"
+
+# ab8dcef5
+; suteki: 「ふふ、ではヨールの夜にまた会いましょう」
+suteki: "Well, see you again on the night of Jol,"
+
+# 164822f
+; yule: 「はい。あの日に、全員でね」
+yule: "Yes, all together that day."
+
+# 95066025
+; suteki: 「あなたも、元気でねー」
+suteki: "Take care of yourself, too,"
+
+# 94cf53f3
+; 俺にウインクをして、ステッキちゃんは遠くへ消えて行った。
+I winked at me, and Steki disappeared into the distance.
+
+# ffac2c9c
+; またも不思議な去り方だな。
+What a strange way to leave again.
+
+# a2e6f48
+; yule: 「では、アタシたちも行きますか。[br]さあ、まずは家に入って。記憶を取り戻すんです」
+yule: "Then shall the Atashi go, too.[br] Now, go into the house first, and get your memory back."
+
+# 820b8a24
+; me: 「べ——（ああ、わかった）」
+me: "Ah, I see,"
+
+# 1589335b
+; 実はわからん。
+Actually, I don't know.
+
+# 89622e71
+; でもとりあえず入ってみよう。
+But let's go in first.
+
+# d87eeb26
+; 四足歩行も慣れてきたし。
+I'm getting used to walking on four legs.
+
+# f5284257
+; 幸いドアは開けっ放し。
+Fortunately, the door was left open.
+
+# 3d8ac76b
+; me: 「べー」
+me: "Bye,"
+
+# 2025c2ac
+; 家に入った途端、それは流れてきた。
+As soon as I entered the house, it flowed.
+
+# 638a45b1
+; me: 「ああっ！！」
+me: "Ah!"

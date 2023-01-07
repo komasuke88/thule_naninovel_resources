@@ -1,0 +1,313 @@
+; Japanese <ja> to English <en> localization document for `7_1_5_kabau` naninovel script
+
+# b0c21e80
+; 俺は走りだし、身を投げて、ユールちゃんをかばった。
+I started running, threw himself, and covered Yule.
+
+# bbc243b9
+; me: 「くああぁっ！！」
+me: "`Oh my gosh!'"
+
+# 629df8fc
+; 背中を刺されて、
+I got stabbed in the back.
+
+# de98c367
+; me: 「っ！」
+me: "Huh!"
+
+# 59587641
+; ユールちゃんの隣で、倒れてしまった。
+I fell down next to Yule.
+
+# 78362c7a
+; unknown: 「お、おのれ……邪魔を……」
+unknown: "Oh, I …… disturbance ……"
+
+# fdc7198b
+; me: 「くぅぅっぁ！！」
+me: "`Whoa!'"
+
+# f340896e
+; 激痛が走ってるけど、意識は飛んでない。幸い、急所は外せたみたいだ。
+I have severe pain, but I'm not conscious.Fortunately, he missed the vital point.
+
+# 7153453a
+; 急いでユールちゃんを探す。
+hurry to find Yule.
+
+# 75dc608e
+; me: 「ユー、ユールちゃんは……」
+me: "You, Yule is ……"."
+
+# d583cad4
+; yule: 「〜〜〜♫」
+yule: "〜〜〜♫"
+
+# d7d717a9
+; 無傷。
+No injuries.
+
+# ad7488e5
+; よかった。妻を助ける事ができた。
+Good. I was able to help my wife.
+
+# 6f93a304
+; yule: 「〜〜♫」
+yule: "〜〜♫"
+
+# 6501e7d1
+; ユールちゃんは何も気づかず、歌い続けてる。
+Yule kept singing, unaware of anything.
+
+# b74b546e
+; 歌ってる間は何も聞こえないって、本当だったんだな。
+It was true that you couldn't hear anything while singing.
+
+# 17c34482
+; unknown: 「くっ、時間がないっていうのに！！このままでは……[i]仕方ない。これでも使うか」
+unknown: "Damn it, we don't have time!! If things go on like this, ……[i] I can't help it.Do you want to use this?"
+
+# 1d7585b8
+; 男はまた懐から、何かを取り出した。
+Man took something out of his pocket again.
+
+# 1a5391b2
+; me: 「け、拳銃……？」
+me: "Oh, …… a pistol?"
+
+# 39e58f46
+; もう一度起き上がって、ユールちゃんを庇おうとしたけど、
+He got up again and tried to protect Yule;
+
+# 66fa8bec
+; me: 「くっ……か、体が言うことを……」
+me: "Damn it ……, or …… what your body says."
+
+# 606b9576
+; 立ち上がれない。
+I can't stand up.
+
+# b8323e65
+; このナイフ、毒でも塗られてるのか。全身に変な感覚が走ってる。
+Is this knife poisoned?I have a strange feeling all over my body.
+
+# 6b07b714
+; me: 「そ、それでも！」
+me: "And yet!"
+
+# b868ab18
+; 這いつくばって、男の足でも引っ張ろうとした。
+He crawled and tried to pull Man's leg.
+
+# c1432e2e
+; が、
+However,
+
+# 21f3a4fc
+; yule: 「え？」
+yule: "What?"
+
+# 1a72b7db
+; ターンと、轟とともに、ユールちゃんは倒れてしまった。
+With a turn and a roar, Yule fell.
+
+# 768ec6b2
+; me: 「ユールちゃん！！」
+me: " Yule!"
+
+# a038dd2e
+; 銃に撃たれた！
+I got shot!
+
+# f5359e1d
+; どうしたらいい！
+What should I do?
+
+# e6e862d7
+; ユールちゃんの状態を確認しようと、俺は這いつくばって、倒れてるユールちゃんに近づいたけど……
+To check the condition of Yule, me crawled over and approached the fallen ……, but Yule
+
+# 7cc3731e
+; yule: 「ど、どういうこと？[i][char yule.dot]あ、{playerName}？[i][char yule.n_anrgy_a_awawa]……って、こ、こいつは……！？」
+yule: "What do you mean?"[i][char yule.dot] Oh, {playerName}? [i] [char yule.n_anrgy_a_awawa] ……, this is ……!?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 8eb0a2ca
+; 体が血だらけになったユールちゃんが起き上がった。
+A blood-stained Yule rose.
+
+# 316c2d2a
+; 心臓のあたり、胸元が貫通されてるのに、平気で喋りながら！
+It's penetrated around my heart and chest, but I don't mind talking!
+
+# bbbb51f1
+; unknown: 「くっ、こんな武器では駄目なのか！」
+unknown: "`Why, this kind of weapon won't do!'"
+
+# 22ad8cab
+; そう言いながらも、男はもう一発、ユールちゃんに銃を撃ってきた！
+As he spoke, Man fired another shot at Yule!
+
+# c1432e2e
+; が、
+However,
+
+# c25868cc
+; yule: 「へー？人間の武器など、ユールちゃんになんの役にも立たないんですけど？」
+yule: "Huh? Human weapons are of no use to Yule?"
+
+# 33105767
+; unknown: 「くあっ！」
+unknown: "Damn it!"
+
+# 3ea31ff
+; ユールちゃんは銃弾を体に撃たれながらも、何事もないように反撃して、男を遠くへと飛ばした。
+Yule, being shot in the body, fought back and flew Man far away.
+
+# a516b216
+; yule: 「あいつ。いないと思ったらこんな事を企んでいたとは……」
+yule: "He, if you don't think he's here, would have planned something like this ……."
+
+# 71cd1212
+; me: 「ユールちゃん、お、お前、平気なのか？」
+me: " Yule, oh, are you all right?"
+
+# 2a78eb41
+; yule: 「え？あ、これですか？[i][char yule.doya]ああ、ヨールのユールちゃんは無敵です。[i]心臓を突かれたくらいでは……[i][char yule.dot]……って、あれ？{playerName}？」
+yule: "What? Oh, this one?[i][char yule.doya] Oh, Yule of Jol is invincible.[i]……[i][char yule.dot] ……, what? {playerName}?"
+
+# 4bf62fc
+; 今更だけど、倒れてる俺を見て、驚いてユールちゃんが俺に駆けつけた。
+It's late now, but when I saw me lying down, I was surprised and Yule rushed to me.
+
+# 67c021f
+; yule: 「{playerName}！？[i]せ、背中にナイフが！？[i]ま、まずい！早く手当を！」
+yule: " {playerName}!?"[i]Hey, a knife on your back!?[i]Oh, it's not good!Hurry up and pay!"
+
+# bc31fe60
+; 俺の背中に刺されてたナイフを抜き差して、暖かな手で俺の傷口に触った。
+He took out the knife which had been stabbed in me's back and touched me's wound with his warm hand.
+
+# 1b2778c2
+; me: 「お」
+me: "Oh,"
+
+# 659c2507
+; yule: 「と、とりあえず治療の魔法をかけました。出血も止まったし、少し休んだら……」
+yule: "I put a spell on the treatment.The bleeding stopped, and after a short rest, ……."
+
+# 67b76452
+; 本当に、すぐに血は止まった。痛みもなくなった。
+The blood stopped at once.The pain is gone.
+
+# d1a2e503
+; だけど……
+But ……
+
+# 55b6677f
+; me: 「うっ……！！」
+me: "Ugh ……!"
+
+# 9ff60251
+; 全身を襲ってる変な感覚は、消えてない。
+The weird feeling that's hitting my whole body hasn't disappeared.
+
+# 55a0fbe0
+; yule: 「えっ！？{playerName}？大丈夫ですか？[i]へ、変だな。もう一回……」
+yule: "What!? {playerName}? Are you all right?[i]Oh, that's weird.Again ……"
+
+# 242c26a5
+; またも治療の魔法をかけてくれるユールちゃん。
+Yule that spells treatment again.
+
+# 75d85f00
+; me: 「うっ……もういいぜ。こ、これ、毒みたいだ」
+me: "Ugh …… That's enough. This looks like poison."
+
+# e1aae228
+; 感じていた事をユールちゃんに話した。
+I told Yule what I was feeling.
+
+# 6acf448f
+; yule: 「そ、そんなはずありません。毒でさえ治療できるような魔法ですから」
+yule: "Well, that's not the case.It's magic that even poison can be cured."
+
+# 84da377
+; me: 「で、でも……なんか変な感じだよ。もうすぐ消えそうな気分だ」
+me: "But …… is a strange sort of thing.I feel like I'm going to disappear soon."
+
+# 9657bbcb
+; yule: 「も、もしかして……」
+yule: "But, by any chance, ……,"
+
+# 21840004
+; ユールちゃんは慌てて抜き出したナイフの方を見た。
+Yule looked hastily at the knife.
+
+# b6ad9363
+; yule: 「えっ……こ、このナイフ！」
+yule: "Oh, ……iko, this knife!"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 2339dcbd
+; やっぱり、何か細工ができてる武器だったな。
+It was a weapon with some craftsmanship, after all.
+
+# 8ad0fefd
+; yule: 「ど、どうしよう。これは、ユールちゃん一人ではとても……」
+yule: "What shall I do?This is Yule very …… alone."
+
+# b6a786da
+; me: 「……お、俺の事はいい。それよりその詠唱は？」
+me: "Oh, me is good.But what about the chant?"
+
+# 1dc5ed6e
+; yule: 「あ……」
+yule: "Oh, ……,"
+
+# 9b424d8e
+; me: 「……も、もしかして、失敗したのか」
+me: "Did …… fail?"
+
+# f70b6b58
+; yule: 「……失敗、ってほどではありませんが、最後の仕上げがメッチャクチャになって、威力が弱まりました。[i][char yule.maan2]でもそれって、今は大した問題じゃないですよ！[i][char yule.yoko_anrgy_nemu_u]{playerName}！しっかり捕まえて！」
+yule: "It's not like …… failure, but it's a mess at the end, and it's less powerful.[i][char yule.maan2] But that's not a big deal right now![i][char yule.yoko_anrgy_nemu_u] {playerName}! Hold on!"
+
+# 5ae1ea0d
+; me: 「……うん？[i]……あ、えええ！？」
+me: " …… Huh? [i] …… Oh, what!?"
+
+# 8385660a
+; ユールちゃんは、倒れてる俺を抱き上げて、高い夜空へと飛び上がった。
+Yule picked up the fallen me and jumped up into the high night sky.
+
+# 3305a977
+; お姫様抱っこ。
+Hold a princess.
+
+# ba4b575
+; こ、これって、なんだか恥ずかしいな。
+It's kind of embarrassing.
+
+# 19481b11
+; でも、ちょっとだけ心地よいかも……。
+"However, it might be a little comfortable ……."
+
+# 5df0cb33
+; …………………………
+…………………………
+
+# 96dd75b3
+; ……………
+……………
+
+# 3ea899f
+; ……
+……

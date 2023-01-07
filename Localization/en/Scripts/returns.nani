@@ -1,0 +1,9 @@
+; Japanese <ja> to English <en> localization document for `returns` naninovel script
+
+# fddc35d2
+; @choice "前の選択肢に戻る" goto:.autoload handler:ButtonList
+@choice "Back to Previous Choice" goto:.autoload handler:ButtonList
+
+# 1384c61
+; @choice "タイトル画面へ" goto:.to_title handler:ButtonList
+@choice "To Title Screen" goto:.to_title handler:ButtonList

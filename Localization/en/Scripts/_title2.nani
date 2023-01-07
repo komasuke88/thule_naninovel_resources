@@ -1,0 +1,13 @@
+; Japanese <ja> to English <en> localization document for `_title2` naninovel script
+
+# a92b82bf
+;     @choice handler:ButtonArea button:UI/YuleChoiceTitle2KO pos:-560,30 goto:.next_chapter
+
+# 3837c57e
+;     @choice handler:ButtonArea button:UI/YuleChoiceTitle2EN pos:-560,30 goto:.next_chapter
+
+# 6411e11c
+;     @choice handler:ButtonArea button:UI/YuleChoiceTitle2 pos:-560,30 goto:.next_chapter
+
+# 324fcaaf
+; @choice handler:ButtonArea button:UI/YuleChoiceBackTitle pos:810,465 goto:.backtitle

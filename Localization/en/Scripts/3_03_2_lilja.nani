@@ -1,0 +1,453 @@
+; Japanese <ja> to English <en> localization document for `3_03_2_lilja` naninovel script
+
+# c4a9d2b
+; me: 「Hello！」
+me: "Hello!"
+
+# f7e578ac
+; counter: 「……」
+counter: "……"
+
+# e5b58110
+; 受付の女の子は、相変わらず無愛想だ。
+Girl, the receptionist, is as blunt as ever.
+
+# f092dfcb
+; だけど、安心した。
+But I was relieved.
+
+# cf5cdb1d
+; 俺以外にもちゃんと人がいて、俺が知ってたホステルの風景のままだった。
+There were other people besides me, just as me knew.
+
+# 73a54c8a
+; me: 「Takk！」
+me: "Takk!"
+
+# 869a3c88
+; 俺はアイスランド語で感謝の言葉を口にした。
+I said thank you in Icelandic.
+
+# 1067c409
+; 満面の笑顔で。
+with a big smile.
+
+# 81418403
+; counter: 「……？？」
+counter: "……？？"
+
+# 5dfcd5fe
+; 受付の子はわけがわからない表情だった。
+Counter Girl looked puzzled.
+
+# e49bcb60
+; そしてやっぱり何も言わなかったけど、俺は満足した。
+And he didn't say anything, but me was satisfied.
+
+# 53ff8e1f
+; 先までの妙な寂しさは、少し収まった。
+The strange loneliness had subsided a little.
+
+# 93103f6d
+; エーリック教授は、部屋にいるのかな。
+I wonder if Professor Eric is in the room.
+
+# 6349f856
+; 昨日の俺の体験はエルフ絡みの事件。
+Yesterday's experience with me was related to Elf.
+
+# 26d0e049
+; 教授が好きそうな話題だ。
+It's a topic that professors seem to like.
+
+# 400c5041
+; きっと何かのアドバイスをくれるのだろう。
+I'm sure they'll give me some advice.
+
+# 56af9a81
+; いやまあ、アドバイスなどなくても、
+Well, I don't need any advice.
+
+# 9b6a07df
+; ただ真面目に聞いてくれるのなら、今はそれだけでありがたい。
+But if you're serious about it, that's all I'm grateful for now.
+
+# 47a94e04
+; だけど、教授はいなかった。
+But there was no professor.
+
+# 4d04e66d
+; girl: 「……？」
+girl: "……？"
+
+# baf996c5
+; 代わりに、不思議な女の子がいた。
+Instead, there was a strange Girl.
+
+# 59d4c6a6
+; me: 「えっと……[i]は、ハロー？」
+me: "Well, ……[i] is hello?"
+
+# 5348511b
+; とりあえず、挨拶。
+First of all, say hello.
+
+# e5e4abd3
+; girl: 「……<ruby="ヤーヤ">　Jæja</ruby>」
+girl: "…… <ruby=" Jaya"> Jæja</ruby>"
+
+# 1eed6565
+; 綺麗……だけど儚い感じの少女。
+A pretty …… but fleeting girl.
+
+# 8f8c03f
+; 今でも崩れ落ちちゃいそうな、危うい雰囲気をしていた。
+It still had a dangerous atmosphere that was about to collapse.
+
+# ce8c1730
+; [br]華やかなに飾ってる伝統衣装のような服を着ていて、
+[br] He's dressed like a traditional costume.
+
+# 6b4dbbfe
+; 一瞬、お芝居の役者なのかと思った。
+For a moment I thought he was an actor in a play.
+
+# 67a67c26
+; でもそれがとても似合っていて、
+But it really suits me.
+
+# 3df911e0
+; まるで本当に、昔の世界からの来訪者のようにも思えた。
+It seemed like a visitor from the old world.
+
+# 235eee42
+; ……あと、目がちょっとやばい。
+…… And my eyes are kind of crazy.
+
+# 20877bc8
+; 部屋の中を見てみた。
+I looked around the room.
+
+# e3847c96
+; 教授のベッドには荷物が置いてあった。
+The professor's bed was left with his luggage.
+
+# 18c17f11
+; どこかに出かけたのだろう。
+He must have gone somewhere.
+
+# 38f207dd
+; 女の子の後ろのベッドには、まとめかけてた荷物がおいてあった。
+On the bed behind Girl was the baggage I was about to pack.
+
+# dfa292ed
+; そのベッドの位置は……そうだ。覚えがある。
+The position of the bed is …….I remember.
+
+# d2f4656b
+; この子が、[i]もうひとりのルームメイトだったんだな。
+[i] He was the other Room mate.
+
+# 37a2c3e
+; me: 「I'm {playerName}. Your roommate. Nice to meet you」
+me: "I'm {playerName}. Your roommate. Nice to meet you"."
+
+# 9d71fd6f
+; とりあえず自己紹介してみる。
+Let me introduce myself first.
+
+# 5ad6b6f3
+; girl: 「……<ruby="リルヤ">Lilja</ruby>。……<ruby="リルヤ">Lilja</ruby> ・ <ruby="グッドムンドスドッティル">Guðmundsdóttir</ruby>"
+girl: "……<ruby=" Lilya">Lilja</ruby>. ……<ruby=" Lilya">Lilja</ruby> ·<ruby="Goodmund Dottil">Gu ðmundsd óttir</ruby>"
+
+# be15c460
+; リルヤか。
+Lilya Is that so?
+
+# b3051b00
+; 名字はグッドムンドス、ドッティルと言った。
+His family name was Goodmunds and Dotil.
+
+# a297e9e
+; ドッティルとは、娘という意味のアイスランド語で、
+Dottyle is an Icelandic word for daughter.
+
+# 187db82c
+; アイスランドの女の子は、みんな名字の最後にドッティルがつく。
+Girl in Iceland all have Dotil at the end of their family name.
+
+# f2f91189
+; つまりアイスランド人だ。
+In other words, he is Icelandic.
+
+# cdf86756
+; この子も、英語が苦手なのかな。
+I wonder if he's not good at English, either.
+
+# e6f877d
+; だけどギリギリ、お互い会話はできるくらいのレベルだ。
+But at the very last minute, we can talk to each other.
+
+# 26db2253
+; [br]とりあえず俺は、教授の行方を聞いた。
+[br] For the time being, me inquired about the professor's whereabouts.
+
+# a5813eb2
+; 教授に会って、昨日の事を聞いてもらいたい。
+I want you to meet the professor and hear about yesterday.
+
+# 4fa6efba
+; me: 「あの……エーリック教授、どこに行ったのか、知りませんか？」
+me: "Do you know where that ……Professor Eric went?"
+
+# 51c54cd9
+; lilja: 「……教授……」
+lilja: "Professor …… ……"."
+
+# d2706e4
+; me: 「えっと、このように大きな男で、ヒゲの、ルームメイト」
+me: "Well, with such a large Man, of a beard, Room mate."
+
+# b7ca2964
+; 俺は色々なジェスチャーを用いて、質問をした。
+I used various gestures to ask questions.
+
+# 8433d239
+; lilja: 「……知らない……」
+lilja: "I don't know …… ……"."
+
+# a309dfee
+; me: 「……そう」
+me: "…… "Yes,"
+
+# c94ef054
+; この子とも、相当会話が難しい。
+It's very difficult to talk to this child.
+
+# b91ac047
+; 言葉が通じないわけじゃないけど、ずっと無表情でぼーっとしていて、
+It's not that I can't communicate, but I've been blank and expressionless.
+
+# a271a77c
+; 反応がいちいち掴めない。
+I don't know how to react.
+
+# 10efb013
+; 多分、性格がそうなんだろう。
+I guess it's because of my personality.
+
+# 3a856dcc
+; ま、でも聞けばちゃんと答えてくれるし、
+Well, but if you ask them, they'll answer you properly.
+
+# 7b9bc209
+; 受付の子よりはましなんだけど、
+Counter Girl It's better than that.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# 6a0543b8
+; ……それにしてもこの部屋、相変わらず暑いな。
+…… But this room is still hot.
+
+# 6c065748
+; 急いでいたせいで、コートを着たまま話したな。
+You talked with your coat on because you were in a hurry.
+
+# 65eb5bd8
+; 俺はコートを脱いで、自分のベッドにおいた。
+I took off his coat and put it on his bed.
+
+# dbc874af
+; lilja: 「……なっ！？」
+lilja: "What is ……?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# be588695
+; 何だ？
+What is it?
+
+# 97a074a3
+; リルヤは今までと違う、驚きの表情をしていた。
+Lilya had a different expression of surprise.
+
+# 10899fd0
+; lilja: 「そ、そのネックレス……なに？」
+lilja: "What is that Neckless……?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 3e3bb7a5
+; 俺、ネックレスなどしてなかったはずだけど……
+me, Neckless, and so on. ……
+
+# c08e80a1
+; lilja: 「その首につけてる……スプーンみたいな形の……」
+lilja: "A …… shaped like a ……Spoon on his neck."
+
+# 4c360966
+; 言われて自分の首元を確認してみた。
+I was told to check my neck.
+
+# 3625b09c
+; me: 「あれ？」
+me: "Huh?"
+
+# 9aa726bc
+; 俺の首には、ネックレスが付けられていた。
+Neckless had a me around his neck.
+
+# 993133bb
+; 木材スプーンの形をした飾りが付けてある。
+It is decorated in the shape of a wood Spoon.
+
+# 71463014
+; me: 「何だこれは……？」
+me: "What is this ……?"
+
+# 9d6eff29
+; そのスプーンには知らない文字で、何かが書いてあって、薄く光っていた。
+The Spoon was a strange letter, with something written on it, and glistening faintly.
+
+# 266cab10
+; lilja: 「古代ルーン文字。それに、普通ではないその発色……」
+lilja: "Ancient Rune characters.And the unusual color development ……"
+
+# dfffb7a
+; リルヤは俺がつけてるネックレスを驚いた目でじっと見つめてる。
+Lilya stared with astonishment at Neckless, which me was wearing.
+
+# fdba98a6
+; me: 「ルーン？」
+me: "Is it Rune?"
+
+# 8c6cf994
+; 確かにノルド神話での魔法を文字だったな。
+It's true that the magic of Norse mythology was written.
+
+# 49071e20
+; ……っていうかこの子、よく喋れるんじゃないか。
+…… I mean, she can talk a lot.
+
+# 5682f409
+; lilja: 「どこで、そんなネックレスを手に入れたの？」
+lilja: "Where did you get that Neckless?"
+
+# a7e155aa
+; me: 「俺もわからん。何で俺は、こんなもんつけてるんだ……？」
+me: "I don't even know me.Why is me wearing this?"
+
+# 9ff9eee3
+; lilja: 「少し、見せてもらっていいのかしら」
+lilja: "May I have a look?"
+
+# 99203771
+; me: 「ああ。いいけど、そもそも俺のものでもないが……」
+me: "Yes, but it's not me's in the first place, but ……."
+
+# 9e0aeddd
+; 俺はネックレスを外そうと、首の後ろを触ってみた。
+I touched the back of his neck to remove Neckless.
+
+# 5293bf23
+; しかし……
+but ……
+
+# f4458ae7
+; me: 「あれ？……」
+me: "Huh? ……"."
+
+# c1b1197c
+; チェーンに、フックがない？
+Isn't there a hook in the chain?
+
+# 8b33f409
+; me: 「は、外せない？」
+me: "Can't you take it off?"
+
+# 75939c4c
+; lilja: 「ワタクシが見てみましょう」
+lilja: "Let's see,"
+
+# 788bee38
+; リルヤは俺の後ろに回って、ネックレスのチェーンを確認した。
+Lilya turned behind me to check the Neckless chain.
+
+# 7100aee5
+; lilja: 「フックがないのね？……これ、どうやって？」
+lilja: "You don't have a hook? …… How do you do this?"
+
+# cff4f660
+; me: 「じ、自分もさっぱり。いつのまにかつけてたし……」
+me: "Well, I don't have any.I put it on before I knew it ……"
+
+# a2dac68e
+; lilja: 「アナタのものじゃないって事かしら？」
+lilja: "Do you mean it's not Anata's?"
+
+# b5bca596
+; me: 「そうだよ。何で俺はこんなの……」
+me: "Yes, why is me like this?"
+
+# 6c30225
+; lilja: 「……いつから？」
+lilja: "Since when ……?"
+
+# 22ab05f1
+; me: 「いつからって、俺も知らないんだけど……」
+me: "I don't know me since when, ……."
+
+# ad608510
+; 俺は少し考えた。
+I thought a little.
+
+# 7a1512dd
+; me: 「ああ、もしや……」
+me: "Oh, by any chance ……,"
+
+# 6734aa25
+; lilja: 「……？」
+lilja: "……？"
+
+# a95a1eb3
+; me: 「昨日の夜、なにかあったのかな」
+me: "What happened last night?"
+
+# 3db76bca
+; lilja: 「……昨日の夜？」
+lilja: "…… "Last night?"
+
+# ddee695a
+; me: 「ちょっと不思議な出来事があってね」
+me: "There's something strange going on,"
+
+# a4ed9aad
+; lilja: 「……どんな？」
+lilja: "What kind of ……"
+
+# 8b56e78e
+; me: 「いや、こういうの、話しても信じないと思うんだけど……」
+me: "No, I don't think you'll believe this. ……"."
+
+# 22254d78
+; lilja: 「……話して」
+lilja: "Tell me ……."
+
+# 6a907ec6
+; me: 「あ、ああ。うん」
+me: "Oh, yes, yes."
+
+# 3c8d94da
+; 真剣な顔でリルヤにそうお願いされて、
+Lilya asked me to do that with a serious face.
+
+# d54a6e7f
+; 恥ずかしながら俺は、昨日の出来事を話してあげた。
+I am ashamed to say that me told me about yesterday's incident.

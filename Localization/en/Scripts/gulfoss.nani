@@ -1,0 +1,205 @@
+; Japanese <ja> to English <en> localization document for `gulfoss` naninovel script
+
+# 964357b8
+; 大地に振動する滝の音。
+the sound of waterfalls vibrating on the earth.
+
+# bd31bfc1
+; 舞い上がる水しぶきが見えてきた。
+I saw a splash of water.
+
+# 804ac6db
+; me: 「こ、この水の圧力は……」
+me: "The pressure of this water is ……."
+
+# 932cbd1
+; 遠くからではよくわからなかったけど、こんなデカイ滝があったとは……
+I didn't know from a distance, but I didn't know there was such a big waterfall ……
+
+# 4cff7b0f
+; 幅広い峡谷の底に大量の水が呑まれてる。
+A large amount of water is swallowed at the bottom of a wide canyon.
+
+# 922abdbe
+; 川が途切れて、地下へと消えて行くかのような風景だった。
+The scenery was as if the river had been cut off and disappeared underground.
+
+# 5894d40c
+; 水しぶきが激しく、底の様子は見えない。
+There was a heavy splash and no sign of the bottom.
+
+# a11c0936
+;  <ruby="グトルフォス"> Gullfoss</ruby>。
+<ruby=" Gullfoss">Gullfoss</ruby>.
+
+# 549cc641
+; ゴールデン・サークルの一つ。アイスランドで最も人気のある観光名所の1つ。
+One of the Golden Circle.one of Iceland's most popular tourist attractions.
+
+# b68a993a
+;  <ruby="Gullfoss"> グトルフォスは</ruby>、『黄金の滝』という意味を持つ。
+<ruby="Gullfoss"> Gullfoss means </ruby>, 『 Golden Falls 』.
+
+# 1a0121f2
+; 夏の晴天時に、滝が黄金に光り輝くことから名付けられた。
+It is named for its golden glow of waterfalls in clear summer weather.
+
+# 2de92fb1
+; 夕焼けの光に反射され虹が出る時には、その黄金の輝きがさらに目立つという。
+It is said that the golden glow stands out even more when a rainbow appears reflected by the sunset light.
+
+# ea15c6b5
+; 川の起源はここから遠くに見える、ラングヨークトルという氷河だ。
+The origin of the river is a glacier called Lang Yorktor, which is far from here.
+
+# aa6f6e0c
+; 川の色のベースは、氷河の色と同じエメラルドブルーなんだけど、
+The base of the color of the river is emerald blue, the same as the color of the glacier;
+
+# b85fef29
+; 氷河が溶けた水が、時に数百年ものの堆積物と一緒に流れ落ち、
+Water from melting glaciers sometimes flows down with hundreds of years of sediment.
+
+# 848c0da8
+; この黄金みたいな不思議な水の色を形成するという。
+It is said to form this mysterious color of water like gold.
+
+# 3b8f1a07
+; この滝、実は百年前になくなるかも知れなかったけど、
+This waterfall might have disappeared a hundred years ago.
+
+# 84c08d4e
+; 今はこのように健在だ。
+He is alive and well now.
+
+# 20f0a621
+; 20世紀初頭。
+the beginning of the 20th century.
+
+# ccbbd0bc
+; イギリスの企業がこの滝一帯に水力発電所の建設を計画した。
+A British company planned to build a hydroelectric power plant around the waterfall.
+
+# da2dec8a
+; しかし、シグリットという少女がこの工事に反対し、
+However, a girl named Sigridur objected to the project.
+
+# 33ed6279
+; レイキャビックまで裸足で歩いて行って、政府に反対の声を上げた。
+He walked barefoot to Ray Cabic and shouted against the government.
+
+# f1b8f792
+; ダムが設置されたら、滝壺に自らの身を投じようと言いながら。
+When the dam was set up, he said he would throw himself into the waterfall pot.
+
+# ba833ea1
+; やがて工事は中止されて、
+Eventually, the construction was stopped.
+
+# c45c816c
+; グトルフォスは今のような自然のままの姿で保存されたと。
+Gullfoss was preserved as it is now.
+
+# aabb2a56
+; 滝壺の横には彼女の銅像が建てられ、今も滝を見守っている。
+A statue of her was built next to the waterfall, and she is still watching the waterfall.
+
+# b49392fd
+; sigridur: 「あら、客さんかしら」
+sigridur: "Oh, I wonder if you are a guest,"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 98acd4c5
+; 銅像の後ろから、一人の女性が出てきた。
+Behind the statue came a Woman.
+
+# 41494b20
+; アイスランド人みたいだ。
+You look like an Icelandic.
+
+# 8c0bb529
+; sigridur: 「こんにちは、遠い国からの訪問客様。どうですか？グトルフォスは」
+sigridur: "Hello, visitors from far away countries. What do you think?"Gullfoss `"
+
+# 469a2155
+; me: 「ああ、とても美しいです。なんともいえない雄大な滝で、つい見惚れてしましました」
+me: "Oh, it's very beautiful.It was an indescribably magnificent waterfall, and I fell in love with it."
+
+# fd6f5eab
+; sigridur: 「ふふふ、そうでしょう？アイスランドの誇りの一つよ」
+sigridur: "Well, isn't it?It's one of Iceland's pride."
+
+# fbe804d1
+; me: 「ええ。本当に、納得です」
+me: "Yes, I really agree."
+
+# 979c03af
+; sigridur: 「ところであなた、フルドゥフォルクとの関わりがあるんだね？」
+sigridur: "By the way, do you have anything to do with Huldufolk?"
+
+# 8d20c16f
+; me: 「フルドゥフォルク……」
+me: "The Huldufolk……,"
+
+# 41615de4
+; それは隠れた人々って意味の、エルフやトロールみたいなアイスランドの妖精の事。
+It means hidden people, Icelandic fairies like Elf and Troll.
+
+# 45b786ff
+; ……そしてユールちゃんの事、かもしれない。
+…… And maybe Yule.
+
+# 61a27930
+; me: 「そう、かもしれません」
+me: "Yes, maybe,"
+
+# f5127535
+; sigridur: 「やっぱりね。あなたとはまたいつか、トゥーレで見える事になるかも知れないわ」
+sigridur: "Sure enough, I may see you again in Thule one day."
+
+# 80e25277
+; me: 「トゥーレって、どこの……えっ！？」
+me: "Which …… is Thule?"
+
+# e8cf54dd
+; 彼女の話の意味が何なのか尋ねようとしたけど、いきなり彼女は居なくなってしまった。
+I tried to ask her what she meant, but suddenly she disappeared.
+
+# db08473a
+; どこに行ったのだろう。
+Where did he go?
+
+# bcfef75f
+; me: 「あ」
+me: "Ah,"
+
+# f2494ea7
+; 駐車場に戻る途中、ふと思い出した。
+On my way back to the parking lot, I suddenly remembered.
+
+# 7869548d
+; me: 「もしかして……」
+me: "Maybe ……,"
+
+# 75ce4432
+; ぞっとした。
+I shuddered.
+
+# 1c445257
+; なぜ、先はシグリットという名前に気づかなかったのだろう。
+Why didn't he notice the name Sigridur before?
+
+# 79e03320
+; 俺は、幽霊とお喋りをしてきたのだな。
+I had a chat with Ghost.
+
+# f246e5cf
+; でも、そんなに恐ろしいとか、怖い気分ではなかった。
+But I didn't feel so frightened or scared.
+
+# 558155d2
+; むしろ、少し暖かな気持ちになって、先へ進む事ができそうだ。
+Rather, I feel a little warm and I can move on.

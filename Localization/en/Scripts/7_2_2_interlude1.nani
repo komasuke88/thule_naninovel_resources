@@ -1,0 +1,345 @@
+; Japanese <ja> to English <en> localization document for `7_2_2_interlude1` naninovel script
+
+# 58468366
+; yule: 「……{playerName}、どうか……」
+yule: "Please ……{playerName},"
+
+# ca1b96d3
+; 気を失った{playerName}を抱いて、アタシはずっと魔力を注いでいます。
+Holding {playerName} unconscious, Atashi keeps pouring Magical Power.
+
+# 37887ac3
+; 治癒の魔法。
+The magic of healing.
+
+# e5e0f702
+; {playerName}を狂死から守るために。
+to protect {playerName} from madness.
+
+# 5aed70e
+; 一瞬でも魔力を止めたら、{playerName}は消えてしまう。
+If you stop Magical Power for a second, {playerName} disappears.
+
+# e8f3fe46
+; yule: 「早く……」
+yule: "Hurry up and ……"."
+
+# 464fbebe
+; アークティック・ヘンジの周りには、雪が溶けていました。
+Snow was melting around the Arctic henge.
+
+# 7d669e9f
+; 中央部に集まっていた化け物たちとヒルドルの姿は、もう見えません。
+I can no longer see Monster and Hildur gathered in the center.
+
+# 6bd61f1b
+; 代わりに、そこには姉妹たちが集まっていました。
+Instead, the sisters gathered there.
+
+# 7be47c6a
+; byu: 「スヴォル！無事だったんだね！よかった！」
+byu: " Thuvor! You're safe! I'm glad!"
+
+# 4458bda2
+; suteki: 「何があったの？詠唱の最後に、歌が途切れてたんだけど」
+suteki: "What happened?"The song was cut off at the end of the chant."
+
+# 8f817896
+; keruta: 「スヴォルが抱えてるの、{playerName}じゃないですか！？」
+keruta: "Isn't it {playerName} that Thuvor is holding?"
+
+# f2594ce2
+; suteki: 「うっ……」
+suteki: "Ugh ……,"
+
+# 66b532c9
+; byu: 「あ、本当だ。[i][char byu.awawa]……って」
+byu: "Oh, that's true. [i] [char byu.awawa] ……"."
+
+# 2b75af6a
+; suteki: 「こ、この人、大丈夫なの？」
+suteki: "Is he all right?"
+
+# 811eaeff
+; byu: 「気を失ってるし、すごい異臭までする。{playerName}、どうしたの？」
+byu: "I'm faint, and it smells really strange. {playerName}, what's the matter?"
+
+# f2d1b00b
+; yule: 「そ、それが……」
+yule: "Well, that's ……,"
+
+# fd06b4c0
+; アタシは先までの事を、姉妹たちに相談しました。
+Atashi consulted with his sisters about what had happened so far.
+
+# 2aa86419
+; byu: 「そ、そんな事が……」
+byu: "Oh, that's ……,"
+
+# ea2d02bd
+; keruta: 「ど、どうしましょう。早速みんなで治療を……」
+keruta: "Well, what shall I do?We all …… treatment at once."
+
+# c198300
+; suteki: 「しかしこの邪気……[i]姉妹たち全員でかかっても、完全に治せるかどうかわからないわね」
+suteki: "But I don't know if all of these Evil Force……[i] sisters can cure it completely."
+
+# e1c847bc
+; glugga: 「う、うん。それに今は、[i]み、みんなで治療に取り掛かる余裕なんて、あまり……」
+glugga: "Uh-huh. And now, [i] but it's not very …… that we can afford to start treatment together."
+
+# b5c50735
+; yule: 「え……」
+yule: "What ……,"
+
+# f8ea0ad9
+; skiru: 「そそ。アタイたちも超やばくねー？」
+skiru: "Say. Atai and others are super busy, aren't they?"
+
+# 79301308
+; fishman: 「ギギギギギギギギギギギギギギギギギギギギギギギギ」
+fishman: "Giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling."
+
+# fc0b202f
+; 魔法陣の周りに、化け物たちが集まってきました。
+Around The Magic Circle, Monster gathered.
+
+# 4a8c40ff
+; yule: 「あ、こいつら……なんでまだ？」
+yule: "Why haven't they …… yet?"
+
+# 44852cb0
+; glugga: 「そ、その……え、詠唱、中途半端で終わったから……」
+glugga: "Oh, ……, the chanting ended half-heartedly, so ……."
+
+# 87e0f1a8
+; suteki: 「世界滅亡の魔法を止めるのには成功したけど、[i]手先たちまで消滅させるのは失敗したわ」
+suteki: "I succeeded in stopping the magic of the destruction of the world, but [i] I failed to extinguish even my hands."
+
+# a7fc421c
+; glugga: 「ま、魔法陣も、半分くらいしか、破壊できてないよぉ」
+glugga: "Well, I've only destroyed half of The Magic Circle,"
+
+# 4b3495b7
+; keruta: 「だから他の姉妹たちは、あちこちで戦ってます。[i]ぼくたちは中央部を守るためにここに居ます」
+keruta: "So the other sisters are fighting here and there.[i]We are here to protect the central part."
+
+# b5c100f2
+; yule: 「あ、なるほど。[i]みんな見えないと思ったら、こいつらと戦ってたんですね」
+yule: "Oh, I see. [i] You were fighting against them when you thought they couldn't see you."
+
+# a3e8edf
+; 他の１３姉妹たちが、あちこちで戦ってる姿が見えました。
+I saw 13 other sisters fighting here and there.
+
+# 429de921
+; byu: 「うん。あれも……」
+byu: "Yes, that's ……, too."
+
+# da51d402
+; hildur: 「…………」
+hildur: "…………"
+
+# 6b8d171e
+; 遠くで、化け物たちの真ん中に立ってるニセヒルドルが見えました。
+In the distance, I saw the fake Hildur standing in the middle of the Monsters.
+
+# d8c30e9c
+; yule: 「まだ居たんだ。あいつも」
+yule: "He was still there.He, too."
+
+# 488939ff
+; byu: 「こんな魔法陣でも、奪い返したいみたいだよね」
+byu: "Even if it's The Magic Circle like this, you want to take it back."
+
+# 98a18f39
+; suteki: 「半端な魔法陣だから、もう世界滅亡までは起こせないんでしょうけど……」
+suteki: "It's a half-hearted The Magic Circle, so I guess I can't bring the world to ruin anymore ……."
+
+# f4ff4014
+; keruta: 「まだアイスランドの氷河くらいは消滅できる魔力が残ってます故」
+keruta: "Because there are still Magical Powers that can disappear at least Icelandic glaciers."
+
+# f011e928
+; glugga: 「そ、そうだよ。こんな状態でも、トゥーレは危なくなる、かな」
+glugga: "Yes, sir.Even in this situation, Thule would be in danger."
+
+# 742f6f6e
+; skiru: 「だからこいつら、皆殺しっしょ」
+skiru: "So let's kill them all,"
+
+# 7a882780
+; suteki: 「ええ。魔法陣を守りながら、奴らを全員、倒さないといけないわ」
+suteki: "Yes. We must defeat them all while protecting The Magic Circle."
+
+# 3aadab3
+; glugga: 「え、ええっと。ちょっと厳しい、かな。[i]それに、時間も……」
+glugga: "Well, let me see.It's a bit harsh.[i]and time ……"
+
+# 77150a9
+; byu: 「うん。夜明けまで、だったね」
+byu: "Yes, until dawn."
+
+# 66017b79
+; keruta: 「はい。夜明けまでにはなんとか、全部排除しないと行けません」
+keruta: "Yes, we have to get rid of everything by dawn."
+
+# 1dc5ed6e
+; yule: 「あ……」
+yule: "Oh, ……,"
+
+# cf6dc422
+; そうでした。
+That's right.
+
+# 1323a312
+; アタシたちが活動できるのは、夜中だけです。
+Atashi can only do activities in the middle of the night.
+
+# 102d2d6b
+; ヨールの夜に巨大な魔力を行事できる代わりに、
+Instead of having a huge Magical Power on the night of Jol,
+
+# d89dc940
+; ２５日の朝には、とても魔力が弱くなります。
+On the morning of the 25th, my Magical Power will be very weak.
+
+# b280f25
+; それに、
+Besides,
+
+# b2e329e9
+; 今のアタシたちは、普段の魔力がとても弱ってるせいで、
+Today, Atsushi's Magical Power is so weak.
+
+# a9b13373
+; 朝には多分、魔力ゼロになると思います。
+I think it will probably be zero Magical Power in the morning.
+
+# ac1985c
+; 多分、安全装置も効かないんでしょう。
+Maybe the safety device doesn't work either.
+
+# b70f08b5
+; なので、夜明け前には、家に帰らないと行けません。
+So I have to go home before dawn.
+
+# fba23207
+; アタシは{playerName}の治療だけでも精一杯なのに、
+Atashi is doing his best just to treat {playerName}.
+
+# bdffc572
+; トゥーレ滅亡を防ぐためには、夜明けまで戦うしかありません。
+Thule The only way to prevent destruction is to fight till dawn.
+
+# c5f5ca13
+; ただでさえ戦力不足です。
+We are already short of military strength.
+
+# 7a94f331
+; アタシも加勢しなければ、トゥーレは……
+If Atashi doesn't join, …… Thule
+
+# 7baf1c19
+; しかし今魔力を止めると{playerName}は……
+But if you stop Magical Power now, {playerName} …….
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# 9db8d715
+; byu: 「スヴォルは治療を続けなよ。ボクたちが頑張ればいいから」
+byu: "Keep treating Thuvor.We can do our best."
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# 933dc6e0
+; keruta: 「はい。素早くこいつらを片付けて、みんなで治療を手伝いますよ」
+keruta: "Yes, I'll quickly clean these up and help them all get better."
+
+# 70d53d88
+; suteki: 「ええ。早くやればいいだけの事だわ」
+suteki: "Yes. All you have to do is do it quickly."
+
+# e7b041fc
+; yule: 「…… <ruby="ありがとうございます"> Takk</ruby>」
+yule: "……<ruby="Thank you">Takk</ruby>"
+
+# 7e53192c
+; そう言った途端、姉妹たちは動き始めました。
+As soon as they said so, the sisters began to move.
+
+# e1f3e9e
+; 中央部の守りを固めて、前線に出ようとしてるみたいです。
+It seems that they are trying to strengthen the defense of the central part and go to the front line.
+
+# c500ac4
+; yule: 「みんな、ありがとうございます。[i][char yule.emi]やっぱり家族はいいものです。[i][char yule.l-nayami]さて、アタシは……」
+yule: "Thank you, ladies and gentlemen.[i][char yule.emi] Family is a good thing.[i][char yule.l-nayami] Now, Atsushi ……."
+
+# 359cc0b
+; 姉妹たちの気遣いで、
+Thanks to the consideration of the sisters,
+
+# ccf9fb74
+; アタシは戦わず、{playerName}の治療に取り込む事ができそうです。
+Atashi doesn't fight and seems to be able to be incorporated into the treatment of {playerName}.
+
+# 9711fde1
+; yule: 「といっても……」
+yule: "But ……,"
+
+# 6271da2e
+; 治療、と言っても……
+treatment, but ……
+
+# c488a825
+; 今のアタシがやってるのは、現状維持だけです。
+The only thing Atashi is doing right now is to maintain the status quo.
+
+# f89115d1
+; {playerName}は生命維持装置をつけてるみたいなもんです。
+{playerName} is like putting on a life support system.
+
+# 3e6e29d
+; 本当の意味の治療は、できてません。
+I haven't been able to treat it in a real sense.
+
+# cb3c1cf6
+; 姉妹たちを信じて、
+I believe in my sisters.
+
+# 5b39d6c2
+; 夜明け前に、早く戦いが終わる事だけを祈るだけです。
+I only pray that the battle will end before dawn.
+
+# 22bd4e3c
+; yule: 「……でも、{playerName}が先に死ぬ可能性も……」
+yule: "But the possibility that {playerName} will die first is ……."
+
+# 694fc646
+; ……姉妹たちの戦いが終わる前に、{playerName}が狂死してしまうかも知れません。
+…… Before the battle between the sisters is over, {playerName} may die of madness.
+
+# 2236d072
+; {playerName}は今、邪気に侵略された夢の世界でいます。
+{playerName} is now in a dream world invaded by Evil Force.
+
+# de015757
+; 一瞬でも、自分を見失ったら狂死する世界。
+If you lose yourself even for a moment, you'll die mad.
+
+# c62056af
+; そうなったら元も子もありません。
+If that happens, there will be no money.
+
+# c9b9a6af
+; どうか強い心を持って、耐え切るように。
+Please bear it with a strong heart.
+
+# 5de302fb
+; yule: 「アタシの旦那様、どうか頑張って……」
+yule: "Atashi's husband, please do your best ……"

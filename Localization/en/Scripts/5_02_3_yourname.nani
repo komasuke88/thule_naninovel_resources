@@ -1,0 +1,381 @@
+; Japanese <ja> to English <en> localization document for `5_02_3_yourname` naninovel script
+
+# b6052612
+; girl: 「あなたは{playerName}です」
+girl: "You are {playerName},"
+
+# adf67dda
+; 「ええええ？」
+"What?"
+
+# c76308e7
+; girl: 「だって、いかにも{playerName}って顔してますもの」
+girl: "`for he looks {playerName},'"
+
+# f6b6a763
+; me: 「ど、どういう事？」
+me: "What do you mean?"
+
+# f120b8e7
+; girl: 「ニックネームです。本当の名前は知りません」
+girl: "It's a nickname.I don't know the real name."
+
+# 8e2a84a2
+; me: 「な、なんだ。適当に言ったのか」
+me: "What? Did you just say that?"
+
+# 45c97fb2
+; girl: 「……まぁ、でもピッタリだとは思いませんか？」
+girl: "…… "Well, but don't you think it fits perfectly?"
+
+# 3ef98363
+; me: 「そう聞くと、なんだか{playerName}って気がしてきたな」
+me: "Now that I hear that, I feel {playerName},"
+
+# d0a7e5e
+; girl: 「でしょう？[i][char yule.default]あ、ちなみにアタシは『ユールちゃん』って呼んでください。[i][char yule.kum]『君』なんて他人行儀ですやめてください」
+girl: "Right? [i] [char yule.default] Oh, by the way, please call him 『Yule』.[i][char yule.kum] 『, 』, don't do that."
+
+# e9b4d1ff
+; me: 「ああ、うん。ユールちゃんね。わかった。[i]とりあえず俺は、{playerName}でいい」
+me: "Oh, yes, Yule.OK. [i] For me, {playerName} is fine."
+
+# f906f624
+; yule: 「はい。よろしくです。[i][char yule.l-kusu]お互い、お馴染みのあだ名で、くすくす」
+yule: "Nice to meet you.[i][char yule.l-kusu] It's a familiar nickname, giggle."
+
+# bebe055c
+; とりあえず適当につけられた{playerName}って名前を使う事にした。
+For the time being, I decided to use the name {playerName}, which was given randomly.
+
+# 6f82160b
+; yule: 「それにしてもユールちゃんとは……[i]とっさに言い出したあだ名だけど、我ながら可愛いですね。[i][char yule.yoko_b_close_hehe]うん。[i]スヴォルとかあまり可愛くないから。[i][char yule.l-nayami-w2]うん。[i]これからはずっと、このキャラで行きましょう」
+yule: "Even so, Yule is ……[i] It's an instant nickname, but I think it's cute.[i][char yule.yoko_b_close_hehe] Yes.[i]Thuvor It's not that cute.[i][char yule.l-nayami-w2] Yes.[i]Let's continue to use this character from now on."
+
+# 8939a76c
+; ユールちゃんが何かぶつぶつ言ってたけど、大して意味はなさそうだった。
+Yule muttered something, but it didn't seem to mean much.
+
+# ff8c7371
+; me: 「{playerName}、ね」
+me: " {playerName}, you know,"
+
+# 46213c2d
+; yule: 「はい、{playerName}」
+yule: "Yes, {playerName},"
+
+# f04da6a7
+; 悪くない呼び名だけど、本当の名前ではない。
+It's not a bad name, but it's not a real name.
+
+# 3089a47c
+; 俺の本当の名前は、何だ？
+What's the real name of me?
+
+# f3c83695
+; 何も、思い出せない。
+I can't remember anything.
+
+# ef0ce303
+; me: 「いったい、俺は誰なんだ」
+me: "Who on earth is me?"
+
+# 8db515ec
+; yule: 「これは記憶消失、ですね。
+yule: "This is a loss of memory."
+
+# 4ba3850b
+; yule: やっぱり……あいつらの……？」
+yule: "…… Their ……, after all?"
+
+# 2c2c0ad7
+; 一般知識はあるのに、自分の事は何もわからない。
+I have general knowledge, but I don't know anything about myself.
+
+# 66d0d201
+; 自分の事を思い出そうとしてると、頭がぼーっとする。
+When I try to remember myself, I feel dizzy.
+
+# aa455704
+; いくら考えても、どうにもならない。
+No matter how much I think about it, there is nothing I can do about it.
+
+# 1be12036
+; me: 「誰か教えて欲しい」
+me: "I want someone to tell me."
+
+# b7580c84
+; 今の俺には、自分の事を知るための手がかりが全くない。
+I now has no clue to know her.
+
+# 1e0e82f5
+; もし、誰か俺の事を知ってる人があるなら……。
+If anyone knows about me, …….
+
+# 28a0aa9c
+; あ
+Ah
+
+# 32775b7f
+; me: 「そうだ。ユールちゃん！」
+me: "Yes, Yule!"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 29b1bd8f
+; me: 「ここで他の人は見なかったか？」
+me: "Have you seen anyone else here?"
+
+# 5e9ac1a5
+; yule: 「他の人、とは？」
+yule: "Who else?"
+
+# 41217863
+; me: 「俺は一人で飛行機に乗っていたわけではないはずだ」
+me: "I'm sure me wasn't alone on the plane."
+
+# a3cc420
+; 俺の事を知ってる人がいるかもしれない。
+I There may be people who know about
+
+# cf6a6d0f
+; yule: 「えっと」
+yule: "Well,"
+
+# afba423a
+; そう言って、俺は周りを見た。
+Then me looked around.
+
+# 31a6e4c6
+; ここが、その飛行機の残骸の前だから…
+This is in front of the wreckage of the plane.
+
+# 8e2b42cb
+; だけどやっぱり誰もいなかった。
+But there was no one.
+
+# 46c6c056
+; me: 「俺以外の乗客はどこに」
+me: "Where are the passengers other than me?"
+
+# 27f13bc7
+; yule: 「あの……一つ誤解をしていらっしゃるようで、[i][br]この飛行機の残骸について、ユールちゃんが知ってる事を教えますね」
+yule: "You seem to misunderstand one thing ……. [i] [br] I'll tell you what Yule knows about the wreckage of this plane."
+
+# 1a97c4d3
+; me: 「えっ？何か知ってる？」
+me: "What? Do you know what it is?"
+
+# f756a367
+; yule: 「この飛行機は、{playerName}が乗ってた飛行機ではないですよ」
+yule: "This is not the plane that {playerName} was on."
+
+# dfc2f4f7
+; me: 「それはどういう……」
+me: "What …… is that?"
+
+# b7693b9d
+; 1973年11月21日。
+November 21, 1973.
+
+# d2cded6c
+; 北大西洋を飛行中だったアメリカ軍用飛行機ダグラスDC-3に、[br]原因不明の故障が発生。
+A Douglas DC-3 U.S. military aircraft flying across the North Atlantic has failed [br] for unknown reasons.
+
+# e01aac96
+; 近くにあったこのアイスランド南海岸の黒い砂漠に不時着した。
+I made an emergency landing in the black desert on the south coast of Iceland.
+
+# f076ccce
+; 幸いに乗ってた人は全員生き残れたらしいが、
+Fortunately, all the people on board survived.
+
+# 27fa6251
+; 飛行機は修理不可能で、こんなになった。
+The plane couldn't be repaired, so it turned out like this.
+
+# 25107178
+; だけど何故か、アイスランド政府はそれを撤去せず放置。
+However, for some reason, the Icelandic government did not remove it and left it unattended.
+
+# dbbd13cf
+; 飛行機の残骸はこのままずっとここに残されたという。
+The wreckage of the plane was reportedly left here forever.
+
+# 496eb0c7
+; だからこの飛行機は、昔からここにあったモノで、[i]俺が乗ってたモノではない。
+So this plane has been here for a long time, not [i] me on board.
+
+# 3d8bf00
+; つまり、俺は墜落事故になどあってない。
+In other words, me was not involved in a crash.
+
+# 37b04d22
+; yule: 「ちなみに今日はあなた方の日付でいうと２０２５年の１２月１５日。このユールちゃんが人里へ下りる日です。くすくす」
+yule: "By the way, today is December 15th, 2025, the day this Yule descends into the village. giggle."
+
+# 43a799e5
+; me: 「それじゃ、俺が墜落事故にあったってのは、俺の思い込みなだけ？」
+me: "Then, is it only me's assumption that me was in the crash?"
+
+# e47edfb1
+; yule: 「そうですよ」
+yule: "Yes,"
+
+# 64025065
+; 確かに。
+surely。
+
+# e7e96609
+; 記憶が曖昧だから、状況から見てそう判断してた。
+I had a vague memory, so I judged it based on the situation.
+
+# f4c9e4d6
+; それは認める。しかし……
+I agree, but ……
+
+# 50fb0554
+; me: 「でも俺には、飛行機に乗った時の記憶が確かにあるけど」
+me: "But I remember me when I was on a plane."
+
+# 83fe8c74
+; 大体の記憶は失われたけど、それだけは覚えてる。[br]俺は確かに飛行機に乗ってた。
+I've lost most of my memory, but that's all I remember.[br]me was certainly on the plane.
+
+# bd07ab1d
+; yule: 「それは多分、{playerName}がこのアイスランドに来た時の記憶が、微かに残ってるせいですね」
+yule: "It's probably because {playerName}'s memory of coming to Iceland is dim."
+
+# 48e7c205
+; me: 「……そうかな」
+me: "I suppose ……,"
+
+# 79ede990
+; この飛行機は、俺が乗ってたものではないが、
+This is not a plane with me on board.
+
+# bf683d34
+; 俺がどこか遠い国から、このアイスランドに来たのは間違いない。
+There is no doubt that me came to Iceland from somewhere far away.
+
+# a951d4df
+; しかし……そうなると、
+…… But then,
+
+# ccd37afd
+; ますますわからない。
+I don't know more and more.
+
+# 5c93b013
+; me: 「でも墜落事故ではなかったら、何でだ？」
+me: "But if it wasn't a crash, why?"
+
+# 3fe45911
+; me: 「何で俺はここで気を失って、記憶も失ってしまったんだ？」
+me: "Why did me faint here and lose her memory?"
+
+# c149d547
+; me: 「俺は誰だ？どこから来たんだ？」
+me: "Who is me? Where did she come from?"
+
+# 51906570
+; ますます混乱になっちゃって、
+It became more and more confusing.
+
+# e164d395
+; 色んな質問を、ユールちゃんにぶつけた。
+I asked Yule a lot of questions.
+
+# 21a66d23
+; ユールちゃんにわかるはずもないのに……
+Yule …… without someone's knowledge
+
+# e7285df
+; yule: 「…………知りたいんですか？」
+yule: "Do you want to know …………?"
+
+# f3ef429b
+; me: 「そりゃ、知りたいよ」
+me: "Well, I want to know,"
+
+# 4fde12b5
+; yule: 「……記憶、取り戻したいですか？」
+yule: "Do you want to get your …… memories back?"
+
+# 23b12aab
+; me: 「そりゃ、もちろんだよ。取り戻せるならな」
+me: "Of course.I wish I could get it back."
+
+# b706a53f
+; yule: 「……そうですか……なら」
+yule: "Yes, ……,"
+
+# d6f0a59b
+; me: 「何だ？」
+me: "What is it?"
+
+# 51513855
+; yule: 「ユールちゃんを信じて、ついて来れますか？」
+yule: "Can you trust Yule and follow her?"
+
+# c1ff029
+; me: 「はぁ？」
+me: "What?"
+
+# 6bc0d6c
+; ユールちゃんは、何かを知ってるような口ぶりだった。
+Yule spoke as if he knew something.
+
+# 98f6aaaf
+; 何だろ。
+What is it?
+
+# 9d345696
+; 気になって、何か聞こうと口を開いたその時、
+When I opened my mouth to ask something because I was curious.
+
+# b048d240
+; yule: 「Traustur sem tröll！」
+yule: "Trustur sem tr öll!"
+
+# a9c6c8d9
+; me: 「はあ？えっ？……うわっ！」
+me: "Huh? Huh? …… Wow!"
+
+# d68bc784
+; いきなりユールちゃんが俺に近づいて、手を掴んだ。
+Suddenly Yule approached me and grabbed her hand.
+
+# 4e7f7052
+; yule: 「行きましょう！[i]失くした{playerName}の記憶を、取り戻しに！」
+yule: "Let's go![i]To retrieve the memory of the lost {playerName}!"
+
+# 6d89feae
+; そのまま俺の手を引っ張って走り出した。
+Then he pulled me's hand and started running.
+
+# a59db2b5
+; me: 「ちょ、ちょっと！？」
+me: "Wait a minute!"
+
+# 31950315
+; 何もかもが唐突過ぎて、
+Everything was so sudden.
+
+# 140169b1
+; 何が何だかわからんかったけど、
+I didn't know what was going on.
+
+# 2a44afb
+; 繋いだ手の温もりがとても心地よくて、
+The warmth of my hands was very comfortable.
+
+# 87625238
+; 俺はそのまま流されるままに、
+I and let it flow.
+
+# 8f6878fb
+; ユールちゃんに引かれて、何もない広い荒野へと駆け出した。
+led by Yule into the open wilderness.

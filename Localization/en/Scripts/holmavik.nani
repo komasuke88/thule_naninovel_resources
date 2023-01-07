@@ -1,0 +1,121 @@
+; Japanese <ja> to English <en> localization document for `holmavik` naninovel script
+
+# 2c542002
+; アイスランドの北西の <ruby="ウェストフィヨルド"> Westfjords</ruby>、
+<ruby="Westfjords">Westfjords</ruby> northwest of Iceland,
+
+# fb10115b
+; その東部の海岸地域を、 <ruby="ストランディール"> Strandir</ruby>という。
+The eastern coastal area is called <ruby="strandir">Strandir</ruby>.
+
+# 55622e55
+; そのストランディールに、 <ruby="ホルマヴィク"> Hólmavík</ruby>という町がある。
+The Strandir has a Village called <ruby="formavik">H ólmav ík</ruby>.
+
+# d3b37170
+; この地域は昔から人の接近が難しかったため、孤立されていた。
+This area has long been isolated because it has been difficult for people to approach.
+
+# a99c82c8
+; 孤立されてたため、ここの人々は現代に至るまで神秘主義を保存してた。
+Because they were isolated, people here preserved mysticism to this day.
+
+# c653644a
+; フルドゥフォルク、人外、幽霊、魔法などの物語が、この町では語られてる。
+Stories such as Huldufolk, outsiders, Ghost and magic are told in this Village.
+
+# b3b2fdd4
+; また１７世紀には魔女と魔女狩りの中心地として知られてる。
+It is also known as the center of witch hunting in the 17th century.
+
+# 2dd8fd14
+; ここには魔法と歴史に関する２つの研究センターまである。
+There are even two research centers on magic and history.
+
+# a10ae061
+; アイスランド大学の神秘研究所、そして魔法博物館だ。
+The University of Iceland's Institute of Mystery and the Museum of Magic.
+
+# 2044c9
+; 魔法博物館、 <ruby="ストランダガルドル"> Strandagaldur</ruby>。
+The Magic Museum, <ruby="Strandagaldur">Strandagaldur</ruby>.
+
+# 54033f93
+; 英語ではThe Museum of Icelandic Sorcery and Witchcraftという。
+In English, it's called The Museum of Icelandic Sorry and Witchcraft.
+
+# 77ef0ad9
+; アイスランドのルーン魔術と魔女、魔術師などに関するものが展示されてる。
+Rune magic and witchcraft of Iceland, Magician, and so on are on display.
+
+# 5bd6b3de
+; お守りと魔道具の作り方が記述された魔法の教科書、 <ruby="グリモア"> Grimoire</ruby>。
+<ruby="Grimoire">Grimoire</ruby> is a magic textbook that describes how to make amulets and magic tools.
+
+# d402db7d
+; ４７のルーン魔術について描いてる魔導書の筆写本、 <ruby="ガルドラヴォク"> Galdrabók</ruby>。
+<ruby="Galdravok">Galdravok</ruby> is a copy of 47 Rune magic books.
+
+# 4588a008
+; 様々な魔道具の中も特に有名なのは、 <ruby="ナブロク"> Nábrók</ruby>というズボンだ。
+Among the various magic tools, the pants <ruby="Naburok">N ábr ók</ruby> are especially famous.
+
+# 44d42f0f
+; ネクロパンツとも呼ばれてるこのズボンは、人の皮で作られてる。
+These pants, also known as Nekuro panties, are made of human skin.
+
+# 5a77e71c
+; 亡者の下半身の皮膚を剥がせて作ったものだ。
+It was made by peeling off the skin of the dead person's lower body.
+
+# 46bde6dd
+; 着用者にはアイスランドの魔法でお金を稼がせてくれるという。
+The wearer is said to be able to make money through the magic of Iceland.
+
+# 3d8ea2e7
+; me: 「恐ろしい博物館だよな」
+me: "It's a terrible museum,"
+
+# 1184cba6
+; ここでは実際に、日常で活用できる簡単なルーン魔術を習う事ができるという。
+Here you can actually learn simple Rune magic that you can use in your daily life.
+
+# 5c76e2c2
+; 少し興味が出てきたんだけど、あいにく今は入場できないらしい。
+I'm getting a little interested, but unfortunately I can't enter now.
+
+# 3969535b
+; unknown: 「君、ちょっとまって」
+unknown: "Wait a minute, my dear,"
+
+# 2f0636b4
+; me: 「はい？？」
+me: "What?"
+
+# e9431835
+; 黒いフードをかぶった怪しげな女性が、魔法博物館から去ろうとした俺を呼び止めた。
+A suspicious Woman wearing a black hood stopped me, who was about to leave the Magic Museum.
+
+# 984a59a0
+; unknown: 「君から、フルドゥフォルクの魔力が漏れ出てる。[i]ここにも展示されてない、どこにも知られてない古い魔道具の気配がするが」
+unknown: "You are leaking Magical Power of Huldufolk.[i]There's a hint of an unknown old magic tool that's not on display here either."
+
+# afa37372
+; me: 「えっ？？」
+me: "What?"
+
+# c5984b41
+; unknown: 「ひょっとして何か持ってるのか？フルドゥフォルクの魔道具とかな」
+unknown: "Do you happen to have anything?"and the magic tools of Huldufolk."
+
+# 29ce63e2
+; me: 「……い、いいえ。そんな、俺はただの旅行者ですので！んじゃ！」
+me: "No, …….Well, me is just a tourist! Well!"
+
+# 1bea427
+; 心当たりはあったけど、なんだか怖くなった俺は、素早くその場から逃げてしまった。
+I knew it, but somehow I got scared and me quickly ran away.
+
+# c80011fa
+; unknown: 「……あれは、トロールの気配だった。なんで東洋の人間からそんなものが……」
+unknown: "It was a sign of Troll.Why is such a thing …… from the East?"

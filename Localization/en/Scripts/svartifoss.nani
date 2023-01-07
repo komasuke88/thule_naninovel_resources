@@ -1,0 +1,57 @@
+; Japanese <ja> to English <en> localization document for `svartifoss` naninovel script
+
+# a09529ab
+; me: 「向こうから、ヴァトナヨークトル氷河が見えるんだな」
+me: "You can see the Vatnajokull Glacier from over there,"
+
+# 8f16d86d
+; この地域で有名な柱状節理の滝を見に行く坂道。
+The slope to see the famous Pillar Setsuri Falls in this area.
+
+# aefd92d6
+; 隣から氷河が見えた。
+I saw a glacier from next door.
+
+# 681a1517
+; me: 「あと少しで、滝が見えてくるはずだが……」
+me: "You'll see the waterfall in a little while, ……."
+
+# 6d0e779a
+; me: 「おお、見えてきた」
+me: "Oh, I see it,"
+
+# 5bd23496
+;  <ruby="スヴァルティフォス"> Svartifoss</ruby>
+ <ruby="Svaltifoss">Svartifoss</ruby>
+
+# 23d4bdf3
+; 黒い滝という意味だ。
+It means a black waterfall.
+
+# 5aa22290
+; その名の通り、黒い玄武岩列に囲まれた滝だ。
+As the name suggests, it is a waterfall surrounded by black basalt rows.
+
+# 8cce5298
+; そこで流れ落ちる一筋の水柱が、まるで光のように目立つ。
+Then a stream of water stands out like a light.
+
+# 73511349
+; 自然に形成だれたけど、まるで誰かがわざと作ったみたいな形をしてる。
+It was formed naturally, but it looks like someone made it on purpose.
+
+# c6bfde29
+; アイスランドの数々の芸術作品が、この滝からインスピレーションを受けた。
+Iceland's works of art were inspired by the waterfall.
+
+# 874554de
+; レイキャヴィクの目印である <ruby="ハトルグリムスキルキャ"> Hallgrimskirkja</ruby>教会も、その一つだ。
+Reykjavik's landmark <ruby="Hattlegrim Skirka">Hallgrimskirkja</ruby> church is one of them.
+
+# 8db41647
+; me: 「結構な坂道を登って来たけど、歩いた甲斐はあったな」
+me: "I have climbed a good slope, but it was worth the walk."
+
+# c80302f6
+; 自然が作った芸術作品を数枚カメラに収めて、俺はまた坂道を下っていった。
+I went down the slope again, capturing several works of art created by nature on camera.

@@ -1,0 +1,425 @@
+; Japanese <ja> to English <en> localization document for `6_09_5_hildurborg` naninovel script
+
+# 46d533cb
+; ヒルドルの家は、海の近くにあった。
+Hildur's house was near the sea.
+
+# 4d3797f0
+; 同じく芝生の家だったけれど、
+It was also a lawn-house;
+
+# 7a9a08e8
+; なんだか少し、寂しい感じの家だった。
+It was kind of a lonely house.
+
+# 9aad55db
+; me: 「……女王なのに、しょぼい家に住んでるんだな」
+me: "She is Queen ……, but she lives in a shabby house."
+
+# 32745b36
+; hime: 「エルフの王族って、貧乏なのかな……」
+hime: "I wonder if the royals of Elf are poor ……."
+
+# 6cdbe204
+; ユールちゃんはてくてくと、ドアの前まで歩いた。
+Yule I walked briskly to the door.
+
+# 7fa07b13
+; yule: 「では、ヒルドルとあのエルフを連れてきますか」
+yule: "Then shall I bring Hildur and that Elf?"
+
+# e3f03200
+; ユールちゃんは、その家のドアをノックしながら叫んだ。
+Yule cried, knocking on the door of the house.
+
+# f17ea510
+; yule: 「こら、ヒルドル！出てこい！」
+yule: "Here, Hildur! Come out!"
+
+# 81ffe1b0
+; <s>　　　　　　　　　　</s>シーン。
+<s>          The </s> scene.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 63f7bc55
+; 何の反応もない。
+There is no response.
+
+# c3cbc3b2
+; yule: 「うむ」
+yule: "Yes,"
+
+# 64f74703
+; ドアを開けて、勝手に中へと入るユールちゃん。
+Yule open the door and enter without permission.
+
+# c37cac15
+; me: 「ちょ、ちょっと、勝手に入って大丈夫？」
+me: "Wait a minute, can I come in without permission?"
+
+# d53920b
+; hime: 「ユールちゃんってば、エルフ相手には強引だね」
+hime: "You've got Yule, you'"
+
+# 3ea899f
+; ……
+……
+
+# a9b96685
+; しばらく待っていたら、ユールちゃんが戻ってきた。
+I waited for a while before Yule came back.
+
+# 33723662
+; yule: 「誰も居ませんね」
+yule: "There's no one here,"
+
+# a15cdbba
+; hime: 「お留守なのかな？」
+hime: "Are you out?"
+
+# fe472d85
+; yule: 「おかしいですね。急いで来たのに、その間に二人で外出か」
+yule: "That's strange.You came in haste, and in the meantime you two are going out."
+
+# f377d354
+; me: 「またご先祖様のボケとか？」
+me: "Like your ancestors' blunder again?"
+
+# 8fe80a0
+; yule: 「いいえ。今回のご先祖様はボケてないです。間違いなく、少し前まではここにいました」
+yule: "No, the ancestors of this time are not dazed.I'm sure I was here a little while ago."
+
+# 18a6ccd4
+; hime: 「急いでどこかに出かけた？」
+hime: "Have you gone anywhere in a hurry?"
+
+# 540ae37d
+; yule: 「二人が接触したのは少し前だと聞きました。[i]そんなに早く出かけるはずがないと思うんですが……うーん。どうしましょう」
+yule: "I heard they came into contact a little while ago.[i]I don't think I can leave so early. …… Hmm. What shall I do?"
+
+# 14fa2614
+; そのとき、家の裏から物音がした。
+Then I heard a noise from the back of the house.
+
+# 2ac1c6b
+; me: 「だ、誰かいる？」
+me: "Is there anyone?"
+
+# d9d51d68
+; hime: 「ヒルドル？」
+hime: "Is it Hildur?"
+
+# 1662d955
+; yule: 「い、いいえ。人気なんてなかったはずですが？？」
+yule: "No, no. I don't think it was popular?"
+
+# afa30a32
+; そして、影から彼女が姿を現した。
+Then she emerged from the shadows.
+
+# 2e4df3e6
+; lilja: 「……」
+lilja: "……"
+
+# b890580e
+; me: 「リ、リルヤ？？」
+me: "Lee, Lilya???"
+
+# d568fc5
+; lilja: 「……えっ！？{playerName}？」
+lilja: "What!? {playerName}?"
+
+# 6177a305
+; 彼女はレイキャヴィクのホステルで出会った旅行者の一人。
+She was one of the travelers I met in hostel, Reykjavik.
+
+# 4edd91f5
+; エルフの故郷に帰るために旅をしてると聞いたが……
+Elf I heard you're traveling back to your hometown, ……
+
+# 82231b7b
+; lilja: 「……あ、あなた、どこから？[i]失踪したはず……警察が探して……」
+lilja: "…… Oh, honey, where are you from?[i]He must have disappeared …… The police searched for him and ……."
+
+# 7d0486b3
+; me: 「失踪？……そ、それは……」
+me: "Disappearance? ……, that's ……."
+
+# c91a9c6a
+; hime: 「お知り合い？」
+hime: "Do you know him?"
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# a0eac4a1
+; lilja: 「……彼女たちは……[i][char lilja.sad_huse_e]
+lilja: "…… They are ……[i][char lilja.sad_huse_e]
+
+# 1053cd34
+; lilja: あれ？」
+lilja: "What?"
+
+# 4402d800
+; me: 「？？」
+me: "？？"
+
+# c5cf8ec1
+; リルヤはまるで蜃気楼でも見たかのように、
+Lilya as if he had seen it in a mirage;
+
+# 3c94924f
+; 周りをギョロギョルと見渡した。
+I glanced around.
+
+# fb90a9fd
+; まるで、もう俺たちが見えないみたいだ……
+It's as if I can't see me anymore ……
+
+# 1a47ca98
+; me: 「……リルヤ？」
+me: "Is it ……Lilya?"
+
+# 710c47eb
+; lilja: 「……これは、幻？……エルフの魔法なのかしら」
+lilja: "…… "Is this a vision? Is it the magic of ……Elf?"
+
+# 94e6a2f
+; hime: 「どういうこと？……{playerName}の知り合いなのよね？」
+hime: "What do you mean, you know ……{playerName}?"
+
+# fce414f3
+; me: 「ああ、レイキャヴィクで出会った人で……[i]……そういえば彼女、エルフの末裔だとか言ってたけど、[i]本当にエルフだった？」
+me: "Oh, I met her in Reykjavik. ……[i] Come to think of it, she said she was a descendant of Elf. [i]Was it really Elf?"
+
+# f1d053d9
+; yule: 「いいえ。彼女からは何の魔力も感じないです。紛れもなく人間ですよ」
+yule: "No, I don't feel any Magical Power from her.He's definitely a human being."
+
+# dcd14120
+; me: 「……そ、そうか」
+me: "…… "Oh, I see,"
+
+# d99012a4
+; lilja: 「……エルフの町に来たのは正解だったの。魔法を感じるわ」
+lilja: "I was right to come to Village in ……Elf.I feel magic."
+
+# f289d2b
+; me: 「……うん？」
+me: "What ……?"
+
+# f78c965e
+; リルヤは独り言のような事を呟きながら、周りを見渡してた。
+Lilya looked round, muttering to himself,
+
+# ab0c0c21
+; hime: 「もう、わたしたちが見えないみたいね」
+hime: "`I guess you can't see us any more,'"
+
+# ea819736
+; me: 「変だな、ちょうど先まで確かに会話してたのに……」
+me: "Strange, we've been talking right up to now, ……."
+
+# c6cb5609
+; そういいながら俺は、リルヤに近づいた。
+As he spoke, me approached Lilya.
+
+# 2e4df3e6
+; lilja: 「……」
+lilja: "……"
+
+# 9bf5c648
+; 彼女に触れてみようとした。
+I tried to touch her.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 91c5b64f
+; me: 「……あ」
+me: " …… Ah,"
+
+# 9b3a7ea2
+; すり抜けた。
+I slipped through.
+
+# 968ae808
+; ヒメに最初に触れようとしたときのように。
+Hime Just like when you first tried to touch .
+
+# ea659f3
+; hime: 「彼女も、幽霊？」
+hime: "Is she Ghost, too?"
+
+# 7cea197e
+; yule: 「……いいえ。彼女はトゥーレに迷い込んだ人間です。[i]これが、あの現象です」
+yule: "…… No, she's a lost person in Thule.[i]This is the phenomenon."
+
+# 8fad249e
+; me: 「あの現象って……あ」
+me: "`That phenomenon ……,'"
+
+# 3413aab4
+; そうしてる間に、リルヤは突然と、見えなくなっていた。
+Meanwhile, Lilya was suddenly out of sight.
+
+# ea97a8ea
+; hime: 「あ、消えた」
+hime: "Oh, it's gone"."
+
+# 2a8ce454
+; me: 「そうか……これが、この前言ってた……」
+me: "Well, …… This is the …… I mentioned last time."
+
+# ac4be2a
+; <s>　　　　</s>人間が突然とトゥーレに現れては、消える。
+<s>    </s>A human suddenly appears in Thule and disappears.
+
+# d0edc43a
+; yule: 「サムスティラの異常現象。こうしてまた目の前で遭遇するなんて」
+yule: "Abnormal symptoms of Samstilla.I can't believe I've encountered it before my eyes again."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# a35759cf
+; リルヤは一瞬だけトゥーレに来て、また人間世界へ戻ったのか。
+Did Lilya come to Thule for a moment and return to the human world?
+
+# f8f63ba2
+; あれだけ故郷を探してたのに、一瞬だけ願いが叶ったかな。
+I've been looking for my hometown, but I wonder if my wish came true for a moment.
+
+# 8a94824f
+; そのとき、
+At that time,
+
+# f289d2b
+; me: 「……うん？」
+me: "What ……?"
+
+# 84e9437e
+; また物音がした。
+I heard another noise.
+
+# e2111a5f
+; 今回は、目の前の家の中からだ。
+This time, it was from inside the house right in front of me.
+
+# e28af151
+; やがてそのドアが開かれて……
+Then the door opened and ……
+
+# c7ffa03f
+; unknown: 「あら、あなたたちはぁ……？」
+unknown: "Oh, are you ……?"
+
+# 72b22253
+; yule: 「えっ？ヒルドル！？」
+yule: "What? Hildur!"
+
+# 93420f78
+; hildur: 「スヴォルスレイキルさんと、お友達さん？」
+hildur: "Mr. Thvorusleikir and your friends?"
+
+# ab272bb5
+; me: 「あ、あれ？」
+me: "Oh, that one?"
+
+# 93c4d55c
+; hime: 「ええっ？ヒルドルさん？つい先まで誰もいなかったのに？」
+hime: "What, Mr. Hildur?"There was no one there until just now?"
+
+# fb3d0b3f
+; me: 「あ、あなたが、エルフの女王？」
+me: "Oh, are you the Queen of Elf?"
+
+# c08f7042
+; hildur: 「そうよ？」
+hildur: "Yes?"
+
+# 17415e08
+; hime: 「あれ？でも……体、大きいね。人間と同じサイズじゃない？」
+hime: "Huh? But your …… body is big.Isn't it the same size as a human being?"
+
+# 348c9771
+; yule: 「あ、ヒルドルはハイエルフなので、普通のエルフとは色々違うところがありますよ」
+yule: "Oh, Hildur is a high Elf, so there are many differences from ordinary Elf."
+
+# fc82efb9
+; me: 「ハイエルフ？」
+me: "Hi Elf?"
+
+# 1f0fb4e0
+; yule: 「ま、そんな事は今はどうでもよくてですね。[i][char yule.yoko_anrgy_a_dot]ヒルドル？」
+yule: "Well, I don't care about that now.[i][char yule.yoko_anrgy_a_dot] Hildur?"
+
+# b2e6839e
+; hildur: 「ええ？どうしたの？」
+hildur: "What? What's the matter?"
+
+# 43de29d7
+; yule: 「アンタ、どこから湧いてきたのよ？」
+yule: "Where did you come from, Anta?"
+
+# a6d43114
+; hildur: 「どこからって、家からだわぁ。ここ、妾の家だものぉ」
+hildur: "From where, from home.This is my concubine's house."
+
+# c2b46b36
+; yule: 「アンタ、つい先まで留守だったじゃない？」
+yule: "Anta, you weren't at home until just now, were you?"
+
+# 1beaf6a1
+; hildur: 「何を仰ってるのかしらぁ。妾はずっと家の中にいたけどぉ？」
+hildur: "What are you talking about?The concubine has been in the house all the time,"
+
+# ec0d2ac6
+; me: 「いや、それは変だ。先まで、この家には誰もいなかったんだよ」
+me: "No, that's strange.There was no one in this house until now."
+
+# e2aa0468
+; yule: 「はい。ユールちゃんが中に入って確認しましたよ、たしかに」
+yule: "Yes, Yule went in and checked, I'm sure."
+
+# b093eabe
+; hildur: 「家の中に。妾が居なかったぁ？」
+hildur: "In the house. You didn't have a concubine?"
+
+# 55cbde3f
+; yule: 「そ、そうですよ！」
+yule: "Yes, indeed!"
+
+# 9130d8e8
+; hildur: 「妾はどこにも行ってないのに、なのに居なかったと……」
+hildur: "My concubine hasn't gone anywhere, but she wasn't there ……"
+
+# 3ac7038f
+; ヒルドルは何か考え込んでるようだった。
+Hildur seemed to be thinking about something.
+
+# 410b048d
+; hime: 「何か心当たりが？」
+hime: "Do you have any idea?"
+
+# fe025370
+; hildur: 「これは……」
+hildur: "This is ……,"
+
+# 68285e98
+; ヒルドルは俺たち全員を見回しながら、こう言った。
+Hildur said, looking round them all,
+
+# 8673fcab
+; hildur: 「……あなたたち、人間世界に行ってきたんだわぁ」
+hildur: "…… You've been to the human world."
+
+# 61278892
+; yule: 「ええええ？？」
+yule: "`What?'"

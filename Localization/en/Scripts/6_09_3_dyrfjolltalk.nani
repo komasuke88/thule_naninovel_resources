@@ -1,0 +1,709 @@
+; Japanese <ja> to English <en> localization document for `6_09_3_dyrfjolltalk` naninovel script
+
+# 3ee21847
+; そして俺たちは、散らかってる岩の上に座って、ヒメの目覚めを待った。
+Then they sat on the rocks and waited for Hime to wake up.
+
+# 20eb2315
+; yule: 「あ、考えてみたら別に待つ事もないですね。目覚めたら勝手に付いて来るだろうし」
+yule: "Oh, now that I think about it, I don't have to wait.He will follow me when I wake up."
+
+# 33f39ffb
+; me: 「そう、だったな」
+me: "Yes, sir,"
+
+# 2d0db019
+; yule: 「……でもせっかくですし、少しこうして休みましょうか」
+yule: "But …… I'm sorry to trouble you, so let's take a rest like this?"
+
+# dc08dd93
+; me: 「ああ。そうしよう」
+me: "Yes, I will."
+
+# 64b81035
+; 少し疲れが寄ってきて、動く気力がなかった。
+I felt a little tired and had no energy to move.
+
+# dfc1ad33
+; 眠いわけではなかったので、俺はただ気を緩めて、ぼーっと遠くを眺めた。
+Not feeling sleepy, me just relaxed and looked away.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 1ccc3710
+; ぼっと岩に座ってると、心地よい風が吹いてきだ。
+Sitting on a rock, a pleasant breeze blew.
+
+# 692ac385
+; 生温かい風だった。
+It was a warm breeze.
+
+# 75267406
+; 山には雪が積もってるのに、不思議なもんだ。
+It's strange that the mountains are covered with snow.
+
+# adb4ba85
+; me: 「温かいんだな。この風は」
+me: "It's warm, isn't it?This wind."
+
+# 5a6de76c
+; yule: 「数年前までは想像もできなかったですよ。こんな暖かな風なんて」
+yule: "I couldn't imagine it until a few years ago.It's such a warm wind."
+
+# 83db881f
+; me: 「このトゥーレも、温暖化が進んでるのかな？」
+me: "Is this Thule also warming?"
+
+# f162371
+; yule: 「です。トゥーレの自然は、アイスランドと同じようになってます故。[i]特に今年の異常気象はクリティカルでした」
+yule: "Yes, the nature of Thule is the same as that of Iceland.[i]This year's abnormal weather was especially critical."
+
+# 77654b32
+; me: 「……氷河も、溶けてるのだったな」
+me: "The …… Glaciers have melted, too,"
+
+# d5a24dd2
+; yule: 「そうですよ。それが一番の大問題なんです。[i]氷河の消失は、ユールちゃんたちには……」
+yule: "Yes, that's the biggest problem.[i]The disappearance of glaciers is …… for the Yules."
+
+# 6aa1509d
+; me: 「魔力がなくなるって言ってたよな」
+me: "You said you'd lose Magical Power"."
+
+# 9b2c60a0
+; yule: 「あら、ビューちゃんに聞きましたか？」
+yule: "Oh, did you ask Byu?"
+
+# 5e9e7e8d
+; me: 「うん。氷河はユールちゃんたちの魔力の源だと」
+me: "Yeah. Glaciers are the source of Magical Powers."
+
+# c8c26e8a
+; yule: 「そうですよ。アイスランドの氷河が消えると、魔法が使えなくなって、[i]先みたいに{playerName}を助ける事もできなくなります」
+yule: "That's right. When Iceland's glaciers disappear, they can't use magic anymore. [i] They can't help {playerName} like they did before."
+
+# da1d4153
+; me: 「うん。それよりも大変になるのは、太陽の光が防げなくなる事だったな」
+me: "Yeah. What's more difficult than that was that the sun couldn't stop it."
+
+# 746035f1
+; yule: 「……そうです。ユールちゃんたちの生存も、難しくなるのです。[i][char yule.n_sad_nemu_emi]だからユールちゃんたちは、その時を備えて準備しないといけません」
+yule: "Yes, …….The survival of Yule will also become difficult.[i][char yule.n_sad_nemu_emi] So Yule should prepare for that."
+
+# 9a28bc74
+; me: 「他に、魔力を得る方法はないのか？」
+me: "Is there any other way to get Magical Power?"
+
+# e5cfd0b9
+; yule: 「他に方法が見つからないから、こうして準備してるんです」
+yule: "I can't find another way, so I'm preparing like this"."
+
+# 1e520be6
+; me: 「……しかし、氷河なら」
+me: "…… "But if it's a glacier,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 76a89a76
+; me: 「グリーンランドとか南極にも存在してるんじゃないか？[i]……南極の氷河ならそう簡単には溶けなさそうだが」
+me: "Isn't it even in Greenland and Antarctica?"[i]…… I don't think Antarctic glaciers will melt so easily."
+
+# 252a9987
+; yule: 「確かに氷河はアイスランドの外にも存在していて、[i]すでにそれは、ユールちゃんたちの【生命の源】となっていますが」
+yule: "It is true that glaciers also exist outside Iceland, although [i] they are already 】 the source of Yule life."
+
+# 78a58156
+; me: 「生命の源……？」
+me: "Is …… the source of life?"
+
+# eccaef92
+; yule: 「ユールちゃんたちがこの星で生きられるのは、氷河が存在するからです。[i]世界中の氷河から、ユールちゃんたちは命をもらってます」
+yule: "The reason why Yules can live on this planet is because there are glaciers.[i]From glaciers all over the world, Yules get their lives."
+
+# b320e85c
+; me: 「あ、ああ。そういうことか」
+me: "Oh, yes. I see."
+
+# 1a1501f7
+; yule: 「ですが、魔力が得られるのは、アイスランドの氷河だけです」
+yule: "But only Icelandic glaciers can get Magical Power."
+
+# ae8d0bda
+; 少し複雑になってきたんだけど、整理すると、
+It's getting a little complicated, but to summarize,
+
+# 41da5f31
+; me: 「……地球のすべての氷河は生命の源で、[i]その中でもアイスランドの氷河は特別、魔力の源である……って事か？」
+me: "…… "All the glaciers on Earth are the source of life. [i]Among them, Iceland's glaciers are special, ……, the source of Magical Power?"
+
+# 381f0132
+; yule: 「{playerName}は賢いですね。[i]はい、整理すると、そんなところです」
+yule: "The {playerName} is smart.[i]Yes, that's the sort of place to put it in order."
+
+# bef372f
+; me: 「魔力の源が消えると、ユールちゃんたちは魔法が使えなくなる」
+me: "When the source of Magical Power disappears, they can't use magic."
+
+# 2c8938a1
+; yule: 「そうです。太陽から身を守る術がなくなります」
+yule: "That's right. There's no way to protect yourself from the sun."
+
+# 40249f9e
+; me: 「……その【生命の源】が消えると、どうなるんだ……？」
+me: "What happens when ……, the source of 【 life, disappears?"
+
+# 139a1408
+; yule: 「鋭いですね。そうですよ。世界のすべての氷河が消える事になると……」
+yule: "That's sharp, of course.When all the glaciers in the world disappear, ……."
+
+# be0c8f37
+; me: 「まさか……」
+me: "No way ……,"
+
+# 17b9094d
+; yule: 「ユールちゃんたち、存在そのものが消えます。[i]トゥーレの終わりですよ」
+yule: "The very existence disappears, Yule.[i]It's the end of Thule."
+
+# a411388d
+; me: 「……なんてことだ」
+me: "Oh, my God, ……,"
+
+# a0eaf0fb
+; yule: 「でも地球中の氷河が全部消えるのは、まだまた遠い未来ですから」
+yule: "But it's still a long way off for all the glaciers on Earth to disappear."
+
+# c321b74
+; me: 「……しかし、いつかはトゥーレの終わりが来るって事だろう？[i]……地球の氷河は、すべて溶けてるから」
+me: "…… But one day the end of Thule will come, right?[i]…… for all the glaciers of the earth have melted."
+
+# b8d79ed7
+; yule: 「そうですね。トゥーレはいつかは……[i][char yule.dot]……っていうか、そうなるとですね？[i]それはもうトゥーレだけの問題ではないでしょう。[i][char yule.eto]地球中の氷河が消えるって事は……」
+yule: "Yes, Thule will eventually be ……[i][char yule.dot] …… or something like that, right?[i]It is no longer just a matter of Thule.[i][char yule.eto] Glaciers all over the earth disappear ……"
+
+# 94a14e79
+; me: 「……それは……」
+me: " …… That's ……,"
+
+# 9ac42d8c
+; そう、地球のすべての氷河が解けて消えると、人間世界だって大変だ。
+Yes, if all the glaciers on the earth melt and disappear, the human world will be in trouble.
+
+# 75c0952b
+; エーリック教授もそんな話をしてたな。
+Professor Eric That's what you said.
+
+# 35c8631e
+; yule: 「———『やがて太陽が光を失い、星々が消える。世界は炎で焼き尽くされ、煙が噴き上がる中、大地は沈没する』」
+yule: "--- 『 Soon the sun will lose its light and the stars will disappear.The world is burned down with flames, and the earth sinks as smoke rises 』"
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# 927d8f
+; yule: 「ラグナロクの予言です」
+yule: "It's a prophecy of Ragnarok,"
+
+# c7f23e6
+; ラグナロク……ノルド神話における、世界の終末の日。
+The last day of the world in Ragnarok……Norse mythology.
+
+# afaf77e1
+; yule: 「地球の氷河の消失は、ラグナロクの始まりです。[i][char yule.eto]フルドゥフォルクみたいに直接的な死ではないですが、[i][char yule.nayami]人類も緩やかに滅んで行くのでしょう」
+yule: "The disappearance of Earth's glaciers is the beginning of Ragnarok.[i][char yule.eto] It's not a direct death like Huldufolk, but [i][char yule.nayami] Human beings will perish slowly."
+
+# d0c0e997
+; そしてユールちゃんは、ラグナロクの意味を解説してくれた。
+And Yule explained the meaning of Ragnarok.
+
+# e7145a62
+; 人間の学者たちによる未来報告書からの引用だった。
+It was a quote from the Future Report by human scholars.
+
+# 9f0224ef
+; アイスランドの氷河が溶け消えると、世界中の海水面は１Cm上昇。
+When Iceland's glaciers melt away, sea levels around the world rise by 1 cm.
+
+# f5db4f00
+; これだけではそんなに大きな問題ではなさそうに見えるが、
+This alone does not seem to be such a big problem.
+
+# b575d86f
+; 自然界の乱れの始まりだ。
+This is the beginning of a disturbance in nature.
+
+# 5312e863
+; 全世界の海水面が上昇する中、アイスランドの海水面は上昇しない。
+Iceland's sea level does not rise as the world's sea level rises.
+
+# 109be373
+; アイスランドは大陸プレートの境界面で、常に地面が上昇してる。
+Iceland is the boundary of the continental plate, and the ground always rises.
+
+# 53cb7edd
+; 今は氷河の重さが、その上昇を少し抑えていたけど、
+Now the weight of the glacier had suppressed the rise a little;
+
+# 98d73a2
+; 氷河が消えると、地下の力を抑えるものがなくなる。
+When the glacier disappears, there is nothing to suppress underground power.
+
+# 8ade5ad5
+; 地下活動の抑えが効かなくなると、地上では火山活動が活性化される。
+Volcanic activity is activated on the ground when underground activity is not controlled.
+
+# df2ce222
+; アイスランドは火山の噴火が多くなって、空では火山灰が止まなくなる。
+In Iceland, volcanic eruptions increase and volcanic ash cannot stop in the sky.
+
+# e07ebd6b
+; 目に見える変化だけではない。
+It's not just a visible change.
+
+# f6f4dcf
+; 自然の中身にも変質が来る。
+Nature also changes its contents.
+
+# d78bf0c3
+; 海水の酸性化と、水の循環の乱れ。
+the acidification of seawater and the disturbance of water circulation.
+
+# 26e1b914
+; 生態系が破壊され、陸地の砂漠化が進む。
+Ecosystems are destroyed and land desertification progresses.
+
+# 1b0ca3de
+; 永久凍土に潜んでいた有害物質が流出される。
+Hazardous substances lurking in permafrost flow out.
+
+# 1596bef8
+; 世界的な乾燥害、大雨による洪水、大きな火事、地下水の枯渇、
+global dryness, floods caused by heavy rain, big fires, depletion of groundwater depletion,
+
+# ac1186bc
+; 食糧不足、水不足、飢餓と疫病。
+Food shortages, water shortages, starvation and plague.
+
+# 9031b3ab
+; 自然が、災厄になる。
+Nature becomes a disaster.
+
+# f0481568
+; さらに数百年後、
+Hundreds of years later,
+
+# e2c48496
+; 地球上の全て氷河が消える。
+All the glaciers on the earth disappear.
+
+# d00795fb
+; 全世界の海水面が６６メートルも上昇し、
+The world's sea level rose 66 meters.
+
+# 3425d238
+; 世界の主要都市が、水没される。
+Major cities around the world will be submerged.
+
+# 29f981d7
+; 東京も例外ではない。
+Tokyo is no exception.
+
+# 4a7e1688
+; 世界人口で最大４０％は、その住処を失われる。
+Up to 40 percent of the world's population will lose their homes.
+
+# 88e3fa77
+; 人間が住める地域が、狭くなる。
+The area where humans can live will become smaller.
+
+# 18568a1a
+; 『やがて太陽が光を失い、星々が消える。[br]世界は炎で焼き尽くされ、煙が噴き上がる中、大地は沈没する』
+『 Eventually, the sun loses its light and the stars disappear.[br] The world is burned down with flames, and the earth sinks as smoke rises 』
+
+# a379997
+; ……まさに、ラグナロクの予言と同じくなるのだ。
+…… It is exactly the same as Ragnarok's prophecy of
+
+# a43283b3
+; 地球上のすべての氷河が消えるというのは、そういう事だ。
+That's how all the glaciers on Earth disappear.
+
+# 649bbcb9
+; 人間にとっても生死の問題なのだ。
+It is also a matter of life and death for humans.
+
+# 193397b9
+; yule: 「……といっても、南極まで消えるには、まだまだ百年以上はかかりそうですけどね」
+yule: "Even though ……, it will take more than a hundred years to disappear to Antarctica."
+
+# 1fc0d607
+; me: 「……百年以上か。世界の歴史にくらべたら短い期間なんだけど、まだ余裕はあるか」
+me: "…… More than a hundred years.It's a short period of time compared to world history, but can you afford it?"
+
+# 8b66497d
+; yule: 「だけど魔力の消失は、もう目の前に迫ってる事ですから」
+yule: "But the disappearance of Magical Power is just around the corner."
+
+# 21bf6a11
+; me: 「……そうだな。３０年先って、俺が生きてるうちに起こり得る未来」
+me: "…… "Yes, sir.Thirty years from now, the future that me could happen while alive."
+
+# 241fa9d7
+; yule: 「はい。特にユールちゃんたちフルドゥフォルクにとって、３０年なんて、あっという間ですので」
+yule: "Yes, especially for Yule and Huldufolk, 30 years goes by so quickly."
+
+# 26bf55bb
+; me: 「氷河は、復活とかできないのかな？」
+me: "Can't glaciers be revived?"
+
+# 2351ce80
+; yule: 「数百年後、ラグナロクが終わったら、また寒い時期が来るって言います。[i][char yule.emi]そのときには氷河も復活するかも知れませんが」
+yule: "A few hundred years later, after Ragnarok, the cold season will come again.[i][char yule.emi] The glacier may come back then."
+
+# 6faf0a21
+; me: 「いや、それって、何もかも終わった後じゃないか」
+me: "Well, that's after everything's done,"
+
+# b1e887d0
+; yule: 「はい。[i][char yule.yoko_sad_close_u]今の崩壊は、止める術がないって事です。[i][char yule.n_sad_nemu_dot]何かできるとしたら、せいぜい遅らせる事はくらいでしょう」
+yule: "Yes. [i][char yule.yoko_sad_close_u] There is no way to stop the collapse.[i][char yule.n_sad_nemu_dot] If I could do something, I'd rather not delay it."
+
+# a641eb31
+; me: 「これからの地球が、人間たちにも厳しい世界になるのは、必然って事か……」
+me: "Is it inevitable that the earth will be a tough world for humans from now on?" ……?"
+
+# 801c4ba1
+; yule: 「そうですよ。[i][char yule.yoko_sad_nemu_emi]だからお互い、少しでも長く、生き残れるように今から頑張るしかないです」
+yule: "That's right. [i] [char yule.yoko_sad_nemu_emi] So we have to do our best to survive for as long as possible."
+
+# 87bea0c8
+; 生き残れる、か。
+Can you survive?
+
+# 2a192e24
+; そうだよな。
+I know.
+
+# 3d5d5d36
+; いずれ地球の自然界が壊れてしまう日が来る。
+The day will come when the earth's natural world will be destroyed.
+
+# db775631
+; これはフルドゥフォルクだけの問題ではない。
+This is not just a matter of Huldufolk.
+
+# 9f112720
+; 俺たち人間たちも、来るべき未来に備える必要がある。
+I Humans also need to prepare for the coming future.
+
+# 582f4d6a
+; 少しでも長く、生き残るためには。
+To survive as long as possible.
+
+# 74d3e637
+; yule: 「で、ユールちゃん的に、少しでも長く生き残れる道といえば、家族を作る事ですけどね？」
+yule: "And, Yuleically, the way to survive as long as possible is to start a family, isn't it?"
+
+# 24c295af
+; ユールちゃんは、ふざけた口ぶりでそういった。
+said Yule in a playful tone.
+
+# 4cf0481b
+; 鬱な話が続くのがいやで、話題を変えたかったのだろう。
+He probably didn't want to keep talking about depression and wanted to change the subject.
+
+# bdbac0ab
+; 普段ならこんなユールちゃんの話はスルーするところだったけど、
+Normally, I would not have talked about Yule.
+
+# e2a0d0a7
+; 何故か今はそうしたくなかった。
+For some reason, I didn't want to do that now.
+
+# 5de65309
+; me: 「それも……悪くないかもな」
+me: "That's not bad ……, either,"
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# cb8ce75e
+; ユールちゃんは以外そうな表情になった。
+Yule looked as if nothing had happened.
+
+# 5498368c
+; yule: 「え、えっと。家族ってのは{playerName}とユールちゃんが結婚するって話で」
+yule: "Well, my family says {playerName} and Yule are getting married."
+
+# ad64f6a
+; me: 「ああ」
+me: "Ah,"
+
+# ee57ec73
+; yule: 「ま、マジで？」
+yule: "Really?"
+
+# af4f2061
+; me: 「終わりが来るまでに、この美しいトゥーレで、ずっと暮らすのも悪くないなーっと」
+me: "It's not bad to live in this beautiful Thule before the end comes."
+
+# 8d890cd1
+; yule: 「い、いきなりどんな心境の変化があったんですか？[i]今まであんなに拒否してたのに」
+yule: "Well, what kind of change of mind did you suddenly have?"[i]I've refused that much until now."
+
+# 3d01e982
+; me: 「今の状態がさ、意外と体質に合うかも知れないと思って」
+me: "I thought my condition might fit me better than I expected."
+
+# d03823ba
+; yule: 「どんな状態がですか？」
+yule: "What's the condition?"
+
+# f1463b2d
+; me: 「何も持ってない、過去の記憶もない。[i]何者でもない今の俺がね」
+me: "I have nothing, I have no memory of the past.[i]me of nothing now."
+
+# 4f9616c9
+; yule: 「それってまさに旅人、なんですね」
+yule: "What a traveller he is,"
+
+# 7b1a4381
+; me: 「俺は今、赤ちゃんになって、雄大な自然に放り出されてる。[i]そしたらさ、俺の心もこの自然に似てきて広くなって、[i]どんな事が起こっても受け入れる自身ができて……」
+me: "Now me has become a baby and is thrown out into the magnificent nature.[i]Then, me's mind began to resemble this nature and become wider. [i]I was able to accept whatever happened ……."
+
+# 1e83832
+; 世界の終わりが来ても、今の何も持たない自分は、悲しい事もないのだろう。
+When the end of the world comes, I will not be sad if I have nothing.
+
+# 237a29dc
+; yule: 「そんな気軽な気持ち、わかる気がします」
+yule: "I think I understand how easy it is."
+
+# cfe7e99b
+; me: 「ああ。このままずっと、こうしてるのも悪くないと思い始めたよ」
+me: "Yeah. I'm starting to think it's not bad to keep doing this."
+
+# 440f0c1
+; yule: 「それで、帰りたくなくなったとか？」
+yule: "And you don't want to go home?"
+
+# 7d0d9d86
+; me: 「ああ。元の自分に戻ると、こうして何もかも気楽では居られなくなるかも知れないから」
+me: "Yeah. I might not be able to be comfortable with everything when I get back to my original self."
+
+# 316ec934
+; yule: 「残りの記憶の欠片も、探さないんですか？」
+yule: "Don't you look for the rest of your memory?"
+
+# a9e8d7
+; me: 「ああ。その記憶も、あえて探さなくてもいいんじゃないかと、少し思った」
+me: "Yeah. I thought I wouldn't have to look for those memories."
+
+# 67c257e2
+; yule: 「そうですか？まぁ、ユールちゃんはどっちでもいいですけど」
+yule: "Really? Well, Yule doesn't matter."
+
+# 91450935
+; me: 「そして今までトゥーレを旅してきて、ここの自然が好きになったから、かもな」
+me: "And maybe it's because I've traveled through Thule, and I've come to like nature here."
+
+# 267677bb
+; yule: 「トゥーレは美しい場所ですもんね」
+yule: "The Thule is a beautiful place,"
+
+# 376d4ee9
+; me: 「ああ。この美しい場所で、ずっとユールちゃんと流浪しながら、[i]なんの悩みもなく暮らせるのなら、それはそれで幸せかもしれないと、思った」
+me: "Yeah. I've been wandering around with Yule in this beautiful place. [i] I thought I might be happy if I could live without any worries."
+
+# 244fca4c
+; yule: 「<ruby="ヤーヤ">　Jæja</ruby>！いつの間にそんなにユールちゃんが好きになりましたか？」
+yule: "<ruby=" Jaya"> Jæja</ruby>! When did you come to like Yule so much?"
+
+# 25f0ab7e
+; me: 「好きっていうか、……ま、嫌いではないけど」
+me: "I mean, I don't hate ……"."
+
+# 4c536641
+; yule: 「えっ？違うんですか？」
+yule: "What? No?"
+
+# 7ae4b614
+; me: 「都合がいいっていうか、利害関係が一致するっていうか」
+me: "It's convenient, or it's a common interest."
+
+# b9dd9603
+; yule: 「り、利害関係？な、なんですかそれは！」
+yule: "`Interested?'"
+
+# bf5e0bac
+; me: 「ま、まぁ」
+me: "Well, well,"
+
+# ba0cd047
+; yule: 「ま、そりゃユールちゃんも種族保存のためだから、理由はどうでもいいですが……ちょっと尺です」
+yule: "Well, Yule is also for the preservation of races, so I don't care why, …… is a bit of a measure."
+
+# 6d95097
+; me: 「え、えっと、なんていうか……」
+me: "Well, well, ……,"
+
+# b1fe62eb
+; yule: 「ロマンがないのです」
+yule: "I don't have romance."
+
+# 7627a965
+; 少しがっかりするユールちゃんを見て、俺は少し照れながら言った。
+Seeing Yule a little disappointed, me said a little shyly.
+
+# a69658c1
+; me: 「……どっちかと言えば、好きな方だから」
+me: "…… "If anything, I like him."
+
+# cbb99d70
+; yule: 「えっ？？」
+yule: "What?"
+
+# 314c8cb0
+; me: 「ユールちゃんが。割と好きっていうか、ちょっとは分かりあった気がするから」
+me: "I like Yule. I think I understood it a little bit."
+
+# 934aae21
+; yule: 「そ、そ、そうですか。それは、まぁ、いいですね。はい。それならいいです」
+yule: "Oh, yes, yes.Well, that's good. Yes, that's good."
+
+# f6b3424c
+; ユールちゃんは少し照れてるように見えた。
+Yule looked a little shy.
+
+# cd607583
+; yule: 「あ、でも{playerName}？」
+yule: "Oh, but {playerName}?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# bc813b82
+; yule: 「何か大事な約束があると言ってませんでした？日本で」
+yule: "Didn't you say you had an important appointment?"In Japan."
+
+# fc1408de
+; me: 「あ、それは……そうだった気がするけど……」
+me: "Oh, I think it was ……, but ……"."
+
+# 391af6cc
+; yule: 「{playerName}が記憶を取り戻し、元の世界に戻りたい理由って、それだと思いましたけど……」
+yule: "I thought that's why {playerName} wants to regain her memory and go back to the world she was in."
+
+# 27e2ccf4
+; me: 「だけどな。それがなんか……もう、どうでもいいんじゃないかって気がして」
+me: "But I don't think it matters …… anymore."
+
+# c83b926a
+; yule: 「あら？」
+yule: "Oh, my God?"
+
+# c69705b6
+; me: 「段々と薄くなるんだ。何もかもが、微かに残っていた日本での記憶も」
+me: "It's getting thinner and thinner.Everything, but the memory of Japan that I had left me faintly."
+
+# ec74af12
+; yule: 「えっ」
+yule: "What?"
+
+# 6716ebd7
+; me: 「自分が薄くなる感じ。最初はちょっと変な気分だったけど、今ではなんか悪くない気分で」
+me: "I feel like I'm getting thinner.At first I felt a little strange, but now I feel something is not wrong."
+
+# fca77b50
+; yule: 「え、えっと。それはいつからの話ですか？」
+yule: "Well, let's see. When did you start talking about that?"
+
+# 2f70b57
+; me: 「いつ？……そうだな。パーちゃんに乗って北アイスランドに飛んできた頃かな」
+me: "When? …… Yes.I think it was when I flew to North Iceland on a DearPuppin."
+
+# 201bf9c
+; yule: 「それは……」
+yule: "That's ……,"
+
+# 15ab5816
+; ユールちゃんは少し困った表情になって、うつむいた。
+Yule looked a little troubled and looked down.
+
+# 57ebcf4f
+; yule: 「それは、少し気がかりですね」
+yule: "I'm a little worried about that,"
+
+# 40545ed0
+; me: 「何が？」
+me: "What?"
+
+# 8b794475
+; yule: 「その薄くなるって感じは、心の変化っていうより、身の変化かもしれません」
+yule: "It's not so much a change of heart as a change of body."
+
+# b672e32d
+; me: 「そ、それはどういう……」
+me: "Well, what …… is that?"
+
+# 8a7bee44
+; yule: 「多分、{playerName}の身にも何かが起こってるんです。[i]あの外界の神の影響で、[i]ヒメさんのような変化が……」
+yule: "Probably something has happened to {playerName}.[i] Changes like Mr. Hime have …… because of the influence of the gods in the outside world."
+
+# 41bce206
+; me: 「えっ？俺も悪霊になる？」
+me: "What? Will me become an evil spirit?"
+
+# 1e188a4
+; yule: 「悪霊ではないんですけど……[i][char yule.nayami]ま、これはユールちゃんもよく知らない領域で、ただの勘ですが」
+yule: "I'm not a demon, but ……[i][char yule.nayami] Well, this is an area that Yule doesn't know well, just a hunch."
+
+# a58355b2
+; me: 「そ、そうか」
+me: "Oh, I see,"
+
+# 476e693e
+; ユールちゃんは少し考え込んだあと、俺に言った。
+Yule, after a little thought, said to me,
+
+# d284f126
+; yule: 「でもとりあえず、やっぱり残りの記憶は探すべきですね」
+yule: "But for the time being, we should look for the rest of our memories."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 2d622c70
+; yule: 「薄くなる感じが心の問題だと、記憶を全部取り戻したら解決できるかも知れません」
+yule: "If it's a matter of the mind to feel thin, it might be solved if I get all my memories back."
+
+# 7b7150b3
+; me: 「そうか……っていうか、やっぱり今の俺の状態は普通じゃないのか」
+me: "Well, ……, isn't the current state of me normal?"
+
+# e293ced
+; 自分が薄くなる感覚は、たしかに正常ではないかもしれんが。
+It may not be normal for me to feel thin.
+
+# 41bfa31a
+; yule: 「まだ確信はできませんよ。でも記憶は、探したって別に問題ないじゃないですか？」
+yule: "I'm not sure yet.But there's no problem with looking for memories, is there?"
+
+# b2e16e9b
+; me: 「それは、そうだな」
+me: "Well, yes,"
+
+# 7896fc94
+; yule: 「はい。まずはヒメさん件から解決して、それからは再び{playerName}の記憶を探しに行きますよ？」
+yule: "Yes. I'll start with Mr. Hime's case, and then I'll go look for memories of {playerName} again."
+
+# cb4ac9be
+; me: 「ああ、わかった」
+me: "Oh, I see,"

@@ -1,0 +1,141 @@
+; Japanese <ja> to English <en> localization document for `6_11_1_f208` naninovel script
+
+# 9664e697
+; ランドマンナロイガル地域から離れて、
+Landmannalaugar Stay away from the region.
+
+# 31092956
+; 俺たち三人は、また旅路に出た。
+I The three of them set out again on their journey again.
+
+# a380c3b6
+; 先までの色とりどりの景色は、黒と緑だけの景色に変わってきた。
+The colorful scenery up until now has changed to just black and green.
+
+# 65bddf73
+; もう少し走ってくると、小さな川と、その先に峡谷が見えてきた。
+As I ran a little further, I saw a small river and a canyon beyond it.
+
+# ed79dd09
+; 俺は少し水が飲みたくなって、走る速度を落とした。
+I was a little tempted to drink water and slowed down his running speed.
+
+# 6982a532
+; もう走ってもないのに、風は相変わらず強かった。
+The wind was as strong as ever, even though I didn't even run anymore.
+
+# b75e78cb
+; 峡谷から、ハイランドの冷たい風が吹いて来る。
+The cold wind of Highland blows from the canyon.
+
+# bdfa44f1
+; hime: 「あはっ！風冷たい！気持ちいい！」
+hime: "Ah! The wind is cold! It feels good!"
+
+# 39771728
+; 俺の上に乗ってるヒメが、楽しそうな声で叫んだ。
+cried Hime, who was riding on top of me, in a happy voice.
+
+# 2518e93
+; me: 「ヒヒーン（寒くないか？）」
+me: "niegh (Isn't it cold?)"
+
+# 339fc1e3
+; hime: 「うん。肌から伝わるこの冷たさが、生きてるって感じがするんだ！」
+hime: "Yeah. The coldness that comes from my skin feels alive!"
+
+# e42f2d45
+; 楽しそうにしてるのを聞いてると、こっちまで嬉しくなる。
+It makes me so happy to hear you look happy.
+
+# bed6c04b
+; yule: 「ま、なんにせよ、よかったです」
+yule: "Well, I'm glad to hear that,"
+
+# 572a79ae
+; 俺も水を飲んで気持ちがよくなって、思わす楽しい声をあげた。
+I also drank water to make him feel better, and gave a pleasant voice.
+
+# 217e16c8
+; me: 「ヒヒーン！」
+me: " niegh!"
+
+# 6fa26db1
+; hime: 「うん？{playerName}？今なんか言った？」
+hime: "Huh? {playerName}?"Did you just say something?"
+
+# 48c4fa41
+; me: 「ヒヒーン（いや、今のは特に意味はなく、ただの鳴き声）」
+me: "niegh (No, it doesn't mean anything, it's just a cry)"
+
+# 817dca55
+; hime: 「あ、そうなんだ」
+hime: "Oh, I see,"
+
+# 168fa50c
+; 今更だけど、俺の話って、意味が通じるんだな。
+It's late now, but me makes sense.
+
+# c4f4bbe9
+; 先から俺はヒヒーンしか言ってないのに。
+I said nothing but niegh.
+
+# 388cbf6
+; me: 「ヒヒーン（ヒメはもう幽霊でもないのにな。俺の声ってわかるものか？）」
+me: " niegh (and Hime is no longer Ghost.Do you understand the voice of me?"
+
+# 4a1d7c1b
+; yule: 「トゥーレの魔力のお陰です。[i]多分、{playerName}とヒメさんは、体に微弱な魔力をまとうようになったんです」
+yule: "Thanks to Magical Power of Thule.[i]Perhaps {playerName} and Hime began to wear weak Magical Power."
+
+# 8c9d70ab
+; me: 「ヒヒーン（えっ、なんで？）」
+me: "niegh (What? Why?)"
+
+# efaf1c15
+; yule: 「二人ともトゥーレに来てから、色んな魔法の影響を受けましたから」
+yule: "Since we both came to Thule, we've been influenced by a lot of magic."
+
+# 5ef27c5f
+; 確かにな。羊になったり、馬になったり、幽霊にも……
+Indeed. To be a sheep, to be a horse, to Ghost ……
+
+# 597964cc
+; hime: 「えっ？わたし、魔法が使えるようになったの？」
+hime: "What? Am I able to use magic?"
+
+# 876d6625
+; yule: 「いいえ。ただ馬の{playerName}の話がわかるくらいの微弱な魔力が、体に流れてるだけです」
+yule: "No, it's just that I have Magical Power weak enough to tell the story of the horse {playerName}."
+
+# 595ab6c4
+; hime: 「何だ、残念」
+hime: "What a pity!"
+
+# 15eb9652
+; yule: 「ま、百年くらいここで住むと、自在に魔法が使えるようになるかもです」
+yule: "Well, if you live here for about a hundred years, you may be able to use magic freely."
+
+# b9799839
+; me: 「ヒヒーン（百年って……じゃ、生きてるうちには無理かな）」
+me: " niegh (A hundred years is ……, and I suppose it's impossible for me to live.)"
+
+# 74097499
+; yule: 「あ、ユールちゃんの夫になったら、もっと早く使えるようになりますよ？[i][char yule.l-kusu]このままトゥーレに残っていればの話ですが」
+yule: "Oh, if you become Yule's husband, you'll be able to use it faster, won't you?"[i][char yule.l-kusu] I wish I could stay in Thule."
+
+# 54baf810
+; me: 「ヒヒーン（い、いや。そこまで魔法使いたいわけでもないし）」
+me: "niegh (No, no, I don't want to use magic that much.)"
+
+# 33a3f6f7
+; yule: 「え〜」
+yule: "What?"
+
+# 25ac0d4f
+; hime: 「わたしは使いてみたかたけどな〜[i][char hime.w]でも、今も{playerName}の声の意味はわかるくらいにはなってるのね」
+hime: "I wanted to use it~[i][char hime.w] But you still understand the meaning of {playerName}'s voice."
+
+# 95bbaf69
+; yule: 「ま、そういうことです」
+yule: "Well, that's it,"

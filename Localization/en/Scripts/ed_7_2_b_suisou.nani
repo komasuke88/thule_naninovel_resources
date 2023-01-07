@@ -1,0 +1,293 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_b_suisou` naninovel script
+
+# db5666f5
+; 海。
+Ocean。
+
+# b76eae60
+; 海と一体化する。
+integrate with the sea.
+
+# b09704c8
+; 海の中。
+Under the sea.
+
+# 35827e9c
+; 漂う。
+drift.
+
+# 3f24c50c
+; 母なる海は俺に新しい命をくれた。
+Mother Sea gave me a new life.
+
+# 1e1c431
+; 今の俺はプランクトン。
+The current me is plankton.
+
+# 81a5b5fa
+; 何も考えず、何もできず、海を漂うだけのミジンコの人生。
+The life of Mizinko, who can't think, do anything, and drift through the sea.
+
+# 1bd87c56
+; 幸せ。
+happiness。
+
+# f2a33b07
+; しかし、腹が減った。
+However, he was hungry.
+
+# 3c9253f2
+; プランクトンになってでも本能に束縛されるなんて、生命体ってなんて哀れなんだ。
+How pitiful it is to be a plankton but bound by instinct.
+
+# e76a011f
+; 光合成がしたい。
+I want to do photosynthesis.
+
+# 3a2d4943
+; ここは深い。
+It's deep here.
+
+# c1dd29d
+; 光がない。
+There's no light.
+
+# bbd2f234
+; 海水面の近くまで行かなくちゃ。
+We have to get close to the surface of the sea level.
+
+# 929d889
+; 泳ぐ。
+swim.
+
+# 390f672
+; そう必死に泳いでいたら…
+I was swimming so hard.
+
+# 37741e9c
+; @choice "進化した" goto:.sinnka
+@choice "Evolved" goto:.sinnka
+
+# 6ca07305
+; @choice "死んだ" goto:.sinu
+@choice "Dead" goto:.sinu
+
+# 21f9ed1f
+; 体力ゼロになった。
+I lost my strength.
+
+# 14ad4f8c
+; 俺は死んだ。
+I is dead.
+
+# 5288df1c
+; ミジンコが頑張るとこうなるんだ。
+This is what happens when Mizinko tries hard.
+
+# 3ea899f
+; ……
+……
+
+# bc557306
+; 俺は雪になった。
+I turned into snow.
+
+# ea1b2032
+; 海の中でも雪は降るって知ってる？
+Do you know it snows even in the ocean?
+
+# 6b55ff10
+; それをマリンスノーという。
+It's called marine snow.
+
+# 5be13535
+; プランクトン、原生生物などの死骸、糞便などが海中を沈んでいく様子。海中で見たらまるで雪みたいな景色だという。
+Plankton, dead bodies of protozoans and feces are sinking into the sea.It looks like snow in the sea.
+
+# ae501537
+; とにかく、それが今の俺だ。
+Anyway, that's what me is now.
+
+# fa65ed0c
+; キレイな雪である俺は、深海まで静かに落ちる。
+me, a clean snow, falls quietly to the deep sea.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# 7d27b171
+; と、静かな深海を楽しんでいたら、何かに飲まれてしまった。
+I was enjoying the quiet deep sea when something swallowed me.
+
+# 3a1057af
+; これは……
+This is ……
+
+# 3954e23e
+; me: 「魚」
+me: "Fish"."
+
+# 748208d3
+; 俺は魚に飲まれて、栄養分として魚の脳にまでたどり着き、
+The me was swallowed by the fish, and came to the fish's brain as a nutrient;
+
+# e4dfe32c
+; やがて魚になってしまった。
+It soon turned into a fish.
+
+# f8e0d0d3
+; me: 「やったぜ」
+me: "I did,"
+
+# f500a9f4
+; この日を待ってた。
+I've been waiting for this day.
+
+# 9a2fc1bf
+; 魚に進化した。
+It evolved into a fish.
+
+# 79d8ac1b
+; 青魚。
+a blue fish.
+
+# f1ed9fa1
+; 普通は群れで泳いでるけど、俺はそんな生活は嫌だから、一人生活を楽しむ。
+Usually, they swim in groups, but me doesn't like that kind of life, so they enjoy living alone.
+
+# c6cf288f
+; 広い海の中を自由に泳ぐ！
+Swim freely in the wide sea!
+
+# 1ad3a06f
+; どんなとこにだって、思うがままに行ける。
+You can go anywhere you want.
+
+# e445c372
+; 新鮮な海水を、えらで呼吸しながら。
+Breathe in fresh seawater with your gills.
+
+# ccd50d0
+; 自由！[i]自由！[i]自由！
+Free! [i] Free! [i] Free!
+
+# 8d7e040
+; me: 「うっ！」
+me: "Ugh!"
+
+# d55d7a48
+; ぐ————
+well-go-
+
+# 75ecbdb
+; しかしまた、腹が、減った。
+But he was hungry again.
+
+# cbf62ade
+; 何かを食べなければ、食べ物を探さなければいけない。
+If you don't eat something, you have to find food.
+
+# 6ac3ad60
+; もっと遊びたいのに。
+I want to play more.
+
+# 2372017a
+; 本能が、俺の自由を邪魔する。
+Instincts interfere with me's freedom.
+
+# c64576f0
+; おのれ、本能め！
+Oh, you instinct!
+
+# a726f1fb
+; @choice "あらがう" goto:.aragau
+@choice "Oh my gosh" goto:.aragau
+
+# 44131463
+; @choice "プランクトンを食べる" goto:.taberu
+@choice "Eat plankton" goto:.taberu
+
+# 10365044
+; 本能にあらがい、俺は何も食べない事にした。
+By instinct, me decided not to eat anything.
+
+# 2bfcc87c
+; 自由のために！
+For freedom!
+
+# 3ea899f
+; ……
+……
+
+# 1f521d74
+; me: 「ああ！！」
+me: "Ah!"
+
+# 9b45ee69
+; 餓死。
+starve to death.
+
+# ab97df55
+; 自分が魚を超越した何者かにでもなったつもりだったけど……所詮は魚。
+I thought I'd become something beyond fish, but …… After all, fish.
+
+# 9b1e27d5
+; 食べないと死ぬだけだ。
+If you don't eat, you'll die.
+
+# 825d8583
+; 魚になった以上、俺は魚以外に何者でもないのに。
+Now that he's a fish, me is nothing but a fish.
+
+# db5a8dee
+; うぬぼれてしまった。
+I've become conceited.
+
+# e44b22fa
+; 飢えて死んで、うつ伏せになって、水面に浮かぶ。
+Hungry, dying, lying face down, floating on the water.
+
+# 94c47a6
+; unknown: ばくっ！
+unknown: "Oh my gosh!"
+
+# edfcfe86
+; 水面に浮かんだ俺の体を、何かが取り上げた。
+Something picked up me's body on the water.
+
+# 41d0a26f
+; これは、鳥だ。
+This is a bird.
+
+# fd9e9418
+; 俺は鳥に食われて、空へ向かう。
+I is eaten by birds and heads for the sky.
+
+# b96a9c40
+; 高く、高く。
+High, high.
+
+# 5fc3aa97
+; プランクトンを食べる。
+eat plankton.
+
+# 468a84c9
+; me: ばくっ！
+me: "Oh my gosh!"
+
+# 47289bcb
+; と、
+said he.
+
+# bbff4d17
+; 退化してしまった！！
+It's degenerated!!
+
+# 31a529cd
+; プランクトンに！
+To plankton!

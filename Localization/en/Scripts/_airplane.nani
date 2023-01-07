@@ -1,0 +1,21 @@
+; Japanese <ja> to English <en> localization document for `_airplane` naninovel script
+
+# 20ef8f65
+; yule: 「ここで、{playerName}と再会しましたよね？」
+yule: "You met {playerName} again here, didn't you?"
+
+# 55dc6e82
+; me: 「ああ、こんなに険しい砂漠のような場所で、あの時は記憶がなかったから、更に参ってた」
+me: "Oh, in such a steep desert, I had no recollection of that time, so I was even more upset."
+
+# 9cdb9d0
+; yule: 「ユールちゃんが、命の恩人なんですよね？くすくす」
+yule: "Is Yule the lifesaver? giggle?"
+
+# 3435920b
+; me: 「うん。本当にね。ありがたいと思ってるんだ」
+me: "Yes, indeed.I'm grateful."
+
+# 65298e00
+; yule: 「くすくす、その心、ずっと忘れないでくださいよ」
+yule: "Don't forget that heart, giggle."

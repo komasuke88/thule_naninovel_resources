@@ -1,0 +1,73 @@
+; Japanese <ja> to English <en> localization document for `ed_5_04_1_develf` naninovel script
+
+# b446b7d4
+; develf: 「侵入者を見つけた！」
+develf: "I have found the intruder!"
+
+# 245b660a
+; yule: 「うわあああああ！」
+yule: "Oh, my God!'"
+
+# 5d1bae96
+; ユールちゃん、やられたのか。
+Yule Did you get hit?
+
+# 31b26489
+; 仕方ない。
+I can't help it.
+
+# 9a7ff0d4
+; 俺一人でも逃げよう。
+I Let's run away by ourselves.
+
+# 10b7066d
+; develf: 「おっと、協力者もいたのだな。許さん」
+develf: "Oops, there were collaborators.Mr. Huh."
+
+# e09cc823
+; me: 「ひー！」
+me: "Heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
+
+# 7b5c8d6d
+; develf: 「くらえ！ポリモーフ！」
+develf: "Come on, polymorph!"
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# c817b2c2
+; パパパっと。
+Papa, pop.
+
+# 269b9f2b
+; 目が光ったと思ったら。
+I thought my eyes were shining.
+
+# 5fe5c174
+; 「ベ————」
+"Ba-ha-ha-ha-ha-ha-ha-ha-ha."
+
+# 4a2e1028
+; 俺は、羊になった。
+I became a sheep.
+
+# a5b669cc
+; develf: 「エルフフフフー、今日の晩ごはんは羊二匹で羊肉ステーキだな！[i]とりあえず、家の中の子羊から……」
+develf: "Tonight, Elf Huff, two sheep and a lamb steak!"[i]First of all, the lamb in the house ……"
+
+# 77adbfc3
+; 「……ベー」
+" ……abe,"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……

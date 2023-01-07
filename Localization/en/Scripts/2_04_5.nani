@@ -1,0 +1,405 @@
+; Japanese <ja> to English <en> localization document for `2_04_5` naninovel script
+
+# 8be23ed9
+; sara: 「ま、確率が高いといっても、絶対に見れるもんじゃないけどね。[i][char sara.close_hm]いつ現れるかも知らないし……」
+sara: "Well, even if the odds are high, you'll never be able to see it.[i][char sara.close_hm] I don't know when he'll show up ……"
+
+# ee054b3e
+; me: 「サブストームは、予報とかないの？オーロラアプリで」
+me: "Is there no forecast for Substorm?"Northern Light On the app."
+
+# c90ca3ad
+; sara: 「普通のオーロラと違ってね。[i]サブストームの発生は、現代の科学でも未だに予測不能とされてるんだ」
+sara: "Unlike a normal Northern Light.[i]The occurrence of Substorm is still unpredictable in modern science."
+
+# 648a6a7
+; me: 「予測不能か。……それは本当、神秘の領域だな」
+me: "Unpredictable? …… It's really a realm of mystery."
+
+# ce58dc1f
+; sara: 「……神秘か……[i]そういえば……」
+sara: "…… Mystery or ……[i] Come to think of it, ……."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 5ec93e9f
+; サラはなぜか妙な事を思い出したかのように言った。
+Sara said, as if he had remembered something strange.
+
+# 1ecafdf
+; sara: 「今年の【ヨール】に、歴代最大級のサブストームが、必ず現れるという話を聞いたな」
+sara: "I heard that the biggest 【Jol】 ever will appear in Substorm this year."
+
+# 4a8cb640
+; me: 「ヨール……？[i]ってのは、クリスマス・イブの事だったな」
+me: "Jol……? [i] means Christmas Eve."
+
+# 19b836d2
+; sara: 「そう。[i]２週間後の、クリスマス。[i]最も精密なオーロラ予報でも、３日後まではわからないっていうのに」
+sara: "Yes. [i] Two weeks later, Christmas.[i]Even the most precise Northern Light forecast will not tell until three days later."
+
+# bfbe93a0
+; me: 「クリスマスに最高のオーロラが現れたら、それは確かにロマンチックだけど……[i]それは本当かな？」
+me: "If the best Northern Light appeared at Christmas, it would be romantic, but ……[i]Is that true?"
+
+# 520f7435
+; sara: 「いやまぁ、[i]非科学的なソースから入手した情報で、あまり信用はならんけどね」
+sara: "Well, [i] I don't really trust the information I got from an unscientific source."
+
+# a7675f85
+; me: 「非科学的なソース？」
+me: "An unscientific sauce?"
+
+# 300ef9c8
+; sara: 「ヴァイキングがね」
+sara: "The Viking,"
+
+# d2f5ac85
+; me: 「ヴァイキングって……エーリック教授か」
+me: "Is Viking ……Professor Eric?"
+
+# 33820926
+; sara: 「ああ。アイスランドの異教徒たちから聞いたんだって。[i]なんとも神秘の領域を探求する組織で、[i]うちのホステルにも信者が何人か泊ってるって」
+sara: "Yes, I heard it from the heathen of Iceland.[i]It's an organization that explores the realm of mystery. [i]There are some believers in our hostel, too."
+
+# a250fc01
+; me: 「異教徒……」
+me: "Pagan ……,"
+
+# a79298b3
+; それを聞いたと時、俺はホステルで見た、変な服装の男を思い出した。
+When he heard it, me remembered the oddly dressed Man he had seen in hostel.
+
+# 71820141
+; まさか、あれかな。
+I don't think so.
+
+# cdb365c7
+; sara: 「サブストームは、彼らが世界を救う儀式を行うための、前提条件らしい」
+sara: "It seems that Substorm is a prerequisite for them to perform a ceremony to save the world."
+
+# 6e9f7ffb
+; me: 「世界を救う、異教徒の儀式……」
+me: "Pagan ritual to save the world ……"
+
+# 71a854fe
+; ……何故か不穏な言葉だな。
+…… What a disturbing remark.
+
+# 97ac4cd0
+; sara: 「予言があったんだって。[i]今年のヨール、アイスランドの上空に絶対に現れるから、儀式を準備しろと」
+sara: "There was a prophecy.[i]This year's Jol will definitely appear over Iceland, so prepare for the ceremony."
+
+# 89d9375a
+; me: 「予言ね……」
+me: "Prediction ……,"
+
+# 14235cef
+; エルフ、フルドゥフォルク、異教徒の予言……
+Elf, Huldufolk, pagan prophecies ……
+
+# 4bab9f09
+; アイスランドにはそんな妙な事に関わってる人が多いんだな。
+There are a lot of people involved in such a strange thing in Iceland.
+
+# a6fd006b
+; sara: 「ま、どうでもいい事だし、信じるわけでもないけどね。[i]どのみちボクは毎日撮ってるから、日付など関係ないし」
+sara: "Well, it doesn't matter, and I don't believe it.[i]Anyway, I take pictures every day, so the date doesn't matter."
+
+# 2c07575c
+; me: 「ま、そうだな」
+me: "Well, yes,"
+
+# 88e45455
+; sara: 「でもちょっと期待はしてる。[i]ボクがアイスランドに滞留するのは、ちょうどヨールまでだから」
+sara: "But I'm looking forward to it.[i]I'll be staying in Iceland until Jol."
+
+# e8f9357c
+; me: 「……ああ、本当に現れるといいな。俺も見たいし」
+me: "…… "Oh, I really hope they show up.me I want to see it."
+
+# fbbe0631
+; sara: 「うん。[i][char sara.w]ボクは、毎年オーロラの撮影をしてるけど、[i]歴代最大級といえるサブストームは、まだ見たことないからな」
+sara: "Yeah. [i] [char sara.w] I shoot Northern Light every year, but [i] I haven't seen Substorm, the biggest ever."
+
+# 76162add
+; me: 「へー」
+me: "Huh,"
+
+# a562df1c
+; サラのその発言に、ちょっとだけ気になる事があった。
+Sara's remark bothered me a little.
+
+# 805d237f
+; me: 「毎年って……[i]サラって、アメリカに住んでたよな？」
+me: "Every year ……[i] Sara lived in America, didn't he?"
+
+# 91d6d1c6
+; 毎年、海外旅行？
+Traveling abroad every year?
+
+# cf985c8c
+; もしかしてこの子も、とんでもなくお金持ちだったりするのかな。
+I wonder if she's rich, too.
+
+# de30c79e
+; sara: 「そうだよ。[i][char sara.hae]……あ、ボクの旅は、仕事だからな。[i][char sara.close_emi]世界各地で天体写真や風景写真を撮るの」
+sara: "Yes. [i] [char sara.hae] …… Oh, my journey is work.[i][char sara.close_emi] I take pictures of celestial bodies and landscapes all over the world."
+
+# 2dc11a81
+; サラは自分のカメラにぽんと手を当てながら言った。
+Sara said, putting his hand to his camera.
+
+# 957cdf8e
+; そのカメラを、チラッと見てみた。
+I glanced at the camera.
+
+# 31ab5ee6
+; よく見たらそのカメラ……
+If you look closely, the camera ……
+
+# cb393fd7
+; me: 「ハッセルブラッド？？」
+me: "Hasselblad?"
+
+# 805b299f
+; めっちゃ高いモデルだ。数百万円くらいはする。
+It's a very expensive model.It costs about millions of yen.
+
+# 29bfd7c1
+; sara: 「お、このカメラ知ってるか？{playerName}も素人じゃないな」
+sara: "Oh, do you know this camera?"{playerName} I'm not an amateur either."
+
+# 66e83d05
+; me: 「……もしかしてサラって、専門の、写真作家さん？」
+me: "Is …… a professional photographer?"
+
+# 574e8d21
+; sara: 「そうそう！[i][char sara.komaru]……と言っても、写真だけでは収入が足りなくて、他のバイトと掛け持ちだけどね」
+sara: "That's right! [i] [char sara.komaru] …… doesn't make enough money just by taking pictures, so I work with other part-time workers."
+
+# 20f75d19
+; バイトくらいでどうにかなるレベルじゃない気がする。
+I don't think part-time jobs are enough.
+
+# 2abd8beb
+; こいつは絶対に金持ちだね。
+He's definitely rich.
+
+# bcad9ee5
+; そしてサラは俺のカメラの方見つめながら言った。
+said Sara, looking towards me's camera.
+
+# ac3bfcc8
+; sara: 「そういや、{playerName}も、結構いいカメラ持ってるみたいだけど……[i][char sara.w]同業者だったりする？」
+sara: "I think by the way and {playerName} have pretty good cameras, too. ……[i][char sara.w]Are you in the same business?"
+
+# 2bd506fa
+; me: 「いや。俺の方はサラにくらべたら恥ずかしいもんだ。それに写真が専門ではなく……」
+me: "No, me is embarrassing compared to Sara.And I'm not specializing in photography, ……."
+
+# 75143d4f
+; 俺も自分のカメラを触りながら言った。
+I said, touching his camera.
+
+# a1c6b558
+; me: 「旅行記を書こうとしててね。[i]その本に挿れる写真を撮ってるんだ」
+me: "Trying to write a travel journal.[i]I'm taking pictures that can be inserted into the book."
+
+# e654be65
+; sara: 「へー！旅ライター？……似たような職業じゃん」
+sara: "Oh! Travel writer? …… It's a similar occupation."
+
+# a0af2706
+; サラはいきなり俺の手をとっと掴んで、
+Sara seized me by the hand suddenly;
+
+# 75943c2
+; sara: 「写真家と作家はロマン職業なんだもんな！[i]容易く決められるもんじゃないよ。[i]改めてよろしく！」
+sara: "Photographer and writer are romantic occupations!"[i]It's not easy to decide.[i]I wish you all the best again!"
+
+# 4af9124e
+; 大きくブンブン振った。
+I shook it loudly.
+
+# 389b6d3
+; 手が小さくて、可愛いな。
+Your hands are small and cute.
+
+# 5de8d522
+; でもプロの前だったので、俺はちょっと恥ずかしくなった。
+But me was a little embarrassed because he was in front of a professional.
+
+# 1aebf35d
+; me: 「いや、今はニートで……、[i]旅ライターは、今からやろうとしてるっていうか。[i]まだ夢の段階だ」
+me: "No, now I'm NEET and ……, [i] I mean, the travel writer is going to do it now.[i]It's still a dream stage."
+
+# e8b042f7
+; 俺は手を離しながら、そう付け加えた。
+I added, letting go of his hand.
+
+# 86a88c4b
+; sara: 「そう？[i][char sara.w]でも自分の夢だって真剣に語られる仕事こそ、本当の業だよ。[i][char sara.ww]いつかは絶対にそれが本職になる。ボクもそうだったから」
+sara: "Really? [i] [char sara.w] But a job where you can talk about your dreams seriously is the real job.[i][char sara.ww] That will definitely be my real job someday.and so did I."
+
+# fbcaf933
+; サラは微笑みながらそういった。
+said Sara with a smile.
+
+# 8fa287f3
+; me: 「そうなれたら、いいな」
+me: "I wish I could,"
+
+# b7696cc9
+; とは言ったものの、俺はこの歳で何も成し遂げてないし、
+Nevertheless, me had accomplished nothing at this age;
+
+# d619818e
+; どれだけ真剣かと聞かれても、自分が真剣かどうかもわからない。
+No matter how serious you are, you don't even know if you're serious.
+
+# bab2bfa0
+; だけど今こうしてる自分は嫌いじゃないから、
+But I don't hate myself doing this right now.
+
+# 43954bb6
+; とりあえずやってみる事に意味はあるはずだ。
+It should be meaningful to try for now.
+
+# 3c7ff3f5
+; sara: 「後でボクの本をプレゼントするよ。{playerName}も、本出せたらくれよな」
+sara: "I'll gift my book later. Give me {playerName} if I can."
+
+# 699a907c
+; me: 「サラはもう本も出したのか。さすがにプロなんだな」
+me: "Has Sara published a book yet?You're a professional, after all."
+
+# 570f09ab
+; sara: 「まだ駆け出しの写真作家だった頃の本だけどね。世界の砂漠の風景写真集だ」
+sara: "It's a book from when I was still a fledgling photographer.It's a collection of pictures of desert landscapes around the world."
+
+# fc07f34b
+; me: 「砂漠か。険しい奥地を回ったな」
+me: "It's a desert. It's a rough place."
+
+# c6177da
+; sara: 「でも本命はオーロラの写真集だよね。[i]今年、サブストームが撮れたら出すつもり」
+sara: "But I really like Northern Light's photo album.[i]I'm going to release Substorm when I get it this year."
+
+# 59604dbc
+; そう言って、サラはまた自分のカメラの操作に戻った。
+Then Sara returned to operating his camera.
+
+# b00aacd
+; sara: 「だから、できるだけすべてのオーロラを撮ろうとしてるんだ。[i]今日みたいな弱いもんでも、オーロラはみんな特別だ」
+sara: "So I'm trying to get as many Northern Lights as I can.[i]Even though they are as weak as they are today, Northern Light is all special."
+
+# e82c31da
+; me: 「そうだな」
+me: "Yes,"
+
+# 17a558a7
+; それからも、俺はサラと色んな話をしながら、オーロラの撮影を続いた。
+From then on, me continued filming Northern Light, talking about various things.
+
+# 3ea899f
+; ……
+……
+
+# 77770a04
+; me: （今日はこんなところかな）
+me: "(This is where it is today.)"
+
+# b6b95e55
+; 空の緑色が少し弱くなったところで、俺はカメラ装備の片付けを始めた。
+When the green color of the sky became a little weaker, me began to clean up the camera equipment.
+
+# dd3cc7e1
+; 時間を見ると午後１１時だった。
+It was eleven o'clock in the afternoon.
+
+# 18e8b5b9
+; 普通は午前１時ころにもっとよく見えるんだそうだけど、これで十分だと思った。
+I heard that you can usually see better around 1 a.m., but I thought this was enough.
+
+# 8f5f1d4
+; カメラの片付けを終えて、荷持ちを持ち上げた俺にサラが話かけてきた。
+After cleaning up the camera, Sara spoke to me, who had lifted the load.
+
+# 92acbc35
+; sara: 「あれ？もう行くのか？[i]……少しだけ待ってたら、もっと明るいやつが出そうだけど」
+sara: "Huh? Are you going now?[i]…… If I wait a little longer, I think I'll get a brighter one."
+
+# 4a59754
+; me: 「うん。俺は今日が初日だからね」
+me: "Yes. Today is the first day of me."
+
+# 30a181e9
+; sara: 「そっか。楽しかったけどね。[i][char sara.default]……では、ヒルドルハットに戻るのか？」
+sara: "Well, it was fun, though.[i][char sara.default] Does …… return to Hildur Hut?"
+
+# 3b7f0c0b
+; me: 「サラは戻らないか？」
+me: "Will Sara ever come back?"
+
+# df31593c
+; sara: 「ああ。ボクはあと２時間はここに居るつもり」
+sara: "Yes, I'll be here for another two hours."
+
+# 5ea9d421
+; 本の資料に使うための撮影だからかな。流石にプロなのだな。
+Maybe it's because it's a photo shoot to be used for book materials.As expected, you are a professional.
+
+# 786b928f
+; 一人でずっとオーロラの写真だけ撮って、退屈じゃないんだろうかな。
+I guess I'm not bored because I've been taking pictures of Northern Light all by myself.
+
+# 21480005
+; ……でも、俺はアイスランド旅行がメインだから、
+…… But me mainly travels to Iceland.
+
+# abdb9153
+; オーロラにだけ時間を取られるわけにもいかない。
+Northern Light I can't take my time alone.
+
+# d311fceb
+; me: 「そっか。では俺は先に帰るよ。あまり遅くならずに、気をつけてな」
+me: "Well, then me will go home first.Don't be too late, and be careful."
+
+# 4e09d336
+; sara: 「ああ。{playerName}もな。アイスランドの夜道は危険だからな、気をつけて帰れよ」
+sara: "Yes, {playerName}, too.The streets of Iceland are dangerous at night, so be careful going home."
+
+# 140315d
+; me: 「おう、サラもな」
+me: "Oh, Sara, too,"
+
+# f486fa03
+; sara: 「うん！それじゃ、またね。[i]あとでホステルの部屋で会おうね！」
+sara: "Yes! See you later.[i]I'll see you in hostel's room!"
+
+# 6b6d3b17
+; サラはとても明るい笑顔で、手を振りながらそう挨拶してくれた。
+Sara greeted me with a very bright smile, waving his hand.
+
+# a6cf6e21
+; me: 「ああ。また」
+me: "Yes, again,"
+
+# 34dfaeb9
+; 俺も駐車場に移動しながら、後ろを見て手を振った。
+I also looked behind him and waved as he moved to the parking lot.
+
+# 80e3c3a2
+; me: 「またね、か」
+me: "See you later,"
+
+# 386904c
+; 旅行中にそんな挨拶を聞けるとは思わなかったな。
+I didn't expect to hear such a greeting during the trip.
+
+# 99adc645
+; これもホステルの楽しいところだな。
+This is another fun part of hostel.

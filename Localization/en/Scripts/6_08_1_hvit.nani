@@ -1,0 +1,101 @@
+; Japanese <ja> to English <en> localization document for `6_08_1_hvit` naninovel script
+
+# cfb3b4e8
+;  <ruby="クヴィートセルクール"> Hvítserkur</ruby>。
+<ruby="Kuvy Selkur">Hv ítserkur</ruby>.
+
+# 147c58fb
+; アイスランド語で『白いシャツ』という意味を持つ。
+It means 『 white shirt 』 in Icelandic.
+
+# d9b5bf07
+; 鳥の糞により岩が白いシャツを着ているように見えることから名付けられた。
+It was named because the rock looked like a white shirt because of bird droppings.
+
+# 334350ef
+; アイスランの伝説によると、これも今までの同じく、石化したトロールだと。
+According to an ice run legend, this is also a petrified Troll.
+
+# 2f677772
+; かつて修道院に石を投げつけるトロールがいた。
+There used to be Troll throwing stones at monasteries.
+
+# 4e5aec8e
+; 丘の上の修道院の鐘の音が大嫌いだったそのトロールは、
+Troll, who hated the sound of the convent bells on the hill,
+
+# 666b55c
+; やがて棍棒を担いて、修道院を壊しに行ってた。
+Then he carried a club and went to destroy the monastery.
+
+# 1d097168
+; この行為に怒った神は、太陽の位置をぐんぐん上昇させ、トロールを完全に凍らせた。
+Angry at this act, God raised the position of the sun and completely froze the Troll.
+
+# 9811324d
+; カチンコチンに凍ったトロールはその後石化し現在にいたるという。
+The frozen Troll later petrified to the present day.
+
+# 1d3f40b8
+; trollbig: 「……………………………………」
+trollbig: "……………………………………"
+
+# cd6c8404
+; yule: 「グレリヨール！ご先祖様。今日も激怒ですね。くすくす」
+yule: " Glediyol! Our ancestors.I'm furious again today, giggle."
+
+# 5add5a03
+; trollbig: 「！！！！！」
+trollbig: "！！！！！"
+
+# 86c68afe
+; yule: 「あの修道院はもう諦めましょう」
+yule: "Let's give up that monastery,"
+
+# 41b16182
+; trollbig: 「<s>　　　　　　　　　　　　</s>」
+trollbig: "<s></s>"
+
+# 34926c9d
+; yule: 「今日は尋ねたい事がありまして。あの人間の記憶ですが……」
+yule: "I have something to ask you to-day.I remember him, ……."
+
+# 2f8b8ae8
+; trollbig: 「……」
+trollbig: "……"
+
+# ab8a6089
+; yule: 「えっ？もう知ってたんですね。流石はご先祖様です」
+yule: "What? You already knew.As expected, they are ancestors."
+
+# d58330bc
+; trollbig: 「<s>　　　　　　　　　　　　　　</s>」
+trollbig: "<s></s>"
+
+# b21fcc9b
+; yule: 「あ～～なるほど、ヒルドルですね。となると全ての鍵は、あいつが持ってるのかな」
+yule: "Oh, I see, Hildur. Then I wonder if he has all the keys."
+
+# 539ac16c
+; trollbig: 「——」
+trollbig: "——"
+
+# 1c17d7a8
+; yule: 「外界の神との……そうですか。思ったよりも、やばい状況ですかね」
+yule: "Is that so …… with the gods of the outside world?The situation is worse than I thought."
+
+# 3acd7601
+; trollbig: 「——？」
+trollbig: "——？"
+
+# 48b0c644
+; yule: 「えっ？あの幽霊ですか？はい。ヨークルスアゥルロゥンで偶然……ちょうどいいですね。あの幽霊の体についてですが……」
+yule: "What? That Ghost? Yes. …… by chance is just right.As for Ghost's body, ……."
+
+# 78b43371
+; trollbig: 「<s>　　　　　　　　</s>」
+trollbig: "<s></s>"
+
+# 3ece3f8d
+; yule: 「ええっ？そうですか？？」
+yule: "What? Is that so?"

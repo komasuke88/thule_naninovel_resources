@@ -1,0 +1,165 @@
+; Japanese <ja> to English <en> localization document for `_ellidaey` naninovel script
+
+# 8fe7180
+; me: 「これはいったい……」
+me: "This is ……,"
+
+# 16542720
+; yule: 「くすくす、どうですか？」
+yule: "What do you think, giggle?"
+
+# 610c0a06
+; 俺たちは車の上に乗ってる。
+I They're on top of the car.
+
+# 5a726bd6
+; 車はまるで高速のボートみたいに、海の上を走ってる。
+The car runs like a high-speed boat on the sea.
+
+# bd2b18a0
+; me: 「この車、水陸両用だったのか？」
+me: "Was this car amphibious?"
+
+# 188c750
+; yule: 「ユールちゃんの魔法ですよ！もう」
+yule: "It's the magic of Yule!"
+
+# 40b8bb16
+; そりゃもちろん知ってた。
+Of course I knew it.
+
+# 2c942a4c
+; 運転もしないのに、車は勝手に海の上を勝手に走ってるし。
+Even though I don't drive, the car runs on the sea without permission.
+
+# 1d2ef7dd
+; バランスも安定していて落ちないんだ。
+The balance is stable and won't fall off.
+
+# f30bf1c4
+; me: 「車で、海まで走れるなんて」
+me: "I can't believe I can drive to the sea."
+
+# 6f12a145
+; yule: 「ね？行けない場所などないでしょう？」
+yule: "Well? Is there any place you can't go?"
+
+# bb1abf67
+; me: 「ここまま、海外まで行こうぜ！」
+me: "`Let's just go abroad!'"
+
+# 482f9160
+; yule: 「ウゥゥ……それは……すみません」
+yule: "Woo …… That's …… I'm sorry."
+
+# 3e42daf0
+; me: 「……いやまあ、ちょっと言ってみただけだ」
+me: "…… "Well, I've only said a few words,"
+
+# 19ba4677
+; トゥーレは、同じ地球ではない。
+Thule is not the same earth.
+
+# 83a7768f
+; 同じように見えるけど、異世界だ。
+It looks the same, but it's a different world.
+
+# 16345850
+; その世界の境界線は、ちょうどアイスランドの領海の限界まで。
+The boundaries of the world are just as close to Iceland's sea border.
+
+# d8483574
+; その外には、何もない。
+There's nothing else.
+
+# 5e84935
+; 境界を超えて飛んでいっても、同じ海と空がずっと続くだけ。
+Even if you fly across the border, the same sea and sky will continue.
+
+# 5279bc07
+; このトゥーレは、まるで孤立された島だ。
+This Thule is like an isolated island.
+
+# 3b1840a6
+; 領域の境界を超えると、ユールちゃんは魔力を失うという。
+It is said that Magical Power loses Yule when it crosses the boundary of the region.
+
+# c27d686d
+; yule: 「ユールちゃんは無敵なのは、この領域の中だけですよ」
+yule: "The only thing that Yule is invincible is in this realm,"
+
+# 47ed6302
+; me: 「なんだか閉じられた世界みたいだな。息苦しくないのか？」
+me: "It's like a closed world.Don't you have difficulty breathing?"
+
+# a18e1879
+; yule: 「ええ、全然。トゥーレだけでも十分楽しいですし、また人間世界にも行けますから」
+yule: "No, not at all. Thule alone is fun enough, and you can also go to the human world."
+
+# 1f8886a0
+; me: 「ま、それならいいか」
+me: "Well, then,"
+
+# 5b4be6e
+; me: 「あの島は……」
+me: "That island is ……,"
+
+# a0395c62
+; 不思議な島だ。
+It's a strange island.
+
+# d1f36c55
+; 何もない孤島だと思ったのに、近づいてみると、一軒だけ家があった。
+I thought it was an empty island, but when I approached it, there was only one house.
+
+# bd053292
+; me: 「あんな孤立されてる場所に、家があるなんて」
+me: "I can't believe there's a house in such an isolated place."
+
+# e9bd2f2a
+; yule: 「 <ruby="エリザエイ"> Elliðaey</ruby>島。[i]あそこの家は『世界一寂しい家』として知られてます」
+yule: "「 <ruby=" Ellidaey">Eli ðaey</ruby> Island. [i] That house is known as 『 the loneliest house in the world."
+
+# 67dbdded
+; me: 「いったい誰が住んでるんだ？」
+me: "Who in the world lives there?"
+
+# d1abc38e
+; yule: 「今は誰も住んでませんよ」
+yule: "No one lives there now,"
+
+# 74b3f3d5
+; me: 「誰もいない？」
+me: "Nobody?"
+
+# cd06622
+; yule: 「少し前まではエルフの家族が住んでたのですが……今はその気配もないですね」
+yule: "Until a little while ago, Elf's family lived there, but now there's no sign of it."
+
+# 3fd1acef
+; me: 「空き家だね」
+me: "It's an empty house,"
+
+# a666c042
+; yule: 「人間世界でも１９３０年に最後の住民は去って、今は無人島になってます」
+yule: "The last inhabitants of the human world left in 1930 and are now uninhabited."
+
+# a600645b
+; me: 「トゥーレでもアイスランドでも、捨てられた家か」
+me: "Is it an abandoned house in Thule or Iceland?"
+
+# 650ab66f
+; yule: 「じゃあ、ユールちゃんたちが頂きましょうか？[i]あの家をユールちゃんと{playerName}の愛の巣にするのです。くすくす」
+yule: "Then shall the Yules have it?"[i]I will make that house the nest of love between {playerName} and giggle."
+
+# 5fbb6b8f
+; me: 「いやいや」
+me: "No, no,"
+
+# 3f5faa83
+; yule: 「ぐっ……」
+yule: "Good ……,"
+
+# a4d7e031
+; エリダエイ島を一回りした後、俺たちはまた陸地に戻った。
+After a round of the Isle of Elidaay, the mes returned to land.

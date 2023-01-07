@@ -1,0 +1,69 @@
+; Japanese <ja> to English <en> localization document for `djupivogur` naninovel script
+
+# 196e2b6b
+; me: 「デュピヴォグルの町に着いたな」
+me: "We have arrived at Village of Dupivoglu,"
+
+# 69107870
+; 東アイスランドの小さな港町、 <ruby="デュピヴォグル"> Djúpivogur</ruby>。
+<ruby="Dupivogur">Dj úpivogur</ruby> is a small port in East Iceland.
+
+# 328cfeb
+;  <ruby="ハマルスフィヨルド"> Hamarsfjörður</ruby>の隣に位置していて、
+Located next to <ruby="Hamarsfj ör ður</ruby>
+
+# a2d9a5b4
+; 後ろには <ruby="ブランスティンドル"> Búlandstindur</ruby>山が位置する。
+Behind is the <ruby="Branstindle">B úlandstindur</ruby> mountain.
+
+# 166e0743
+; ブランスティンドルはピラミッド型の玄武岩山。
+The Blastindor is a pyramid-shaped basalt mountain.
+
+# 9a5ee3ba
+; まるで人工物の彫刻のような美しい形をした、この町のトレードマークだ。
+It is the trademark of Village, which is beautifully shaped like an artificial sculpture.
+
+# cbe00a1
+; me: 「夏に来ていたら、願いごとでもしたのだが……」
+me: "If I had come in the summer, I would have wished ……."
+
+# 75bef955
+; この地域の伝説によると、
+According to the legend of this region,
+
+# d3821daf
+; あの山に夏至の時に願い事をしたら、それは叶うって話がある。
+There is a story that if you make a wish on that mountain during the summer solstice, it will come true.
+
+# ae30ad18
+; me: 「願いごとか……」
+me: "It's a wish, ……"
+
+# 1bafbac
+; そんなものができたら、俺は何を願うのだろう。
+What would me wish for if he could do such a thing?
+
+# 791ee1b9
+; 旅ライターとして無事にデビューして、売れっ子の作家になれますようにと？
+I hope you can safely Byu as a travel writer and become a popular writer?
+
+# 42befbe4
+; ……なんだか違う気がする。
+…… I don't think so.
+
+# b9c02967
+; 確かに俺は今旅ライターを目指してるけど、果たしてそれが本当に切実な夢だったのかな。
+It's true that me is aiming to become a travel writer now, but I wonder if that was a real dream.
+
+# c1587f3a
+; 勢いでここまで来てはいるけど、今となっては確信がない。
+I've come all the way here, but I'm not sure now.
+
+# c9d029b8
+; me: 「……っと、満タンになったな」
+me: "Well, it's full now,"
+
+# ef7fdf82
+; ガソリンスタンドで給油をしながら、俺はそんな事を考えていた。
+While refueling at the gas station, me was thinking about this.

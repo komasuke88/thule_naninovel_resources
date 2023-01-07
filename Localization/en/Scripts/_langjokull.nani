@@ -1,0 +1,229 @@
+; Japanese <ja> to English <en> localization document for `_langjokull` naninovel script
+
+# ed217edc
+; me: 「こ、ここは……雲の上なのか？」
+me: "Is this …… above the clouds?"
+
+# 8d36d6dd
+; 一瞬でどこかに飛んできて、こんな真っ白く染まってる荒野に立ってると、そんな気分になる。
+I feel like that when I fly somewhere in an instant and stand in such a white-colored wilderness.
+
+# 63e69877
+; yule: 「ここは <ruby="ラングヨークトル"> Langjokull</ruby>。雲ではなく、氷河の上ですよ」
+yule: "This is <ruby="Langjokull">Langjokull</ruby>.It's not a cloud, it's a glacier."
+
+# 79ee5133
+; アイスランドで二番目に大きい氷河、ラングヨークトル。
+The second largest glacier in Iceland is Lang Yorktol.
+
+# 5421f75b
+; 英語ではLong Glacierと言って、長い氷河って意味だ。
+Long Glacier is a long glacier in English.
+
+# 4266c8a0
+; レイキャヴィクからのアクセスが容易で、
+Easy access from Reykjavik.
+
+# 3c4d71b8
+; また火山の活動も他の氷河に比べたら活発ではないので、
+Volcanic activity is also less active than other glaciers.
+
+# ee2c5ad
+; 危険性は低く、意外とポピュラーな氷河だ。
+It is a low-risk, surprisingly popular glacier.
+
+# 23f51b12
+; スノーモービルでの旅行が特に人気があって、
+Snowmobile travel is especially popular.
+
+# c24ccd62
+; スキーとハイキングコースとしても人気だ。
+It is also popular as a ski and hiking course.
+
+# 82a955ed
+; 少し歩いて来ると、山頂が見えた。
+I walked a little and saw the top of the mountain.
+
+# df2909a9
+; yule: 「この氷河の中には人工的な空間もあるんですが、知ってます？」
+yule: "There is also an artificial space in this glacier. Do you know that?"
+
+# 50d1d5fd
+; me: 「氷河の中？シェルターみたいに？」
+me: "In a glacier? Like a shelter?"
+
+# 7c0d9130
+; yule: 「早速行ってみましょうか！」
+yule: "Shall we go at once?"
+
+# 260e6d9
+; me: 「あ、ちょ、ちょっと、うわっ！」
+me: "Oh, wait, wait, wait, wait!"
+
+# c775ef70
+; ユールちゃんは俺の手をとって、雪山の峰へと走った。
+Yule took me by the hand and ran to the peak of the snowy mountain.
+
+# b4c0ed28
+; me: 「氷河の中に、こんな場所が……」
+me: "A place like this in the glacier ……."
+
+# 3e27ba8
+; yule: 「よくできたものでしょう？[i]ラングヨークトルツアーなら、外せない名所ですよ」
+yule: "Well done, isn't it?"[i]The Lang York Tour is a must-have attraction."
+
+# 3f1044bf
+; ユールちゃんに続いて、雪山に開いてる氷のトンネルに入って、
+Yule Then we went into an ice tunnel open in the snowy mountains.
+
+# 30e83b15
+; 長い氷のトンネルの一番奥に、こんな場所があった。
+At the very back of the long ice tunnel was a place like this.
+
+# c85770da
+; 氷の礼拝堂。
+an ice chapel.
+
+# 78a39db8
+; このトンネルはアイスランドの地球物理学者、
+This tunnel is an Icelandic geophysicist.
+
+# 52937c84
+; Ari Trausti Guðmundssonが設計して建設した場所。
+Designed and built by Ari Trausti Gu ð mundson.
+
+# e1bde0de
+; 真冬でなくても、いつでも氷河の中を探検できるように作られた。
+It was designed to explore the glacier anytime, even in the middle of winter.
+
+# a38249c9
+; 訪問客たちは分厚い氷上の下を横断し、
+The visitors crossed under the thick ice.
+
+# 5cf1a464
+; 内部に生きてる美しい青の景色を堪能する事ができて、
+I was able to enjoy the beautiful blue scenery inside.
+
+# 18df0bd6
+; また氷河の形成過程について習う事もできる。
+You can also learn about the formation process of glaciers.
+
+# 90e643ce
+; me: 「特に宗教的な目的で作られたんじゃないんだな」
+me: "It's not made for any particular religious purpose,"
+
+# 1e1410
+; yule: 「ですが、魔法について結構理解のある者が作ったと思います」
+yule: "But I think it was made by someone who had a good understanding of magic."
+
+# d5aba536
+; me: 「魔法？」
+me: "Magic?"
+
+# 77557bc3
+; yule: 「ここは氷河の中。ユールちゃんたちフルドゥフォルクの魔力の源の更に中心でして」
+yule: "This is in the glacier.Yule and more central to the source of Magical Power in Huldufolk."
+
+# 4efc8961
+; me: 「氷河が、魔力の源？」
+me: "Is the glacier the source of Magical Power?"
+
+# 23b3a44d
+; yule: 「アイスランドのすべての氷河が、ユールちゃんたちに力を与えてくれてるんです」
+yule: "All the glaciers in Iceland are empowering the Yules."
+
+# 4b99aed0
+; me: 「そうか。ならばこの氷河の中は、魔力で満ちてるって事か」
+me: "Well, so this glacier is full of Magical Power."
+
+# dba60aba
+; yule: 「そうですよ。なのでユールちゃんは、ここにいるだけで魔力が回復するんですよ」
+yule: "Yes, so Yule can recover from just being here."
+
+# bb8c4438
+; 氷河洞窟を出た俺たちは、またラングヨークトルの雪山に戻った。
+After leaving the glacier cave, the mes returned to the snowy mountains of Lang York.
+
+# aeef0030
+; me: 「ここは氷河って行っても、斜面も急でなく、広くて穏やかだな」
+me: "This is a glacier, but the slope is not steep, it's wide and calm."
+
+# 5fc71de2
+; yule: 「そうですよ。だから人間世界でもスノーモービルとか、色んなレジャーで人気ですもん」
+yule: "Yes, that's why snowmobiles and other leisure activities are popular in the human world."
+
+# ea314d3d
+; me: 「この壮大な氷河の上でスノーモービルか。一度はやってみたいな」
+me: "Snowmobile on this magnificent glacier.I'd like to try it at least once."
+
+# 74fde346
+; yule: 「はい。今のうちに楽しんでおいた方がいいですよ。[i]このラングヨークトルは、あと長くないですもん」
+yule: "Yes, you'd better enjoy it before long.[i]This Langyorktol is not long to go."
+
+# 7175a346
+; me: 「長くない？」
+me: "Isn't it long?"
+
+# 298cc3f7
+; 名前は『長い氷河』なのにな。
+It's called 『 long glacier 』.
+
+# 709f517a
+; yule: 「この氷河は、とても早い速度で消えてるんです」
+yule: "This glacier is disappearing very fast."
+
+# bd0936b2
+; me: 「えっ？？……それって、氷河が早く溶け落ちてるって事？」
+me: "What? …… Does that mean the glaciers are melting down quickly?"
+
+# c6830a66
+; yule: 「そうですよ。アイスランドは氷河が多いですが、このラングヨークトルは特に早いですよ。[i][char yule.l-nayami]人間世界の科学者たちは、約１５０年内に消えると予測してました」
+yule: "Yes, Iceland has a lot of glaciers, but this Lang York is especially fast.[i][char yule.l-nayami] Scientists in the human world predicted that it would disappear in about 150 years."
+
+# be0ab8c5
+; me: 「１５０年……人間一人の寿命と、あまり変わらないな」
+me: "150 years …… It's not much different from the life expectancy of a human being."
+
+# 30326e6b
+; yule: 「しかもそれは去年までの話で、今年の予測は３０年といいますよ」
+yule: "And that was until last year, and this year's forecast is 30 years."
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# 8ff1ae6f
+; そういえば聞いた事ある。
+Come to think of it, I've heard of it.
+
+# 6518b5b
+; 今年のような異常高温が続くと、アイスランドの氷河は３０年で消えると、エーリック教授が言ってた。
+Professor Eric said Iceland's glaciers will disappear in 30 years if abnormal temperatures continue this year.
+
+# ea8da1ee
+; yule: 「ユールちゃんたちフルドゥフォルクにとって、３０年なんてあっという間ですから。[i][char yule.yoko_sad_close_dot]もう時代の終わりが見えるようで、悲しくなります」
+yule: "Thirty years goes by so quickly for Yule and Huldufolk.[i][char yule.yoko_sad_close_dot] It makes me sad that I can see the end of the era."
+
+# 78c89304
+; ユールちゃんたちを守ってる魔力は、アイスランドの氷河から来るもの、と言ってたな。
+Yule You said that Magical Power, who is protecting them, comes from Icelandic glaciers.
+
+# 9eb7d611
+; それが消えてるって事は、ユールちゃんたちの世界も、徐々に終わりが近づいてるって事か。
+The disappearance of it means that the world of Yule is gradually coming to an end.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 1db63d7e
+; 人間もフルドゥフォルクも、この地球で永遠にはいられないのだな。
+Neither man nor Huldufolk can live on this earth forever.
+
+# 633eaeae
+; 魔法の源についてもっと詳しく聞きたい気持ちもあったけど、
+I wanted to hear more about the source of magic.
+
+# f4e3699
+; 今はただこの雄大な氷河の景色を眺めて、その偉大なる力を自分も感じてみようと思った。
+Now I thought I should just look at the magnificent glacier and feel its great power.

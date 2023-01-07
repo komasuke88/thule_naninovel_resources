@@ -1,0 +1,353 @@
+; Japanese <ja> to English <en> localization document for `3_03_4_checkout` naninovel script
+
+# 2b3b0c90
+; me: 「Takk」
+me: "Takk"."
+
+# f7e578ac
+; counter: 「……」
+counter: "……"
+
+# 4f97023b
+; フロントで、チェックアウトを済ませた。
+I checked out at the front desk.
+
+# 9f4212e1
+; ２泊３日があっという間だった。
+Two nights and three days went by so quickly.
+
+# 71c1117a
+; 夜にちゃんと寝た事もなかったのに。
+I didn't sleep well at night.
+
+# ca030d08
+; 少し宿泊代が惜しい気もするけど、ま、安いところだし。
+"I think the accommodation fee was a bit disappointing, but it was cheap."
+
+# b42eccc3
+; [br]アイスランドでの最初の宿だから、短い間だったけど名残惜しい。
+[br] "Since it was my first inn in Iceland, it was a short time, but I was sad."
+
+# d23e7a09
+; そういや、教授には世話になったのに、お別れの挨拶もできなかったな。
+by the way I couldn't even say goodbye to the professor even though he helped me.
+
+# 377c56c4
+; せめて連絡先でも聞けばよかったんだけど……
+I should have at least asked for your contact information ……
+
+# 27a2f788
+; ま、ホステルでの出会いなんて、そんなものだよな。
+Well, meeting someone in hostel is like that.
+
+# 76b1e0a1
+; ホステルを出て、駐車場に向かおうとした時。
+hostel I was about to leave and head to the parking lot.
+
+# 9a444eb2
+; lilja: 「ちょっと」
+lilja: "Wait a minute,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# db54c018
+; リルヤがついてきていた。
+Lilya followed.
+
+# c95b1b92
+; me: 「ど、どうしたの？」
+me: "What's the matter?"
+
+# 76241d1a
+; lilja: 「これからディムボルギルに向かうの？」
+lilja: "Are you going to dimmuborgir now?"
+
+# 180c28
+; me: 「いや、今すぐには行かないと思うが……」
+me: "No, I don't think I'm going right now, ……."
+
+# 2e4df3e6
+; lilja: 「……」
+lilja: "……"
+
+# 21a139eb
+; me: 「な、何？」
+me: "What is it?"
+
+# c5037cd0
+; lilja: 「その……ワタクシも連れて行ってくれないかしら。[i]ユールラッズに会いに行くのなら」
+lilja: "Will you take the …… vaxx with you?"[i]Yulelads If you're going to see him."
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# 307a032a
+; lilja: 「ワタクシも、ちょっと彼女とお話してみたくて」
+lilja: "I'd like to talk to her, too,"
+
+# 20a139f2
+; me: 「えっと……トロールは嫌いではなかった？……喧嘩でもするつもり？」
+me: "Well, didn't you hate ……Troll?"…… Are you going to fight?"
+
+# 61c94d20
+; lilja: 「そ、そんな事しないわ」
+lilja: "Well, I wouldn't do that,"
+
+# c2de2bde
+; me: 「……ま、冗談だけど……でもね」
+me: "Well, ……, I'm kidding, ……,"
+
+# 8f4926a9
+; そこに行っても会えるかどうかわからない。
+Even if I go there, I don't know if I can meet you.
+
+# 775c04b2
+; 会えたらいいなーとは思うけど。
+I wish we could meet.
+
+# dee12f11
+; まだトロールとかエルフとか、そういう話を完全に信じてるわけじゃない。
+I still don't fully believe Troll or Elf.
+
+# 5ad19db1
+; me: 「……そこに行っても、絶対に会えるわけでもないだろう？」
+me: "…… "If we go there, we'll never see each other, will we?"
+
+# a13da5ca
+; lilja: 「ううん。あなたなら会える。そのネックレスが導いてくれるはずよ」
+lilja: "No, I can see you.The Neckless will guide you."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# e1a15764
+; だけどこの子は本物だ。
+But whose children are real.
+
+# e702694a
+; フルドゥフォルクを、心から信じてるみたいだ。
+Huldufolk He seems to believe it from the bottom of his heart.
+
+# 172e1092
+; me: 「……そもそも『連れて行って』って、[i]もしかしてリルヤ、車ないの？」
+me: "…… "Take 『 with you in the first place. [i] Do you happen to have Lilya without a 』?"
+
+# 74233256
+; lilja: 「ええ。ワタクシ、運転できないの」
+lilja: "Yes. I can't drive a viper."
+
+# fbc981ee
+; me: 「……って事は、俺の車に乗って、一緒に行きたいって事？」
+me: "Do you mean you want to go with me in her car?"
+
+# c270b372
+; lilja: 「駄目かしら」
+lilja: "Can't you?"
+
+# 39507ca
+; me: 「駄目ってわけじゃないけど……ディムボルギルに着くの、いつになるかわからないよ？[i]俺の都合もあるからな」
+me: "It's not that I can't, but I don't know when I'll arrive at ……dimmuborgir.[i]for me's convenience."
+
+# 8d3ae35d
+; lilja: 「構わないわ。いつか寄るのなら、その間は隣でじっとしてるわ」
+lilja: "I don't mind. I'll stay next to you in the meantime, if I'm going to stop by some day."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 4ad3cafe
+; この子も、無鉄砲だな。
+He's reckless, too.
+
+# a9f3af88
+; 別に一緒に行くのは構わないけど、
+I don't mind going with you.
+
+# afb149ba
+; スケジュールが問題だ。
+The schedule is a problem.
+
+# a284223a
+; ディムボルギルは遠いから、直ぐに行くのは効率が悪い。
+dimmuborgir It's not efficient to go right away because it's far away.
+
+# 334911c1
+; 俺の目的はリングロード一周で、旅行記を書く事だ。
+The purpose of me is to go around Ring Road and write a travel journal.
+
+# bb0dbb5b
+; ディムボルギルに行くのが目的なんじゃない。
+dimmuborgir It's not the purpose of going to .
+
+# 987b78e0
+; [br]そりゃ、できればユールちゃんにはまた会ってみたいし、
+[br] Well, I'd like to see Yule again if possible;
+
+# 2d7d65e6
+; 昨日の出来事やこのネックレスの疑問点も解決したいけど……
+I want to solve yesterday's events and this question about Neckless, but ……
+
+# 65490d8c
+; それはあくまで希望で、目的ではないだから。
+That's just hope, not purpose.
+
+# d693ca63
+; いつかはディムボルギルにも着くとは思う。
+I think I'll arrive at dimmuborgir someday.
+
+# 2c5053eb
+; でも、何日かかるかわからない。
+But I don't know how many days it will take.
+
+# 195a05d
+; 着いたところで、帰り道も考えないと行けない。
+When we get there, we have to think about the way home.
+
+# 4c1a89bd
+; [br]それに、ここからは予約してる宿もない。
+[br] Besides, there are no inns reserved from here.
+
+# 76b618eb
+; その場その場で寝所を探しながら回る旅になる。
+It will be a journey to find a place to sleep on the spot.
+
+# cd414ba2
+; 下手すれば車かキャンプで寝る事もあるだろう。
+If you're not good at it, you might sleep in the car or camping.
+
+# 66a84254
+; 今朝あったばかりの女の子と一緒に行くのは、ちょっと違う気がするが。
+I don't think it's right to go with Girl, who just had it this morning.
+
+# 1a03c95e
+; @choice "断る" goto:.hitoride
+@choice "No" goto:.hitoride
+
+# 5e1b832b
+; @choice "一緒にいく" goto:ed_3_03_4_liljaed
+@choice "I'll go with you" goto:ed_3_03_4_liljaed
+
+# d7dd5594
+; me: 「ごめん。俺は一人で旅したいんだ」
+me: "Sorry. me wants to travel alone."
+
+# fc6e5b79
+; lilja: 「そ、そう」
+lilja: "Yes, yes,"
+
+# c3763011
+; me: 「俺にも俺なりに旅の目的があるからな」
+me: "Because me has its own purpose in traveling,"
+
+# c8759912
+; lilja: 「……わかったわ」
+lilja: "I see ……,"
+
+# 106dc18a
+; me: 「すまんな」
+me: "I'm sorry,"
+
+# f8aff568
+; lilja: 「……ううん。いいわ。[i][char lilja.b_a_e]……ま、でも」
+lilja: "No, …… That's all right.[i][char lilja.b_a_e] ……, but."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# fd29f95a
+; lilja: 「{playerName}は話が通じるみたいだし、これからも相談があるなら乗ってあげるわ」
+lilja: "It seems that {playerName} can communicate, and I'll give you a ride if you have any further advice."
+
+# b2925bb3
+; me: 「え、相談って？」
+me: "What, consultation?"
+
+# 445b2aff
+; っていうか俺の名前、覚えていたんだな。
+I mean, you remembered me's name.
+
+# 2377b881
+; 今まで【あなた】としか言ってないから、覚えられてないと思ってた。
+Until now, I've only said 【 you 】, so I thought you didn't remember.
+
+# 24150cf0
+; lilja: 「フルドゥフォルクについてわからない事があったら、ワタクシに尋ねて頂戴？」
+lilja: "If you have any questions about Huldufolk, ask the vaxxer"
+
+# 2b844858
+; me: 「ああ、相談ってそういう事か。[i]今までその手の話はエーリック教授に相談したけど……」
+me: "Oh, that's what consultation means.[i]I have consulted with Professor Eric about that kind of talk, but ……."
+
+# d0a67105
+; lilja: 「エーリック教授の話なんて、当てにならないわ。[i]ワタクシの方が詳しいの」
+lilja: "You can't count on Professor Eric.[i]I know better about vaxxes."
+
+# a1a1a2d7
+; me: 「そ、そう。ん……わかった」
+me: "Yes, yes, …… I see."
+
+# f7307e53
+; リルヤは教授とは気が合わないみたいだな。
+Lilya doesn't seem to get along with the professor.
+
+# beb4db51
+; 同じくフルドゥフォルクが好きなくせにな。
+You like Huldufolk the same way.
+
+# c48cabd0
+; me: 「でも俺、レイキャヴィクに戻るのは１０日後くらいになると思うけど」
+me: "But me, I think I'll be back in about ten days."
+
+# 77e28b8e
+; lilja: 「……ワタクシの連絡先を教えるわ。何かあったらメール頂戴」
+lilja: "I'll give you the contact information for the viper.Please send me an e-mail if anything happens."
+
+# 148f71a5
+; リルヤはポケットからメモ紙を取り出して、自分のメールアドレスを書いて俺にくれた。
+Lilya took a note from his pocket, wrote down his e-mail address, and gave it to me.
+
+# ecc70922
+; アナログだな。
+It's an analog.
+
+# 9afb6d0a
+; こんなの、嫌いじゃない。
+I don't hate this.
+
+# 79c16011
+; me: 「では俺はもう行くよ。遅くなる前に出発しないと行けないんだ」
+me: "Then me will go.I must leave before it is too late."
+
+# c00c3132
+; lilja: 「ええ、わかったわ。では」
+lilja: "Yes, I see, then,"
+
+# 4c038b16
+; me: 「うん。お元気に」
+me: "Yes, take care."
+
+# a19ae7ac
+; そのまま去っていく俺の背中越しで、リルヤの声が聞こえた。
+I heard Lilya's voice over me's back as she walked away.
+
+# 6ca31163
+; lilja: 「 <ruby="ブレス・ブレス"> bless</ruby> bless」
+lilja: "「 <ruby="breath brace">bless</ruby>bless"
+
+# b1e29ad4
+; それはアイスランド語で、お別れの挨拶。
+That's Icelandic, saying goodbye.
+
+# cc829b4f
+; me: 「 <ruby="ブレス"> Bless</ruby>」
+me: "「 <ruby="Bless">Bless</ruby>"
+
+# b5b6c6
+; だから俺も、同じアイスランド語で回答しながら、その場を去った。
+So me left, answering in the same Icelandic language.

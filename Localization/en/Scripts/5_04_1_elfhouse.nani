@@ -1,0 +1,457 @@
+; Japanese <ja> to English <en> localization document for `5_04_1_elfhouse` naninovel script
+
+# 3625b09c
+; me: 「あれ？」
+me: "Huh?"
+
+# 2ef765df
+; 目の前には、石だらけの丘。
+There was a hill full of stones in front of us.
+
+# ff339f68
+; 洞窟の行き止まりに突き進んで、暗闇に溺れたと思ったのに、
+I thought I had plunged into the dead end of the cave and drowned in the dark.
+
+# 31256bc2
+; 気がついたら、いつの間にか違う場所だ。
+I realized it was a different place.
+
+# f4803e5e
+; 夢を見てるかのようだった。
+It was like I was dreaming.
+
+# 813f9588
+; yule: 「到着です」
+yule: "Here we are,"
+
+# 190b531a
+; me: 「ゆ、ユールちゃん、これはいったい……」
+me: "Yu, Yule, this is ……,"
+
+# 3513497
+; 俺はまたわけがわからなく、ユールちゃんにすがった。
+I leaned on Yule again, puzzled.
+
+# 68c5243f
+; yule: 「あ、これですね。妖精の道です」
+yule: "Oh, here it is.It's the fairy way."
+
+# be260a40
+; me: 「妖精の道？」
+me: "The Fairy Way?"
+
+# 6c190d27
+; yule: 「トゥーレの特定の場所に一瞬で移動できる、[i]ワープポイントみたいなところだと思ったらいいのです」
+yule: "[i] You can think of it as a warp point where you can move to a particular place in Thule in an instant."
+
+# 98929a90
+; me: 「ワープポイントか」
+me: "Is it a warp point?"
+
+# 406c8992
+; 本当に、瞬間移動みたいな事だな。
+It's like moving in a moment.
+
+# 2a1bc973
+; me: 「で、ここに、俺の記憶を盗んだエルフが？」
+me: "And here is Elf who stole the memory of me?"
+
+# b7bd8abc
+; yule: 「はい。あっちの、あの家です」
+yule: "Yes, that house over there."
+
+# 1559eae
+; me: 「あっ？」
+me: "What?"
+
+# 5b40ea8d
+; ユールちゃんが指してるとこを見てみたら、
+I saw where Yule was pointing.
+
+# fe6037c8
+; 家があった。
+There was a house.
+
+# a87e65c9
+; こんな、誰も住めそうに無い殺風景の場所に。
+in such a desolate place where no one could live.
+
+# 58e5fb61
+; me: 「あの家は……」
+me: "That house is ……,"
+
+# 4333571d
+; yule: 「エルフの隠れ家です」
+yule: "It's a haven for Elf,"
+
+# 1cd1f19e
+; me: 「あそこにエルフが住んでるのか」
+me: "Is Elf living there?"
+
+# 4fff346
+; yule: 「はい。近づいてみましょう」
+yule: "Yes, let's get closer."
+
+# dff99c7
+; 不思議な家だった。
+It was a strange house.
+
+# 7fb83f6c
+; 窓から明かりが漏れていて、そこから中を覗いてみた。
+A light was leaking from the window, and I looked through it.
+
+# 58581aa4
+; 部屋の区画はなくて、１LDKみたいだけど広い空間だった。
+"There was no room compartment, it looked like 1LDK, but it was a big space."
+
+# 4641b136
+; 一人のデブ男が、机に座ってる。
+A fat Man is sitting at his desk.
+
+# d55b6969
+; 大きなモニターに顔を突っ込んで、パソコンをやってるみたいだ。
+I feel like I'm using a computer with my face stuck in a big monitor.
+
+# 10493d15
+; me: 「あれがエルフか。よし。俺の記憶を返してくれと話したらいいんだな」
+me: "Is that Elf? Good.I wish I could ask him to remember me."
+
+# d1abdd49
+; 俺はあの家のドアに向かって行こうとした。
+I tried to go to the door of that house.
+
+# 65eaedfd
+; yule: 「ちょ、ちょっと！」
+yule: "Wait a minute!"
+
+# ceda775b
+; ユールちゃんが俺を掴み止めた。
+Yule grabbed me and stopped.
+
+# 2f1e2084
+; me: 「うわっ！何するんだ！」
+me: "Wow! What are you going to do?"
+
+# 15de58d4
+; yule: 「しっ！静かに！」
+yule: "Shh! Be quiet!"
+
+# aedf9ce8
+; me: 「な、なんで？」
+me: "Why?"
+
+# 9bc303f2
+; yule: 「あいつに見つかると駄目ですよ。攻撃されます。エルフの魔法にかかっちゃいますよ」
+yule: "Don't let him find you.You'll be attacked. You'll be under the spell of Elf."
+
+# 4bb95ca1
+; me: 「攻撃？」
+me: "Attack?"
+
+# b770f928
+; yule: 「あいつらは身勝手で、盗んだものでも素直に返すわけないです。むしろ逆ギレします」
+yule: "They're selfish, and they can't give back what they stole.Rather, I get angry."
+
+# 642086d6
+; me: 「その、魔法？[i]……それにかかったらどうなるんだ？[i]即死か？」
+me: "Well, magic? [i] …… What happens if you get caught in it?"[i]Was he killed instantly?"
+
+# 2e697752
+; yule: 「魔法だけで即死はしませんが、結局は死ぬかも知れません。[i]とにかく危険ですから。注意してください」
+yule: "I don't die instantly just by magic, but I might die in the end.[i]Anyway, it's dangerous.Be careful."
+
+# c45c97c9
+; me: 「お、おう……」
+me: "Oh, ……,"
+
+# a66ff522
+; よく分からないけど、危険だと言われたから、じっとする事にした。
+I'm not sure, but I was told it was dangerous, so I decided to stay still.
+
+# 73573abe
+; そして落ち着いてまた中を覗いてみた。
+Then he calmly looked in again.
+
+# e2ade514
+; 男は、モニター画面に夢中だ。
+Man is crazy about the monitor screen.
+
+# e365ea00
+; me: 「あいつが、俺の記憶を盗んだって事か」
+me: "He stole the memory of me,"
+
+# 9bb9cdf5
+; yule: 「そうです。悪いエルフなのです」
+yule: "Yes, it's a bad Elf."
+
+# c7aeedcf
+; 聞いてみると、耳も尖ってるし、エルフっぽい。
+My ears are sharp and Elfish.
+
+# 36c6fd90
+; yule: 「元々エルフは身体が小さいですけど、{playerName}の記憶を元に、{playerName}みたいな身体に変身してるんです」
+yule: "Originally, Elf's body is small, but based on {playerName}'s memory, she transforms into a {playerName}-like body."
+
+# 2560fb3e
+; me: 「そんな事もできるのか。……それにしてもモーダンなエルフだな。家にパソコンまであるのね」
+me: "Can you do that?…… But it's a modern Elf.You even have a computer at home."
+
+# 3ad5556f
+; yule: 「この空間は{playerName}の記憶を元に作り上げられてます。パソコンとかも{playerName}の記憶の中の風景ですね」
+yule: "This space is built on the memory of {playerName}.A computer is also a scene in {playerName}'s memory."
+
+# e0f619e1
+; me: 「あ、そうか。この部屋とパソコンも、俺の記憶」
+me: "Oh, I see. This room and computer are memories of me."
+
+# 79054b8f
+; yule: 「{playerName}の楽しかった思い出を、あのエルフが再現してるんです」
+yule: "That Elf is re-enacting the fun memories of {playerName}."
+
+# 5c71bf33
+; me: 「……楽しかった思い出が、パソコンか……」
+me: "…… "I had fun on my computer or ……"."
+
+# d1d28ce
+; 俺って一体……
+I …… in the worldly ……
+
+# 60f925b7
+; me: 「しかし、お願いができないのなら、どうやって取り戻すんだ？奪う？」
+me: "But if you can't do me a favor, how can you get it back?"Do you want me to take it away?"
+
+# 354a2c80
+; yule: 「記憶が戻る条件はいくつかあります。[i]一番確実なのは、記憶を奪った者が死ぬ事ですが……」
+yule: "There are several conditions under which memory returns.[i]The surest thing is that the person who stole the memory dies, ……."
+
+# 269a7f4
+; me: 「し、死ぬって、あいつを殺すって事か……？」
+me: "But do you mean you're going to kill him, ……?"
+
+# 4bd9596d
+; yule: 「うーん。でもエルフを殺す事は、そう簡単ではないのです。物理的な手段では殺し切れませんし」
+yule: "Well, but killing Elf isn't that easy.You can't kill them by physical means."
+
+# e8c96465
+; me: 「そ、そうだな。いずれにせよ、その方法は無理だと思う。他には？」
+me: "Yes, sir.Anyway, I don't think that's possible.Anything else?"
+
+# d766f76
+; yule: 「隠れ家を占領するんです」
+yule: "We're going to occupy the hiding place."
+
+# f1f84cf9
+; me: 「後者が楽かな。でも占領ってのはどうやって？」
+me: "The latter is easier.But how is occupation?"
+
+# 1b8c080b
+; yule: 「簡単です。[i]あいつを追い出して、{playerName}が中に入ったら勝ちです」
+yule: "It's easy. [i] If you kick him out and {playerName} comes in, you win."
+
+# 53a5b1c3
+; me: 「……よくわからんけど、わかった。[i]でもどうやって追い出す？戦う？」
+me: "I don't know ……, but I do.[i]But how do you kick him out?Do you want to fight?"
+
+# e77b5d6a
+; yule: 「驚かすんです。 イタズラで」
+yule: "It amazes me. It's a prank."
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# efc4ee7c
+; yule: 「ま、それはユールちゃんの専門ですから、任せてください」
+yule: "Well, that's Yule's specialty, so leave it to me."
+
+# f8eeea57
+; me: 「何をするんだ」
+me: "What are you going to do?"
+
+# fa19f773
+; yule: 「ユールちゃんが窓からごっそり忍び込んで、あいつらが大嫌いなイタズラをかましてあげるのです」
+yule: "The Yule sneaks in through the window and makes fun of the pranks they hate."
+
+# 53c4376a
+; me: 「そうか。では俺は何をやればいい？」
+me: "Well, what should me do then?"
+
+# 143aa5c7
+; yule: 「何もすることはないです。ユールちゃんがあいつを追い出したら、後で堂々と入ってください」
+yule: "I have nothing to do.If Yule gets rid of him, please come in later."
+
+# d27aaf5d
+; me: 「ユールちゃんは危なんじゃないの？あいつ、魔法とか使うんでしょう？」
+me: "Isn't Yule dangerous?"He uses magic, doesn't he?"
+
+# 416557d0
+; yule: 「見つからなければ大丈夫です」
+yule: "If you can't find it, it's all right."
+
+# 1ab63a62
+; me: 「見つかったら、どうなる」
+me: "What happens if you find it?"
+
+# f65f57e8
+; yule: 「えっと、ユールちゃんが多分、あのデカイ男にめちゃくちゃに………[i][char yule.l-dere]ああ、もうそれ以上は言えません」
+yule: "Well, Yule probably messed up on that big Man... [i] [char yule.l-dere] Oh, I can't say any more."
+
+# aa77c29a
+; me: 「で、でも、ユールちゃんの魔法で反撃とか、できない？」
+me: "But can't you fight back with the magic of Yule?"
+
+# a2257a00
+; yule: 「できません。あの空間では、あのエルフが主です。[i]家に入ると、ユールちゃんが圧倒的に不利です」
+yule: "I can't. In that space, that Elf is the main thing.[i]Yule is overwhelmingly disadvantageous when you enter the house."
+
+# 3bb8b098
+; me: 「た、大変じゃないか。本当に大丈夫か？」
+me: "Well, it's hard, isn't it?Are you sure you're all right?"
+
+# 159384a4
+; yule: 「大丈夫です。[i]今はあんなにパソコンに気が取れてるから、絶対に見つかりませんよ。……では！」
+yule: "It's all right. [i] You're so distracted with your computer right now that you'll never find it. ……!"
+
+# c960fafd
+; ユールちゃんはごっそり窓から潜入すると、見つからないようにとベッドの下に隠れた。
+Yule sneaked through the window, and hid under the bed in order not to be found.
+
+# e190e3b
+; 隙を見てキッチンに移動するつもりらしい。
+He seems to be going to take the opportunity to move to the kitchen.
+
+# 12f8fdc0
+; 俺はそれを窓から見守ってる。
+I watched it from the window.
+
+# 3467cc8a
+; me: 「……いったい、何をしにいくんだ」
+me: "…… "What on earth are you going to do?"
+
+# c9c7922b
+; 部屋の中のユールちゃん。
+Yule in the room.
+
+# efd6972d
+; ベッドの下から、キッチンに向かって匍匐前進。
+Crawling from under the bed towards the kitchen.
+
+# 80e27a23
+; キッチンに到達したら静かに立ち上がって、キッチンテーブルを見つめた。
+When I reached the kitchen, I stood up quietly and stared at the kitchen table.
+
+# 911cab75
+; そこにはあの大男の食べ残りが色々と散らかしている。
+There are a lot of leftovers from the Great Man.
+
+# 92f8f6dd
+; 汚い部屋だな。
+It's a dirty room.
+
+# e8f9abb9
+; yule: 「はあぁ」
+yule: "Yes,"
+
+# dd0266ad
+; ユールちゃんはそれを見て、物欲しげな表情になる。
+Yule looks wistful at it.
+
+# 31bbd003
+; そして、その中からスプーンをとり……
+Then, take Spoon from it and ……
+
+# 57a62f15
+; yule: 「ペロッ」
+yule: "Flapping,"
+
+# 9271d680
+; me: 「舐めた！？」
+me: "Did you lick it?"
+
+# c6546ac8
+; き、汚い。
+It's dirty.
+
+# a87bebfb
+; 舐めたよ。
+I licked it.
+
+# 446c34f7
+; あのデブの食べ残しスプーンを！
+That fat leftovers Spoon!
+
+# d94e4a9
+; yule: 「レロレロ……ちゅうぅ…はぁぁ」
+yule: "`Lerorello …… Whoo...Oh, my dear fellow!"
+
+# 2e86a70f
+; しかも少しだけではなく、舌を長く出して、スプーンのあっちこっちを舐め回して、キレイにしてる。
+and not only a little, but also a long tongue, licking around Spoon, and cleaning it up.
+
+# 81e3f8e3
+; me: 「げげっ！」
+me: "Oh, my God!"
+
+# 2536f315
+; 俺は顔をしかめた。[br]見ていられない。
+I frowned.[br] I can't bear to watch.
+
+# 3112fb3d
+; しかしユールちゃんはとても満足した顔をしてた。
+But Yule looked very satisfied.
+
+# e2edabc1
+; yule: 「ふぅ……」
+yule: "`Phew ……,'"
+
+# 86957231
+; そして、また別のスプーンを手に取った。
+and took another Spoon.
+
+# f63e89e
+; しかも今回は一個ではなく、手に取られるだけ沢山。それを美味しそうに見つめながら唾を垂らす。
+"This time, not just one, but as much as you can get."He spits while looking at it deliciously.
+
+# dfec54cf
+; イタズラするって言ったくせに、スプーン舐めてるばかり。
+You said you'd play pranks, but you're just licking Spoon.
+
+# e30491f5
+; me: 「どんだけ腹減ってんだおい！」
+me: "`How hungry are you!'"
+
+# e8e375f6
+; タン！
+Oh my gosh!
+
+# c22139af
+; 俺は思わずユールちゃんへ突っ込みを入れた。
+I thrust himself into Yule.
+
+# 2ee7c68c
+; develf: 「うん？誰だ！」
+develf: "Huh? Who is it?"
+
+# f229160c
+; あ、やばっ！
+Oh my gosh!
+
+# 862cdb0b
+; ついノリで窓を叩いてツッコミを入れた。
+I hit the window with glue and put in the tsukkomi.
+
+# 67ff10c
+; develf: 「キチンからか！」
+develf: "From the kitchen!"
+
+# 31fa7837
+; なっ！ユールちゃんが危ない！
+Oh! Yule is dangerous!
+
+# 12ad6980
+; @choice "こっちだ！" goto:5_04_2_sheep
+@choice "This way!" goto:5_04_2_sheep
+
+# db4205aa
+; @choice "見捨てる" goto:ed_5_04_1_develf
+@choice "I'll abandon you" goto:ed_5_04_1_develf

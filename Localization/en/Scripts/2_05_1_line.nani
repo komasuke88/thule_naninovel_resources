@@ -1,0 +1,155 @@
+; Japanese <ja> to English <en> localization document for `2_05_1_line` naninovel script
+
+# 5e63a356
+; 駐車場に来て、車に乗り、エンジンをかけた。
+I came to the parking lot, got in the car, and started the engine.
+
+# 70f18c8a
+; グー○ルマップを起動しようと、スマホのロックを解除した。
+Unlocked Smartphont to bring up the Goggle map.
+
+# dfce261d
+; そしたら……
+Then ……
+
+# ae3e2c74
+; me: 「……ライン、通知？」
+me: "Notice ……LINE?"
+
+# 95622451
+; ラインのアプリに、赤い丸が表示されていた。
+There was a red circle in the LINE app.
+
+# f035019a
+; 気付かなかった。
+I didn't notice.
+
+# 1b642a30
+; スマホの通知なんて、普段あまり見ないからな。
+I don't usually see notifications for Smartphont.
+
+# 8e2dc04e
+; 誰かからプライベートなメッセージが来る事自体、あまりないし。
+I don't often get private messages from anyone.
+
+# e350408e
+; それにしても、誰からだろう。
+But who is it from?
+
+# 2c0cd91a
+; 俺はアプリを起動して、メッセージを確認した。
+I started the app and checked the message.
+
+# 285f2e87
+; @print "ちゃんと宿に着いた？" author:hime speed:0 waitInput:false
+@print "Did you get to the inn properly?" author:hime speed:0 waitInput:false
+
+# a1db13b9
+; @print "わたし、今から街を回ってみようと思ってるんだけど" author:hime speed:0 waitInput:false
+@print "I'm going to go around town now" author:hime speed:0 waitInput:false
+
+# 3ef0bad
+; @print "{playerName}も一緒に行かない？" author:hime speed:0 waitInput:false
+@print "Would you like to go with {playerName}?" author:hime speed:0 waitInput:false
+
+# b2a87037
+; hime: <alpha=#00>((himestamp))<alpha=#ff>
+hime: <alpha=#00>((himestamp))<alpha=#ff>
+
+# 7169d9c7
+; @print "" speed:0 waitInput:false
+
+# f435c65a
+; ヒメからだった。
+Hime It was from
+
+# 45b48a29
+; わけのわからんスタンプ付き。これは本人のキャラだろうか。
+Stamps that make no sense.I wonder if this is his own character.
+
+# 206c4ca
+; ……ま、それはともかく、
+…… Well, at any rate,
+
+# 6ac1d6bd
+; メッセージが届いて時間は、夜９時過ぎだった。
+The message arrived after 9 p.m.
+
+# dfc60809
+; ２時間も前のメッセージだし、今はもう一人で出かけたんだろう。
+It was a message from two hours ago, and now he must have gone out alone.
+
+# 5e0e220e
+; とりあえず……
+First of all, ……
+
+# 73afbcf2
+; @print ""
+
+# afc81774
+; me: すまん。気づかなかった
+me: "I'm sorry. I didn't notice."
+
+# de5415f8
+; me: 誘ってくれてありがとう
+me: "Thank you for inviting me."
+
+# b7dc84c5
+; me: しかし今、レイキャヴィクの外にいてな
+me: "But now I'm outside Reykjavik."
+
+# a010197c
+; me: 遅くなるから、街には行けないそうにない
+me: "It's going to be late, so I don't think I can go to town."
+
+# 7940018
+; と、返信。
+replied he.
+
+# 7e145781
+; ………………
+………………
+
+# 42b262fc
+; 少しだけ待ってみたけど、既読はつかない。
+I waited for a while, but I can't read it already.
+
+# 92d161e0
+; 今頃、街へお出かけしてるのかもな。
+Maybe he'll be out in town by now.
+
+# 34411629
+; ま、明日にでも読めばいいだろう。
+Well, you can read it tomorrow.
+
+# 1251a8cf
+; me: 「んじゃ、俺は出発するか」
+me: "Well, is me leaving?"
+
+# 18fd4386
+; ラインアプリを閉じて、グー○ルマップのアプリを起動した。
+Close the Line app, start the goggle map app.
+
+# d685f717
+; me: 「……レイキャヴィク、ヒルドルハット……っと」
+me: " ……Reykjavik, Hildur Hut……,"
+
+# 43ae40bb
+; ナビをセットして、車のアクセルを踏んだ
+I set the navigation system and stepped on the accelerator.
+
+# 7f11fd6e
+; ……それにしても、
+…… Even so,
+
+# f56d944
+; 誰かからお出かけの誘いなんて、いつ以来だったのかな。
+Since when have I been invited out by someone?
+
+# dad1ae16
+; 思えば、会社員だった頃の俺は、すごく寂しい人生を送ってきたかもな。
+When I think about it, me, who was an office worker, may have lived a very lonely life.
+
+# 4af662cb
+; ……そんな事を考えながら、俺は帰りの道へと車を運んだ。
+…… With these thoughts in mind, me drove the car home.

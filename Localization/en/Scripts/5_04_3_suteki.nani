@@ -1,0 +1,373 @@
+; Japanese <ja> to English <en> localization document for `5_04_3_suteki` naninovel script
+
+# eb682b03
+; yule: 「ふふふ、追い出しましたね[animate sheep posX:74][char yule.awawa]……って、{playerName}？？」
+yule: "You kicked him out 'animate sheet posX:74' [animate sheep posX:74] ……? {playerName}?"
+
+# c884db3d
+; ユールちゃんは俺を見ると、近づいて話しかけた。
+When Yule saw me, he approached her and spoke to her.
+
+# 8ddd78e7
+; yule: 「{playerName}ですよね！魔法をくらっちゃいましたか！」
+yule: "It's {playerName}, isn't it? Have you been enchanted?"
+
+# 3c30a587
+; me: 「べ～～～（そうだよ。どうしよう？）」
+me: "Bye~" (That's right.What shall I do?"
+
+# 80be6c7e
+; yule: 「落ち着いて。<ruby="セッタ・レッダスト">　Þetta reddast</ruby>です」
+yule: "Calm down. This is <ruby=" Thetta reddast"> Thetta reddast</ruby>."
+
+# d3acf174
+; me: 「べ———————（セッタ・レッダスト）」
+me: "Bae------- ( Thetta reddast)"
+
+# b47f962d
+; yule: 「はい。何とかなるんです！」
+yule: "Yes, I can manage it!"
+
+# 967a254a
+; me: 「べ……（そっか！何とかなるんだな！）」
+me: "Bae …… (I see! You can manage it!)"
+
+# bcaaf222
+; 頭まで羊になってせいか、何を言われても気楽だ。
+Perhaps it's because she's a sheep to her head, but she's comfortable no matter what she says.
+
+# 5108a8c4
+; yule: 「しかし、羊ですか……困ったな。この姿をあの子に見つかったら、大変なことに……」
+yule: "But sheep, …… I'm at a loss.If she finds this figure, it'll be a disaster ……"
+
+# 8b7f173
+; me: 「べ——————？（あの子って）」
+me: "Ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba."
+
+# dcf87e0
+; その時、どこからか女の声が聞こえた。
+Then I heard a woman's voice from somewhere.
+
+# 3669f146
+; unknown: 「あら、こーんなところに可愛い羊ちゃんが！ふふふふふ」
+unknown: "`Oh, there's a pretty sheep here!'Whoo-hoo!"
+
+# 631b6af3
+; yule: 「あ、現れやがった！」
+yule: "Oh, he's here!"
+
+# ec849cb9
+; me: 「べ……？」
+me: "Bae ……?"
+
+# c0e26409
+; 振り向くと、女の子がいた。
+I turned to find Girl.
+
+# a1808d0a
+; ユールちゃんと同じく変な格好をしてる。
+Yule She dresses as weird as she does.
+
+# 56d705e2
+; 顔は可愛いのにとても背が高い。
+His face is cute, but he is very tall.
+
+# e7d2f351
+; ……あれ？いや、よく見たら……
+…… Huh? No, if you look closely, ……
+
+# 9b4cdb51
+; 背が高く見えたのは……。
+…… looked tall.
+
+# cbffa626
+; 木でできた、とても長い靴を履いていたから。
+for he wore very long wooden shoes.
+
+# 33661afc
+; 靴？いや、義足かな？
+Shoes? No, it's a prosthetic leg.
+
+# 72b5a7ac
+; ……この子、足が悪いのか。
+…… He has bad legs.
+
+# 84556cdf
+; unknown: 「グレリヨール。スヴォル」
+unknown: " Glediyol. Thuvor."
+
+# e4126f05
+; yule: 「はい。グレリヨールです。[i][char yule.kum] あと、これからアタシのことはユールちゃんと呼んでください」
+yule: "Yes, Glediyol.[i][char yule.kum] Also, please call him Yule from now on."
+
+# 4cdc8f88
+; unknown: 「なにそれ」
+unknown: "What's that?"
+
+# ef397a60
+; me: 「べェ———（この子は？）」
+me: "What about him?"
+
+# 822ebd8a
+; yule: 「ユールちゃんの姉妹です。１日目のユールラッズ、 <ruby="ステッキャルストゥイル"> Stekkjarstaur</ruby>」
+yule: "They are sisters of Yule.Day 1 Yulelads, <ruby=" Stekialstoyle">Stekkjarstaur</ruby>"
+
+# 11d1075e
+; yule: 「長いから、ステッキちゃんって呼んでいいです」
+yule: "It's long, so you can call me Steki."
+
+# aa6cea71
+; よくわからんが、姉妹がいたのか。
+I'm not sure, but did you have any sisters?
+
+# bac14cf9
+; suteki: 「スヴォルって、今日は人里に下りる日じゃなかった？こんなところで何してるの？」
+suteki: "Didn't Thuvor go down to the village today?"What are you doing here?"
+
+# e0472c05
+; yule: 「ちょっと事情があって、エルフにイタズラしてきたところです。[i][char yule.kum]あと、ユールちゃんと呼んでください」
+yule: "I've just been pranking Elf for some reason.[i][char yule.kum] And please call me Yule."
+
+# e0051708
+; suteki: 「そっか。ま、スヴォルがエルフと何をしたってどうでもいいわ。それより……」
+suteki: "Well, I don't care what Thuvor did with Elf. More than that, ……."
+
+# b671c718
+; ステッキちゃんは、俺をじっと見つめた。
+Steki stared at me.
+
+# e01afba1
+; そして、
+And...
+
+# 9ad4d531
+; suteki: 「よっと」
+suteki: "All right,"
+
+# eab3a0e4
+; me: 「べェ———？？」
+me: "Bye?"
+
+# 32c97a6c
+; ステッキちゃんは、いきなり俺の背中に乗った。
+Steki suddenly got on me's back.
+
+# f4d5f1af
+; me: 「べ！？」
+me: "Bae!"
+
+# 8b360778
+; そして、木でできた靴で俺を叩き始めた。
+and began to strike me with his wooden shoes.
+
+# 479212d0
+; パンパン
+with a bang
+
+# b7525552
+; 柔らかいふとももと、硬い木の靴が、俺を苦しめる。
+The soft thighs and hard wooden shoes afflicted me.
+
+# 3742e82c
+; me: 「ベェベェベェ〜〜〜〜〜（重い、痛い）」
+me: "It's heavy, it hurts"."
+
+# 876bf181
+; suteki: 「わはははは」
+suteki: "Hahaha,"
+
+# 35d23a
+; yule: 「だ、だめですよ、イジメちゃ！この羊はユールちゃんのものですから」
+yule: "No, no, bully! This sheep belongs to Yule."
+
+# de9ec948
+; suteki: 「あら、そう？」
+suteki: "Oh, really?"
+
+# 5bb8b20f
+; me: 「べェ——（俺、ユールちゃんのものだったんだ）」
+me: "Bae--(It belonged to me, Yule)"
+
+# 8739b976
+; ステッキちゃんは、素直に <ruby="俺"> 羊</ruby>の背から降りた。
+Steki honestly stepped down from the back of <ruby=" me">sheep</ruby>.
+
+# 385325f4
+; me:「べェ……（こ、この子は何で俺を叩くんだ）」
+me: "Bae ……" (Why is she hitting me?)"
+
+# 30afcc9f
+; yule: 「ステッキちゃんは羊が大好きで、いつも羊をイジメて回る変態です」
+yule: "The Steki loves sheep and is a perversion that always bullies them."
+
+# c305c998
+; suteki: 「あら、スプーン舐めが大好きな変態に言われたくないわ」
+suteki: "Oh, I don't want to be told by a pervert who loves to lick Spoon."
+
+# 5439ce45
+; yule: 「ぐぬぬ」
+yule: "`Sniff,'"
+
+# d5778cc7
+; suteki: 「それよりこの羊、いじり甲斐があるね。どこで手に入れたの？」
+suteki: "This sheep is worth the trouble.Where did you get it?"
+
+# 360afea8
+; yule: 「いや、この羊、実は人間なんです」
+yule: "No, this sheep is actually a human being,"
+
+# 9ac96e29
+; suteki: 「あら、魔法にでもかかっちゃった？」
+suteki: "Oh, have you been enchanted?"
+
+# a1c6bdf9
+; yule: 「そうですよ。実はエルフに記憶を盗まれて」
+yule: "That's right. Actually, Elf stole my memory."
+
+# 5082d464
+; suteki: 「そっか。またトゥーレに迷い込んだ人間なのね。最近多いわね」
+suteki: "I see. He's lost in Thule again.There's a lot these days."
+
+# 3270787
+; yule: 「ま、そんなところです。エルフから記憶を取り戻して、人間に戻ろうとしたところです」
+yule: "Well, that's about it.Elf I've just recovered my memory from it, and I'm about to return to being a human being."
+
+# 712b0982
+; suteki: 「人間に戻すなんてもったいない。今は羊なんだから、羊の人生を楽しめばいいんじゃない？」
+suteki: "It's a waste to put it back into human form.Now that you are a sheep, why don't you enjoy the life of a sheep"
+
+# 2d87ccc9
+; yule: 「いやいや、{playerName}はユールちゃんの旦那候補ですので、人間に戻ってもらわないと困ります」
+yule: "No, no, {playerName} is a candidate for Yule's husband, so I'll be in trouble if I don't get him back."
+
+# 8373fe33
+; suteki: 「へー？婿探し？」
+suteki: "Huh? Looking for a husband?"
+
+# 6ec70c83
+; yule: 「そうですよ。まさに運命の出会いでしたから」
+yule: "That's right. It was a fateful encounter."
+
+# a2f8ccd7
+; suteki: 「そう」
+suteki: "Yes,"
+
+# 78ea45d1
+; ステッキちゃんは適当に会話を切って、また俺の方をじっと見つめた。
+Steki cut off the conversation at random, and stared at me again.
+
+# 1f2e4b3d
+; me: 「べ？（なに？）」
+me: "What?"
+
+# dfe9492f
+; suteki: 「ね、ミルク吸わせてよ」
+suteki: "Well, let me have some milk,"
+
+# 8ce65fa
+; me: 「べー？（なんだと？）」
+me: "What?"
+
+# c29566d2
+; yule: 「ステッキちゃんは、羊のミルクも大好きで、いつもイジメた後に吸ってます」
+yule: "I also love sheep's milk, and I always smoke it after bullying."
+
+# 49b2e516
+; suteki: 「あなたのミルク、美味しそうね（ちゅるっ）」
+suteki: "`Your milk looks delicious,'"
+
+# d902a885
+; me: 「べ———（いや、オスですから）」
+me: "No, it's a male."
+
+# fda2f620
+; suteki: 「ふふふ、かわいい。見るたびに欲しくなるわ。ね、ユールちゃん？」
+suteki: "Phew, you're so cute.Every time I see it, I want it. Yule?"
+
+# 2b9acc4c
+; yule: 「アタシの事はユールちゃ……[char yule.hi]あ、はい」
+yule: "About Atashi, ……cha Yule [char yule.hi] Ah, yes."
+
+# 4a42f269
+; suteki: 「この子、あたしにくれない？」
+suteki: "`Can't you give her to me?'"
+
+# bcdd881f
+; me: 「べ———？？？」
+me: "Ba----?"
+
+# 1d6db835
+; yule: 「ダメです。ユールちゃんが先に見つけましたから、ユールちゃんのモノです」
+yule: "No, Yule found it first, so it's from Yule."
+
+# f9070dfa
+; 俺って……
+I and ……
+
+# 8e05f2ae
+; suteki: 「婿にするにも、人間の意志を尊重するのが、あたし達のルールじゃない？」
+suteki: "Isn't it our rule to respect the will of man when we marry him?"
+
+# c74a9b40
+; yule: 「それはそうですけど……」
+yule: "Yes, but ……,"
+
+# 88a4d706
+; suteki: 「本当はあたしの方が好きかもよ？」
+suteki: "`Maybe you like me better?'"
+
+# dc396988
+; yule: 「そ、そんなはずないのです……」
+yule: "Well, that can't be true ……,"
+
+# b54504b6
+; suteki: 「なら、この子に選択させましょう？」
+suteki: "Then shall I let her choose?"
+
+# 6091e911
+; yule: 「それって？」
+yule: "What is that?"
+
+# d5360023
+; suteki: 「少し離れたところで、同時にこの子に呼びかけて、近づけた者の勝ちで」
+suteki: "At a distance, he called her at the same time, and the one who approached her won."
+
+# 82ff0688
+; 犬かよ。
+Is it a dog?
+
+# a93ea6f3
+; yule: 「へー。わかりました。それならやってみましょう」
+yule: "Oh, I see.Then I'll try it."
+
+# 86c20eac
+; suteki: 「あら、自信家だね。ふふ、いいわ。決まりね」
+suteki: "Oh, you're very confident.Phew, that's fine. That's it."
+
+# c50ef39b
+; me: 「べ———（俺の意志は？）」
+me: "What is me's will?"
+
+# 96fb3420
+; 二人は俺から少し距離をとって、俺に振り向いた。
+They distanced themselves a little from me and turned to me.
+
+# f40df297
+; suteki: 「こっちにおいで。いっぱいイジメてあげる」
+suteki: "Come here.I'll bully you a lot."
+
+# a3422a9a
+; yule: 「こっちに来て下さい。ユールちゃんと記憶を取り戻しに行きましょう」
+yule: "Come here, please.Yule Let's go and get back our memories."
+
+# e6d09d36
+; 突拍子もない話しだけど、決めないといけないらいい。
+It's crazy, but I hope we have to decide.
+
+# 8371fa72
+; @choice "ユールちゃんのモノ" goto:5_04_4_selectyule
+@choice "Things in Yule" goto:5_04_4_selectyule
+
+# dd68c867
+; @choice "ステッキちゃんのモノ" goto:ed_5_04_3_sheep
+@choice "Things from Steki" goto:ed_5_04_3_sheep

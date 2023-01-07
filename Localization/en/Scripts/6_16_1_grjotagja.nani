@@ -1,0 +1,153 @@
+; Japanese <ja> to English <en> localization document for `6_16_1_grjotagja` naninovel script
+
+# e9d46ba0
+; 地面に大きな割れ目。
+a large crack in the ground.
+
+# 63e275cb
+; 底が見えない穴が、地下まで続くようだった。
+A hole that could not see the bottom seemed to continue underground.
+
+# 105dc3ca
+; keruta: 「 <ruby="グリョゥタギャゥ"> Grjótagjá</ruby>という溶岩洞窟です。ぼくたちが愛用する癒やしの温泉です」
+keruta: "「 It is a lava cave called <ruby="Gryutagya">Grj ótagj á</ruby>.It's our favorite healing hot spring."
+
+# 91e7dfa5
+; me: 「温泉？」
+me: "Hot spring?"
+
+# 9723ce9f
+; keruta: 「この下に温泉がありますゆえ」
+keruta: "There's a hot spring down here."
+
+# fd543271
+; me: 「こ、この中？……」
+me: "Am I in here? ……."
+
+# 2d2ed40b
+; とても入れそうにないんだけど。
+I don't think I can put it in.
+
+# 5f2f3fd5
+; keruta: 「あ、いいえ。こっちへ」
+keruta: "Oh, no, come this way."
+
+# d1f58ea4
+; ケルタちゃんがドタドタと横側の道を降りてった。
+Kerta She plodded down the side street.
+
+# 8feb654d
+; me: 「なるほど、洞窟か」
+me: "Well, a cave,"
+
+# 1d1a7294
+; ちゃんと人が一人入れそうな穴が空いてあった。
+There was a hole in it that could fit one person in.
+
+# 797befc1
+; keruta: 「ですです。ユールちゃんはここで入浴してますゆえ」
+keruta: "That's right. Yule is bathing here."
+
+# 9cefc524
+; me: 「……えっと」
+me: "…… "Well,"
+
+# 19ab63da
+; 入浴禁止だって、入り口に警告看板が書いてあるけど……
+There is a warning sign at the entrance saying that bathing is prohibited ……
+
+# d85d55f2
+; ま、気にしないでおこう。どうせこれは人間世界のものなんだし。
+Well, let's not worry about it.It belongs to the human world anyway.
+
+# 9409f888
+; keruta: 「ささ、どうぞ入って入って」
+keruta: "Sasa, please come in."
+
+# 2b9ebcdb
+; me: 「えっ？いや、入浴中にお邪魔するのはちょっと……あれじゃないか？」
+me: "What? No, it's a bit …… to interrupt while taking a bath, isn't it?"
+
+# 667e5f33
+; keruta: 「スヴォルは夜までは外へ出られませんよ。まだ太陽の光を自動反射できないゆえ」
+keruta: "You can't go out till night, Thuvor.It's because it still can't automatically reflect the sunlight."
+
+# 19fc826f
+; me: 「えっ、そ、そう……」
+me: "Oh, yes, ……,"
+
+# 6ad44c16
+; keruta: 「スヴォルに会いたいなら、ここに入るか、夜まで待つかです。[i][char keruta.w]どうするかは{playerName}の自由ですが、どのみちスヴォルに会うんでしたら伝言をお願いします。[i][char keruta.emi]夜になったらアークティック・ヘンジに来るように」
+keruta: "If you want to see Thuvor, go in here or wait till night.[i][char keruta.w] It's up to {playerName} to decide what to do, but if you're going to meet Thuvor anyway, please leave a message.[i][char keruta.emi] Come to Arctic Haengji at night."
+
+# 80e0cd27
+; me: 「えっ？あ、うん。わかった。……って、ケルタちゃんは？」
+me: "What? Oh, yes. All right. What about ……?"
+
+# 152589f3
+; keruta: 「ぼくは急ぎの用事もありますので、これで」
+keruta: "I have urgent business to attend to, so now,"
+
+# 8f956f6a
+; me: 「えっ？ちょ、ちょっと？？」
+me: "What? Wait a minute?"
+
+# 86a80690
+; にゃー
+Moew
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# d270ec9e
+; 猫の鳴き声とともに、ケルタちゃんは姿を消した。
+With the cry of a cat, Kerta disappeared.
+
+# 8bdec19f
+; もう少し色々と聞きたかったんだけど、あっという間に去っていった。
+I wanted to hear a little more, but he left in no time.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# a519b13a
+; 静かになった。
+It became quiet.
+
+# fffff232
+; 風の音だけが聞こえてくる。
+I can only hear the sound of the wind.
+
+# 14875579
+; 一人になったと、強く感じてしまう。
+I feel strongly when I'm alone.
+
+# 36567892
+; 思えば人間に戻ってからは、初めての一人になったな。
+Now that I think about it, I've become one of the first people since I became a human being.
+
+# d43c1a77
+; 馬だった時より、少し心細く、寂しい感じがする。
+I feel a little more lonely and lonely than when I was a horse.
+
+# 9e048b92
+; me: 「……さて」
+me: " …… Now,"
+
+# 4ec99926
+; ユールちゃんに会いに行こうか。
+Shall we go see Yule?
+
+# 219c5c4e
+; ここから降りて、あの穴の中に入るのだったな。
+You're going down here and into that hole.
+
+# bbec232
+; @choice "中に入る" goto:6_16_2_onsen
+@choice "Go inside" goto:6_16_2_onsen
+
+# 53fb97d8
+; @choice "外で待つ" goto:ed_6_16_1_fishman
+@choice "Wait outside" goto:ed_6_16_1_fishman

@@ -1,0 +1,375 @@
+; Japanese <ja> to English <en> localization document for `2_06_1_morning` naninovel script
+
+# 3ddc4b01
+; 二日目、午前９時。
+Day two, 9 a.m.
+
+# a5691856
+; me: 「な、何だ？」
+me: "What is it?"
+
+# 514a476b
+; スマホのバイブレーションで、目が覚めた。
+The vibration of Smartphont woke me up.
+
+# 1a6c4d12
+; me: 「通知？」
+me: "Notification?"
+
+# 7b5988a3
+; スマホをスワイプして、アプリを開いた。
+Swipe Smartphont to open the app.
+
+# 83732d54
+; @print "しかし今、レイキャヴィクの外にいてな" author:me speed:0 waitInput:false
+@print "But I'm not outside Reykjavik right now" author:me speed:0 waitInput:false
+
+# 2284c8d9
+; @print "遅くなるから、街には行けないそうにない" author:me speed:0 waitInput:false
+@print "I don't think I can go to town because it's going to be late" author:me speed:0 waitInput:false
+
+# d1f6a6cf
+; @print "おはよう！初日はよく寝た？" author:hime speed:0 waitInput:false
+@print "Good morning!Did you sleep well on the first day?" author:hime speed:0 waitInput:false
+
+# 78a9d4a7
+; @print "昨日はお互いスケジュールが合わなかったね" author:hime speed:0 waitInput:false
+@print "We didn't have the right schedule yesterday." author:hime speed:0 waitInput:false
+
+# 9b82d16a
+; me: 「あ、ヒメからだな」
+me: "Oh, it's from Hime,"
+
+# 2d75fc4
+; 昨日送ってたメッセージの返事が今来たみたいだ。
+I think I just got a reply to the message I sent yesterday.
+
+# b2a87037
+; hime: <alpha=#00>((himestamp))<alpha=#ff>
+hime: <alpha=#00>((himestamp))<alpha=#ff>
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 36e73bb6
+; 今、新しく来たよな？メッセージ。
+It's new, right?message。
+
+# 7dec0c1c
+; 俺の既読を確認して、スタンプを送ったのか。
+Did you check the reading of me and send a stamp?
+
+# da37261a
+; リアルタイムの会話か。
+It's a real-time conversation.
+
+# b9be8337
+; こんなの久しぶりだ。
+It's been a long time since I did this.
+
+# 73afbcf2
+; @print ""
+
+# ac771034
+; me: うん。俺は街の外へ出かけていたからね
+me: "Yeah. me was out of town."
+
+# a73dbb8
+; me: ヒメの方はどうだった？街は、楽しかった？
+me: "How was Hime?Did you enjoy the city?"
+
+# 88fff3a4
+; hime: へへ、実は、街はあまり見てないんだ
+hime: "Hehe, actually, I haven't seen much of the city"
+
+# 8f407eda
+; me: あれ？なんで？
+me: "Huh? Why?"
+
+# ded4bc3b
+; hime: パブに行ったんだ。{playerName}が話してくれたあそこ
+hime: "I went to a pub. That place {playerName} told me about."
+
+# 21a3dfa9
+; me: 初日からパブか。すごいな
+me: "It's a pub from the first day.That's awesome."
+
+# ea19fae1
+; hime: アイスランドの人と、沢山飲んだよ
+hime: "I drank a lot with Icelanders."
+
+# a62099d8
+; hime: その後、みんなでオーロラも見た
+hime: "After that, we all saw Northern Light."
+
+# 8a806260
+; すごい社交性だな。
+You're very sociable.
+
+# af36a8bd
+; 初めて会った外国人とお酒のんでオーロラ観察なんて。
+How could you observe Northern Light while drinking with a foreigner you met for the first time?
+
+# f957162
+; 俺は人が多い場所とは無縁なんだから、想像もできないけど、
+I has nothing to do with crowded places, so I can't imagine it.
+
+# e1329f07
+; ヒメはそんなところ、慣れてるのだな。
+Hime You're used to that kind of place, aren'
+
+# 73afbcf2
+; @print ""
+
+# 2af27a45
+; hime: {playerName}は何してたの？昨日
+hime: "{playerName} What were you doing?yesterday"
+
+# f0d7e9f
+; me: 俺も、オーロラ見てきたよ。街の外によく見える場所があって
+me: "I've seen Northern Light me.There's a good place out of town."
+
+# 3e3748fa
+; hime: へーいいな
+hime: "Oh, that's nice."
+
+# bbb5f0d4
+; hime: もっとよく見える場所があったんだね、オーロラ
+hime: "There was a better place to see, Northern Light"
+
+# 4d3e7063
+; hime: 一緒に見られたらよかったのにな
+hime: "I wish we could have seen it together."
+
+# 7c721e58
+; me: ま、そうだな
+me: "Well, that's right."
+
+# f99f076a
+; me: メッセージの確認が遅れて、すまなかった
+me: "Sorry for the delay in checking the message."
+
+# cb15a9e1
+; hime: あ、いいよそんなの、気にしないから
+hime: "Oh, okay. I don't care about that."
+
+# 3c15aaa6
+; hime: で、今日は何するの？
+hime: "So what are you doing today?"
+
+# 4357660d
+; 今日の予定か。なんだっけ。
+Today's schedule? What was it?
+
+# d44f991
+; ああ、そうだ。
+Oh, that's right.
+
+# 73afbcf2
+; @print ""
+
+# 9254c4b8
+; me: 今日はゴールデンサークルを回ろうとしてる
+me: "I'm going to go around the Golden Circle today."
+
+# 7c3b7339
+; hime: ゴールデンサークルって？
+hime: "What is the Golden Circle?"
+
+# b1f2614b
+; me: アイスランドで一番有名な観光コースで
+me: "It's the most famous sightseeing course in Iceland."
+
+# f28a45c6
+; me: シンクヴェトリル国立公園、グトルフォスの滝、ゲイシールの間欠泉
+me: "Thingvellir National Park, Gullfoss Falls, Geydir Intermittent Springs"
+
+# 3a281e19
+; me: この３つの場所を巡るルートの名称だよ
+me: "It's the name of the route that goes around these three places."
+
+# cf36f8c6
+; hime: へー楽しそう！
+hime: "Wow, that sounds fun!"
+
+# 4e4f7d62
+; ……これは、俺から誘った方がいいのかな。
+…… Should I invite me?
+
+# eb4016c8
+; なんて言えばいいの。
+What should I say?
+
+# 3aa19bcc
+; 一緒にゴールデンサークル行かないかって？
+"Do you want to go to the Golden Circle with me?"
+
+# 76379abd
+; ……いやいや、まる一日ずっと二人っきりになるんだぞ？ちょっと無理があるんじゃないか。
+…… No, no, we're going to be alone all day.I think it's a bit unreasonable.
+
+# a20174c7
+; まずは、相手の予定の確認かな。
+First of all, I would like to confirm the other person's schedule.
+
+# 73afbcf2
+; @print ""
+
+# e0b74352
+; me: ヒメの方は？今日は街を回るのかな？
+me: "What about Hime? Are we going around town today?"
+
+# d5b0b6de
+; hime: うん
+hime: "Yup."
+
+# a5d46218
+; hime: 昨日友達になったアイスランドの人と、ショッピング行こうって約束したんだ
+hime: "I promised to go shopping with my friend from Iceland yesterday."
+
+# fa3e3104
+; 先約があったのか。
+Did you have a previous engagement?
+
+# 11f8c50
+; ……先走りして、無理に誘わなくてよかった。
+…… I'm glad I didn't force myself to go ahead.
+
+# 2775e5d
+; 少し緊張したけど、ま、そんなもんだな。
+I was a little nervous, but I don't think so.
+
+# 74a927ae
+; それにしても、外国人と一晩で友達になるとか。
+Even so, you can make friends with foreigners overnight.
+
+# 6963e5ce
+; コミュ力高いな。
+You have a lot of communication.
+
+# 5e382082
+; アイスランドの人とレイキャヴィクの観光とは、それはそれで楽しそうだな。
+Icelanders and sightseeing in Reykjavik sounds fun.
+
+# 73afbcf2
+; @print ""
+
+# 88e40238
+; hime: {playerName}も一緒に行けばいいのに
+hime: "{playerName} I wish I could go with you."
+
+# 2f275ff4
+; hime: レイキャヴィク観光はしないの？
+hime: "Reykjavik Don't you go sightseeing?"
+
+# 77ccbcd5
+; me: 俺はリングロード一周が目標でね、街は計画にないんだ
+me: "me's goal is to go around the ring Road, and the city isn't in the plan."
+
+# e0c09316
+; hime: そっか
+hime: "I see"
+
+# 5c6f77ce
+; hime: でも来週は、一度くらい街に来たほうがいいと思うよ？
+hime: "But I think you'd better come to town at least once next week."
+
+# ab8f8c11
+; me: 来週、何かあるの？
+me: "Do you have anything next week?"
+
+# c6077f59
+; hime: １２月１５日からはユールタイムと言ってね
+hime: "From December 15th, it's Yule time."
+
+# a07aea29
+; hime: 色んなパレードとかコンサートとか開催されて
+hime: "There are various parades and concerts."
+
+# 2a824b0c
+; hime: 街のお店は午後１０時まで延長営業して
+hime: "The stores in town are open until 10 p.m."
+
+# a5f6da8d
+; hime: 街全体がお祭り雰囲気になるんだって
+hime: "I heard that the whole city will have a festive atmosphere."
+
+# c04389ee
+; me: お祭りか。クリスマスパーティーとか？
+me: "A festival? Like a Christmas party?"
+
+# 55e5a94f
+; hime: うんうん。徐々に盛り上がって２５日に最高潮になるんだって
+hime: "Yeah. It's going to get excited and peak on the 25th."
+
+# 6e2bcda5
+; そんなものがあったんだな。
+I didn't know there was such a thing.
+
+# 2e4f1863
+; 街の事はあまり調べてないから、知らなかった。
+I didn't know much about the city because I didn't know much about it.
+
+# 3f937f77
+; 俺がここに来る前に調べたのは、全て自然景観の事だったからな。
+for it was all about the natural landscape that me looked into before he came here.
+
+# 16a9a82a
+; 興味はあるが。
+I'm interested.
+
+# 73afbcf2
+; @print ""
+
+# dd71fa96
+; hime: アイスランドのお祭りなら、旅行記のいいネタにもなるんじゃない？
+hime: "If it's an Icelandic festival, wouldn't it be a good topic for travel journalism?"
+
+# 7349caea
+; hime: どうですか？ライターさん
+hime: "What do you think, writer?"
+
+# 6cf025b6
+; me: 確かにそうだな。でもまだ来週の予定がどうなるかわからないが……
+me: "That's true.But I don't know what my plans for next week will be yet ……"
+
+# 48574044
+; hime: もう……一回くらいは一緒に飲もうよ！
+hime: "…… Let's drink together at least once!"
+
+# 71bc0641
+; hime: せっかく知り合いになったんだし
+hime: "We got to know each other."
+
+# 8d28818e
+; me: それもそうだな。わかった。では来週中、連絡するよ
+me: "That's true, too.OK. I'll get back to you sometime next week."
+
+# a05cf5ae
+; hime: 今週でもいいよ
+hime: "I don't mind if it's this week."
+
+# 79c54255
+; hime: 飲みたくなったらいつでも連絡してね
+hime: "Call me whenever you want to drink."
+
+# ff009563
+; hime: わたしはずっとレイキャビックにいるから
+hime: "I've been in Reykabic for a long time."
+
+# d6db71a5
+; me: うん、わかった
+me: "Yeah, I got it."
+
+# 4b3f0b30
+; hime: へへ。そろそろ朝食の時間終わるし、では後でね
+hime: "Hehe. Breakfast time is almost over, see you later."
+
+# 2af564bc
+; me: おう
+me: "oh!"
+
+# b2a87037
+; hime: <alpha=#00>((himestamp))<alpha=#ff>
+hime: <alpha=#00>((himestamp))<alpha=#ff>

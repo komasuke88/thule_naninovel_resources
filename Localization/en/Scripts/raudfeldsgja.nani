@@ -1,0 +1,65 @@
+; Japanese <ja> to English <en> localization document for `raudfeldsgja` naninovel script
+
+# 5a86b8dc
+; me: 「なんだか、凄まじい峡谷だ」
+me: "It's a terrible canyon,"
+
+# 3d20bd57
+; 崖の狭い隙間は、なんだか恐ろしい感じがした。
+The narrow gap between the cliffs felt somewhat frightening.
+
+# ee2131ae
+; この峡谷の名前はここで死んだ少年の名前から由来したという。
+The name of the canyon is said to have come from the name of the boy who died here.
+
+# 6e1b8dfb
+;  <ruby="ラウドフェルドスギャ"> Rauðfeldsgjá</ruby>。
+ <ruby="Loudfeld Suga">Rau ðfeldsgj á</ruby>.
+
+# d0bcd9e6
+; Rauðfeldrは赤いマントと意味で、赤いマントの亀裂って意味に峡谷だ。
+Rau ðfeldr is a canyon in the sense of a red cloak and a crack in the red cloak.
+
+# 10eedb62
+;  <ruby="ラウドフェルド"> Rauðfeldr</ruby>とはこの地に住んでいた少年の名前だ。
+ <ruby="Roudfeld">Rau ðfeldr</ruby> is the name of the boy who lived here.
+
+# a0366174
+; その事に関する物語は、 <ruby="バルダル・サガ"> Bárðar</ruby> Sagaに述べられてる。
+The story about it is described in <ruby="Bardal Saga">B ár ðar</ruby> Saga.
+
+# e69a039d
+; ラウドフェルドは彼の兄弟、 <ruby="ソルビ"> Sölvi</ruby>と、親戚の娘ヘルガと遊んでいた。
+Roudfeld was playing with his brother <ruby="Sorbi">S ölvi</ruby> and his relative's daughter Helga.
+
+# df6440e0
+; 遊びの途中、ラウドフェルドのイタズラで、ヘルガを氷山の上に突き落とされた。
+In the middle of the game, a Loudfeld prank pushed Helga down the iceberg.
+
+# 9f3e853
+; その時、突然と強風がふってきて、そのままヘルガはグリーンランドへと流されてしまった。
+Then a sudden gust of wind swept Helga straight to Greenland.
+
+# 6a3ff65b
+; その事を知ったヘルガの父バルダルは、少年たちをこの峡谷の下に投げ落とした。
+When Bardal, Helga's father, discovered this, threw the boys down the canyon.
+
+# 5be1de07
+; 少年たちは峡谷の挟まれて死に、その後この峡谷にはその少年の名前が付けられた。
+The boys died between the canyons, which were then named after them.
+
+# 3e93191
+; me: 「悲劇の峡谷だったな」
+me: "It was a canyon of tragedy,"
+
+# c4f6c29b
+; 確かにこの峡谷に突き落とされたら、そりゃ生き残れないわ。
+It's true that if you're pushed down into this canyon, you won't survive.
+
+# 72f4af12
+; 激怒して子供を殺した人もまともじゃないが、
+The man who killed the child in a rage is not right;
+
+# d9610903
+; 子供といえと、度が過ぎたイタズラはするもんじゃないんだよな。
+Even a child shouldn't play pranks too much.

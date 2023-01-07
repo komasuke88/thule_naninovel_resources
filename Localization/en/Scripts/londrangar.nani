@@ -1,0 +1,169 @@
+; Japanese <ja> to English <en> localization document for `londrangar` naninovel script
+
+# b71f6573
+; そり立つ断崖絶壁で、断ち切られた陸地の端。
+the edge of land cut off by a steep cliff.
+
+# e2a2e1be
+; 冷たい潮風が顔を叩いて息苦しく、荒い波が海岸を叩いてとてもうるさい。
+The cold sea breeze hits my face and I feel suffocated, and the rough waves hit the coast and it is very noisy.
+
+# b0e8ddef
+; この厳しい一帯の、また最果ての黒い影。
+the last black shadow of this harsh region.
+
+# fb449cbe
+; me: 「これは……」
+me: "This is ……,"
+
+# 6c3d1893
+; man3: 「トロールだよ」
+man3: "It's Troll,"
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# 9ba54d7f
+; だ、誰？
+Who is it?
+
+# 17b9ec79
+; ２つの巨大な岩、 <ruby="ロゥンドランガル"> Lóndrangar</ruby>。
+Two huge rocks, <ruby=" Londrangar">L óndrangar</ruby>.
+
+# 55c34b87
+; 西の城とも呼ばれてるその岩は、太陽の光を浴びて石化した二人のトロールだ。
+The rock, also known as the castle of the west, is a Troll of two people petrified in the sunlight.
+
+# 6a3c8795
+; アイスランドの民話によると、
+According to Icelandic folklore,
+
+# a3959c44
+; 背の高い方は男性のトロール、低い方は女性のトロールで、
+The taller one was Troll of Man, and the lower one was Troll of Woman;
+
+# 7f127a25
+; そのトロール達は、元は人間だった説もあると言う。
+The Trolls say there is a theory that they were originally human.
+
+# 642bf33d
+; me: 「人間だったトロール？」
+me: "Human Troll?"
+
+# 5c9983c9
+; man3: 「厳密には、人間とトロールとのハーフって話だよ」
+man3: "Strictly speaking, it's half human and half Troll."
+
+# 897a8324
+; me: 「二人とも、トロールと人間の間の子供って事ですか？」
+me: "Do you mean they are both children between Troll and man?"
+
+# 36ea33f
+; man3: 「そうだ。ま、ハーフトロールと言っても、トロールの血は強すぎるからな。代が重なるにつれて人間の血は薄くなって消えるってさ」
+man3: "Yes, even if you say half Troll, Troll's blood is too strong. As generations pass, human blood becomes thinner and disappears."
+
+# e8d88311
+; me: 「ハーフと言っても結局トロールなんですね。[i]……しかしなんで人間がトロールと結婚など」
+me: "Half means Troll after all.[i]…… But why do people marry Troll?"
+
+# 3f24a700
+; man3: 「結婚ではないんだ。ただ子供が産まれただけ。[i]よくアイスランドの女トロールは、男を攫って、強制的に関係を結ぶって話があるんだよ」
+man3: "It's not a marriage.I just had a baby.[i]It is often said that Troll, an Icelandic woman, kidnaps Man and forces her into a relationship."
+
+# cad676f7
+; me: 「そ、そうですか」
+me: "Oh, really?"
+
+# 49cdf36c
+; そりゃまるで逆レ○プなんじゃね？
+Isn't that like a reverse ○?
+
+# 8e2bd181
+; me: 「怖い話ですね」
+me: "That's a scary story,"
+
+# 56f10ffd
+; man3: 「ああ。だからお前も夜にはあまり出歩かない方がいい。トロール女に攫われちゃうぞ。んじゃな」
+man3: "Yes, so you shouldn't go out much at night.Troll You're going to be kidnapped by a woman. I don'tell me."
+
+# 551cb325
+; そんな事を言って、男は去っていった。
+Having said that, Man went away.
+
+# 68f0d85a
+; me: 「なんだったんだろう……」
+me: "I wonder what it was ……?"
+
+# 5d214e73
+; トロールの岩を見たあと、駐車場に帰る道。
+The way back to the parking lot after seeing the rocks in Troll.
+
+# 5542c3f
+; me: 「そういえば、ここにはトロールの他にも、人外の存在についての伝説があったな」
+me: "Now that you mention it, besides Troll, there were other legends about extraterrestrials here,"
+
+# ef52131
+; この近くに住んでる農夫たちは、この草原に近づかないという。
+Farmers living near here said they would stay away from the meadow.
+
+# 160946d7
+; ここに住んでいると言われてるエルフのせいだ。
+It's because of Elf, who is said to live here.
+
+# 956c1248
+; ここの草原を害したら、エルフの呪いがあると信じられてる。
+It is believed that if you harm the meadow here, there will be a curse of Elf.
+
+# f2b2bc4c
+; またこの地には、悪魔にまつわる話もある。
+There are also stories about demons here.
+
+# d3d621e3
+; この丘で、アイスランドの詩人である <ruby="コルベイン・ヨクラスカルド"> Kolbeinn</ruby> Jöklaskáldは、
+On this hill, Icelandic poet <ruby="Colbein Yoklascardo">Kolbeinn</ruby>J öklask áld was quoted as saying,
+
+# bc1ff184
+; 波が激しいとある晩に悪魔と遭遇したという。
+It is said that he encountered the devil one night when the waves were high.
+
+# b2e5f1
+; 悪魔はコルベインにゲームを提案した。
+The devil suggested a game to Colvin.
+
+# 4f16f3bb
+; コルベインが詩の一節を唱えたら、悪魔はその詩を韻律に合わせて終わらせるゲーム。
+When Colbein chants a verse from a poem, the devil ends the poem to the rhythm.
+
+# 351a75f2
+; ゲームは夜から夜明けまで続き、勝負が付かなかった。
+The game lasted from night till dawn, and there was no match.
+
+# fe795eda
+; 最後に、コルベインが韻律がない単語で駆け引きをし、
+Finally, Colvin played games with words that didn't rhyme;
+
+# a2f250ea
+; 勝負に勝ち、悪魔をこの海に投げ捨てたという。
+It is said that he threw the devil into the sea after winning the sea.
+
+# f40a90a8
+; me: 「悪魔、トロール、エルフ……」
+me: "The Devil, Troll, Elf……,"
+
+# 34a3280f
+; この西の果ての地では、異世界の存在を思い出させるくらいの異様な何かがあったんだよな、きっと。
+There must have been something outlandish here at the end of the west that reminded me of the existence of a different world.
+
+# 65d7b9df
+; me: 「一体この場所はなんだったのだろうな」
+me: "I wonder what this place was all about,"
+
+# ab74300c
+; そんな事を思いながら、俺はロゥンドランガルから去っていった。
+With this in mind, me left Londrangar.
+
+# 98e398a3
+; 「…………」
+「…………」

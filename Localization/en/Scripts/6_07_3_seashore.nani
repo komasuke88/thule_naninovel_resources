@@ -1,0 +1,541 @@
+; Japanese <ja> to English <en> localization document for `6_07_3_seashore` naninovel script
+
+# 39bda96f
+; unknown: 「{playerName}！{playerName}！？」
+unknown: " {playerName}! {playerName}!"
+
+# ec5b4b29
+; 誰かが俺を呼んでる。
+Someone is calling me.
+
+# f4009627
+; me: 「ここ……は？」
+me: "What about …… here?"
+
+# 913e583
+; unknown: 「あっ、{playerName}気がついたね！」
+unknown: "Oh, {playerName}, you've noticed!"
+
+# cfdd94b
+; me: 「えっ？？ビューちゃん？」
+me: "What? Byu?"
+
+# 7521c94
+; byu: 「うん。ボクだよ。よかった、無事で」
+byu: "Yes, it's me. I'm glad you're safe."
+
+# bf7e8bc2
+; me: 「ど、どうしてここに？っていうか、ここはどこだ？」
+me: "Why are you here?" I mean, where are we?"
+
+# 15a040e4
+; byu: 「南の海の、小さな無人島だよ。[i]夜中に{playerName}が放流してたのを見つけて、ボクがここまで運んだ」
+byu: "It's a small uninhabited island in the southern sea.[i]I found {playerName} released in the middle of the night, and I carried it here."
+
+# fc77b45a
+; me: 「そ、そうか……ビューちゃんが助けてくれたのかな？」
+me: "Well, did ……Byu help me?"
+
+# f4a4e472
+; byu: 「そうだよ？」
+byu: "Yes?"
+
+# 67f489a
+; me: 「あ、ありがとう」
+me: "Oh, thank you,"
+
+# 1e297181
+; しかし夜中って、もう一日過ぎたのかな？
+But is midnight already past one day?
+
+# 4ab1902b
+; me: 「ちなみに今は何日だ？」
+me: "By the way, what date is it now?"
+
+# 23cc612b
+; byu: 「トゥーレには日付の概念はないんだけど、[i]そうだね。人間世界のカレンダーで刻むと、１２月１８日ってとこかな？」
+byu: "There is no concept of date in Thule, but [i] I know.On the calendar of the human world, I think it's December 18th."
+
+# bf697991
+; me: 「１２月１８日？？」
+me: "December 18th???"
+
+# 857ef8da
+; いったい何日過ぎたんだ？知らぬうちに。
+How many days have passed?before I knew it.
+
+# fc8e92d5
+; me: 「それにしても、たまたまビューちゃんが通り過ぎて助かるなんて、運がよかったな俺」
+me: "But I was lucky to be saved by the passing of Byu."
+
+# 3168618c
+; byu: 「たまたまじゃないよ。[i]ユールちゃんが南の島に向かうのを見つけてね。[i][char byu.sad]それで心配になって来てみたの、んでもって、それは正解だったわけ」
+byu: "Not by chance.[i]Find Yule heading for the southern island.[i][char byu.sad] So I came here because I was worried, so that was the right answer."
+
+# 5034dd90
+; me: 「南の島が、心配……？」
+me: "Are you worried about the southern island ……?"
+
+# 3ff4fab9
+; byu: 「今、南の海は邪気に満ちていて、危ないからね」
+byu: "Now the southern sea is full of Evil Force, and it's dangerous."
+
+# 991cde5a
+; 邪気……
+Evil Force……
+
+# b6b33767
+; そうだ。俺たちは南の海で……あの岩に……
+Right. mes …… in the southern sea.…… on that rock
+
+# 6f4576f7
+; me: 「あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ！！！？？？？？？」
+me: "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+# a32e5eb2
+; byu: 「{playerName}！しっかり！！」
+byu: " {playerName}! Stay strong!"
+
+# ab272bb5
+; me: 「あ、あれ？」
+me: "Oh, that one?"
+
+# adf1b679
+; byu: 「邪気が強すぎたのね」
+byu: "Your Evil Force was too strong,"
+
+# 97e41113
+; me: 「あ、あの岩はいったい？」
+me: "Oh, is that rock?"
+
+# b784d747
+; byu: 「外界の神だよ」
+byu: "He's the god of the outside world,"
+
+# 4cc60850
+; me: 「神？」
+me: "God?"
+
+# 7932fd40
+; 象の頭みたいな岩。
+a rock like an elephant's head.
+
+# ca222fbb
+; あれはただの岩ではない。
+That is not just a rock.
+
+# 864eb18a
+; 『外界の神』
+『 』 the god of the outside world
+
+# 7bdd7309
+; 外界の神が石化された姿だと言う。
+It is said that the god of the outside world has been petrified.
+
+# 31e16a8c
+; その神がどこから来たのか誰も知らない。
+No one knows where the god came from.
+
+# d964e16e
+; トゥーレの存在ではない。
+Thule does not exist.
+
+# 7354da60
+; 人間世界の存在でもない。
+It's not even the human world.
+
+# c501b75b
+; ずっと昔から、ただそこに存在してた。
+It's been there for a long time.
+
+# 1169949e
+; 最初は、ただの岩だった。
+At first, it was just a rock.
+
+# 14a94430
+; 何の問題もなかった。
+There was no problem.
+
+# 1075de0
+; しかしいつからか、岩が邪気を放つようになった。
+But from some point on, rocks began to emit Evil Force.
+
+# 232308f8
+; 邪気は、生き物を狂わせてしまう。
+Evil Force drives creatures crazy.
+
+# 7f27530c
+; その岩に触れた者がみんな狂ってしまった。
+Everyone who touched the rock went mad.
+
+# d26b51d1
+; その岩に近づく者がみんな狂ってしまった。
+Everyone who approached the rock went mad.
+
+# 2f845cb0
+; 影響範囲はどんどん広くなった。
+The range of influence grew wider and wider and wider.
+
+# 72c46d25
+; 影響力はトゥーレだけだった。
+Thule was the only influence.
+
+# bd93aea0
+; 人間世界では、ただの岩のままだった。
+In the human world, it was just a rock.
+
+# ac52d6f3
+; ところが、変な動きがあった。
+However, there was a strange movement.
+
+# 4c0a0eb8
+; 人間世界で、とある宗教団体があの岩をこう呼び始めたのだ。
+In the human world, a religious organization began calling the rock this way.
+
+# 1d0be3e0
+; 『外から来た我らの神』と。
+『 』 our God from outside.
+
+# 372a00bb
+; トゥーレで、あの岩が邪気を放つようになってからだ。
+Thule and it was only after the rock began to release Evil Force.
+
+# 5cd3e4a0
+; それでフルドゥフォルクもその岩を『外界の神』と呼ぶようになった。
+So Huldufolk came to call the rock 』, the god of the outer world.
+
+# de2543f6
+; 邪気は恐ろしいものだったけれど、
+Evil Force was a terrible thing;
+
+# 7d3910e1
+; フルドゥフォルクにとっては脅威ではなかった。
+Huldufolk It was not a threat to him.
+
+# 2e576976
+; 魔力で防ぐ事ができたからだ。
+Magical Power I was able to prevent it.
+
+# bebfa59e
+; 魔力があるフルドゥフォルクは狂わなかった。
+The Huldufolk that had Magical Power didn't go crazy.
+
+# 7b14e5c6
+; 邪気の影響を受けなかった。
+Evil Force was not affected.
+
+# ba811a8c
+; しかし、今では状況が変わった。
+But now the situation has changed.
+
+# 5d944af0
+; 日々邪気は強くなって、魔力は弱くなってる。
+Every day Evil Force gets stronger and Magical Power gets weaker.
+
+# 11178990
+; もはや魔力を持ってるフルドゥフォルクであっても、
+Even if Huldufolk already has Magical Power,
+
+# e3007455
+; その影響力から逃れる事はできない。
+You can't escape that influence.
+
+# 15ca7495
+; 邪気を完全に防ぐ事ができない。
+Evil Force There is no complete prevention of
+
+# febd1857
+; 気をつけないといけない。
+You have to be careful.
+
+# 3e03ac32
+; me: 「近づくと、狂ってしまう？」
+me: "Do you go crazy when you get close?"
+
+# 5b635ee8
+; byu: 「うん。[i]あの岩から放ててる邪気のせいでね」
+byu: "Yeah. [i] Because of Evil Force that's being released from that rock."
+
+# f319f0c3
+; me: 「邪気……」
+me: "The Evil Force……,"
+
+# 111d4c80
+; byu: 「魔力で防げるけど、[i]ボクたちの魔力は弱くなってるからね。[i]うっかりするとユールちゃんでもやられちゃうよ」
+byu: "You can prevent Magical Power, but [i] our Magical Power is getting weaker.[i]If you forget, you'll get Yule."
+
+# b744a2a1
+; me: 「あ、そうだ！[i]……ユールちゃんはどこに？？」
+me: "Oh, that's right! [i] Where's ……Yule?"
+
+# ca8721f3
+; byu: 「ユールちゃんは、この海から消えたよ」
+byu: "The Yule has disappeared from the sea,"
+
+# f0d8af8a
+; me: 「なっ！？」
+me: "What!"
+
+# 30817b21
+; byu: 「あ、大丈夫。死んではいないよ。気を失っただけ。[i]安全装置が発動して、家に戻ったんだ」
+byu: "Oh, it's all right. I'm not dead.I just fainted.[i]The safety device was activated and I went home."
+
+# 90d79f4b
+; me: 「安全装置？」
+me: "Safety device?"
+
+# dcc9bf6b
+; byu: 「ユールラッズの身は魔力によって保護されてるんだ。[i]死の危機がせまると、自動的に安全な場所へとワープするんだ」
+byu: "The body of Yulelads is protected by Magical Power.[i]When death is imminent, it automatically warp to a safe place."
+
+# bcb7232c
+; me: 「ワープか。よかった。魔力があれば無敵なんだな」
+me: "It's warp, I'm glad to hear that.Magical Power It would be invincible to have it."
+
+# 3ac76d97
+; byu: 「うん。魔力がある限りはね」
+byu: "Yes, as long as you have Magical Power."
+
+# cce9b88c
+; me: 「で、ユールちゃんはディムボルギルに？」
+me: "And Yule to dimmuborgir?"
+
+# 9f504713
+; byu: 「よく知ってるんだね。[i]うん。[i]だから目が覚めたらここに来るはずよ。{playerName}を探しに」
+byu: "You know very well.[i]Yeah. [i] So when you wake up, you'll be here to find {playerName}."
+
+# a29c1383
+; me: 「そっか。それなら安心だ」
+me: "I see. That's a relief."
+
+# c54f948a
+; ユールちゃん、後でここに来るのか。
+Yule Will you come here later?
+
+# 594f90b7
+; byu: 「ところで、{playerName}……？」
+byu: "By the way, {playerName}……?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 54d0bf13
+; byu: 「助けてあげたのだから、なにかご褒美はない？」
+byu: "Do you have any reward for helping me?"
+
+# 17b64d75
+; me: 「ご、ご褒美？？」
+me: "A reward?"
+
+# aaf8b6e2
+; byu: 「じ——っ」
+byu: "Jeez,"
+
+# 4ea03503
+; ビューちゃんはいつぞやのように、悩ましげに俺の股間を見つめた。
+Byu stared anxiously at me's crotch.
+
+# 51dc9998
+; 俺はビューちゃんにご褒美を……
+I …… reward Byu
+
+# c3ee5bc9
+; @choice "あげない" goto:.hime
+@choice "I won't give you" goto:.hime
+
+# a47b10ed
+; @choice "あげる" goto:ed_6_07_2_byuend
+@choice "I'll give it to you" goto:ed_6_07_2_byuend
+
+# ea703ba9
+; me: 「そ、そういえば、ヒメは知らないのか？」
+me: "Now that you mention it, don't you know Hime?"
+
+# c0e70159
+; byu: 「ひめ？誰？」
+byu: "Hime? Who?"
+
+# 53cb45d8
+; あ、そっかビューちゃんはヒメを知らないのか。
+Oh, I see. Doesn't Byu know Hime?
+
+# cdc16b40
+; その時、
+At that time,
+
+# 722363e4
+; hime: 「{playerName}～～～無事だったんだ！」
+hime: "{playerName}~~ You're safe!"
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# f53089f
+; ヒメがまたいきなり現れた！
+Hime appeared again suddenly!
+
+# fb7ef4e4
+; me: 「び、びっくりした」
+me: "Oh, my God!"
+
+# 4f921fb6
+; hime: 「もう、そろそろなれてよね！[i][char hime.e]……ところで、この子は？」
+hime: "It's about time you got used to it! [i] [char hime.e] …… By the way, what about her?"
+
+# 6038a3af
+; me: 「ああ、この子はビューちゃんと言って、ユールちゃんの姉妹……」
+me: "Oh, she's Byu, ……'s sister,"
+
+# b6e20d82
+; byu: 「げっ……」
+byu: "Oh, ……,"
+
+# aae904be
+; ビューちゃんがヒメを見てこわばった表情になった。
+Byu looked stiff at Hime.
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# ce4b6db4
+; byu: 「ご、ゴーストだよぉぉぉぉぉ」
+byu: "`Oh, it's a ghost,'"
+
+# 61109ba2
+; そう言ってビューちゃんは、どこかに消えてしまった。
+Then Byu disappeared somewhere.
+
+# 774e47ed
+; me: 「なっ、びゅ、ビューちゃん！！？？」
+me: "Oh, my God, Byu!!?"
+
+# 56ac914a
+; いきなり消えてしまって、あっけらかんとなる。
+It suddenly disappears and I'm in a.k.a. blank.
+
+# 8537f928
+; me: 「ビューちゃん、どこに？」
+me: "Where, Byu?"
+
+# d662d0d2
+; hime: 「あ、あれ？ど、どうなってるの？」
+hime: "Oh, that one? What's going on?"
+
+# e821f827
+; me: 「し、知らん。[i]おーい！ビューちゃん！」
+me: "But I don't know. [i] Hey!Byu!"
+
+# 5210d691
+; とにかく叫んでみた。
+Anyway, I screamed.
+
+# 707be39a
+; byu: 「ぼ、ボクはそろそろ行くから」
+byu: "Well, I'm going now,"
+
+# 3625b09c
+; me: 「あれ？」
+me: "Huh?"
+
+# c04622a1
+; どこからかビューちゃんの声だけが聞こえた。
+I heard only Byu's voice from somewhere.
+
+# f1c54a20
+; hime: 「声だけ聞こえてるね。魔法かな？」
+hime: "I can only hear your voice.Is it magic?"
+
+# fd51dc03
+; 姿は見えないのに。
+I can't see him.
+
+# 880c269
+; me: 「ビューちゃん、どこに行くって言うんだ？[i]……っていうか、俺たちはどうしたらいい？」
+me: "Where are you going, Byu?"[i]…… I mean, what should I do with me?"
+
+# ab5fd6a7
+; ここ、無人島だろう？
+Is this an uninhabited island?
+
+# ba1bf6cc
+; byu: 「もうすぐユールちゃんが来ると思うよ。メッセージを送っておいたから。じゃあね」
+byu: "I think Yule is coming soon.I sent you a message. See you later."
+
+# d848a53a
+; me: 「あ、ユールちゃん目覚めたのか。っていうかメッセージって……？」
+me: "Oh, Yule, are you awake? Or is the message ……?"
+
+# 3ea899f
+; ……
+……
+
+# a364f3d1
+; 返事なし。
+No answer.
+
+# 3407f3a3
+; me: 「おーい！ビューちゃん？」
+me: "Hey! Byu?"
+
+# 3ea899f
+; ……
+……
+
+# 1d95302d
+; 静かだ。
+It's quiet.
+
+# cfb66d4f
+; hime: 「……もう行っちゃったのかな？」
+hime: "Is …… gone?"
+
+# 7602379e
+; me: 「そ、そうみたいだな」
+me: "Well, I suppose so,"
+
+# 539cd992
+; 何でいきなり去って行ったんだろう。
+Why did he leave all of a sudden?
+
+# d86da55e
+; 状況からするに、ヒメが苦手みたいだったのけれど……
+Judging from the situation, it seemed that he was not good at Hime, but ……
+
+# 3bf1b1de
+; ま、もう行っちゃったのは仕方がない。
+Well, it can't be helped that he's gone.
+
+# c1ebfc32
+; hime: 「……ここで待っていればユールちゃんが来るのかな？」
+hime: "…… "If I wait here, will Yule come?"
+
+# 1fd6e823
+; me: 「そうだな。ユールちゃんにメッセージを送った、みたいな事を言ってたし」
+me: "I know. I sent a message to Yule."
+
+# e2951f51
+; hime: 「うん」
+hime: "Yes,"
+
+# 486bd2ee
+; ……ここでじっとしていればいいのかな。
+…… Should I stay still here?
+
+# 3e2cf4f4
+; me: 「いつまで待てばいいかわからんし、[i]とりあえずこの島の内陸に行ってみようか？」
+me: "I don't know how long to wait. [i] Shall we go inland on this island?"
+
+# 94199b09
+; hime: 「ああ、それいい」
+hime: "Oh, that's good,"
+
+# b5f1a5ef
+; そして俺とヒメはこの無人島の内陸に向かってあるき出した。
+and me and Hime set out to the interior of the uninhabited island.
+
+# 6e01e0b7
+; ま、歩くのは俺だけだけれど。
+Well, I only walk me.

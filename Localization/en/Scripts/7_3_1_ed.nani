@@ -1,0 +1,797 @@
+; Japanese <ja> to English <en> localization document for `7_3_1_ed` naninovel script
+
+# af3111b5
+; 寒い。
+Cold。
+
+# d4f69110
+; 感覚があるってことは、どうやら俺は生きてるみたいだ。
+Sensibility means that me is alive.
+
+# 79fd7e14
+; 長い間、眠っていた気がするけど、そろそろ……
+I feel like I've been sleeping for a long time, but I'm about to ……
+
+# ea144128
+; @choice "目覚める" goto:.mezame
+@choice "Wake up" goto:.mezame
+
+# 6654db85
+; @choice "寝る" goto:ed_7_3_1_dream
+@choice "Sleep" goto:ed_7_3_1_dream
+
+# 3c8a0238
+; 満天のオーロラ。
+Northern Light in the sky.
+
+# 6e98221e
+; 女の子の泣きそうな顔。
+Girl's tearful face.
+
+# 2990ae2
+; それは、いつか見た夢のような風景だった。
+It was a dreamy landscape that I had once dreamed of.
+
+# 54d1af93
+; yule: 「ああ、やっと目が覚めたんですね、{playerName}」
+yule: "Oh, you're finally awake, {playerName},"
+
+# ab272bb5
+; me: 「あ、あれ？」
+me: "Oh, that one?"
+
+# d3cbbcfd
+; 目覚めたばかりで、この状況がうまく把握できない。
+I've just woken up and I can't get a good picture of this situation.
+
+# aeb3b292
+; yule: 「もう……ずっと目を閉じたまま会話するから、本当に目を覚めたかどうか分からなかったじゃないですか」
+yule: "You didn't know if you really woke up because …… kept your eyes closed."
+
+# 1c2dca33
+; me: 「ゆ、ユールちゃん？」
+me: "Yu, Yule?"
+
+# d643e879
+; yule: 「そうです。あなたのユールちゃんですよ」
+yule: "Yes, it's your Yule."
+
+# d550099c
+; me: 「お、俺は……。」
+me: "Oh, me is ……."
+
+# f72f7d6d
+; yule: 「本当にどうなるかと思いましたよ。狂死一歩前でした」
+yule: "I really wondered what would happen.I was about to die of madness."
+
+# a1175f46
+; me: 「狂死って、なんで……あ」
+me: "Why ……, mad death?"
+
+# 154cde21
+; そうだ。
+That's it。
+
+# 6173ba98
+; 化け物たちが押し寄せてきて、
+Monster The crowd came in.
+
+# 22116d9b
+; 死んだヒルドルが歩き回って、
+The dead Hildur walked about;
+
+# 8d670d31
+; 最後には、俺は胡散臭い男にナイフで刺されてしまった。
+In the end, me was stabbed by a suspicious Man.
+
+# 217860c8
+; [br]そこで、俺は気を失ってしまったんだ。
+[br] Then me fainted.
+
+# 4f5104d7
+; me: 「そ、そうだ！！あいつは？？そ、そしてあの化け物たちは……？」
+me: "Oh, yes!What about him? And those Monsters ……?"
+
+# 37cbe297
+; yule: 「全部片付けました。魔法陣の破壊までも、成功しました」
+yule: "I've cleaned everything up.Even the destruction of The Magic Circle was successful."
+
+# 96eb9b2d
+; me: 「よ、よかった。成し遂げたな」
+me: "Well, I'm glad to hear that.You've done it."
+
+# 6f8e0463
+; yule: 「はい。滅亡の危機は、とりあえずは、凌げました」
+yule: "Yes, for the time being, I was able to overcome the danger of destruction."
+
+# 290a45b5
+; me: 「おう！よくやったよ」
+me: "Oh! You did a great job."
+
+# 27f6e7c4
+; yule: 「くすくす、{playerName}のお陰ですよ」
+yule: "Thanks to giggle, {playerName},"
+
+# f839db50
+; me: 「いや、別に大した事はやってないんだけどね」
+me: "No, I haven't done much,"
+
+# 7a468ea6
+; yule: 「{playerName}がユールちゃんを庇ってくれたお陰で、すべてが上手く行きましたよ。[i][char yule.kusukusu]ありがとうございます」
+yule: "Thanks to {playerName}'s protection, everything went well.[i][char yule.kusukusu] Thank you."
+
+# bfbc93fa
+; me: 「いやぁ、まあ……」
+me: "Well, ……,"
+
+# ce1f5fb5
+; ユールちゃんが熱い目で俺を見つめるから、俺はちょっと照れながら目をそらした。
+As me stared at me with hot eyes, Yule looked away a little shyly.
+
+# 4ada1c99
+; yule: 「しかしそのせいで、{playerName}が死にそうになりました。それはいけませんよ。[i][char yule.yoko_anrgy_a_w]まぁでも、こうして目覚めてくれましたし」
+yule: "But it nearly killed {playerName}.You can't do that.[i][char yule.yoko_anrgy_a_w] But he woke me up like this."
+
+# 4ad54969
+; me: 「ああ。俺はもう平気だ。そろそろ起き上がらなくちゃな……」
+me: "Yes, me is all right now.It's about time I got up ……."
+
+# 14cef75c
+; ずっと座ったままだった俺が、起き上がろうとすると、
+me, who had been sitting for a long time, was about to get up.
+
+# 938ddb16
+; yule: 「あ、ちょっとちょっと、そのまま座っていてください。魔力が乱れますよ」
+yule: "Oh, wait a minute, just sit down.Magical Power It will disturb you."
+
+# 922a77e5
+; me: 「え？魔力？」
+me: "What? Magical Power?"
+
+# 7aa00f0f
+; yule: 「えっと、治療中だったんです。[i]{playerName}を蝕む邪気、まだ消えてません」
+yule: "Well, it was under treatment.[i]The Evil Force that eats {playerName} hasn't disappeared yet."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 55a320e1
+; yule: 「{playerName}を刺したあのナイフ、邪気を纏っていまいて。[i]ほっておいたらすぐにも狂死ですよ」
+yule: "Wearing the Evil Force, that knife that stabbed {playerName}.[i]You'll die mad as soon as you leave it alone."
+
+# bb715ad4
+; そういえば、眠ってる間にちらっとそんな事を聞いたような……
+Come to think of it, …… as if I had heard such a thing briefly while I was sleeping
+
+# a9c13911
+; me: 「そ、それで、ユールちゃんの魔法で治療してくれてたのか、ありがとうな」
+me: "And thank you for treating me with the magic of Yule."
+
+# 65787284
+; yule: 「どうもどうも。[i][char yule.huuu]……といっても、ユールちゃんがやってるのは、本番が来るまでの守りだけですけど」
+yule: "Thank you.[i][char yule.huuu] …… is only playing defense until the show comes."
+
+# a7fd1b9e
+; me: 「本番？」
+me: "Is it real?"
+
+# d2a9bc49
+; yule: 「はい。もうすぐ転移が始まるので、じっとしていてくださいな」
+yule: "Yes, the metastasis will start soon, so please stay still."
+
+# 65e65ef5
+; me: 「転移……？」
+me: "Metastatic ……?"
+
+# 38f3332
+; yule: 「{playerName}は、人間世界に戻るのです」
+yule: "The {playerName} is going back to the human world."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 6cba5a0e
+; 俺が、戻る？
+Is me going back?
+
+# a42e6f1c
+; 人間世界、元の世界に？
+The human world, the original world?
+
+# c581f857
+; もうすぐ？
+Soon?
+
+# 3a91bbf9
+; しかしそんな事、できないと言ってたんじゃないか？
+But didn't you say you couldn't do that?
+
+# f4fef021
+; 俺はこのトゥーレで、ユールちゃんと一緒に過ごすはずだったじゃないか？
+Wasn't me supposed to spend time with Yule in this Thule?
+
+# 8c0a5c8c
+; そもそも、なんでそうするんだ？
+Why do you do that?
+
+# 8ea09523
+; 色んな疑問が一瞬に浮かんできて、一度に言葉が出せなかった。
+I couldn't speak all at once because of all the questions that came to my mind.
+
+# 95e06f3d
+; me: 「ど、どうして？……っていうか、それはもう無理な事ではなかったか？俺は……俺は……」
+me: "Why, why not? ……, I mean, wasn't that impossible?me is ……me is ……."
+
+# efecab36
+; yule: 「話せば長くなりますが、結論から言うと、今ならできますよ」
+yule: "It's a long story, but in conclusion, I can do it now."
+
+# c0d3ae05
+; me: 「いや。ちょ、ちょっとまって。別に俺は帰りたいとは……」
+me: "No, wait a minute.me didn't want to go home."
+
+# 4d326685
+; yule: 「{playerName}を完治させるためですよ。あの邪気から」
+yule: "It's to cure {playerName} completely.From that Evil Force."
+
+# 9808ba83
+; me: 「……えっ？あ……」
+me: "What? ……?"
+
+# a500e2d4
+; そういや、ちらっとそんな話しを聞いたな。
+by the way I heard such a story for a moment.
+
+# 214a97de
+; 人間世界に戻る際に、トゥーレで負っていた邪気は消えると。
+When returning to the human world, Evil Force, which had been owed by Thule, disappeared.
+
+# b6fc2347
+; 思えばヒメもそうだった気がする。
+When I think about it, I think Hime was the same.
+
+# f16a6beb
+; me: 「で、でもそれじゃ、ユールちゃんは？」
+me: "But what about Yule?"
+
+# d275719e
+; yule: 「……ここで、お別れになります」
+yule: "…… I'll say goodbye now."
+
+# 7496e7c5
+; me: 「そ、そんなのいやだ。俺はこのトゥーレで、ユールちゃんと住む未来を……」
+me: "Well, I don't like that.me is this Thule, and …… the future of living with Yule."
+
+# 5009230b
+; yule: 「……ユールちゃんだって、そうですよ。そうしたかったんですよ。[i][char yule.nayami]でも、こうするしかないです。[i][char yule.ano]{playerName}が死ぬよりは、ずっとマシですよ」
+yule: "Because ……Yule, of course.That's what I wanted to do.[i][char yule.nayami] But we have no choice but to do this.[i][char yule.ano] It's much better than {playerName} dying."
+
+# 5548788d
+; me: 「だけど、いきなりすぎるよ！別に今じゃなくても……す、少しだけ待って……」
+me: "But it's too sudden! I'll …… even if it's not now. Wait a minute ……."
+
+# fcbe6a29
+; yule: 「待てませんよ。[i][char yule.emi]……だってもう、始まっちゃいました」
+yule: "I can't wait.[i][char yule.emi] …… It's already started."
+
+# 9cb28812
+; me: 「……えっ？」
+me: "What ……?"
+
+# 1689a11b
+; 夜明け前の暁の空と、消えかかるオーロラ。
+the dawn sky before dawn, and the vanishing Northern Light.
+
+# 49326053
+; 空が段々と明るくなるにつれて、俺の体も徐々に軽くなってくる。
+As the sky gradually brightens, me's body gradually becomes lighter.
+
+# 639f852f
+; ふわっとした感じ。
+Fluffy feeling.
+
+# cac2a811
+; me: 「う、うわっ！」
+me: "Oh, my God!"
+
+# 20c9088
+; そして少しだけ、地面から浮いてる感じがした。
+And I felt a little floating on the ground.
+
+# 794a7a07
+; いや、浮いてる！
+No, it's floating!
+
+# c824a06b
+; me: 「なっ、なんなんだ？」
+me: "What is it?"
+
+# c5abeed3
+; そして徐々に、俺の体は地面から、ユールちゃんから離れ始めた。
+Gradually, me began to move away from the ground and from Yule.
+
+# 13aaf52
+; me: 「ちょ、ちょっと？？これってもう、始まったって事？俺を、人間世界へと戻す魔法が？」
+me: "`Wait a minute?Does this mean it's already started?The magic of bringing me back into the human world?"
+
+# 4309b4e8
+; yule: 「そうですよ。魔法陣が、発動したんです」
+yule: "Yes, The Magic Circle was activated."
+
+# ecaea548
+; 徐々に体が浮いていく度に、ユールちゃんとの距離が開いていく。
+As the body gradually floats, the distance between Yule becomes wider.
+
+# 27b68701
+; 自分の体が透明になってくるのが見える。
+I see my body becoming transparent.
+
+# 2b4f349f
+; 俺は、人間世界に戻ってしまうんだ。
+I returns to the human world.
+
+# 56844bdf
+; でも、こんないきなり、いくらなんでも……
+But all of a sudden ……
+
+# e9e2702
+; me: 「こ、このままお別れなのか！？どうにもならないか？」
+me: "Are you going to leave me like this!?"Can't you help it?"
+
+# 30151ef4
+; yule: 「そう、ですね。……今は、どうにもなりません。[i][char yule.l-nayami]せめて、またいつか会える事ができたら……[i][char yule.nayami]ううん。でもその時にはもう、このトゥーレは……」
+yule: "Yes, …… I can't help it now.[i][char yule.l-nayami] At least if we can meet again someday ……[i][char yule.nayami] No, but then this Thule is ……."
+
+# b3ed4d6e
+; me: 「っ……」
+me: "What ……,"
+
+# 15a8397a
+; その口ぶりからすると、再会は難しそうだった。
+Judging from his way of speaking, it seemed difficult to meet again.
+
+# d3d5fcd6
+; それにできたとしても……多分……
+And even if I could, ……, maybe ……
+
+# e8e0ce17
+; me: 「そ、そんなの……」
+me: "Oh, that's ……,"
+
+# f579b6e5
+; 俺は諦め切れずに、ユールちゃんに粘った
+I persisted in Yule without giving up
+
+# d55b1ba7
+; me: 「そうだ！一緒に行かないか？ユールちゃんも、人間世界に」
+me: "Yes! Would you like to go with me?"Yule But to the human world."
+
+# 316bbf11
+; 俺は不意に手を差し伸ばして、ユールちゃんの手を掴もうとした。
+I suddenly reached out and tried to grab Yule by the hand.
+
+# 1dc5ed6e
+; yule: 「あ……」
+yule: "Oh, ……,"
+
+# bd7bb4d4
+; それを見たユールちゃんも、同じく自分の手を差し伸べて来た。
+Seeing it, Yule also reached out to him.
+
+# 773cfca5
+; me: 「……っ！」
+me: " ……!"
+
+# c556ea2d
+; この行為に、はてして意味はあるのか。
+Is there any point in this act?
+
+# 15ee48de
+; わからない。
+do not know。
+
+# 8d9836ea
+; 手を掴んだとしても、一緒に人間世界に行けるわけではない。
+Holding hands does not mean that we can go to the human world together.
+
+# 75a1b8b0
+; しかし、最後に一度だけでも、その手に触れるだけでもよかったから。
+but it was only once, or even once, that I could touch it.
+
+# 980b5bc9
+; でも、俺はこれ以上ユールちゃんには近づけない。
+But me can't get any closer to Yule.
+
+# cfbe0e3
+; 宙に浮かんだまま、動けない。
+I can't move while floating in the air.
+
+# 59ffcc01
+; だけど、ユールちゃんの方から、もうちょっとだけ近づいてくれたら……
+But if Yule could come a little closer, ……
+
+# 1183f0a8
+; yule: 「うっ……」
+yule: "Ugh ……,"
+
+# c60b340e
+; だけど、彼女の手は届かなかった。
+But she could not reach it.
+
+# 70c2d61e
+; ユールちゃんは手を伸ばしたけど、それっきり。触れる事はなかった。
+Yule reached out, but that's it.I never touched it.
+
+# 2b29a7af
+; 自分が立ってる場所から一歩も動かないで、手だけを必死に伸ばした。
+He did not move an inch from where he stood, but stretched out his hand desperately.
+
+# f1481b92
+; me: 「えっ？ゆ、ユールちゃん？」
+me: "What? Yu, Yule?"
+
+# 2bc61c75
+; 何でだろう。
+Why is that?
+
+# 88d9de94
+; ちょっとだけ前に出てくれると、触れられるのに。
+If you step forward a little bit, you can touch it.
+
+# f48ccaac
+; me: 「ど、どうしたんだよ？ちょっとだけ前へ、近づいてくれよ」
+me: "Why, what's the matter?Move a little forward, please."
+
+# e364628f
+; 不自然だった。
+It was unnatural.
+
+# b0dab4eb
+; 動かないんじゃなくて、動けない。
+It's not that I can't move. I can't move.
+
+# b012a71
+; そんな感じがした。
+That's what I felt like that's what I felt.
+
+# 485ce2f6
+; yule: 「うぅぅ……」
+yule: "`Oh, ……,'"
+
+# 30cd43fc
+; ユールちゃんの調子が変だ。
+Something is wrong with Yule.
+
+# a43168f8
+; おかしいと思ってユールちゃんの足もとを見てみたら……
+I thought it was strange and looked at Yule's feet. ……
+
+# 62d89ea7
+; me: 「あっ！」
+me: "Oh!"
+
+# ec8a2412
+; ユールちゃんの足先は、石になっていた。
+Yule's toes were stone.
+
+# 28088613
+; まるで石像のように。
+It's like a stone statue.
+
+# 9defa002
+; yule: 「こちらも、もう始まっちゃったみたいです」
+yule: "`I think it's already started,'"
+
+# af3ac3c
+; me: 「ど、どういう事だ？始まっちゃったって、何が？」
+me: "What do you mean?"It's started, what?"
+
+# 48926d2
+; その間にもう少し日が登ったのか、空が一段と明るくなった。
+In the meantime, perhaps the sun had risen a little more, but the sky became brighter.
+
+# 7267aa61
+; それに連れて、ユールちゃんの体、足の上の部分までも、石に変わっていた。
+With that, Yule's body and even the upper part of his feet had turned into stone.
+
+# 7f77e0fa
+; me: 「ま、まさかこれは……」
+me: "Well, this is ……,"
+
+# e3b864f5
+; 夜明けの光が強くなるたびに、
+Every time the light of dawn grew stronger,
+
+# 21996285
+; ユールちゃんの体は石に変わっていく。
+Yule's body turns into a stone.
+
+# 253a23e1
+; <s>　　　　　　　　　　　　</s>石化。
+<s>            </s> petrification.
+
+# 3e58eaf8
+; この現象には、覚えがある。
+I remember this phenomenon.
+
+# ce227265
+; あの時、海岸で見た岩石。
+The rocks I saw on the beach.
+
+# cfc50a31
+; あれは石になったユールちゃんのご先祖様だった。
+That was the ancestor of Yule, who became a stone.
+
+# c9befe92
+; トーロルは、太陽の光を浴びると、石になる。
+A torol becomes a stone when it is exposed to the sun.
+
+# 947a85f0
+; 自分の身を守っていた魔力が弱くなったら、そうなるんだ。
+That's what happens when Magical Power, who was protecting himself, becomes weak.
+
+# 1a0bb0b6
+; そしてユールちゃんも今、
+And now, Yule...
+
+# 88b3c0ca
+; 太陽の光を浴びて、石になってるのだ。
+It was a stone in the sunlight.
+
+# 78ea416f
+; me: 「ユールちゃん！このままではまずい！早速どっかに行けよ！どこかの日陰にでも……」
+me: " Yule! I can't do it like this!"Go somewhere at once! …… somewhere in the shade."
+
+# 9ddc97f
+; 俺は宙に浮いたまま、何もできず、ユールちゃんに向かってそう叫ぶだけだった。
+I remained in the air, unable to do anything, only shouting at Yule.
+
+# b00e4c17
+; 無理かも知れないとわかっていても、
+Even though I knew it might be impossible,
+
+# 79d82877
+; yule: 「もう遅いんですよ。[i][char yule.eto]それにユールちゃんが今どこかに行っちゃうと、{playerName}が危険になります」
+yule: "It's too late.[i][char yule.eto] And if Yule goes somewhere now, {playerName} becomes dangerous."
+
+# 3daf9f96
+; me: 「俺が？なんで」
+me: "What about me?"
+
+# 533f1228
+; yule: 「あの邪気が、今でも{playerName}の心を侵食していますよ。[i][char yule.eto]だからユールちゃんの精一杯の魔力で、最後のお守りの力まで借りて、侵食を止めってます。[i][char yule.emi]{playerName}が完全に人間世界に戻るまでに」
+yule: "That Evil Force is still eroding {playerName}'s mind.[i][char yule.eto] That's why Yule's best Magical Power helps stop erosion with the help of the last charm.[i][char yule.emi] By the time {playerName} returns to the human world completely."
+
+# 6bf541b8
+; me: 「そ、そんなの今すぐやめろ！そんな事したって、俺は嬉しくないし。あとで悲しくなるだけだ！」
+me: "Oh, don't do that right now!me wouldn't be happy to do that.I'll only be sad later!"
+
+# a2ceb56f
+; yule: 「それでもユールちゃんは、契を結んだ夫を、絶対に守りきりますよ」
+yule: "Still, Yule will definitely protect her husband."
+
+# 443dbd6e
+; me: 「や、やめろ。[i]俺が助かっても、そのせいでユールちゃんが石になったら、俺は不幸なだけだ！[i]無事に人間世界に戻ったって俺、死ぬからな。[i]心が病んで死んでしまうから！」
+me: "No, don't. [i] If me is saved and Yule becomes a stone, me will only be unhappy!"[i]me I'll die even if I get back to the human world safely.[i]for he will die of mental illness!"
+
+# 66a99299
+; yule: 「いいえ。そうはなりませんよ」
+yule: "No, that's not the case."
+
+# c1ff4992
+; me: 「な、なんで」
+me: "Why?"
+
+# f7b09628
+; yule: 「人間世界に戻ったら、トゥーレでの出来事は、すべて忘れるからです」
+yule: "Because when I return to the human world, I forget everything that happened in Thule."
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# e4919d74
+; なんて事だ。
+Oh, my God.
+
+# b862b943
+; ユールちゃんと別れてしまうのに、あまつさえ思い出さえもなくなってしまうって？
+Yule You're going to break up with her, but you're going to lose even your memories?
+
+# da523f02
+; me: 「そ、そんなの、あ、ありえない……！」
+me: "`Oh, that's impossible ……!'"
+
+# bc4a7f31
+; 絶望してる俺に向かって、ユールちゃんは微笑みながら言った。
+said Yule, smiling to me, in despair.
+
+# b8f959cc
+; yule: 「本当ですって。[i][char yule.yoko_b_nemu_w]だからこうしてユールちゃんも、あとの事は気にせず、なんでも言っちゃってるのですよ」
+yule: "It's true,"[i][char yule.yoko_b_nemu_w] That's why Yule doesn't care about the rest and says everything."
+
+# e4e3f42b
+; me: 「っ……なんでそんな事！」
+me: "`Why ……!'"
+
+# cb1662ea
+; 涙が出そうになった。
+I almost cried.
+
+# 387f9d3a
+; ユールちゃんが石になってるのに、
+Yule is a stone.
+
+# 8a0de22a
+; 俺はその事実を忘れ、人間世界で楽しく生きる？
+Will me forget that fact and live happily in the human world?
+
+# b876a389
+; そんなのありえない！
+That's impossible!
+
+# 1a839538
+; me: 「わ、忘れるもんか！俺は、絶対に忘れないからな」
+me: "`I'll never forget it!'me I'll never forget."
+
+# 3d22c8c4
+; yule: 「……<ruby="セッタ・レッダスト">　Þetta reddast</ruby>です」
+yule: "This is …… <ruby=" Thetta reddast"> Thetta reddast</ruby>"
+
+# e641decf
+; me: 「へぇ？」
+me: "What?"
+
+# 8f274f65
+; yule: 「すべてはなんとかなります。[i][char yule.default]悲しい事があっても、長く生きていれば、きっといい事もありますよ」
+yule: "Everything will be all right.[i][char yule.default]Even if there are sad things, if you live for a long time, there will surely be good things."
+
+# b3d74317
+; me: 「こ、こんなの、あるわけがない！！お、俺は……」
+me: "Oh, there's no way there's something like this!! Oh, me is ……."
+
+# 983b2707
+; もっともっと、ユールちゃんに何か言いたい事が沢山ある。
+I have a lot more to say to Yule.
+
+# 4d228f2
+; 俺はそれを……
+I …… it
+
+# 724ee133
+; me: 「ああぁあっ……！？」
+me: "Oh, ……!"
+
+# 23501fb3
+; いきなり。
+All of a sudden.
+
+# 6d3c2c15
+; 強い眠気が襲って来た。
+I felt very sleepy.
+
+# 8a599087
+; もうすぐ気を失ってしまう。
+I'm going to faint soon.
+
+# b14ea3e4
+; 自分では、どうしようもならない。
+I can't help myself.
+
+# 4e354a15
+; もう、終わりなんだ。
+It's over.
+
+# 104de2ca
+; …………
+…………
+
+# 5ef9aa5d
+; しかしこんな……
+But this is the kind of ……
+
+# 4fafc10c
+; このまま終わりでいいのか？
+Is this the end?
+
+# 964fff42
+; 最後まで、俺はユールちゃんの事を攻める言葉ばかりで。
+Until the end, me was all about attacking Yule.
+
+# 99e029e8
+; こんな事になるとわかっていたら、
+If I knew this would happen,
+
+# 22993cc6
+; 最初からユールちゃんに優しくしてあげればよかった。
+I should have been nice to Yule from the beginning.
+
+# 81a9aeeb
+; ユールちゃんはずっと、俺に好感を表現してくれたのに、
+Yule kept expressing her good feelings towards me.
+
+# a8dbd9ad
+; 俺はずっと、出会ったときから、契を結ぶまて、
+I had been engaged ever since they met;
+
+# 1ac389f3
+; そっけない態度を取るだけだったな。
+You were just being curt.
+
+# 1d83c0f
+; これが本当に最後なら。
+If this is the last time.
+
+# 5cea4a94
+; もうどうにもならないのだったら。
+If there's nothing I can do about it.
+
+# 54e84926
+; せめてお別れの際には、心からの言葉を送ってあげたい。
+At least when I say goodbye, I want to send my heartfelt words.
+
+# 86d838b4
+; 恥ずかしくて、照れくさくて、こそばゆくて、
+I'm ashamed, shy, squeaky,
+
+# 4b55510
+; それが嘘くさくてあえて言わなかったけど、
+I didn't say it because it was a lie.
+
+# 1c653d28
+; me: 「俺……は……」
+me: "For me……, ……."
+
+# cbfc3b47
+; だけどそれしかない、言わなきゃわからない。心の底にあるモヤモヤを、形にするための声を。
+But that's all I have to say.A voice to shape the muddiness that lies deep in my heart.
+
+# 3798a18b
+; me: 「俺は……このトゥーレが、この旅が、ユールちゃんの事が……」
+me: "The me ……, the journey, the Yule ……."
+
+# 64fc917b
+; 大好きだよ。
+I love you。
+
+# 4ee3140
+; 愛してるよ。
+I love you。
+
+# beec8737
+; 絶対に忘れない。
+I'll never forget it.
+
+# eb0f95ad
+; そういう、
+That kind of...
+
+# 77ae4638
+; ありふれた言葉を、
+The common language...
+
+# 8077f7c6
+; ありふれたけど、自分では一度も喋った事がなかった言葉を。
+It's common, but I've never spoken it myself.
+
+# 4b35935a
+; 今までの人生では、考えもしなかった自分の声を。
+I never thought of my voice in my life.
+
+# 2feb2f0f
+; 旅先で、俺は残して……
+At the destination, me is left ……
+
+# 129df5dd
+; yule: 「 <ruby="ブレス・ブレス"> bless</ruby> bless、 <ruby="エルシュクレゥ・エインマザゥ・ミン"> Elskulegur eiginmaður minn</ruby>。[i]最後にくれた愛しい言葉を、[i]ユールちゃんはここで永遠に、[i]覚え続けます」
+yule: "「 <ruby="breath brace">bless</ruby>bless, <ruby="Elskulegureiginma ðurminn</ruby>.[i] Yule will always remember the last lovely words you gave me."
+
+# 4102564d
+; <s>　　　　　　　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。
+<s>          </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>.
+
+# b17f3a83
+; あのトゥーレの旅人に、聖なるヨールの祝福がありますように。
+May the travelers of Thule be blessed with holy Jol.

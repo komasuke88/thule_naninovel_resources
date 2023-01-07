@@ -1,0 +1,409 @@
+; Japanese <ja> to English <en> localization document for `6_04_5_byu` naninovel script
+
+# 93c3935e
+; unknown: 「ソーセージ！！」
+unknown: " sausage!"
+
+# 3070f4b8
+; yule: 「えっ！？」
+yule: "What!"
+
+# fd797f33
+; me: 「うわあっ！？」
+me: "Whoa!"
+
+# 8bd71cc9
+; おっぱいが現れた！
+Here comes the milk!
+
+# 255ad83a
+; ……と思ったら、またユールちゃんと似た女の子だった。
+I thought ……, but it was Girl similar to Yule again.
+
+# a6bd0be2
+; 何故か全身にソーセージみたいなのを巻いてる。
+I have something like sausage all over my body.
+
+# 543c0d17
+; ……あれ？この子どこかで……？
+…… Huh? Is she …… somewhere?
+
+# 257650f5
+; yule: 「びっくりした！[i][char yule.default]なんだ。ビューちゃんでしたか」
+yule: "Oh, my God![i][char yule.default] What's that?Byu Was it?"
+
+# 8f7caa9b
+; 驚きすぎて死ぬかと思ったけど、エルフではないみたいだ。
+I was so surprised that I thought I was going to die, but I don't think it's Elf.
+
+# 9f7f2fd4
+; またユールちゃんの姉妹かな。
+Maybe it's Yule's sister again.
+
+# 7ebde368
+; unknown: 「うん。グレリヨール、スヴォルちゃ……[i][char byu.e]って、[i][char byu.tenten-o]えっ！？？」
+unknown: "Yes. Glediyol, Thuvorcha ……[i][char byu.e] and [i][char byu.tenten-o] What?"
+
+# d0d46c7
+; 女の子は俺を見て、急に固くなった。
+Girl saw me and suddenly hardened.
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 34c31312
+; unknown: 「そ、そ、その……も、もしかして、人間の、男？」
+unknown: "Oh, is that ……, by any chance, a human, Man?"
+
+# ef7e7a96
+; me: 「そうだけど」
+me: "Yes,"
+
+# 3f450f10
+; unknown: 「………………」
+unknown: "………………"
+
+# 1054b020
+; どういうこと？
+What do you mean?
+
+# 31b6c671
+; unknown: 「や」
+unknown: "Well,"
+
+# 97b36ced
+; ？
+？
+
+# 194995e4
+; unknown: 「や、やらせてください！」
+unknown: "`Let me do it!'"
+
+# 15834537
+; yule: 「なっ？！」
+yule: "What?"
+
+# 8ffe98b0
+; me: 「うぇ？」
+me: "What?"
+
+# 6e1a7ebf
+; @choice "だめです" goto:.dame
+@choice "No" goto:.dame
+
+# 2116b1e6
+; @choice "いいよ" goto:ed_6_04_5_byu
+@choice "Good" goto:ed_6_04_5_byu
+
+# 6e0cf2a3
+; byu: 「 <ruby="ビューグナクライキル"> Bjúgnakrækir</ruby>だよ。長いから、ビューちゃんでいいよ」
+byu: "「 It's <ruby="ú">Bj ægnakr Bjugnakraekirkir</ruby>.It's long, so Byu is fine."
+
+# f22f0f57
+; me: 「ああ、よろしく」
+me: "Oh, thank you,"
+
+# 85782b36
+; ユールちゃん姉妹、１３人のユールラッズのひとり。
+Yule Sisters, one of the thirteen Yuleladss.
+
+# 11047196
+; ソーセージ大好きっ子のビューグナクライキル。
+sausage My favorite child, Bjugnakraekir.
+
+# 83517820
+; 9日目のユールラッズで、１２月２０日に人里に降りてソーセージを盗んで行く。
+On the ninth day of Yulelads, he gets off to a village on Dec. 20 and steals sausage.
+
+# a6307df8
+; 今ユールラッズの姉妹たちはみんな婿探し中だという。
+It is said that all the sisters of Yulelads are now looking for a husband.
+
+# 3fcd97a6
+; その姉妹の中でもビューちゃんは特に肉食系で、
+Among their sisters, Byu was particularly carnivorous;
+
+# 6c92ae48
+; 食べ物にも男にも飢えて仕方がないのに、
+I'm starving for food and Man.
+
+# fff30b6a
+; 未だに相手が見つかってないらしい。
+It seems that the other person has not been found yet.
+
+# b62dd39f
+; しかしいきなりや、やろうだなんて……。
+But suddenly, ……, that he should do it.
+
+# d5e6274e
+; yule: 「まったくビューちゃんてば、いつも気が早いんですから」
+yule: "He's always quick-witted, Byu,"
+
+# a1f799a8
+; byu: 「だって、あまり美味そうな人間だったからつい……[i][char byu.hm]あれ？」
+byu: "Because he looked so delicious ……[i][char byu.hm] Huh?"
+
+# 1d408eaf
+; ビューちゃんはなぜかまた俺をじっと見つめて、何やら考えてるみたいだった。
+Byu looked at me again, for some reason, as if he were thinking something.
+
+# 92632978
+; me: 「な、なんだ？」
+me: "What is it?"
+
+# e1561ac
+; byu: 「よく見ればあなた、人間世界であったことあるじゃん？」
+byu: "If you look closely, you've been in the human world, haven't you?"
+
+# fd5d2c40
+; yule: 「えっ？そうですか？」
+yule: "What? Really?"
+
+# eca80576
+; me: 「そうだったような気もするけど……記憶にない」
+me: "I think so, but I don't remember ……"."
+
+# a0491fd0
+; byu: 「うん。ボクが魔法をかけたからね！ボクを見た事を忘れるように」
+byu: "Yes, I cast a spell!"as if you had forgotten that you had seen me."
+
+# ea245dc9
+; me: 「ど、どういうこと？」
+me: "What do you mean?"
+
+# eea601ab
+; yule: 「えっ？ビューちゃん。もしかして人間たちに姿がバレましたか？」
+yule: "What? Byu.Did the humans find out?"
+
+# 204c569c
+; byu: 「うん。でも幸い{playerName}にだけ」
+byu: "Yes, but fortunately only {playerName}."
+
+# 8119a80a
+; yule: 「まったく、うっかりしすぎなのでは？」
+yule: "Isn't that too careless?"
+
+# 134ce780
+; byu: 「最近魔力が弱くなってね。[i]時々溶けちゃうんだ、ステルスの魔法」
+byu: "My Magical Power is getting weaker these days.[i]Sometimes it melts, the magic of stealth."
+
+# e7fb5d64
+; yule: 「あ、そうだったんですね。[i][char yule.yoko_sad_close_dot]ユールちゃんも魔力の回復が遅かったですし。[i]本当、魔力の元がなくなってるのを感じるよ」
+yule: "Oh, I see.[i][char yule.yoko_sad_close_dot] Yule also recovered slowly.[i]I really feel that Magical Power is gone."
+
+# 5d8652bb
+; byu: 「本当だよ。この異常気温のせいで。[i][char byu.hm]……ボクが{playerName}にかけた忘却の魔法も、完全に効いてないみたいだし」
+byu: "Really, because of this unusual temperature.[i]'char<URL_PH ……' ... the magic of forgetfulness on {playerName}me} doesn't seem to work at all."
+
+# 236719f
+; 二人は何やら魔法について話してたけど、俺にはよくわからなかった。
+They were talking about some sort of magic, but me didn't quite understand it.
+
+# 2e436cbf
+; byu: 「まだ魔力があるうちに、婿探ししなくちゃいけないのに、難しいよね」
+byu: "It's hard to find a husband while Magical Power is still around."
+
+# 6886ceff
+; yule: 「ビューちゃんってば、すぐにやらせてーなんて言うから、引かれるんですよ」
+yule: "I say Byu, let me do it right away, and I'm attracted to it."
+
+# ccff0236
+; byu: 「相手の意志を尊重するって掟、面倒だよもう。[i]昔はただ攫ってきてもよかったのに」
+byu: "Respecting the will of the other person is a nuisance.[i]You could have just kidnapped me in the past."
+
+# cdef5a41
+; yule: 「ま、だからこそ燃える点もありますから」
+yule: "Well, that's why it burns."
+
+# 61d4c334
+; byu: 「でもボクは体の相性を重視するからね。味見はしないとわからないじゃん」
+byu: "But I place importance on physical compatibility.You won't know until you taste it."
+
+# e0003513
+; yule: 「あ、味見って、やだもうビューちゃんってば……」
+yule: "Oh, taste it, Byu, ……."
+
+# 574ab761
+; ユールちゃんは照れてる。
+Yule is shy.
+
+# 434cda5
+; 下ネタスキなくせに、自分がやられるのは恥ずかしいみたいだ。
+He seems to be embarrassed when he gets hit even though he's a dirty talker.
+
+# 1cdb4c7c
+; byu: 「{playerName}には、いいソーセージの匂いがするけど……」
+byu: "There's a good smell of sausage in {playerName}, but ……."
+
+# 90446aeb
+; ビューちゃんは物欲しそうな目で俺を見ながら、ツバを垂らした。
+Byu, looking at me with wistful eyes, drooped his swallow.
+
+# f41ea002
+; yule: 「なっ！{playerName}は駄目ですよ。ユールちゃんが先に見つけたんだから」
+yule: "Oh! You can't have {playerName} is no good.Yule found it first."
+
+# 4253cbe0
+; byu: 「うん。なら仕方ないね……」
+byu: "Yes. Then there's nothing we can do about it ……."
+
+# c72fa3eb
+; 俺の所有権って、先着順らしい。
+It seems that ownership of me is on a first come, first served basis.
+
+# 98bc855e
+; というか、俺は所有物なのか。
+Or is me property?
+
+# e24644b1
+; yule: 「……ところで、ビューちゃんはどうしてここに？」
+yule: "Why, …… here?"
+
+# 4e32fcea
+; byu: 「あ、ボクはね。ソーセージの匂いを追ってきたらね、こんなところまで来てしまったんだよ」
+byu: "Oh, I am.I followed the smell of sausage, and I've come to this point."
+
+# 3e5a4d0e
+; 彼女はそう言うと教室の中を差した。
+When she said so, she went through the classroom.
+
+# 5908cc4d
+; me: 「ソーセージなんてどこにも見えないけど……」
+me: "I can't see sausage anywhere, but ……."
+
+# 75db55ff
+; byu: 「あるよ。あそこに、みんな袋を持ってるでしょう？」
+byu: "Yes, they all have bags over there, don't they?"
+
+# 26118e6d
+; me: 「あのBBPと書いてある袋か。みんな同じもの持ってるね」
+me: "that bag that says BBP.They all have the same thing."
+
+# 113726c5
+; byu: 「あれ、あのレイキャヴィクのホットドッグなんだ」
+byu: "It's that Reykjavik hot dog,"
+
+# 4f04044d
+; me: 「ああ、あれか！あれは美味かったな」
+me: "Oh, that one!That was delicious."
+
+# 3afcc79
+; byu: 「うんうん。あれはレイキャヴィークの名物で、特に中のソーセージがね」
+byu: "Yeah. That's a specialty of Reykjavik, especially the sausage inside."
+
+# c368b03c
+; byu: 「とても美味いの。はあぁ」
+byu: "It's very delicious.Oh, my dear fellow!"
+
+# d597a81e
+; ビューちゃんは少し上せた顔でそういった。
+said Byu with a slightly raised face.
+
+# 809fb35f
+; yule: 「そうだ。ビューちゃん」
+yule: "Yes, Byu."
+
+# fbba7b02
+; byu: 「うん？」
+byu: "Huh?"
+
+# d2836721
+; yule: 「ちょうどいいです。今からこの教室の中のエルフに、ビューちゃんの得意のイタズラをお願いします？」
+yule: "It's just right.Would you like Elf in this classroom to play a prank that Byu is good at?"
+
+# 1eeba2f0
+; byu: 「得意なのは、ソーセージを盗む事だけだよ？」
+byu: "All I'm good at is stealing sausage?"
+
+# c27ea8a1
+; yule: 「それでいいです。頼めますか？」
+yule: "That's all right.May I ask you?"
+
+# 21045bd6
+; byu: 「うん。もともとそのつもりだったし。でもなんで？」
+byu: "Yeah. That's what I was going to do.But why?"
+
+# c83bb545
+; yule: 「ユールちゃん、ちょうど困ってたんです。この中には食べ残しのスプーンもなくて」
+yule: "I was just in trouble, YuleThere's no Spoon left over here."
+
+# 48d2c498
+; そして俺たちは、この幻想空間について説明した。
+and me and others explained about this fantastic space.
+
+# ac987092
+; byu: 「そっか。この空間から主人を追い出して、記憶を取り戻しに……」
+byu: "I see. I kicked Master out of this space and …… to recover my memory."
+
+# 1426f407
+; me: 「そうそう」
+me: "Yes,"
+
+# 8ed79031
+; byu: 「わかった。では、ビューちゃん、行くよぉぉー」
+byu: "All right, Byu, I'll go."
+
+# da68be3f
+; me: 「えっ、ちょ、ちょっと！誰の……！」
+me: "`Oh, wait, wait, wait!Whose ……!"
+
+# 2d2dfd36
+; 誰を狙うか聞きもしないで、行っちゃった！
+He left without even asking who he was aiming at!
+
+# 9e91344f
+; me: 「ユールちゃん、どうしよう！」
+me: "What shall I do, Yule?"
+
+# 9bdc3fc4
+; yule: 「大丈夫です。あいつの盗み実力を信じて待ってみましょう」
+yule: "It's okay. Let's trust his ability to steal and wait."
+
+# 3ea899f
+; ……
+……
+
+# c3239985
+; ビューちゃんが教室に入って、十分くらい後。
+About ten minutes after Byu entered the classroom.
+
+# f6c6bd5
+; elf4: 「ぎゃー俺のホットドッグに、ソーセージがない！きっとユールラッズの仕業だ！もうここには住めない！」
+elf4: "There's no sausage in me's hot dog! I'm sure it's Yulelads's job!"I can't live here any more!"
+
+# d720fc21
+; 中の一人が飛び出て、体が小さくなり、逃げ出した。
+One of them sprang out, became small, and ran away.
+
+# bb950b73
+; elf0: 「わ、わ、わ、わたしたちも逃げようっと」
+elf0: "Oh, oh, oh, oh, we're going to run away,"
+
+# 69079c2b
+; 教室の中のエルフたちは、小さな妖精のような小さい体になって、散っていく。
+The Elfs in the classroom fall into tiny bodies like little fairies.
+
+# 87415f24
+; me: 「……えっ？……せ、成功した？」
+me: "What? ……, did you succeed?"
+
+# 229feab0
+; 一瞬で全員を追い出したみたいだ。
+I think I kicked everyone out in an instant.
+
+# b9911119
+; yule: 「さすがですね！[i]では、{playerName}は中に入って、記憶を取り戻してください」
+yule: "`That's as good as I expected!'[i]Then, {playerName}, please go inside and get your memory back."
+
+# 61c644d8
+; me: 「あ、ああ」
+me: "Oh, my God,"
+
+# 5211ce6
+; 俺は、誰もいなくなった教室に入った。
+I entered an empty classroom.

@@ -1,0 +1,165 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_b_toilet` naninovel script
+
+# 21de450f
+; トイレに行くぞ。
+I'm going to the bathroom.
+
+# 3ea899f
+; ……
+……
+
+# 7ac04c11
+; 気がつけばもうトイレの中。
+I found myself in the bathroom.
+
+# f52a37ed
+; 便座カバーの俺。
+The me toilet seat cover.
+
+# 50d3f54e
+; yule: 「お、おしっこ」
+yule: "Oh, pee,"
+
+# 9b6ecef1
+; トイレに来たのは、俺ではなくユールちゃんだった。
+It was me, not Yule, who came to the bathroom.
+
+# 19af104c
+; 俺の仕事は、人様のお尻の安楽だ。
+The work of me is easy on people's buttocks.
+
+# ba976bd5
+; しゃ————
+Let's see.
+
+# f658b92e
+; yule: 「ふぅ……この便座カバー、お尻が暖かくていいですね」
+yule: "`Huh …… This toilet seat cover is warm and nice.'"
+
+# 76b14d1e
+; 人様が喜んでくれる。
+People like it.
+
+# 79a0f5d7
+; これは本当にやりがいのある仕事だ。
+This is a really challenging job.
+
+# 7679b77a
+; 便座カバーになれるなんて、幼いときには考えもしなかったけど、なってよかった。
+I didn't even think about becoming a toilet seat cover when I was young, but I'm glad I did.
+
+# 68531649
+; 他人を喜ばせるのは自分にとっても本当に嬉しいことだ。
+It's a real pleasure for me to please others.
+
+# 57a893f4
+; こんな嬉しい体験をもっとしたい。
+I want to have more of these happy experiences.
+
+# 23397115
+; 人生の目標ができた。
+I have a goal in my life.
+
+# d7560a75
+; 死ぬまで１００人のお尻に満足をくれることだ。
+It will satisfy 100 people's buttocks until the end of their lives.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# cfd6ef
+; しかし、小さな人の家の中では、そんな大きな夢は無理だ。
+But such a big dream is impossible in a small person's house.
+
+# 99face95
+; この建物には１３人の姉妹しか住んでいない。
+Only 13 sisters live in this building.
+
+# 7cd7d963
+; たまにお客さんが来るくらいで、１００人までは及ばない。
+Sometimes customers come, but it doesn't reach 100.
+
+# 1ece5701
+; ああ、こんなことならホテルの便座カバーで生まれたらよかったのに。
+Oh, I wish I had been born with a hotel toilet seat cover.
+
+# 270b601b
+; しかし、そんな愚痴は贅沢なものだった。
+But such complaints were extravagant.
+
+# 836ba935
+; 俺は十年も働いてないのに、
+I had not worked for ten years;
+
+# a4d8f27f
+; もう古くなって、破れてしまった。
+It's old and torn.
+
+# 3b464878
+; ユールちゃんのトイレには新しい便座カバーがやってきて、
+A new toilet seat cover came to the toilet of Yule;
+
+# 35da917
+; 俺は捨てられた。
+I was abandoned.
+
+# fb97b0e0
+; yule: 「さようなら、今までありがとう」
+yule: "Good-bye, thank you so much."
+
+# 27527a8f
+; ゴミ場に俺を捨てながらユールちゃんが言った。
+said Yule, throwing me into the garbage.
+
+# 3466949f
+; me: （……）
+me: "（……）"
+
+# 1e366518
+; 次の日、俺はゴミ場からどこかに運ばれた。
+The next day, me was taken somewhere from the garbage dump.
+
+# 705197a5
+; 焼却炉だ。
+It's an incinerator.
+
+# b3ae07b
+; 燃えるゴミとして、燃やされるみたいだ。
+It's like burning garbage.
+
+# 60ef9017
+; me: （……ありがとう…か）
+me: "(Thank you ………)"
+
+# 6171a43a
+; これから死にゆく身でも、最後に感謝の言葉をもらえて嬉しかった。
+I was glad to receive a word of thanks at the end, even though I was dying.
+
+# cfe8360
+; さようなら、便座カバーの人生。
+Goodbye, toilet seat cover life.
+
+# 87e53794
+; 短い間でも、生き甲斐はあったよ。
+It was worth living even for a short time.
+
+# e581b497
+; me: （熱いね）
+me: "(It's hot)"
+
+# 2f86d58a
+; そして俺はそのまま焼却されて、チリになっていく。
+The me is then incinerated into Chile.
+
+# f1516845
+; 消滅。
+Disappearing.
+
+# efefeaeb
+; @choice "流れるままに" goto:7_2_3_dream.kasou
+@choice "As it flows" goto:7_2_3_dream.kasou
+
+# 60b23ca6
+; @choice "消滅？" goto:ed_7_2_z_relive
+@choice "Disappeared?" goto:ed_7_2_z_relive

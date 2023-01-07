@@ -1,0 +1,85 @@
+; Japanese <ja> to English <en> localization document for `surtshellir` naninovel script
+
+# 58ffc8b1
+; me: 「こ、この中に入るのか……」
+me: "Are you going in here ……?"
+
+# f8eaeab2
+; ここは、 <ruby="スルトシェリール"> Surtshellir</ruby>。
+This is <ruby="sult shellir">Surtshellir</ruby>.
+
+# 95a0b3fb
+; 長さ１マイルで、アイスランドで一番長い溶岩洞窟だ。
+It is one mile long and is the longest lava cave in Iceland.
+
+# bf1e2ad9
+; その名の由来はノルド神話の火の巨人、 <ruby="スルト"> Surtr</ruby>。
+Its name comes from <ruby="sult">Surtr</ruby>, the fire giant of Norse mythology.
+
+# a8c8d1d9
+; この洞窟は昔から周りの町の人々にとって恐れの対象だった。
+The cave has long been a source of fear for the people of Village around it.
+
+# 23b53f60
+; 昔、この地に定着したヴァイキングの族長の息子、 <ruby="ソルヴァルドル・ホルバルキ"> Þorvaldur</ruby> holbarkiは、
+<ruby="Solvaldur Holbarki"> Þorvaldur</ruby> holbarki, the son of a patriarch of Viking who settled here a long time ago,
+
+# 8259d459
+; この洞窟に住んでいたスルトを称える儀式の唄、drapaを歌ったという。
+It is said that he sang drapa, a ritual song in honor of Sult who lived in the cave.
+
+# a9bc6faf
+; １７５０年、探検家 <ruby="エガート・オルラプソン"> Eggert</ruby> Ólafssonは、
+In 1750, explorer <ruby="Eggert Olrapson">Eggert</ruby> Ólafsson wrote,
+
+# 2be2e49
+; この神秘の場所について徹底的に記録を残そうとした。
+I tried to make a thorough record of this mysterious place.
+
+# eec72de3
+; 洞窟を調査しようとした彼に、周りに住んでいた住民たちは警告した。
+Residents around him warned him when he tried to investigate the cave.
+
+# babb71f6
+; 『そこに入ったら、洞窟の幽霊に呪い殺される事になるだろう』と。
+『 that if he went in, he would be cursed to death by Ghost in the cave.
+
+# ddb20339
+; me: 「おおっと」
+me: "Oops,"
+
+# 2762ccd8
+; あっぶない。
+That's ridiculous.
+
+# dcec0366
+; 滑り落ちそうになった。
+I almost slipped down.
+
+# 65e8b176
+; me: 「こんな道が、ずっと続くのか……」
+me: "I don't know if this road will continue ……"
+
+# 391f75e4
+; 勇気を出して降りてはみたけど……
+I had the courage to go down, but ……
+
+# 6d860526
+; me: 「……そろそろ帰るかな」
+me: "…… "I think I'll be home soon."
+
+# 57bfd3c3
+; 一番奥まで進んでみたかったけど、得体の知らない気配が、奥から発せられてる感じがした。
+"I wanted to go to the innermost part, but I felt that there was a strange sign coming from the innermost part."
+
+# dd216591
+; 多分気の所為だろうけど、なんだか怖くなった。
+Maybe it's just my imagination, but somehow I got scared.
+
+# 4cddbc66
+; 引き返そう。
+Let's turn back.
+
+# 1798c67a
+; unknown: 「…………………………」
+unknown: "…………………………"

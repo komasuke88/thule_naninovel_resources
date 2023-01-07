@@ -1,0 +1,297 @@
+; Japanese <ja> to English <en> localization document for `skogafoss` naninovel script
+
+# 7903313e
+;  <ruby="スコガフォス"> Skógafoss</ruby>。
+<ruby="Skogafoss">Sk ógafoss</ruby>.
+
+# 410cc1d0
+; 国道１号線からもはっきり見える、大きな滝だ。
+It is a large waterfall that can be seen clearly from National Highway 1.
+
+# 6963adcd
+; 隣のセリャラントスフォスと高さは同じなんだけど、幅が広いため、もっと迫力がある。
+It's the same height as the Seljalandsfoss next door, but it's more powerful because it's wide.
+
+# b8134e5d
+; me: 「そういや、この滝の下には、宝物が埋めてあるって話があったな」
+me: "by the way "It was said that there was a treasure buried under this waterfall."
+
+# c491701f
+; "Þrasakista auðug er <ruby="スラシの箱は宝物でいっぱいだ"> 　</ruby>
+" Þrasakista au ðugger <ruby="Slashi's box is full of treasure"></ruby>
+
+# cb60d7f0
+; undir fossi Skóga, <ruby="スコガフォスの滝の裏"> 　</ruby>
+undir fossi Sk óga, <ruby="Back of Skogafos Falls"></ruby>
+
+# 97ffb262
+; hver sem þangað fyrstur fer <ruby="その場所へ最初に着く者は"> 　</ruby>
+hversem þanga ðfyrsturfer <ruby="The first person to get to that place is"></ruby>
+
+# d0583ac7
+; finnur auðlegð nóga." <ruby="莫大な富を手に入れるだろう"> 　</ruby>
+finnurau ðleg ðn óga."<ruby="You'll get a lot of wealth"></ruby>
+
+# 510f40e4
+; アイスランドに最初に入植したバイキング、 <ruby="スラシ・ソゥルオゥルフソン"> Þrasi</ruby> Þórólfsson。
+<ruby="Sulasi Solulfson"> Þrasi</ruby> Þór ólfsson, the first Viking to settle in Iceland.
+
+# d593d2f2
+; 彼はスコガフォスの滝の裏手の洞窟に財宝でいっぱいの木箱を埋めたという。
+He reportedly buried a wooden box full of treasure in a cave behind the Skogafos Falls.
+
+# a36fcb
+; スラシの死後、何度もその木箱を引っ張り上げようと試みたが、
+After Slashi's death, he tried many times to pull up the crate;
+
+# db91eb01
+; 木箱の取っ手が壊れ、手元に残ったのは取っ手だけ。
+The handle of the wooden box was broken, and all I had left was the handle.
+
+# 27fbd38a
+; 木箱は滝つぼへと再び姿を消た。
+The crate disappeared again into the waterfall basin.
+
+# 2048b4e5
+; 壊れた取っ手は教会に寄付され、
+The broken handle was donated to the church;
+
+# 15d1d3d1
+; 現在では近くにあるスコゥガル民族博物館で保存されてる。
+It is now preserved at the nearby Skogal National Museum.
+
+# 892cb869
+; 本当に財宝は滝つぼに隠されているのだろうか。
+Are treasures really hidden in waterfalls?
+
+# 552c0525
+; me: 「ヴァイキングの宝物か……」
+me: "Is it a treasure of Viking?"
+
+# 14e66627
+; でもその伝説だけを信じて、こんな凄まじい滝壺の下を調査する人など。現代には居ないのだろう。
+But someone who believes in the legend and investigates under such a terrible waterfall pot.They probably don't exist today.
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 3e549c8a
+; 人の流れが、滝の隣に向いている。
+The stream of people faces the waterfall.
+
+# 5f647647
+; よく見ると階段が設置されており、てっぺんには展望台もある。
+If you look closely, there are stairs and observation decks at the top.
+
+# d69a7601
+; 展望台からは滝を見下ろす事もでき、周りの景色も見られそうだ。
+From the observation deck, you can look down at the waterfall and see the surrounding scenery.
+
+# 8e0dd3f2
+; me: 「俺もちょっと登ってみるか」
+me: "Why don't you climb up me?"
+
+# e7cec761
+; ……お、思ったよりキツイな。
+…… Oh, it's harder than I thought.
+
+# 22d19022
+; me: 「……この階段から見上げる風景も、絵になるな」
+me: "…… "The scenery that you look up from these stairs is not a picture."
+
+# b577f0ca
+; この苔だらけの斜面が、結構雰囲気ある。
+This mossy slope has quite an atmosphere.
+
+# cd3937b
+; me: 「や、やっとついた」
+me: "Well, we've got it at last,"
+
+# c3d2844a
+; 展望台がある場所からは、てっぺんから更に向こうには雪山が見えた。
+From where the observation deck was, we could see a snowy mountain from the top.
+
+# 71f8d3a7
+; me: 「でもこれは、のぼったがいがあったな」
+me: "But it was worth climbing,"
+
+# 38157c
+; 雪山がこんなに近いと、流石に北欧に来たという気分になる。
+When the snowy mountains are so close, I feel like I've come to Northern Europe.
+
+# b5660a9b
+; できる事ならこの向こう、あの雪山までも行ってみたいんだけど、流石に駄目なんだろうな。
+If possible, I'd like to go to that snowy mountain beyond, but I guess it's no good.
+
+# 14d4ce68
+; me: 「さて、滝を見下ろしにいくか」
+me: "Well, let's go and look down at the waterfall,"
+
+# b77c142d
+; me: 「こ、この展望台、大丈夫だよな？」
+me: "Is this observatory okay?"
+
+# 6cfa1bcf
+; 階段を登りきって、展望台へ足を運んだけど、
+I climbed the stairs and went to the observatory.
+
+# cd97bcf0
+; どうも足元が不安なのだな……
+You must be anxious about your feet ……
+
+# 69cf2acc
+; me: 「へぇー！」
+me: "`Oh!'"
+
+# 449bb0c6
+; てっぺんから見下ろす滝は、下で見た時とはまた違う迫力があった。
+The waterfall from the top was different from what I saw below.
+
+# f366b00
+; 展望台から、滝の反対側も見渡した。
+From the observatory, I looked over the other side of the waterfall.
+
+# 45b3e61b
+; me: 「こっちの側も、涼しい気持ちだ」
+me: "I feel cool on this side, too."
+
+# 79387a14
+; 周りの風景も見渡せる。
+You can also see the surrounding scenery.
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 940c482e
+; man3: 「こっちだったかな」
+man3: "Was it this way?"
+
+# f8e0e18f
+; 展望台から外れたところに、道がない場所にわざわざ入ろうとしてる人が居た。
+Out of the observation deck, there was a person who was going out of his way to get into a place where there was no road.
+
+# 3fdad592
+; me: 「あ、あの……そっちは危なくないですか？どこに行くんですか？」
+me: "Oh, isn't that …… dangerous over there?"Where are you going?"
+
+# 4bbbc762
+; man3: 「こっちに、トロールの頭があるんだよ」
+man3: "Here's Troll's head,"
+
+# 285d5b2e
+; me: 「トロールの頭？」
+me: "The head of Troll?"
+
+# eb904d77
+; その言葉に、気になってついて行ってみた。
+I was curious about the words and followed them.
+
+# ea7479e1
+; me: 「なるほど」
+me: "I see,"
+
+# 8b52ccdd
+; 本当に、巨大な人の横顔に見える。
+It looks like a huge person's profile.
+
+# c47cba6e
+; 昔の人が何も知らずにこれを発見したら、そりゃ巨人の頭だと、大騒ぎしたに違いない。
+If the old man had discovered this without knowing anything, he must have made a fuss about it as a giant's head.
+
+# 4651a35a
+; man3: 「あれは、太陽の光を浴びて石になってしまったトロールだよ」
+man3: "That's Troll, who has turned into a stone in the sun."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# fbe4b18d
+; man3: 「こんなデカイトロールが、堂々と歩き回っていたら、人間には脅威だろう？」
+man3: "Wouldn't it be a threat to humans if such a big Troll were walking around?"
+
+# c78ad39d
+; me: 「そ、そうですね」
+me: "Yes, sir,"
+
+# ae02edb
+; man3: 「幸い、あいつらは太陽の光を浴びてしまうと石になるから、アイスランドの人々は安全に暮らせるもんだよ」
+man3: "Fortunately, they turn into stones when they are exposed to sunlight, so Icelanders can live safely."
+
+# a9c6855a
+; me: 「ああ、はい。よかったですね」
+me: "Oh, yes, that's a relief."
+
+# 311e1539
+; man3: 「しかしごく一部に、魔力を持ったトロールがいる。[i]あいつらは太陽の光を浴びても石にならないんだ。魔力で光を遮断するんだとよ」
+man3: "But there are only a few Trolls with Magical Powers.[i]They don't turn into stones in the sun.Magical Power to block out the light."
+
+# b099eafc
+; me: 「生きてるトロールですか……それは怖いですね」
+me: "Living Troll? …… That's scary."
+
+# a72044ab
+; man3: 「ああ。でも安心しな。そんな魔法のトロールは体が小さいというから、物理的には危なくないんだ」
+man3: "Yes, but don't worry.Such a magical Troll is said to be small, so it is not physically dangerous."
+
+# c6ec52f4
+; me: 「はは、そうですか」
+me: "Well, is that so?"
+
+# ff3a1011
+; man3: 「アイスランドにはこういう人の形をした岩石が多いが、特に説明がついてなくても、それはみんなトロールだと思えばいい」
+man3: "There are many rocks in Iceland that look like this, but even if there is no explanation, you can think of them as Troll."
+
+# ea7479e1
+; me: 「なるほど」
+me: "I see,"
+
+# 371f5b7d
+; man3: 「そんじゃ、わしはまた別のトロールの写真を撮りに行くよ。BlessBless」
+man3: "Well, I'll go and take another Troll photo.BlessBless"
+
+# e0b0d602
+; 男はそんな事を言って、すぐに階段から降りていった。
+Man said this, and went down the stairs at once.
+
+# 27f80359
+; me: 「トロールね。……うん？」
+me: " Troll, …… Huh?"
+
+# beac2435
+; skoga_troll: 「……」
+skoga_troll: "……"
+
+# 8cccd8cf
+; me: 「！？」
+me: "！？"
+
+# b592377f
+; 一瞬、あのトロールの頭からこっちを向いた気がした。
+For a moment I felt Troll's head turned to me.
+
+# bef63f1c
+; すごい気配を感じたんだけど、……な、なんだ。
+I felt a great sign, but ……, what?
+
+# a74f7171
+; me: 「き、気のせいだろう」
+me: "It must be just my imagination,"
+
+# 339a1fe1
+; なぜかちょっと怖くなった俺は、急いで階段を降りて行った。
+For some reason he was a little frightened, and hurried down the stairs.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# 5997baf9
+; 人が多い場所に来ると、落ち着く。
+It calms me down when I come to a crowded place.
+
+# 529a6f06
+; me: 「さて、次へ行くか」
+me: "Well, let's move on,"

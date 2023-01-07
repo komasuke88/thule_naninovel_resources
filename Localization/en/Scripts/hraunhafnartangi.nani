@@ -1,0 +1,33 @@
+; Japanese <ja> to English <en> localization document for `hraunhafnartangi` naninovel script
+
+# 6d245058
+;  <ruby="フラウンハフナルタンジ"> Hraunhafnartangi</ruby>は、アイスランド本土の最北端時点。
+<ruby="Fraunhafnartangi">Hraunhafnartangi</ruby> is the northernmost point of the Icelandic mainland.
+
+# 936fd952
+; 厳密に言うと隣の岬、 <ruby="リフスタンジ"> Rifstangi</ruby>がギリギリで最北端時点なんだけど、
+Strictly speaking, the neighboring cape, <ruby="lifstange">Rifstangi</ruby>, is at the northernmost point.
+
+# 7a2c03e9
+; 同じくこの半島内にあるため、ここが最北端と言ってもいいんだ。
+It's also within the peninsula, so this is the northernmost part.
+
+# cd17c7b9
+; [br]この地を代表する景色がこの灯台。
+[br] This lighthouse represents this area.
+
+# 6a73a3dc
+; 何もない果ての地に建てられた１９ｍの建物。
+A 19-meter-long building built on an empty end.
+
+# 7102136b
+; me: 「俺は、アイスランド本土の最北端にいるんだよな」
+me: "The me is in the northernmost part of the Icelandic mainland."
+
+# 6308256d
+; 最果ての地。
+the last land.
+
+# d8c2a614
+; なんだか荒涼として、寂しそうな感じの地だった。
+It was a desolate, lonely place.

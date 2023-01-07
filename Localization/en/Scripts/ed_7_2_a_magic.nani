@@ -1,0 +1,41 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_a_magic` naninovel script
+
+# 154cde21
+; そうだ。
+That's it。
+
+# a645ad55
+; 俺は魔術師。
+I Magician.
+
+# 48de9e68
+; 魔導書を読むのが好きだった。
+I liked to read magic books.
+
+# 14cf609d
+; 覚えたてのあの魔法を使ってみよう。
+I'll use that magic I just learned.
+
+# daf4d572
+; me: 「ポリモーフ！」
+me: " polymorph!"
+
+# 62b01001
+; どんなものにも姿を変えられる呪文。
+A spell that can be transformed into anything.
+
+# af8058c0
+; それで、俺は自分の姿を変えてしまった。
+So me changed his appearance.
+
+# 54eca31c
+; 何に？
+To what?
+
+# 422cb59f
+; @choice "氷山" goto:7_2_5_dream.hyouzan
+@choice "Icemountain" goto:7_2_5_dream.hyouzan
+
+# 6a95de72
+; @choice "ウンコ" goto:7_2_5_dream.unko
+@choice "Eunko" goto:7_2_5_dream.unko

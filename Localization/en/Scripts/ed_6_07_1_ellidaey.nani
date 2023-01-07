@@ -1,0 +1,109 @@
+; Japanese <ja> to English <en> localization document for `ed_6_07_1_ellidaey` naninovel script
+
+# 73f00b8
+; yule: 「え、本当に？[i]では早速停泊しましょう！」
+yule: "Really? [i] Then let's stop at once!"
+
+# df15f777
+; 一日後……
+…… a day later
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# c70a016c
+; 島と、海と、あとは……
+The island, the sea, and the rest ……
+
+# a5b85004
+; 特に、何もない。
+Nothing in particular.
+
+# b5be1210
+; こんなエリダエイ島で、俺たちは住む事になった。
+The mes were to live on this island of Elydeaay.
+
+# 3f560401
+; 三人？で。
+Three of us?
+
+# 2e1c92f9
+; yule: 「くすくす、昨日は良かったですね、{playerName}」
+yule: "Yesterday was good, {playerName},"
+
+# 2f1c914b
+; hime: 「もうユールちゃんひどすぎるよ。わたしがいるのにお構いなしにあんな……！」
+hime: "It's too much Yule.Don't worry about my presence ……!'"
+
+# 4a6f0387
+; yule: 「いやー！おかげですごく興奮しました。こんなプレイは初めてです」
+yule: "No! Thanks to you, I was very excited.I've never played like this before."
+
+# 82ef0d88
+; hime: 「{playerName}もさ、人様が見てるっていうのに、あんな……みそこなったよ」
+hime: "I missed {playerName} even though people were watching."
+
+# 724ae3ee
+; me: 「……いや、すまん」
+me: "…… "No, I'm sorry,"
+
+# 9504f1fa
+; yule: 「謝ることはないですよ。この幽霊はどうせ触れないし、勝手についてるだけじゃないですか？」
+yule: "I have nothing to apologize for.I can't touch this Ghost anyway, and it's just on my own, isn't it?"
+
+# 92163c2b
+; hime: 「そ、そうだけど……[i]うぅ、でも逃げる事もできないし。こんなの見てるしかできないなんて、拷問だよ」
+hime: "Yes, but ……[i] but I can't escape.It's torture to have no choice but to look at it."
+
+# 32dbc3bd
+; me: 「……ご、ごほん」
+me: " …… Oh, my God,"
+
+# 276a193b
+; yule: 「それにしても、もう暇ですね」
+yule: "But you're free now,"
+
+# e82c31da
+; me: 「そうだな」
+me: "Yes,"
+
+# a33b2e49
+; 何もない小さい島だもんな。
+It's a small island with nothing.
+
+# 76dcac50
+; yule: 「特にすることもないし、もう一回やりましょうか？」
+yule: "I have nothing special to do. Shall we do it again?"
+
+# d613d9c7
+; me: 「……も、もう一回？」
+me: "One more ……?"
+
+# 9eb45be0
+; hime: 「もうー！」
+hime: "`Oh!'"
+
+# f033785b
+; yule: 「くすくす、これからもユールちゃんと、気持ちいい毎日をおくりましょうね！この愛の巣で、ずっと！」
+yule: "Let's continue to have a pleasant day with Yule!"In this nest of love!"
+
+# df175a65
+; me: 「……お、おう」
+me: "…… "Oh, my God,"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 6cd514c3
+; それからも三人で、幸せな人生を生きたとさ。
+The three of us lived a happy life together.

@@ -1,0 +1,213 @@
+; Japanese <ja> to English <en> localization document for `6_05_5_vatnaend` naninovel script
+
+# f4c97d57
+; 氷河洞窟から出てきた。
+I came out of the glacier cave.
+
+# ca11b400
+; 外はまたも変わった風景だった。
+It was another strange sight outside.
+
+# 9da2f46c
+; 氷河と地面が接してて、氷と砂がぐちゃぐちゃになって、プチプチと気泡を出しながら溶けてた。
+The glacier and the ground were in contact with each other, and the ice and sand were muddled together and melted with bubbles.
+
+# 5343a53d
+; ここは、氷河と地面が接してるところだった。
+This was where the glacier and the ground met.
+
+# 30485d08
+; 雪山の下まで下りてきたようだ。
+I feel like I've come down to the bottom of a snowy mountain.
+
+# ee2c4b9b
+; 相変わらず寂しい風景だけど、何故か落ち着く。
+The scenery is still lonely, but somehow it calms me down.
+
+# 38768bc
+; byu: 「では、ボクは次のソーセージを狩りに行くよ」
+byu: "Well, I'll go hunting for the next sausage,"
+
+# 14d3d792
+; yule: 「はい。ここでお別れですね」
+yule: "Yes, I'll say goodbye now."
+
+# 678a2ad3
+; byu: 「……ね。{playerName}？」
+byu: " ……, {playerName}?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 2a1fb511
+; byu: 「また会えるといいね」
+byu: "I hope to see you again"."
+
+# 6a0088a2
+; me: 「あ、ああ。できたらいいね」
+me: "Oh, yes. I wish I could."
+
+# 8e343949
+; byu: 「いつかあのソーセージ、味わわせてね」
+byu: "Someday, let me taste that sausage"
+
+# f0c4e5df
+; yule: 「味わわせません。ユールちゃんのモノです！」
+yule: "I won't let you taste it.It belongs to Yule!"
+
+# cabd51f8
+; byu: 「わかってるよーもう冗談だって。[i][char byu.emi]ボクも早く婿を探して、一緒にソーセージ狩りでもしたいな」
+byu: "I know, I'm kidding.[i][char byu.emi] I want to find my son-in-law soon and hunt sausage together."
+
+# f053f9a6
+; yule: 「ビューちゃんも人間世界に行って、拾ってくればいいのです」
+yule: "All you have to do is go to the human world and pick up Byu."
+
+# bcb98b4e
+; 俺って、拾い物か。
+I What do you mean?
+
+# d920d9f1
+; byu: 「わたしにも拾えるかな」
+byu: "Can I pick it up, too."
+
+# 59869d2d
+; yule: 「まあ、運がよかったら、どこかに落ちてるんじゃないですか？」
+yule: "Well, if you're lucky, wouldn't you fall somewhere?"
+
+# db238a9f
+; byu: 「よっぽど強運でなきゃ」
+byu: "You must be very lucky,"
+
+# 72898fcf
+; yule: 「それはそうですよね」
+yule: "That's true, isn't it?"
+
+# 61ed72b6
+; 俺って、道端に落ちてるお札みたいな扱いだな。
+I It's like a bill on the street.
+
+# 5b9da13b
+; byu: 「……あ、そうだ、ユールちゃんさ」
+byu: " …… Oh, yes, Yule,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# d372dd8
+; byu: 「最近、南の海の様子が変だと聞いたから、気をつけて」
+byu: "I heard that the southern sea is weird these days, so be careful"."
+
+# 4d7d3274
+; yule: 「そういや、ご先祖様も同じ事を話してました。いったい南の海になにか？」
+yule: "My ancestors told me the same thing.What is it in the southern sea?"
+
+# 325897c
+; byu: 「ボクも噂だけ聞いただけだけど、南海岸の海の民とかエルフが、頭がおかしくなってるって」
+byu: "I've only heard rumors that the people of the South Coast sea and Elf are going crazy."
+
+# 8382fd82
+; yule: 「それはどういう事でしょう」
+yule: "What does that mean?"
+
+# 5f363d95
+; byu: 「知らないけど、あいつらがいきなり襲ってくるかも知れないから、注意すべきだよ」
+byu: "I don't know, but you should be careful because they might attack you all of a sudden."
+
+# b0339f99
+; yule: 「ま、海の民とか、いかれたエルフなどには、やられはしませんよ」
+yule: "Well, the people of the sea, or the mad Elf, will not be beaten,"
+
+# 7d4cdf08
+; byu: 「でも奇襲されたらやばいからね？」
+byu: "`But you'd be in trouble if you were attacked?'"
+
+# 4fdec933
+; yule: 「はい。そこは気をつけます。ありがとうございます」
+yule: "Yes, I'll be careful there.Thank you."
+
+# 216d3be6
+; byu: 「うん。[i][char byu.default]では、わたしは行くよ。また、ヨールの夜に会おうね」
+byu: "Yes. [i] [char byu.default] Then I'll go.See you again on the night of Jol."
+
+# de0c9426
+; yule: 「はい。では、あの日に」
+yule: "Yes, then, that day."
+
+# 4b34ee54
+; ビューちゃんはお別れの挨拶をして、遠くへ走って行った。
+Byu said good-bye and ran far away.
+
+# c358e282
+; me: 「あいつも以外と足が速いな……って」
+me: "He's a faster runner than anyone else ……"
+
+# da3c44a2
+; ビューちゃんが走った方から、
+From the person who ran Byu,
+
+# 40afdfd0
+; どこからか巨大な鳥が飛んできて、ビューちゃんの前に降りた。
+A huge bird flew in from somewhere and descended before Byu.
+
+# a79a97d7
+; あれは……！？
+Is that ……?
+
+# 336aa44
+; @choice "パーフィン" goto:.nani
+@choice " Puppin" goto:.nani
+
+# 204dd4cd
+; @choice "モンスター" goto:ed_6_05_5_puppin
+@choice "Monster" goto:ed_6_05_5_puppin
+
+# 45bf5bce
+; その鳥は、すぐにビューちゃんを背負って去って行った。
+The bird left at once with Byu on its back.
+
+# 2875da94
+; me: 「あ、あれは何だ？」
+me: "What's that?"
+
+# 2cf9f53b
+; yule: 「あれはパーフィンです。ビューちゃんがソーセージを餌にして飼ってるんです」
+yule: "That's Puppin.Byu feeds on sausage."
+
+# b9cc5511
+; me: 「パーフィンって、あんなに巨大だったっけ」
+me: "Was Puppin that huge?"
+
+# edca16bc
+; yule: 「まあ、ここは何でもなりますから」
+yule: "Well, it's all right here,"
+
+# 285f83
+; me: 「アイスランドって不思議なことだな」
+me: "Iceland is a strange thing,"
+
+# 763186b8
+; 俺はぼーっと、遠ざかるビューちゃんと鳥を眺めてた。
+I stared blankly at the distant Byu and at the bird.
+
+# 5830568d
+; yule: 「くすくす。さて……[i][char yule.kusu2-l]アタシ達も行きましょうか？」
+yule: " giggle. Now ……[i][char yule.kusu2-l] Shall we go, Atsushi?"
+
+# 8104f834
+; me: 「うん？どこに……って、うわあああ？」
+me: "Huh? Where do you say ……?"
+
+# 2c63c451
+; ユールちゃんは俺の手を取って、[i]
+Yule took me by the hand, [i]
+
+# 988bb79
+; いきなり湖の方へ走って行った！
+I suddenly ran towards the lake!
+
+# 3ea899f
+; ……
+……

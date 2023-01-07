@@ -1,0 +1,565 @@
+; Japanese <ja> to English <en> localization document for `2_02_3_borg` naninovel script
+
+# 9f74579d
+; レイキャヴィクの話をしてるうちに、また周りの景色がちょっと変わってきた。
+As we talked about Reykjavik, the scenery around us changed a little.
+
+# 72845d9a
+; hime: 「あれ？もう日が暮れてるよ？まだ午後３時なのに……」
+hime: "Huh? It's already dark.It's only three o'clock in the afternoon ……"
+
+# f093feea
+; me: 「アイスランドの冬はこんなもんさ。１１時が日の出で、４時はもう夜なんだよ」
+me: "Winter in Iceland is like this.eleven o'clock is sunrise, and four o'clock is already night."
+
+# 44223444
+; hime: 「えっ？そんなに昼が短いの？」
+hime: "What? Is the day that short?"
+
+# 721e822b
+; me: 「うん。だから観光には向いてないんだけど……[i]オーロラを見るには最適かな」
+me: "Yeah. That's why it's not good for sightseeing, but it's perfect for seeing ……[i] Northern Light."
+
+# 885c76a8
+; hime: 「オーロラか……！それはホント、楽しみ」
+hime: "`Or Northern Light!'I'm really looking forward to it."
+
+# 1202743f
+; me: 「だよな。そのオーロラを見るためだけに、アイスランドに来る人も多いって言うんだ」
+me: "I know. Many people come to Iceland just to see the Northern Light."
+
+# ab0e84df
+; hime: 「へへ、それ、わたし」
+hime: "Hehe, that's me,"
+
+# 8f719578
+; me: 「あ、そうだったのか」
+me: "Oh, I see,"
+
+# e75ff0f4
+; hime: 「実はね、[i]元カレが『オーロラを見に行こう』なんて言ったから、始まった旅行なのよね」
+hime: "Actually, [i] My ex-boyfriend said, "Let's go see 『Northern Light, so it's a trip that started."
+
+# e30dbec
+; またも重い話をさり気なく言った。
+Again, he said the heavy things.
+
+# 369d1e7
+; 実はもう吹っ切れたのかな。
+I wonder if it's already gone.
+
+# 3d4e619f
+; me: 「それなら、時期はよく選んだんだな」
+me: "Then you've chosen the right time,"
+
+# 630c7a54
+; hime: 「うん。オーロラを存分に楽しんで行こうっと～」
+hime: "Yes, let's enjoy Northern Light to the fullest."
+
+# 3ea899f
+; ……
+……
+
+# aa997b69
+; ナビの案内経路が、少し複雑になってきた。
+The navigation route has become a little complicated.
+
+# 5f7de7cc
+; 最後のICを周り、脇道の角を曲がると、
+If you go around the last IC and turn the corner of the side street,
+
+# da56a41f
+; ついに、街が見えてきた。
+At last, I saw the city.
+
+# e720003a
+; ここがアイスランドの首都、レイキャヴィクだ。
+This is Reykjavik, the capital of Iceland.
+
+# 197965bd
+; hime: 「美しい町なんだね。ヨーロッパって感じ」
+hime: "It's a beautiful Village.It's like Europe."
+
+# b0cf346c
+; me: 「ああ。わくわくするな」
+me: "Yes, I'm excited."
+
+# 9cb96891
+; ナビに従って、小さな道に入った。
+I followed the navigation system and entered a small road.
+
+# 4f4b7776
+; 表示された画面を確認すると、目的地はすぐそこだった。
+I looked at the screen and found my destination just around the corner.
+
+# 4d7ea809
+; me: 「ヒメのホテル、あと２分で着くよ？」
+me: "The hotel in Hime will be there in two minutes?"
+
+# d9c6e848
+; hime: 「えっ？もう？[i][char hime.car_b_a_hae]……あ、あそこかな！」
+hime: "What? Already? [i] [char hime.car_b_a_hae] …… Oh, it's over there!"
+
+# 24ddd65
+; me: 「おぉ？……あの右手に見える白い建物か」
+me: "Oh? …… The white building on the right."
+
+# e011cc2d
+; そのホテルは大きくて、遠くからでも目立っていた。
+The hotel was large and stood out from afar.
+
+# 570792b1
+; ぱっと見でも高級ホテル。
+At first glance, it's a luxury hotel.
+
+# eb33d258
+; それに正門からホテルの名前が見えてきてはっきりわかった。ここは、有名なホテルだった。
+and I could see the name of the hotel from the main gate, and I could see it clearly.This was a famous hotel.
+
+# 3bf36184
+; ヒメは、ここにだけ２週間泊まるって言ってたな。
+Hime said he'd stay here for two weeks.
+
+# 6d86fa31
+; こんなホテルで連泊だと、いったい何万円かかるんだ？
+How many thousands of yen does it cost to stay at a hotel like this for consecutive nights?
+
+# c8fe75d2
+; とか思いながら、
+and so on.
+
+# 516bdfe
+; 俺はホテルの前の駐車場に車を止めた。
+I parked his car in the parking lot in front of the hotel.
+
+# fca7d42
+; me: 「ついたよ」
+me: "It's on,"
+
+# f0aa8a76
+; hime: 「到着だ！ありがとう、{playerName}」
+hime: "Here we are! Thank you, {playerName}."
+
+# 5632316e
+; me: 「どういたしまして」
+me: "You're welcome,"
+
+# 39d2eb35
+; 俺とヒメは車から降りて、レイキャヴィクの空気を吸ってみる。
+I and Hime got out of the car and tried to breathe Reykjavik's air.
+
+# 16784c83
+; hime: 「す——はぁ——」
+hime: "Yes, yes."
+
+# 243de2f
+; ……だけど、この空気に、俺は違和感を覚えた。
+…… However, me felt uncomfortable with the air.
+
+# d38e2d81
+; 風がないとは言え、全然寒くない。むしろ異常なくらいに……
+There is no wind, but it is not cold at all.rather abnormally ……
+
+# 3252fce1
+; hime: 「……思ったよりもずっと暖かいね」
+hime: "…… "It's much warmer than I thought."
+
+# 82486268
+; me: 「そう、だな。これは予想外だ」
+me: "Well, that's unexpected."
+
+# d3047347
+; 今年のアイスランドは冬が暖かいって情報は聞いてたけど、これは予想以上だ。
+I've heard that winter is warm in Iceland this year, but this is more than I expected.
+
+# ba727e6d
+; hime: 「ちょっと拍子抜けしちゃうよ。[i][char hime.winter2_sad_a_e]暖かい服、沢山持ってきたのに」
+hime: "I'm a little off my guard.[i][char hime.winter2_sad_a_e] I brought a lot of warm clothes."
+
+# fad82712
+; スマホでレイキャヴィクの今の天気を確認してみた。
+I checked the current weather in Reykjavik in Smartphont.
+
+# 17198874
+; １８°C だった。
+It was 18°C.
+
+# 553104e9
+; とてもアイスランドの冬とは思えない。
+I don't think it's Icelandic winter.
+
+# 7f120c86
+; 旅行前に予報を見た時にはこれくらいじゃなかった。
+When I looked at the forecast before the trip, it wasn't this big.
+
+# 829d59ce
+; 今日、いきなり高くなったみたいだ。
+I think it's suddenly high today.
+
+# 3d334313
+; こんなに暖かいのは、このレイキャヴィク地域だけかな？
+Is it only in the Reykjavik region that it's so warm?
+
+# 2ea3658b
+; 空港ではもっと寒かったのに、風のせいか、それとも地域差があるのか。
+It was colder at the airport, but is it because of the wind or because of regional differences?
+
+# 99f38a4d
+; [br]……いや、考えてみると、
+[br]…… Well, if you think about it,
+
+# 48e08bfa
+; こんな予想外の天気は、今更珍しくもないかも知れない。
+Such unexpected weather may not be uncommon now.
+
+# b2531780
+; me: 「……世界的な異常高温だって、ホント、実感できるよ」
+me: "…… "I can really feel the world's unusually high temperatures."
+
+# 9aa5d6d9
+; hime: 「……そういや、そうだったね。[i][char hime.winter_sad_a_w]日本なんて、冬でも半袖だったんだもん」
+hime: "Yes, ……by the way.[i][char hime.winter_sad_a_w] In Japan, I wore short sleeves even in winter."
+
+# 52ee5427
+; 近頃数年、世界はちょっと普通じゃない。
+The world hasn't been normal for the last few years.
+
+# d41f8e4a
+; me: 「世界的な感染症が終わるかと思ったら、今度は世界的な異常気象だよな」
+me: "I thought the global infection would end, but now it's an abnormal global weather."
+
+# c7909a2
+; hime: 「ホント、世界が終わるとしてるのかな」
+hime: "I wonder if the world is going to end"."
+
+# aa559ca
+; me: 「そうだな。でも、[i]世界が終わらないうちに、海外旅行できてよかったよ」
+me: "Yeah, but [i] I'm glad I was able to travel abroad before the world was over."
+
+# 6125132c
+; hime: 「あははっ、言えてるー。[i][char hime.winter2_b_a_emi]……けど観光客としては、むしろよかったかもね。[i][char hime.winter2_b_a_w]寒くなくて」
+hime: "Haha, That makes sense.[i][char hime.winter2_b_a_emi] ……But it might be better for tourist.[i][char hime.winter2_b_a_w] It's not cold."
+
+# bc47e494
+; me: 「それもそうだな」
+me: "And so is it,"
+
+# 5c328672
+; 俺は今後のアイスランド旅行について、色んな事を考えながら、
+I is thinking about various things about his trip to Iceland.
+
+# ee3d1bcb
+; トランクに乗せていたヒメの荷物を下ろして、ホテルのドアの前に置いた。
+I unloaded Hime's luggage from the trunk and put it in front of the hotel door.
+
+# 9015c272
+; me: 「よっと」
+me: "All right,"
+
+# 4a337171
+; hime: 「あら、荷物まで、ありがとう！」
+hime: "Oh, thank you for your baggage!"
+
+# c08224a0
+; これで俺が手伝える事は全部終わった。
+That's all me can do to help.
+
+# be746996
+; me: 「では、ここまでだな」
+me: "Well, that's it,"
+
+# 5b8d9703
+; 俺は、お別れの挨拶を口にした。
+I said goodbye.
+
+# 93c8c630
+; hime: 「あ、そっか……」
+hime: "Oh, I see, ……."
+
+# db977c0b
+; ヒメは名残惜しそうな表情で、俺を見つめながら言った。
+said Hime, looking at me with a look of regret.
+
+# f1b4180e
+; hime: 「……ここで、お別れかな？」
+hime: "…… "Is it time to say goodbye?"
+
+# 11f2aedf
+; me: 「そうなるね。これからはお互い、一人旅を楽しむのだな」
+me: "That's right. We're going to enjoy traveling alone from now on."
+
+# 913e1055
+; hime: 「……なんだか、名残惜しいね」
+hime: "It's a pity ……,"
+
+# 93503f98
+; me: 「ま、旅ってそんなもんだ」
+me: "Well, that's what traveling is all about,"
+
+# deff9780
+; hime: 「……[i]あのね？」
+hime: " ……[i] You know what?"
+
+# 9ac626e2
+; ヒメは少し俯いた後に、俺に一歩近づいた。
+Hime, after looking down a little, took a step closer to me.
+
+# 9cb28812
+; me: 「……えっ？」
+me: "What ……?"
+
+# 5e0c2
+; 胸が触れそうな距離で、ふわっと甘い香りまで漂ってきて、ドキドキした。
+I was so excited to hear the sweet smell of the sweet smell that I could touch my chest were touching.
+
+# 2693e9b2
+; そして俺の耳元で囁いた。
+and whispered in me's ear.
+
+# 1ae9c05d
+; hime: 「このホテル、結構有名なんだそうだけど……」
+hime: "I heard this hotel is quite famous, ……."
+
+# a009b3ac
+; me: 「うん？……あ、ああ。知ってる。[i]レイキャヴィクでも数少ない高級ホテルだと。俺も聞いたことあるよ」
+me: "Huh? …… Oh, yeah. I know.[i]Reykjavik But it's one of the few luxury hotels.me I've heard of it."
+
+# ae82e598
+; hime: 「うんうん。[i][char hime.winter2_up_sad_a_bigemi_dere]で、ここのお部屋、[i]ちょっと見てみたくない？」
+hime: "Yeah. [i] [char hime.winter2_up_sad_a_bigemi_dere] So, why don't you take a look at this room?"
+
+# 9cb28812
+; me: 「……えっ？」
+me: "What ……?"
+
+# b3ace3aa
+; hime: 「わたしのお部屋、スイートルームでね。ベッドとか超高級で、とても広いんだって」
+hime: "In my room, in my suite.The beds and super-luxury ones are very spacious."
+
+# 992f9e4
+; me: 「あ、ああ……えっと……」
+me: "Ah, oh, ……, ……,"
+
+# e88006ed
+; hime: 「長い運転で疲れたんだから、ちょっとくらい休んで行っても、いいよ」
+hime: "I'm tired from driving for a long time, so you can rest for a while."
+
+# eada46d9
+; me: 「い、いや。そ、それは……俺もすぐそこだし」
+me: "No, no. ……me is just around the corner."
+
+# a608c7af
+; hime: 「……そ、そう」
+hime: "…… "Yes, yes,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 73d08056
+; お互い、しばしの沈黙。
+There was a brief silence between us.
+
+# fe9c064
+; そして……
+And ……
+
+# 21ac96d7
+; hime: 「……別に深い意味はないけどね。[i][char hime.winter_up_sad_w_w_dere]元カレと別れる前に予約したもので、[i][char hime.winter_up_b_a_w_dere]一人では広すぎる部屋だからもったいなくて。へへ」
+hime: "…… It doesn't mean much, though.[i][char hime.winter_up_sad_w_w_dere] I made a reservation before I broke up with my ex-boyfriend. [i] [char hime.winter_up_b_a_w_dere] It's a waste because it's too big for me. Hehe."
+
+# d5c322bc
+; そういったヒメは俺から離れて、隣に置いてあった大きなスーツケースを手にとった。
+The Hime moved away from me and picked up a large suitcase which had been placed next to them.
+
+# 23a85c98
+; me: 「あ、ああ、うん。そうだね。……では、俺ももう行くよ。おやすみ」
+me: "Oh, oh, oh, yes. ……, I'll go now, too.Good night."
+
+# f8f13a8
+; 俺も慌てたお別れの挨拶をして、ホテルをあとにして去ろうとした。
+I also said goodbye in a hurry and tried to leave the hotel.
+
+# c9800c52
+; だけど、
+But...
+
+# 74de7b9e
+; hime: 「あ、あっ、ちょっと！」
+hime: "Oh, oh, oh, oh, oh, oh, oh, oh!"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 8929bd18
+; hime: 「……ラインとか、交換しない？」
+hime: "Would you like to exchange ……LINE?"
+
+# 121cff6
+; me: 「ら、ライン？」
+me: "Well, LINE?"
+
+# 34bc80bd
+; hime: 「うん。せっかくお知り合いになったんだし」
+hime: "Yes, we got to know each other."
+
+# 212767e
+; ヒメは自分のスマホを取り出して、ラインアプリを俺に見せながら言った。
+Hime took out his Smartphont and showed the LINE app to me.
+
+# 2bad7734
+; 俺もつられてスマホを取り出して、ラインを起動した。……けど……
+I I pulled out the Smartphont and started LINE. …… but ……
+
+# 4a296e55
+; me: 「え、えっと……これって、どうやって？」
+me: "Well, ……, how is this?"
+
+# 3e5e840f
+; hime: 「えっ？やり方、知らない？」
+hime: "What? Don't you know how to do it?"
+
+# ffebac
+; me: 「あまり使わないからな、俺」
+me: "I don't use it very often, me,"
+
+# e7eb726c
+; hime: 「ちょっとスマホ貸して」
+hime: "Give me a little Smartphont,"
+
+# 1090d610
+; そしてヒメは俺のスマホを持っていって、色々と何かタッチした。
+Then Hime took Smartphont's me and touched many things.
+
+# 8f66e7b4
+; アイスランドに来て女の子とライン交換なんて……日本でもやったことがないのにな。
+I've never exchanged Girl for LINE in Iceland before.
+
+# bef8adb7
+; 思えば女の子から連絡先を問われるの、いつ以来だったかな。
+When did Girl ask me for my contact information?
+
+# e8fc31a4
+; ……あ、
+…… Ah!
+
+# a829bd53
+; いつ以来も何も、これが人生で初めてだったな。
+It's always been the first time in my life.
+
+# 35e66db4
+; hime: 「……やった！」
+hime: "I did ……!"
+
+# 16191394
+; スマホのラインを見ると、ヒメからのメッセージが来ていた。
+Looking at LINE in Smartphont, I saw a message from Hime.
+
+# 5220aaa8
+; me: 「おお、できたのか」
+me: "Oh, is it done?"
+
+# 15213b5
+; hime: 「うんうん」
+hime: "Yes,"
+
+# 48ca9b05
+; me: 「いいな。何かあったらまたこれで連絡くれよ」
+me: "That's great. If anything happens, call me back with this."
+
+# 7da96af6
+; hime: 「何もなくても連絡していい？」
+hime: "Can I contact you even if I don't have anything?"
+
+# 2c88ee11
+; me: 「……ああ」
+me: " …… Ah,"
+
+# e2be4bfc
+; 俺はスマホをポケットに入れて、また改めて、お別れの挨拶を言った。
+I put Smartphont in his pocket and said good-bye again.
+
+# 424ea643
+; me: 「それじゃあね。ゆっくりと休めよ」
+me: "Well, then.Take a good rest."
+
+# 86d94011
+; hime: 「……」
+hime: "……"
+
+# c86a71d2
+; しかし、ヒメはまだホテルに入ろうとしないで、立ち尽くしていた。
+However, Hime still stood still, not trying to enter the hotel.
+
+# d3624661
+; hime: 「……ね、{playerName}？」
+hime: "You ……, {playerName}?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 5ee2bbf
+; またも、急接近。
+Again, a sudden approach.
+
+# 6bbdb3dc
+; そしてまた、俺の耳元で囁いた。
+he whispered again in me's ear.
+
+# 32f884ad
+; hime: 「また、会おうね？」
+hime: "See you again?"
+
+# ff56b118
+; me: 「えっ……？？あ…………う、うん」
+me: "What ……??? Oh, …………, yes."
+
+# 6c9d56a4
+; hime: 「へへ、うん。それじゃ、またね」
+hime: "Hehe, yes. See you later."
+
+# 2cc0340b
+; 急にぐるりと体を後ろへ向くと、ヒメは小走りでホテルの中へと去って行った。
+Suddenly he turned around and ran away into the hotel.
+
+# 55dfd6cd
+; me: 「あ、ああ。おやすみなさい」
+me: "Oh, oh, good night."
+
+# c853c9ba
+; 俺はホテルに入る彼女の背中に小さく返事をした。
+I gave a small answer to her back as she entered the hotel.
+
+# 43d46003
+; me: 「……深い意味は、ないんだよな」
+me: "…… "It doesn't mean much,"
+
+# 406e1899
+; ヒメが言ってた事の意味をしばし考えてみた。
+I thought for a moment what Hime had said.
+
+# f8a1d9be
+; これってもしかして、人生で初めてのとんでもワンチャンだったりしたのかな？
+Was it the first time in my life that I've ever had a chance to do you think so?
+
+# d9f58573
+; 俺って童貞だから、こんな時にはビビるんだよ。
+I That's why I get scared at times like this.
+
+# 3b2ab5a9
+; …………いやいや、どんな妄想をしてるんだ俺は。深い意味はないって言ったじゃん。
+………… No, no. What kind of delusion are you having? me.I told you it doesn't mean much.
+
+# 7206fb91
+; me: 「……忘れよう」
+me: "Let's forget ……,"
+
+# d4e4ec6d
+; 俺もあまり深く考えないことにして、駐車場へと急いだ、
+I and, not thinking too deeply, hurried to the parking lot,
+
+# 8d1f2a8
+; そしてすぐに車に乗り、予約したホステルへと向かった。
+Then he got into the car at once and headed for hostel, which he had reserved.

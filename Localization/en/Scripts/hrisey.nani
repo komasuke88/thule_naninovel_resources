@@ -1,0 +1,153 @@
+; Japanese <ja> to English <en> localization document for `hrisey` naninovel script
+
+# 107bce9d
+;  <ruby="エイヤフィヨルド"> Eyjafjörður</ruby>の小さな島、 <ruby="フリセイ"> Hrísey</ruby>。
+<ruby="Frisey">Hr ísey</ruby> is a small island in <ruby="Eyjafj ðr öur</ruby>.
+
+# 9b1f8545
+; 様々な鳥類が休んでいく場所としても有名で、
+It is also famous as a resting place for various birds.
+
+# de944945
+; アイスランドの色んな鳥の写真が撮れる場所だ。
+It is a place where you can take pictures of various birds in Iceland.
+
+# 422c6b02
+; 島には地熱の供給が豊富で、島の浜辺には60°Cの温水で維持されてるプールもある。
+The island has an abundant supply of geothermal heat, and some pools are maintained at 60°C on the island's beaches.
+
+# c8c1fc56
+; me: 「のどかな町だな」
+me: "It's a peaceful Village,"
+
+# e6fb7082
+; 白いヒィヨルドに囲まれた、小さな島町の景色が絶景だと聞いたんだけど、
+I heard that the view of Village, a small island surrounded by white heiold, is superb.
+
+# 5d9e4856
+; この異常高温のせいで雪はなく、このような夏の町の風景だけが広がってる。
+Because of this unusually high temperature, there is no snow, and only the scenery of Village in summer is spreading.
+
+# 53aef5b7
+; それが少し残念でもあったけど、この夏のような景色も、これはこれで可愛くて捨てられない風景だ。
+It was a bit disappointing, but even this summer's scenery is so cute that I can't throw it away.
+
+# a9a39863
+; me: 「平和そうな町なんだけどな」
+me: "It's a peaceful Village,"
+
+# c6ddd5a9
+; でもこんな穏やかな田舎町にも、人外の存在について恐ろしい伝説が伝わられてる。
+But even in such a calm country Village, there is a terrible legend about the outsider.
+
+# fdf668d8
+; この島にはアイスランドで一番惨い幽霊、 <ruby="ソルゲイルスボーリ"> Þorgeirsboli</ruby>がいる。
+The island is home to Iceland's most miserable Ghost, <ruby="Sorgeirsbori"> Þorgeirsbori</ruby>.
+
+# e58dd3db
+; 伝説によると、その幽霊を召喚したのは <ruby="ガルドラ・ゲイリ"> Galdra-Geiri</ruby>という魔術師。
+According to legend, the Ghost was summoned by <ruby="Galdra Geiri">Galdra-Geiri</ruby>.
+
+# 587d74bd
+; 彼は自分の告白を拒んだ女性を苦しめるために、化け物を作ろうとした。
+He tried to make Monster to torment Woman, who refused to confess.
+
+# a7a0388c
+; その儀式は酷いものだった。
+The ceremony was terrible.
+
+# 7228bc95
+; 魔術師は子牛の皮を剥いて、
+Magician peeled the calf;
+
+# d55197ad
+; その中に人間・猫・犬・鳥・ネズミ・あと二種類の海の生物を入れ、
+We put people, cats, dogs, birds, mice, and two other kinds of sea creatures in it.
+
+# 27ad22ed
+; そのキメラのような肉塊の前で呪文を唱え、魂を宿らせて、化け物を作った。
+He cast a spell before the chimera-like mass of flesh, and infused his soul to make Monster.
+
+# a87af116
+; そして、血まみれのしっぽをした骸骨牛に似た化け物は誕生した。
+and Monster, resembling a skull cow with a bloody tail, was born.
+
+# 3c249f49
+; ヘリセイ島には夜な夜な化け物の叫び声を聞こえた。
+On the island of Helisei I heard the cries of Monster night and night.
+
+# 9a242c3b
+; しかし召喚の後、
+But after the summons,
+
+# 9b1a2de2
+; 化け物は魔術師の制御が効かなくなり、その魔術師とその家族を皆殺しにした。
+Monster lost control of Magician and killed Magician and his family.
+
+# cdeb0994
+; 今はその化け物の肉体は消えたけど、
+Now the body of Monster is gone;
+
+# 1ef112f2
+; その化け物の幽霊は、今もこの島を彷徨ってるという。
+Ghost of Monster still wanders around the island.
+
+# 5ec93f8
+; me: 「人を呪わば穴二つ、だな」
+me: "If you curse a man, there are two holes,"
+
+# a27f7009
+; 自分の思いを拒んだ女性を呪うとして、自分がやられた話だ。
+It's a story that I was told to curse Woman who refused to accept my thoughts.
+
+# 5293bf23
+; しかし……
+but ……
+
+# d6553492
+; me: 「その幽霊が今でも彷徨ってるって話は、正直理解できない」
+me: "To be honest, I don't understand that Ghost is still wandering"."
+
+# dadb9f7f
+; いったい何でそんな伝説が作られたんだろう。
+Why on earth did such a legend come about?
+
+# 6e211815
+; 多くの昔話には、それが作られた目的がある。
+Many old stories have a purpose for which they were created.
+
+# 8c3ba837
+; 例えば雪原の化け物の話には、子供たちが危険な冬のアイスランドで出歩かないように、脅かすために作られたものが多い。
+For example, there are many stories about Monster in the snowfield designed to scare children away from dangerous winter Iceland.
+
+# 8827ae96
+; あと、町の観光産業の復興のための作り話もある。
+There is also a fiction for the revival of the tourism industry in Village.
+
+# 7224d626
+; この牛の幽霊の話も、『人を呪わば穴二つ』という教訓を含んでるんだ。
+The story of Ghost, a cow, also contains the lesson that if you curse 『 men, you will have two 』 holes.
+
+# 9df37463
+; しかし、その幽霊が今も彷徨ってるって部分には何の教訓も、観光に有利な面も、子供への脅かしも見えない。
+However, there are no lessons, advantages to tourism, or threats to children in the part where Ghost is still wandering.
+
+# f39dc8f8
+; me: 「……もしかして……」
+me: "…… "Maybe ……"."
+
+# fb76c35
+; いやいや、そんなわけないか。
+No, no, I don't think so.
+
+# 6e5428e6
+; ……でも、ちょっとだけ怖くなった。
+…… But I got a little scared.
+
+# a3c17607
+; me: 「……は、早くこの島を出ようかな……」
+me: "I wonder if …… should leave this island soon ……"
+
+# e3a7fde2
+; unknown: 「……」
+unknown: "……"

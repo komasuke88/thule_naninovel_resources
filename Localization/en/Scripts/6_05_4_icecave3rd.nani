@@ -1,0 +1,229 @@
+; Japanese <ja> to English <en> localization document for `6_05_4_icecave3rd` naninovel script
+
+# 7745c98e
+; ………………………………
+………………………………
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# c4b068c
+; もう落ちるのも慣れた。
+I'm used to falling.
+
+# 92d80528
+; さっそく起きようか。
+Shall we get up now?
+
+# 188fffa
+; me: 「まだ氷河洞窟の中だな」
+me: "It's still in the glacier cave,"
+
+# 4df95363
+; しかし、底は氷ではないみたいだ。
+But the bottom doesn't seem to be ice.
+
+# a22ef19d
+; 氷河の一番底まで落ちたのかな。
+I wonder if it fell to the bottom of the glacier.
+
+# e4346a4a
+; me: 「おーい！ビューちゃん、どこだ？」
+me: "Hey! Byu, where are you?"
+
+# b1e0172d
+; yule: 「ああっ！{playerName}!無事だったんですね！」
+yule: "Ah! {playerName}! You're safe!"
+
+# d854327c
+; me: 「おお！ユールちゃんなのか！？よかった。合流できたな」
+me: "Oh! Is it Yule?"I'm glad I joined you."
+
+# 2f3f9f4d
+; yule: 「はい！……っくぅ……しかし」
+yule: "`Yes! ……ick …… But,'"
+
+# f7e62a52
+; me: 「な、なに！？どうした！？」
+me: "What!? What's the matter?"
+
+# 28966f51
+; yule: 「お、おっぱいが……」
+yule: "Oh, milk ……,"
+
+# fa2f25d1
+; me: 「おっぱい？」
+me: "Is it milk?"
+
+# b05e82a7
+; とりあえず、声がする方向に駆けつけてみた。
+For the time being, I ran in the direction of my voice.
+
+# 82599fb8
+; ユールちゃんとビューちゃんが、絡み合ってる。
+Yule and Byu are intertwined.
+
+# c9a00f37
+; yule: 「こ、このおっぱいが……退くのです！」
+yule: "Here, this breast retires ……!"
+
+# 7d0795c9
+; byu: 「う、うううん……」
+byu: "No, ……,"
+
+# a546735b
+; yule: 「おっぱい……重い……」
+yule: "Baby …… heavy ……"."
+
+# 8dfde61e
+; 上から落ちたビューちゃんがユールちゃんの上に倒れ落ちたのだろう。
+The Byu that fell from above fell on top of the Yule.
+
+# 23353b9c
+; なぜかこれはこれで、微笑ましいな。
+This is what makes me smile.
+
+# 9bc4e8f7
+; byu: 「ううう。いたい……」
+byu: "No, I want to ……."
+
+# 74c31823
+; byu: 「あっ  ……スヴォル！」
+byu: "Oh, ……Thuvor!"
+
+# 24685273
+; yule: 「……ユールちゃんです」
+yule: "It's ……Yule,"
+
+# e1cdf6a0
+; byu: 「ここにいたんだ」
+byu: "I was here,"
+
+# 654256a8
+; yule: 「はい。ビューちゃんは、{playerName}と一緒だったんですか」
+yule: "Yes. Was Byu with {playerName}?"
+
+# ea1dad6a
+; byu: 「うん！{playerName}って、本当にいいソーセージがついてたんだ」
+byu: "Yeah! {playerName} had a really good sausage."
+
+# 3070f4b8
+; yule: 「えっ！？」
+yule: "What!"
+
+# a77d1061
+; me: 「ソーセージじゃないって」
+me: "It's not sausage"."
+
+# d69a0ab5
+; byu: 「わたしのふとももにね、熱くて太いそれを押し付けて……はぁぁ」
+byu: "Put it on my thigh, hot and thick, and …… oh,"
+
+# 4758242
+; yule: 「ちょ、ちょっと！！ユールちゃんがいないからって、一体何をしてたんですか！」
+yule: "`Wait a minute!'What the hell were you doing without Yule?"
+
+# 2d9ef63e
+; me: 「いやいや、変な言い方するな！」
+me: "No, no, don't say it in a strange way!"
+
+# 53678886
+; 俺はユールちゃんに、先までの事を説明した。
+I explained earlier to Yule.
+
+# c1933605
+; なんだか、恋人に言い訳するような状況だな。
+I feel like I'm making excuses for my girlfriend.
+
+# 2b125369
+; yule: 「そうですか。まあ、わかりました」
+yule: "I see. Well, I see."
+
+# 959fe9e1
+; byu: 「やっぱり人間の男は、いいよね」
+byu: "Human Man is good, after all."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 4ad3ff8f
+; yule: 「……あ、それはそうと、先のエルフ、見なかったですか？」
+yule: "…… "Oh, by the way, didn't you see the previous Elf?"
+
+# 38cd04f5
+; me: 「先のエルフ？あ……」
+me: "The first Elf? Oh, ……."
+
+# 263417b0
+; そういえば、ヒメの姿をしたエルフが、逃げてたよな。
+Come to think of it, Elf in the shape of Hime was running away.
+
+# 6509974e
+; byu: 「ボクは見なかったな」
+byu: "I didn't see it,"
+
+# 8627a272
+; me: 「俺は見なかった」
+me: "I didn't see me."
+
+# d94f1bf3
+; yule: 「うーん。そうですか。あいつを探して今回の記憶について聞こうとしてたのに……」
+yule: "Well, I see.I was going to find him and ask him about his memory, but ……"
+
+# 872be532
+; ヒメもこのトゥーレに来てるかもしれない。
+Hime may have come to this Thule, too.
+
+# 668a61b5
+; なら、彼女を探したい。
+Then I want to find her.
+
+# dc2c839a
+; その手がかりは、あのエルフが知ってるから。
+The clue is that Elf knows it.
+
+# e9e46a09
+; me: 「うむ……」
+me: "Well, ……,"
+
+# baa5107b
+; byu: 「なんでもいいけど、腹減ってきたー。[i]早く出てソーセージが食いたいよ」
+byu: "I don't care, but I'm getting hungry.[i]I want to hurry up and eat sausage."
+
+# bdc56689
+; me: 「ソーセージなら、体にいっぱい巻いてるじゃん」
+me: "If it's sausage, you have a lot on your body."
+
+# b3c67eeb
+; byu: 「えっ？どこに？」
+byu: "What? Where?"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 302286db
+; yule: 「ビューちゃんのあれは、もう体の一部ですよ」
+yule: "That of Byu is already a part of my body,"
+
+# 71a14e4e
+; byu: 「ないんだけどー！ソーセージ！」
+byu: "`I don't!'sausage!"
+
+# 87bd5969
+; yule: 「それではまあ、みんな無事だし、ここから出ていきましょうか」
+yule: "Well, we are all safe, and shall we get out of here?"
+
+# 6ac7f769
+; byu: 「あ、出口わかるの？」
+byu: "Oh, do you know the exit?"
+
+# 2d4ce231
+; yule: 「はい。すぐそこですよ」
+yule: "Yes, it's just around the corner."

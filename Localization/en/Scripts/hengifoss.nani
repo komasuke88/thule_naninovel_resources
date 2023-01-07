@@ -1,0 +1,85 @@
+; Japanese <ja> to English <en> localization document for `hengifoss` naninovel script
+
+# 1d9ab0af
+;  <ruby="ヘンジフォス"> Hengifoss</ruby>という滝。
+<ruby="Henjifos">Hengifoss</ruby> waterfall.
+
+# 449be6c3
+; 高さ138mで、アイスランドで三番目に高い滝である。
+With a height of 138 meters, it is the third tallest waterfall in Iceland.
+
+# 135103
+; Hengiとは英語のhang、つまり吊ってるという意味だ。
+Hengi means hang in English, or hang.
+
+# 6ac79629
+; 小さな川が、崖に吊るされてるみたいな様から、そう名付けられた。
+It was named because it looked like a small river was suspended from a cliff.
+
+# 157d073e
+; me: 「この赤いラインがすごいな」
+me: "This red LINE is amazing."
+
+# 75a27aee
+; 流紋岩の間に赤粘土が挟まれていて、
+Red clay was sandwiched between the ryumon rocks.
+
+# 1c0a664
+; まるで赤いリボンで飾られてるような不思議な光景をつくっている。
+It creates a strange scene as if it were decorated with a red ribbon.
+
+# 173d0464
+; 火山噴出で流れた溶岩が地面を覆ったあと、また新しい溶岩がその上に上書きされる過程を繰り返して形成された。
+It was formed by repeatedly covering the ground with lava flowing from volcanic eruptions and overwriting the new lava.
+
+# 31db6dbd
+; me: 「上の滝から流れた水が、この峡谷まで流れてくるんだよな」
+me: "The water from the upper waterfall flows down to this canyon."
+
+# ea3680
+; この滝がある峡谷は <ruby="ヘンジフォサギル"> Hengifossárgil</ruby>という。
+The canyon where this waterfall is located is called <ruby="hengefossil">Hengifoss árgil</ruby>.
+
+# d6e7aaa4
+; この峡谷には、昔からエルフが住んでると言われてる。
+It is said that Elf has lived in this canyon for a long time.
+
+# ecd37e56
+; [br]二人の男が峡谷の下を歩いていた時、
+[br] As the two Man were walking under the canyon,
+
+# 8b64d1d4
+; 隣の岩から、讃美歌の歌声が聞こえたという。
+It is said that a hymn song was heard from the rock next to it.
+
+# 3a165e1a
+; 男たちは立ち止まり、その歌声をじっと聞いていた。
+Man they stopped and listened to the singing.
+
+# e649a624
+; 歌声が終わった時、どこかで小さな鐘の音が聞こえたという。
+At the end of her singing voice, she heard a small bell somewhere.
+
+# 2c171b21
+; me: 「それが、エルフの歌声だったってな」
+me: "That was Elf's singing voice,"
+
+# 2245b6c8
+; あの昔話を思い出し、谷の岩に耳を澄ませてみたけれど……
+I remembered the old story and listened carefully to the rocks in the valley, but ……
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# b10654a6
+; 何も聞こえなかった。
+I didn't hear anything.
+
+# 82ad3889
+; me: 「ま、そんなもんだよな」
+me: "Well, that's it,"
+
+# e003c353
+; unknown: 「〜♫」
+unknown: "〜♫"

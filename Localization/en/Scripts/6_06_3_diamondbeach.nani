@@ -1,0 +1,613 @@
+; Japanese <ja> to English <en> localization document for `6_06_3_diamondbeach` naninovel script
+
+# 626e8582
+; 近くの浜辺に到着。
+Arrived at a nearby beach.
+
+# f3210416
+; 大きな氷が散らばってる、不思議な浜辺だった。
+It was a strange beach with big ice.
+
+# c1a94e8b
+; そのサイズは結構大きく、まるで氷の隕石が浜辺に落ちてる感じだった。
+The size was quite large, as if an ice meteorite had fallen on the beach.
+
+# e7928651
+; ヨークルスアゥルロゥンで壊れた氷山の欠片が流されて、ここに集まったという。
+Jokulsarlon It is said that pieces of broken icebergs were washed away and gathered here.
+
+# fbadc074
+; me: 「こ、ここは……？」
+me: "Is this ……?"
+
+# 5dc23626
+; yule: 「ダイヤモンドビーチです。[i]ヨークルスアゥルロゥンの近くです」
+yule: "It's Diamond Beach.[i]near Jokulsarlon."
+
+# c2856036
+; 俺たちは氷山から降りて、砂浜に立ち上がった。
+I They got off the iceberg and stood up on the beach.
+
+# a66532c4
+; なるほど。大きな氷の欠片が、まるでダイアモンドのようだ。
+I see. The big piece of ice looks like a diamond.
+
+# 97b3dd3c
+; とても美しい眺め。でも、感想に浸れなかった。
+Very beautiful view, but I couldn't get my thoughts into it.
+
+# 9d33af8c
+; ヒメの事が気になって仕方がない。
+Hime I can't help worrying about
+
+# 2db336a1
+; me: 「なあ、ユールちゃん。ヒメを置いてきていいか？せっかく出会ったのに」
+me: "Well, Yule.Can I leave Hime behind?I met him all the way."
+
+# 2090b37
+; hime: 「お、置いていかないでってば……ってあれ？」
+hime: "Oh, if you don't leave me, ……?"
+
+# 8ac45dcb
+; me: 「わあぁっ！」
+me: "Oh, my God!"
+
+# c03f9be2
+; いきなり右の耳元で聞こえた声は、置いてきたはずの、ヒメの声だった。
+The voice I heard suddenly in my right ear was Hime's, which I should have left behind.
+
+# 71159fc3
+; yule: 「ほら」
+yule: "Here,"
+
+# adc8828b
+; hime: 「わ、わたし、いつの間にここに来たのだろう？」
+hime: "Well, when did I come here?"
+
+# c2976b56
+; me: 「ほ、本当に、ついてきてるのか」
+me: "Are you really following me?"
+
+# 42debd5f
+; びっくりした。
+I was surprised。
+
+# 27fe7943
+; これって本当に、取り憑かれたのか。
+Are you really obsessed with this?
+
+# dddf84f0
+; me: 「幽霊って、そんなに早いのか？」
+me: "Is Ghost so fast?"
+
+# 16251521
+; hime: 「ううん。確かに追い掛けたけどね。途中でついて行けなくなった。でも、気がついたらここだよ」
+hime: "No, I certainly followed him.I couldn't keep up on the way.But when you find yourself here,"
+
+# ec3e3952
+; yule: 「ゴーストはそんなもんです。自分の意志とは関係なく、ずっと付きまとわれます」
+yule: "That's what ghosts are all about.Regardless of my will, I will be followed forever."
+
+# b05ea271
+; me: 「お、俺じゃなく、ユールちゃんに取り憑かれたのでは？」
+me: "Oh, were you possessed by Yule, not me?"
+
+# 656518b2
+; yule: 「魔力のあるトロールとエルフは、取り憑けませんよ」
+yule: "You can't have Troll and Elf with Magical Power."
+
+# acf439ee
+; hime: 「そっか。わたし、この人に取り憑いたんだ」
+hime: "I see. I'm possessed by this man."
+
+# 6212ca5b
+; me: 「この人って……俺は{playerName}だよ」
+me: "He's {playerName} is ……me,"
+
+# 298401cb
+; そりゃ、そんなに親しくはなかったけど、
+Well, we weren't that close.
+
+# 364f8cb2
+; まるで他人みたいに言うから、ちょっと寂しかった。
+I was a little lonely because I said it like someone else.
+
+# 64e5697d
+; me: 「ヒメは、何も覚えてないのか？人間だった頃の事」
+me: "Don't you remember anything, Hime?When I was a human being."
+
+# 1272705a
+; hime: 「うん。何も。今の状況もよくわからない。ここがどこなのか。なんでわたしはここにいるのか」
+hime: "Yes, nothing. I'm not sure what's going on.I don't know where we are.Why am I here?"
+
+# 710b2955
+; me: 「すべての記憶をなくしたな」
+me: "You've lost all your memories,"
+
+# 406ecb3d
+; hime: 「うん。だからね。あなたたちに出会えて嬉しかったよ」
+hime: "Yes, sir.I was happy to meet you guys."
+
+# a58355b2
+; me: 「そ、そうか」
+me: "Oh, I see,"
+
+# 9c1b6c37
+; hime: 「ね。{playerName}って言ったっけ？」
+hime: "Did I say {playerName}?"
+
+# 7faac107
+; me: 「うん。そう呼んでくれ」
+me: "Yes, call me that."
+
+# 1bad5d91
+; hime: 「わたしについて、知ってる事があるなら、教えてください」
+hime: "If you know anything about me, tell me,"
+
+# 74a89a44
+; me: 「うん。俺はヒメをよく知ってる。っていうか、先、知るようになったけど」
+me: "Yes, me knows Hime very well. I mean, I got to know her earlier."
+
+# 8acb3893
+; 俺はこのアイスランドに来てから起きた事を、ヒメにも話してくれた。
+I told Hime about what had happened since he came to Iceland.
+
+# f469b9c5
+; 実は、彼女の一生の記憶、俺が持ってる。
+Actually, me has her life memory.
+
+# 9b4947ff
+; 長いから全てはまだ言えなかったけど、なるべく重要な事だけ話してあげた。
+I couldn't say everything yet because it was too long, but I only said the most important things.
+
+# 3ea899f
+; ……
+……
+
+# 14f0d214
+; hime: 「そっか。わたしは大学生で、日本に家族がいて、彼氏は別れていて……」
+hime: "I see. I'm a college student, I have a family in Japan, and my boyfriend is separated ……."
+
+# b20a8273
+; me: 「そうだよ」
+me: "Yes,"
+
+# 9feb839b
+; hime: 「でも不思議だよ。そんな事言われても、そっかーって思うだけだよ。他人事のように聞こえる」
+hime: "But it's strange.Even if you say that, I just think so.It sounds like someone else's business."
+
+# e9b15736
+; ヒメが、寂しそうな表情で言った。
+Hime said with a lonely look.
+
+# a1c9b1c1
+; hime: 「お母さんの顔も、思い出も思い出せない。空っぽみたい」
+hime: "I can't remember my mother's face or memories.It looks empty."
+
+# bb07d795
+; me: 「俺も、同じだ」
+me: "The same goes for me,"
+
+# fcca36e1
+; hime: 「でもね。言葉とか、日本とかアイスランドとか、そんな常識は持ってる」
+hime: "But, you know, I have the common sense of language and things like Japan and Iceland."
+
+# b3e0b981
+; me: 「それも俺と同じく、一般的な常識までは失われてないんだよな」
+me: "And, like me, we haven't lost common sense."
+
+# 4c16f0dd
+; hime: 「うん。どうでもいいことは覚えてるのに、大切な事は覚えてないんだ」
+hime: "Yeah. I remember things that don't matter, but I don't remember important things."
+
+# 3e41bd9b
+; me: 「名前とか、家とか、家族とか、仕事とか、……そんな事は覚えてないんだよな」
+me: "I don't remember names, houses, family, work, ……."
+
+# 10a66050
+; hime: 「{playerName}もわたしと同じ状態だったんだって？」
+hime: "and {playerName} was in the same condition as I was?"
+
+# 58b581d0
+; me: 「ああ。でも俺は一部の記憶は取り戻せて、自分のプロフィールなら知ってる」
+me: "Yeah, but me can get some of his memories back and know his profile."
+
+# 8fa7f0a
+; hime: 「そしてわたしの記憶は、{playerName}が知ってる状態で」
+hime: "And my memory is that {playerName} knows it,"
+
+# 185b5c3a
+; me: 「そんなところ」
+me: "That's about it,"
+
+# fac3e708
+; hime: 「そか」
+hime: "I see,"
+
+# fc3444e
+; ヒメは自分で考えをまとめるように、空を見てじっとした後に、また俺を見た。
+Hime looked at the sky, stood still, and then looked at me again, as if to put his thoughts together.
+
+# 53d56e32
+; hime: 「わたしとあなたについては、これで大体把握できたよ。それで……」
+hime: "Now I have a pretty good idea of you and I.So ……"
+
+# 76bcf20b
+; ヒメは、今度はユールちゃんを見ながら言った。
+said Hime, now looking at Yule.
+
+# c25a22c0
+; hime: 「こちらは……[i][char hime.nico]{playerName}の彼女？」
+hime: "Is this ……[i][char hime.nico] {playerName}'s girlfriend?"
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# ebd6dd6e
+; yule: 「そうですよー」
+yule: "Yes,"
+
+# d786d87
+; me: 「いやいや、違うだろう」
+me: "No, no, no,"
+
+# 4184919f
+; yule: 「ひどいです！先はあんなにユールちゃんの胸を揉みまくっておきながら……しくしくしく」
+yule: "That's too much! ……'s chest was rubbed like that before."
+
+# 8cbeb285
+; ユールちゃんは嘘の涙目になってそういった。
+Yule said with a false tear.
+
+# 69dc0ba1
+; hime: 「あら」
+hime: "Oh, my God,"
+
+# 400db4fe
+; me: 「そ、そんな事してない。こいつはね……」
+me: "No, I didn't.He's ……."
+
+# 75136ed6
+; 俺はユールちゃんについて、ヒメに話した。
+I told Hime about Yule.
+
+# 7f0ababd
+; そしてユールラッズとこのトゥーレの事についても。
+and about Yulelads and this Thule.
+
+# 1f15ec20
+; なるべく、今までの全てを、話した。
+I talked about everything I've done so far.
+
+# 9901fcc0
+; hime: 「そうか。この子はトロールで、ここは異世界だったんだ」
+hime: "Well, she was Troll, and this was a different world."
+
+# d34e72d2
+; yule: 「そうですよ。フルドゥフォルクの世界、トゥーレなのです」
+yule: "Yes, it is Thule, the world of Huldufolk."
+
+# 2694953e
+; hime: 「信じられない話しだけど、まぁ、わたしの状態がもっと信じられない話よね」
+hime: "It's hard to believe, but it's harder to believe my condition."
+
+# 3d766931
+; ヒメは諦めたような、納得したような顔をした。
+Hime looked resigned and convinced.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 86d94011
+; hime: 「……」
+hime: "……"
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# dd1acb91
+; 俺とヒメが少し落ち込む雰囲気になっていると、ユールちゃんがいった。
+I and Hime were feeling a little depressed, said Yule.
+
+# a2b6affc
+; yule: 「ま、<ruby="セッタ・レッダスト">　Þetta reddast</ruby>です」
+yule: "Well, <ruby=" Thetta reddast"> Thetta reddast</ruby>"
+
+# e2a44a1
+; hime: 「うん？それって……」
+hime: "Huh? That's ……."
+
+# 9f222ce5
+; me: 「なんとかなるって意味のアイスランド語だったな」
+me: "It was Icelandic, which means I can manage,"
+
+# a48cc9ae
+; yule: 「はい。{playerName}も、あなたも、心配そうな顔はしないでくださいな。なんとかなります」
+yule: "Yes, neither {playerName} nor you should look worried.I can manage it."
+
+# 518e0a82
+; hime: 「そっか。なんとかなるよね」
+hime: "I see. It'll work out."
+
+# 241dbfe8
+; me: 「うん。なんとかなるはずだ」
+me: "Yes, I should be able to manage it."
+
+# 132cdd4d
+; ヒメは少し微笑んだあと、俺たちに尋ねた。
+Hime smiled a little and asked them,
+
+# 1b0909d7
+; hime: 「ところで、一つ知りたいんだけど」
+hime: "By the way, I'd like to know one thing,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# b51fdc85
+; hime: 「{playerName}が持ってるっていうわたしの記憶。わたしがもらえないかな？」
+hime: "My memory that {playerName} has.Can I have it?"
+
+# ea18f18e
+; me: 「それは、どうだろう？俺もできるものならそうしたいが」
+me: "What do you think of course.me I'd like to do so if I could."
+
+# 6609ea18
+; 俺は、ユールちゃんを見ながら言った。
+said me, looking at Yule.
+
+# 311b009c
+; yule: 「いや、そんな目で見たって、ユールちゃんだって、何でもは知りませんよ」
+yule: "No, I don't know anything about looking at you like that, Yule,"
+
+# f7632d32
+; hime: 「わたし、こんな空っぽな状態なのは嫌。自分が誰だったのか、知識としてではなく、ちゃんと記憶を取り戻したい」
+hime: "I don't want to be so empty.I want to get my memory back, not as a knowledge of who I was."
+
+# 6e628be1
+; me: 「それは、俺もそんな気持ちだったよ。……どうにか方法はないの？」
+me: "That's how me felt. …… Is there any way?"
+
+# fca462da
+; 俺は、またユールちゃんを見ながら言った。
+said me, looking at Yule again.
+
+# c222178c
+; ここではとにかく、こいつを頼る以外には選択肢がないから。
+I have no choice but to rely on him here.
+
+# 118e2aca
+; yule: 「うーん。あのエルフを捕まえたら、なんとかなるかも知れません」
+yule: "Well, if I catch that Elf, I might be able to manage it."
+
+# bc104d77
+; me: 「ああ。そういえば、ヒメの体も、乗っ取られたかも知れないって言ったな」
+me: "Yes. Come to think of it, I told you that Hime might have been hijacked."
+
+# 3587a6cc
+; yule: 「はい。まず体を取り戻したら、{playerName}が持ってる記憶も戻してあげられるかも」
+yule: "Yes, if I get my body back, I might be able to restore the memory of {playerName}."
+
+# 616873ba
+; hime: 「えっ、わたし、人間に戻れるの？記憶も取り戻して？」
+hime: "Oh, can I go back to being human?"Do you want me to remember again?"
+
+# 5a91c26d
+; yule: 「はい。確信はないのですが」
+yule: "Yes, I'm not sure."
+
+# f7e6338f
+; hime: 「まあ！お願いします！わたしを元に戻して！」
+hime: "Oh, please!Put me back!"
+
+# 7a699960
+; ヒメは嬉しい表情で、ユールちゃんに飛びかかって、ハグみたいなポーズをした。
+Hime jumped at Yule with a happy expression and posed like a hug.
+
+# 1293aa3b
+; でも幽霊だから、すり抜けた。
+But Ghost So I slipped through it.
+
+# 1150cb91
+; yule: 「こ、こら。あっちに行ってください。鬱陶しいです」
+yule: "Here, here, go away.It's depressing."
+
+# 1f006a2b
+; hime: 「ふふふ、うん」
+hime: "Well, yes,"
+
+# 611bd4a4
+; yule: 「確実ではないですよ？とりあえずやってみるだけ」
+yule: "I'm not sure. I'll just try."
+
+# e2c7c7ac
+; me: 「ああ。あのエルフを探して、ヒメの体と記憶を、取り戻そうじゃないか」
+me: "Yeah. Let's find that Elf and get her body and memory back."
+
+# 60a407c0
+; yule: 「はい。そうしましょう」
+yule: "Yes, let's do that."
+
+# 40bc304e
+; hime: 「ありがとうね、みんな！わたしのために！」
+hime: "Thank you, boys!For my sake!"
+
+# a5d1b455
+; ヒメは嬉しそうにあちらこちらに飛び回った。
+Hime flew about happily.
+
+# ac051f5f
+; こんなに空を飛ぶと、本当に幽霊って事が実感できて、ちょっと怖い。
+It's kind of scary to feel Ghost when I fly like this.
+
+# 6ea8ddfa
+; yule: 「お礼には及びません。あなたが{playerName}に取り憑いていては、ユールちゃんも困りますし」
+yule: "I can't thank you enough.If you are possessed by {playerName}, Yule will be in trouble."
+
+# 14b02700
+; hime: 「え？わたしが{playerName}についてては、何でユールちゃんが困るの？」
+hime: "What? What's wrong with Yule when I'm talking about {playerName}?"
+
+# 5d01ea3a
+; yule: 「{playerName}は未来の旦那さまですからね。ゴーストでも、他の女がついてるのは嫌です」
+yule: "Because {playerName} is my future husband.I don't want other women on ghosts."
+
+# 9be31821
+; ユールちゃんは何故かドヤ顔でそういった。
+Yule said, for some reason, with a grim look.
+
+# e4ee8fa7
+; hime: 「まあ！」
+hime: "Well!"
+
+# d4abd1aa
+; me: 「いやいや、そんな約束はしてない！」
+me: "No, no, I didn't promise you that!"
+
+# 23cdfca4
+; yule: 「あら？あとでお嫁さんにしてくれるって、言ったじゃないですか？」
+yule: "Oh? You said you'd marry me later, right?"
+
+# 5190977e
+; 意外そうな顔で俺に近づいて、腕を組んでくるユールちゃん。
+Yule approached me with an unexpected look and folded her arms.
+
+# dde9fb01
+; hime: 「へー結婚するんだー！この子と！」
+hime: "Oh, you're getting married!"With him!"
+
+# 1f3a5ec0
+; me: 「い、いやそれは違う」
+me: "No, that's not true,"
+
+# afa97850
+; 俺はユールちゃんの腕を振り払って、話題を戻した。
+I shook off Yule's arm and returned to the subject.
+
+# bc3774f2
+; me: 「と、とりあえず、ヒメの体を取り戻しに行こうか。それに、俺の残りの記憶もな！」
+me: "Well, let's go and get Hime's body back.and the rest of me's memory!"
+
+# 14d43a44
+; ユールちゃんが、またかかってくる。
+Yule comes back.
+
+# cfc0a007
+; yule: 「やです。約束してくれるまでは行きません！約束ーしてーくださいー」
+yule: "No, I won't go until you promise me!Promise me, please."
+
+# 7d04c8c2
+; me: 「なんで今さらねだるんだ」
+me: "Why are you begging me now?"
+
+# ff1f8e37
+; 結婚して困る事はないけど、なぜか約束をするのは少し躊躇われた。
+I don't have any trouble getting married, but somehow I was a little hesitant about making an appointment.
+
+# ad08027c
+; me: 「な、なら。全てが解決した後にね？肯定的に検討するから」
+me: "Well, then, after everything's settled?"I will consider it positively."
+
+# 2eab519d
+; yule: 「ああ！なんですかそれは、ずるい！」
+yule: "Oh! Why, that's cheating!"
+
+# eeb832c5
+; me: 「とりあえず、な、な？」
+me: "For now, sir?"
+
+# 488620c9
+; yule: 「うぅ……わかりました。後でちゃんとしてくださいよ？」
+yule: "`Well, …… I see.I hope you'll see to it later."
+
+# 1437671b
+; ユールちゃんは俺から離れると、プンプンしながら納得した。
+When Yule left me, she was convinced.
+
+# 973bb83f
+; me: 「わかった」
+me: "All right,"
+
+# 7511dede
+; hime: 「愛されてるんだね」
+hime: "You're loved"."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# f6c2a298
+; yule: 「では引き続き、ご先祖様に会いにいきましょう。{playerName}の記憶も、あのエルフについても、わかるはずです」
+yule: "Well, let's continue to visit our ancestors, and you'll understand the memories of {playerName} and the Elf."
+
+# 4f3d5fb
+; me: 「ああ、最初の計画とおりに行くといいんでな」
+me: "Oh, I hope it goes according to the original plan,"
+
+# 53180ba7
+; yule: 「はい。この氷山に乗って、南の島へ行きましょう」
+yule: "Yes, let's take this iceberg to the southern island."
+
+# e365d7f1
+; そういってユールちゃんは、隣にあった氷山の上に、ひょういと飛び乗った。
+Then Yule hopped on to the iceberg next to him.
+
+# de87c7c0
+; 俺も続いて乗ろうとしたけど、意外と高くて、うまく乗れなかった。
+I I tried to ride it one after another, but it was surprisingly expensive and I couldn't ride it well.
+
+# ae5f8c1e
+; me: 「ちょ、ちょっと高いなこれ」
+me: "It's a bit expensive,"
+
+# 51bc34f4
+; yule: 「くすくす、ユールちゃんの手を取って登ってください」
+yule: "Take giggle by the hand and climb up."
+
+# 8c7dfec1
+; me: 「あ、ああ……って！」
+me: "`Oh, ……!'"
+
+# 79f9f4a
+; ユールちゃん、パンツ見えてるじゃん！
+Yule, panties You can see it!
+
+# f1b441a7
+; あえて見ないようにして、手だけ取って、なんとか乗ることができた。
+I managed to ride it, holding my hand, not daring to look at it.
+
+# d647c220
+; yule: 「くすくす、見ていいのに」
+yule: "You may look at giggle,"
+
+# 41f504fa
+; me: 「な、何を……いや、何も見てない」
+me: "Well, what …… No, I didn't see anything."
+
+# 3f803e53
+; 氷山の上に登って立つと、ユールちゃんがスプーンを取り出して振った。
+Standing on the iceberg, Yule took out the Spoon and shook it.
+
+# 6a4e6f02
+; 氷山はゆっくりと、勝手に海へ向かって進んだ。
+The iceberg made its way slowly and freely towards the sea.
+
+# 3a821a30
+; hime: 「ふふふ、三人で旅立ちなんだね！」
+hime: "`Well, the three of us have left!'"
+
+# 575e6947
+; me: 「ま、そうなるな」
+me: "Well, don't be like that,"
+
+# 8dc1d9b1
+; hime: 「楽しみだな！それでは、レッツゴー！」
+hime: "I'm looking forward to it! Then let's go!"
+
+# 192bcc00
+; yule: 「なんであなたが仕切るんですか」
+yule: "Why are you in charge?"

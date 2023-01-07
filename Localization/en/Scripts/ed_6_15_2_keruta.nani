@@ -1,0 +1,73 @@
+; Japanese <ja> to English <en> localization document for `ed_6_15_2_keruta` naninovel script
+
+# 5086cd12
+; me: 「ああ、触りな」
+me: "Oh, touch it,"
+
+# 29c83921
+; keruta: 「感謝感謝、ではでは」
+keruta: "Thank you, thank you, then."
+
+# 1c65f3fe
+; me: 「おおお！」
+me: "Oh!"
+
+# eb6f5999
+; 俺のキャンドルに、火がついた。
+The candle of me caught fire.
+
+# 5df0cb33
+; …………………………
+…………………………
+
+# 7e145781
+; ………………
+………………
+
+# 3ea899f
+; ……
+……
+
+# becbf37e
+; <s>　　　　</s>一年後
+<s>    </s>One year later
+
+# a6015d6c
+; keruta: 「うふふっ、運命ってまさにこういうことだったんですね」
+keruta: "Well, that's exactly what fate meant,"
+
+# 45ce0c19
+; me: 「……そうかな？」
+me: "…… "Is that so?"
+
+# 55356a69
+; keruta: 「そうですそうです。ぼくと{playerName}の相性がこんなにもびったりだったなんて」
+keruta: "Yes, sir.The chemistry between me and {playerName} was so amazing."
+
+# 90730131
+; me: 「そうだったな」
+me: "Yes,"
+
+# ebec197b
+; keruta: 「もうすぐ生まれるぼくたちのハーフトロールと、三人で、幸せに生きていきましょう」
+keruta: "Let's live happily together with our soon-to-be half Troll."
+
+# 9793e23a
+; me: 「ああ、もちろんだ」
+me: "Oh, of course,"
+
+# d98ed829
+; keruta: 「……みんな、あまり長生きできないのが残念ですが」
+keruta: "…… "It's a pity that we can't live long"."
+
+# 773e196a
+; me: 「ああ。だけどどのみち、みんないつかは死ぬ。それが少しだけ早く来るだけさ」
+me: "Yes, but anyway, they'll all die one day.It will only come a little earlier."
+
+# 5dc39541
+; keruta: 「うふふっ、そうですね。残り少ない間ですが、改めてよろしくです」
+keruta: "Well, yes.There is not much time left, but please take good care of me again."
+
+# 2c88ee11
+; me: 「……ああ」
+me: " …… Ah,"

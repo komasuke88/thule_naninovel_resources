@@ -1,0 +1,109 @@
+; Japanese <ja> to English <en> localization document for `_heimaey` naninovel script
+
+# 46751d98
+; me: 「う、海を渡ったのか？今、一瞬で？」
+me: "Did you cross the sea?"In an instant?"
+
+# 9b5d70
+; yule: 「そうですよ。ユールちゃんの魔法です」
+yule: "Yes, it's the magic of Yule."
+
+# 65a0d7fb
+; 先まで俺たちの車は本土の道路にあったのに、
+me's car had been on the mainland road;
+
+# a596b275
+; ユールちゃんが呪文を唱えたら、いきなり周りの景色が変わった。
+When Yule cast a spell, the surrounding scenery suddenly changed.
+
+# 67a5e6ed
+; 今、目の前には島のような地と、海が広がってる。
+There is an island-like land and the sea in front of us.
+
+# 3fedfe
+; me: 「ここは、南の島の町なのか？」
+me: "Is this Village on the southern island?"
+
+# adebecf
+; yule: 「はい。 <ruby="ヘイマエイ"> Heimaey</ruby>島です。アイスランドで一番大きな島ですよ」
+yule: "Yes, it's <ruby="Haimaey">Heimaey</ruby> island.It's the biggest island in Iceland."
+
+# c0af0215
+; me: 「住んでる人も多そうだな」
+me: "There must be a lot of people living there,"
+
+# 20062039
+; yule: 「人間世界では、ですね」
+yule: "In the human world,"
+
+# ad64f6a
+; me: 「ああ」
+me: "Ah,"
+
+# 3db1970
+; 下に見える色んな建物は【サムスティラ】で、人間世界からこのトゥーレに複写されたものって事だ。
+The various buildings below are 【Samstilla】, copied from the human world to this Thule.
+
+# a0aa48a6
+; yule: 「この島はつい最近、火山の噴出で危機がありましたけど、うまく乗り越えたみたいです」
+yule: "There was a crisis on this island just recently due to volcanic eruptions, but it seems like it has overcome it well."
+
+# fa478cc
+; １９７３年１月。
+January 1973.
+
+# 220359a8
+; 島の東部にある教会に付属していた農場に割れ目火口が開き、溶岩も流れ始めた。
+A crack crater opened on a farm attached to a church in the eastern part of the island and lava began to flow.
+
+# f09caa98
+; 割れ目噴火はすぐに1つの火口に集中するようになり、
+Crack eruptions soon became concentrated in one crater;
+
+# 92847f05
+; 後に <ruby="エルトフェットル"> eldfell</ruby>と命名される火山を形成した。
+It later formed a volcano named <ruby="eldfettle">eldfell</ruby>.
+
+# 4d290d76
+; 溶岩流は時速数メートルの速さで町へ、漁港の方向へと進んできた。
+The lava flow went to Village at a speed of several meters per hour and toward a fishing port.
+
+# f4389346
+; この漁港を守るべく、島民は消防ポンプで海水を溶岩流に放水した。
+To protect the fishing port, the islanders discharged seawater into lava flows with fire pumps.
+
+# 644fd8bf
+; 民家などは幾つも溶岩に飲み込まれたものの、
+Many houses were swallowed up by lava.
+
+# 79fe8e50
+; この放水によって漁港に達する前に溶岩は冷えて固まり、溶岩は止まった。
+This discharge cooled and hardened the lava before reaching the fishing port and stopped it.
+
+# c5f4902f
+; この事件は「現代のポンペイ」と称され、
+This case was called "Modern Pompeii."
+
+# dee5599a
+; ハワイのキラウエア火山と並んで、居住区の目の前で起こった噴火として有名となった。
+Along with Hawaii's Kilauea volcano, it became famous for its eruption in front of its residential area.
+
+# 765f6661
+; yule: 「今ユールちゃんたちが立ってるここが、エルトフェットルです」
+yule: "This is EltoFettle where the Yules are standing."
+
+# 98d0b99b
+; me: 「こ、ここなのか」
+me: "Is this here?"
+
+# c0682cfa
+; yule: 「大丈夫ですよ。もう溶岩は出てこませんから、くすくす」
+yule: "It's all right.No more lava, giggle."
+
+# a9e86bb9
+; その後、俺とユールちゃんは無人の町を少しだけ歩いて、ヘイマエイ島を去っていった。
+Then me and Yule walked a little through the uninhabited Village, and left the island of Haimeaay.
+
+# 3f450f10
+; unknown: 「………………」
+unknown: "………………"

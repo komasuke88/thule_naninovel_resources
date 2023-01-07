@@ -1,0 +1,117 @@
+; Japanese <ja> to English <en> localization document for `bluelagoon` naninovel script
+
+# a0ca5ac6
+;  <ruby="ブルーラグーン"> Bluelagoon</ruby>へ続く道。
+The road leading to <ruby=" Bluelagoon">Bluelagoon</ruby>.
+
+# 34fedec9
+; ブルーラグーンはアイスランドで一番有名で、世界で一番広い露天風呂だ。
+Bluelagoon is the most famous open-air bath in Iceland and the largest in the world.
+
+# f08739fc
+; 温泉全体を1周するだけで10数分かかるほどの広さである。
+It is so large that it takes more than 10 minutes to go around the entire hot spring.
+
+# 684bcdf1
+; me: 「それにしても……」
+me: "But ……,"
+
+# 3e8250c2
+; 有名な場所だから、周りももっと賑やかな雰囲気かと思ったけど、周りの風景は少し寂しげだ。
+I thought it was a more lively atmosphere because it was a famous place, but the surrounding scenery seems a little lonely.
+
+# be02e9e8
+; me: 「でも、不思議な風景だよな」
+me: "But it's a strange sight,"
+
+# 6c3b17a4
+; 道路の周りに、青い川が流れている。
+A blue river flows around the road.
+
+# fa723279
+; 温泉水。
+hot spring water.
+
+# 84ab40cc
+; この青い水がこの一帯すべてを覆い尽くしていて、なんとも神秘的な雰囲気を出している。
+This blue water covers the whole area, creating a very mysterious atmosphere.
+
+# 9015c272
+; me: 「よっと」
+me: "All right,"
+
+# 7240a04e
+; 駐車場に車を停めて、正門へと向かった。
+I parked my car in the parking lot and headed for the main gate.
+
+# cbabc660
+; 有名な温泉なだけあって、人は多かった。
+There were many people because it was a famous hot spring.
+
+# 58644bfa
+; 入場料も結構高い。
+Admission is also quite expensive.
+
+# 42997cf2
+; でもそれだけ、中の施設はよくできてるという。
+But that's how well the facilities inside are built.
+
+# 7f6b1ab
+; me: 「ああ、そういえば……」
+me: "Oh, come to think of it, ……,"
+
+# b1ae316d
+; ヒメ、ここに来てるって言ってたよな。
+Hime You said you were here.
+
+# 2c9824dd
+; まだ中に居るのかな？
+Are you still inside?
+
+# ad1b51ec
+; 入ったら、ばったり出会ったりするのかな？
+If I go in, will I run into them?
+
+# 2aa71a69
+; ……決しておっぱいが見たいわけではないが、せっかくだし、ちょ、ちょっと挨拶だけなら……
+…… I don't really want to see the milk, but I'm sorry to trouble you, and if you just want to say hello, ……
+
+# 6856ee7a
+; @choice "入らない" goto:.atode handler:ButtonList
+@choice "do not enter" goto:.atode handler:ButtonList
+
+# 5fbb6b8f
+; me: 「いやいや」
+me: "No, no,"
+
+# 87aa93a
+; そりゃブルーラグーンは一度は来てみたいと思ったんだけど、今ではない。
+Well, Bluelagoon wanted to come at least once, but not now.
+
+# 579072ac
+; me: 「それに……」
+me: "And ……,"
+
+# 4a9a9ba2
+; ヒメがここにいるって言ったのに、直ぐにわざわざ来られたら、まるでヒメ目当てに来たみたいじゃないか。
+Hime said he was here, but if he could come all the way right away, it would be as if he had come for Hime
+
+# e607fa16
+; あんな写真を見た後だから、下心見え見えみたいで、ちょっと引かれるかも知れない。
+After seeing a picture like that, it seems like you can see your ulterior motive, and you might be attracted to it.
+
+# 78173113
+; me: 「後で、また来よう」
+me: "I'll come back later."
+
+# bc97c8d1
+; 贅沢は後だ。
+Luxury comes later.
+
+# d3706607
+; ここは旅の最後の日に来てみたい。
+I want to come here on the last day of my trip.
+
+# d2095ee8
+; ちょうど空港からも近いから、帰る日の朝にでもいいのだろう。
+It's just close to the airport, so I guess it's okay to go home in the morning.

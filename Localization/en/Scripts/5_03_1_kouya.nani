@@ -1,0 +1,281 @@
+; Japanese <ja> to English <en> localization document for `5_03_1_kouya` naninovel script
+
+# be260790
+; me: 「……な、ユールちゃん、ちょっと……」
+me: " ……, Yule, a little ……,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 19331a86
+; me: 「……そろそろ教えてくれないか？……これはいったい……」
+me: " …… Will you tell me now?"…… This is ……."
+
+# 4b3363
+; me: 「……うわっ！」
+me: "…… "Oh, my God!"
+
+# e545bdc4
+; いきなり明かりに、目が眩む。
+I was dazzled by the light.
+
+# de92c13c
+; me: 「な、なに！？」
+me: "What!"
+
+# 316d2ecb
+; ぐるぐると、空の色が急速に変わって行く。
+The color of the sky changes rapidly.
+
+# f8941407
+; 周りの風景も、急速に変わって行く。
+The surrounding scenery changes rapidly.
+
+# 92694747
+; まるで時を早送りしてるみたいに。
+It's like I'm fast-forwarding time.
+
+# 1b247e31
+; 風のような速さで、移動してる。
+It's moving as fast as the wind.
+
+# 5b0f4e49
+; me: 「い、いきなりどうなってるんだ？ここは？」
+me: "What's going on all of a sudden?"Where are we?"
+
+# 487cf0c2
+; 気がついたら、
+When I realized,
+
+# 7d8f0bc5
+; 音も、匂いも、すべてが違う空間になってた。
+The sound and smell were all different spaces.
+
+# 970480b6
+; ここは、潮の匂い、波の音……
+This is the smell of the tide, the sound of the waves ……
+
+# 6da8d805
+; 俺たちは海辺に来ていた。
+I They were at the beach.
+
+# abf4d054
+; me: 「……海？？？」
+me: "The Sea of ……???"
+
+# 947a062d
+; yule: 「うーん。この辺りだったと思うけど、ご先祖様」
+yule: "Well, I think it was around here, ancestors."
+
+# fee5de1b
+; ユールちゃんは何か話してたけど、耳に入れなかった。
+Yule said something, but I couldn't hear it.
+
+# b643b438
+; それより、今の状況がまだ理解できない。
+I still don't understand the current situation.
+
+# b78bd1bc
+; me: 「……いつの間に……？？？」
+me: "When did you ……?"
+
+# fa8b31d2
+; ２～３秒くらいしか経ってないはずなのに。
+It's only been 2-3 seconds.
+
+# 42ddbc59
+; 少し前先までの夜の荒野の風景はどこにも見当たらなく。
+I could not find the wild landscape of the night before.
+
+# 48c190f1
+; 明るくなった空と、
+The brightened sky,
+
+# b585d5dd
+; 海と、浜辺と、島。
+The sea, the beach, and the island.
+
+# beea6db3
+; 飛行機の残骸も、もうどこにも見当たらない。
+The wreckage of the plane is nowhere to be found.
+
+# 5698d401
+; me: 「なあ、ユールちゃん、これは一体……？」
+me: "Well, Yule, is this ……?"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 1647daed
+; 先ユールちゃんに何か聞こうとしてたけど……それはもう忘れた。
+I was going to ask Yule something earlier, but …… I forgot that already.
+
+# 7888c3f4
+; それよりも、今のこの状況がおかしくて、気になって仕方ない。
+Rather than that, I can't help worrying about the current situation.
+
+# c5a22533
+; 空が一瞬で変わってしまった。
+The sky changed in an instant.
+
+# 402b7abb
+; 周りの風景も、一瞬で変わってしまった。
+The surrounding scenery also changed in an instant.
+
+# 2e4aeeab
+; これはどうも、普通の状況ではない。
+This is not a normal situation.
+
+# dda932d3
+; まるで夢を見ているようだった。
+It was as if I were dreaming.
+
+# 772cc7d4
+; me: 「どうやってこんな、瞬間移動みたいな事が……？いや、そもそも何でいきなり昼になった？」
+me: "How did such a momentary movement ……?"Why, in the first place, did it suddenly become noon?"
+
+# 5c33d476
+; yule: 「ああ。やっぱり、まだ{playerName}はこの世界になれてないんですね」
+yule: "Yeah. After all, {playerName} hasn't gotten used to this world yet."
+
+# 9e74059a
+; me: 「？」
+me: "？"
+
+# d8ee1edf
+; yule: 「この地では、時間の感覚が可怪しくなったりしますから」
+yule: "I have a strange sense of time here,"
+
+# ff26b519
+; me: 「この地？」
+me: "Here?"
+
+# d2d9f75e
+; yule: 「 <ruby="トゥーレ"> Θούλη</ruby>です。[i][char yule.doya]テュレとも呼びますね」
+yule: "「 <ruby=" Thule"> /ύλη ''/ruby'.[i][char yule.doya] It's also called Ture."
+
+# 9e5a224b
+; me: 「……ここ、アイスランドじゃなかったの？」
+me: "…… "Wasn't this Iceland?"
+
+# 7e8be154
+; yule: 「厳密には、アイスランドではありません。[i]アイスランドと同じ位相の世界ではある事は間違いませんが」
+yule: "Strictly speaking, it's not Iceland.[i]I'm sure it's in the same phase as Iceland."
+
+# afb962b2
+; me: 「それは、どういう……？」
+me: "What kind of …… is that?"
+
+# feeddad1
+; yule: 「それは……[i]後で{playerName}が記憶を取り戻したら、説明してあげますよ」
+yule: "That's ……[i] I'll explain it to you later when {playerName} comes back to memory."
+
+# 792229f5
+; me: 「……記憶を取り戻すって、どうやって？」
+me: "…… "How do you recover your memory?"
+
+# 273202be
+; yule: 「悪いエルフが{playerName}の記憶を盗んで行ったのです。[i]だから取り戻しに行くのです。[i][char yule.yoko_b_close_w]……って言っても、理解できます？」
+yule: "The bad Elf stole {playerName}'s memory.[i]That's why I'm going to go get it back.[i][char yule.yoko_b_close_w] Do you understand ……?"
+
+# 84330087
+; me: 「え、エルフ？？よ、妖精の事か？」
+me: "What, Elf??? You mean fairies?"
+
+# 411d42d9
+; yule: 「そうですよ？」
+yule: "Of course?"
+
+# 6ccc0097
+; me: 「じょ、冗談？……ではないんだよな？」
+me: "Are you kidding me? It's not ……, is it?"
+
+# cca8c70e
+; yule: 「はい。[i][char yule.kum]でも今、全てを説明しても受け入れてもらえないでしょう。[i][char yule.kusu]だから今はただ、ユールちゃんを信じてついてきてくれませんか？」
+yule: "Yes. [i] [char yule.kum] But even if I explain everything now, they won't accept it.[i][char yule.kusu] So will you just trust Yule and follow me now?"
+
+# c3ba77c4
+; me: 「……ユールちゃんは、いったい何者だ？」
+me: "Who the hell is ……Yule?"
+
+# 5e421518
+; yule: 「まあまあ、それも後で」
+yule: "Well, I'll see you later,"
+
+# a9a5d032
+; me: 「……何か色々と知ってるんだな？[i]俺についても……」
+me: "You know a lot about ……, don't you?"[i]As for me, ……."
+
+# a7d62056
+; yule: 「はい。[i][char yule.n_b_a_dot]だけどそれはユールちゃんが話すよりも、[i][char yule.n_b_nemu_bigemi]{playerName}が自分で記憶を取り戻した方がいいと思います」
+yule: "Yes. [i][char yule.n_b_a_dot] But I think it's better for {playerName} to recover their memories by themselves than for Yule to speak."
+
+# 36ee1f58
+; me: 「……そうか」
+me: " …… I see,"
+
+# 9d4d3127
+; 正直、何を言ってるのかわからない。
+Honestly, I don't know what you're talking about.
+
+# 494cbe3a
+; 今の変な状況も、トゥーレってのもわからない。
+I don't know the current strange situation or Thule.
+
+# e1408b59
+; 何のつもりなのかもわからない。
+I don't even know what you mean.
+
+# c9800c52
+; だけど、
+But...
+
+# 1cc947f0
+; 何故かユールちゃんの言葉は、信頼できた、
+For some reason, Yule's words were reliable;
+
+# f6027b3f
+; ユールちゃんの手を取った瞬間、そう思ってしまった。
+The moment I took Yule's hand, I thought so.
+
+# 90657319
+; 今はただ信じてついてきて、って言うから。
+I'm just telling them to trust me and follow me.
+
+# 6cc7eb94
+; そうする事にした。
+I decided to do so.
+
+# 2baeb7d3
+; ユールちゃんの言う通りについていけば、
+If you follow Yule's instructions,
+
+# 4427cebb
+; 俺は記憶を取り戻して、真実を知ることができるだろうと、
+I thought that he would be able to recover his memory and know the truth;
+
+# 74a02d53
+; 理由はわからないけど、そう思えてしまう。
+I don't know why, but I think so.
+
+# ae187cd3
+; me: 「わかった。とりあえず、ユールちゃんの言う通りにするよ」
+me: "All right. I'll do what Yule tells me to do."
+
+# 7fce2a5b
+; yule: 「はい。ま、悪いようにはしませんよ。くすくす」
+yule: "Yes, I won't do anything wrong, giggle."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# f0dd395c
+; yule: 「と、とりあえず、あともう少し、ついてきて」
+yule: "Well, just follow me a little more,"
+
+# df718cf7
+; me: 「ああ……」
+me: "Oh, ……,"

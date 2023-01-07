@@ -1,0 +1,97 @@
+; Japanese <ja> to English <en> localization document for `glymur` naninovel script
+
+# 3e044c22
+;  <ruby="グリムール"> Glymur</ruby>。
+<ruby="Glimur">Glymur</ruby>.
+
+# 49b699c8
+; 高さ１９８ｍで、アイスランドで二番目に高い滝だ。
+With a height of 198 meters, it is the second highest waterfall in Iceland.
+
+# 4c318537
+; ２０１１年、一番高いMorsárfossが新しく発見される前までは、長い間に「アイスランドで一番高い滝」として知られていた。
+Before the new discovery of the tallest Mors árfoss in 2011, it was long known as the "highest waterfall in Iceland."
+
+# 6afcc044
+; だけどMorsárfossは一般人が容易く接近できない場所にあるため、直で見る事ができる滝の中では、この滝が一番高いと言える。
+However, Mors árfoss is located in a place where ordinary people cannot easily access, so this waterfall is the highest among the waterfalls that you can see directly.
+
+# 1cc90aec
+; me: 「この滝の高さにまつわる、面白い民話があったんだよな」
+me: "There was an interesting folk tale about the height of this waterfall,"
+
+# 69527fe4
+; 一人のエルフ女性がいた。
+There was one ElfWoman.
+
+# ef30036c
+; 彼女は人間の男に恋をして、子供を産んだ。
+She fell in love with human Man and gave birth to a child.
+
+# 60b4fea8
+; しかしその男は、自分がその子供の父だと認めなかった。
+But Man did not recognize him as the father of the child.
+
+# f81b9a79
+; 怒ったエルフ女性は、ポリモーフの魔法で、彼をクジラに変えてしまった。
+The angry ElfWoman turned him into a whale by the magic of polymorph.
+
+# 9edd4d7a
+; 人々はこのクジラを赤い髪のクジラ（Rauðhöfði）と呼んだ。
+People called the whale a red-haired whale (Rau ðh öf ði).
+
+# 78f286
+; そのクジラは邪悪だった。
+The whale was evil.
+
+# 83701dd9
+; Faxafloi湾に住み着いて、人々を襲い、１９隻の船を沈没させた。
+It settled in the Gulf of Faxafloi, attacked people and sank 19 ships.
+
+# d899d4a8
+; ある日、一人のルーテル教の司祭が、家族を連れて釣りをしていた。
+One day, a Lutheran priest was fishing with his family.
+
+# cb9475bf
+; その時、司祭の二人の息子も、そのクジラに襲われて死んでしまった。
+At that time, the two sons of the priest were also killed by the whale.
+
+# b41a2513
+; 司祭は復讐を決心した。
+The priest resolved to take revenge.
+
+# d3ba3030
+; 呪術と計略で、司祭はクジラをフィヨルドの深い場所、Botnsa川まで誘い込んだ。
+By magic and trickery, the priest lured the whale to the deep part of the fjord, the Botnsa River.
+
+# 47cc1533
+; クジラはHvalvatn湖に着くまで、ずっとこのGlumur滝を遡って泳いでいた。
+Whales swam up this Glumur Falls all the way until they reached Lake Hvalvatn.
+
+# 7948402
+; しかし天辺に着く前に体力が尽きてしまい、
+But he ran out of energy before he reached the top.
+
+# f40b0966
+; クジラは滝の下へと落ちて死んだのだった。
+The whale had fallen to the bottom of the waterfall and died.
+
+# 11ab1432
+; その後、glymurの下の湖では、本当にクジラの骨が発見されたという。
+After that, whale bones were found in the lake below the glymur.
+
+# 2e35cfa8
+; me: 「化け物のクジラが泳いでも疲れてしまうほど、高い滝であるとの事だな」
+me: "It's such a high waterfall that whales in Monster get tired of swimming."
+
+# a558ebee
+; 思えばこの悲劇の事の始まりも、エルフを怒らせたせいであるな。
+I think the tragedy started because it upset Elf.
+
+# 9a0b4ebc
+; ポリモーフの魔法を食らって、クジラに変わってしまった男。
+Man turned into a whale under the spell of polymorph.
+
+# b6419b29
+; 男に罪はあるのは確かだけど、哀れな事だったな。
+Man is guilty, I'm sure, but it was a pity.

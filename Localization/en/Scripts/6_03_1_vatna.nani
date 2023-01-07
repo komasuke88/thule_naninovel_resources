@@ -1,0 +1,353 @@
+; Japanese <ja> to English <en> localization document for `6_03_1_vatna` naninovel script
+
+# 26943ce7
+; 妖精の道を抜けたら、アイスランドの南にある広い雪山に到着していた。
+I had passed the fairy's path and found myself in a wide snowy mountain south of Iceland.
+
+# b51dffd1
+; 俺たちは車から降りて、雪山の真ん中を目指して丘を登った。
+I They got out of the car and climbed the hill toward the middle of the snowy mountain.
+
+# 9f53ff4d
+; そして俺たちは今、穴を探索してる。
+And now me and others are exploring the hole.
+
+# bb7fd033
+; 普通の穴ではない。これはクレバスだ。
+It's not a normal hole.This is crevasse.
+
+# 582972d6
+; クレバスが何かって？
+What is crevasse?
+
+# af59d754
+; 氷河の亀裂だ。
+It's a crack in the glacier.
+
+# e46a8d6
+; とても危ない。
+It's very dangerous.
+
+# 89748c92
+; yule: 「ね、{playerName}。この穴って、あれに似てませんか？あれ」
+yule: "Well, {playerName}.Doesn't this hole look like that?That one."
+
+# 11085eb
+; 先から妙にテンション高くなってるユールちゃんが、話しかけてきた。
+Yule, who had been strangely excited for a long time, spoke to me.
+
+# 734df17a
+; me: 「あれって？」
+me: "What's that?"
+
+# ef112f7b
+; yule: 「あれですよ。あれ、女の子の……[i][char yule.r-kusu]……あっ、{playerName}は見たことないから分からないか。くすくすくす」
+yule: "That's it. That's ……[i][char yule.r-kusu] …… Oh, I've never seen {playerName} before, so don't you know? gigglex."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# dc6c5357
+; こいつ、俺が童貞だとわかった以来、こんな下品な冗談を散々かましてくる。
+He's been making such dirty jokes since he found out that me was a child.
+
+# df3a4e95
+; 別にそれ自体は構わないけど、そろそろウザい。
+I don't mind that in itself, but it's getting annoying.
+
+# 3b5cf5ab
+; yule: 「あれれ？何ですか？じっと見つめて」
+yule: "Huh? What is it?Stare at me."
+
+# 33f484b9
+; yule: 「あっ！もしかして、[i][char yule.r-kusu]ユールちゃんの穴が気になっちゃったりして？[i][char yule.l-kusu]くすくすくす」
+yule: "Oh! By any chance, [i] [char yule.r-kusu]Are you curious about the hole in Yule?[i][char yule.l-kusu] gigglekusu"
+
+# eff081c
+; @choice "そんなわけあるか" goto:.nono
+@choice "I don't know why" goto:.nono
+
+# 65923775
+; @choice "ああ、そうだ" goto:ed_6_03_1_vatna_kininaru
+@choice "Oh yeah" goto:ed_6_03_1_vatna_kininaru
+
+# 9bb498f9
+; me: 「お前、童貞をからかうでない」
+me: "Don't make fun of me"."
+
+# ceaa53bc
+; 武力鎮圧。
+armed repression.
+
+# fd473abf
+; yule: 「あわわ、わ、わかりました」
+yule: "Ah, oh, I see,"
+
+# e8cdafc4
+; yule: 「うぅぅ」
+yule: "`Well,'"
+
+# f14544b2
+; おとなしくなった。よし。
+He's quiet now. Good.
+
+# c7742055
+; me: 「それにしても、本当にこんな場所に隠れ家があるのか？」
+me: "But is there really a hiding place in such a place?"
+
+# a6442e6
+; yule: 「そうですよ。この辺りなのは確かです」
+yule: "Yes, I'm sure it's around here."
+
+# 274b2f6
+; 今回のエルフは、このクレバスの一つに隠れ家を持ってるらしいが。
+I heard that this Elf has a hiding place in one of these crevasses.
+
+# b2af1ad4
+; どんな穴なのかは分からないという。
+They don't know what kind of hole it is.
+
+# 748124d2
+; だからこうして、ずっと氷河の上を彷徨い、大きい穴を見つける度に調べてる。
+That's why I've been wandering on the glacier and researching every time I find a big hole.
+
+# 58fd44ab
+; エルフの隠れ家がある穴だと、底から人の声が聞こえて来るらしい。
+In the hole where Elf's hiding place is located, people's voices can be heard from the bottom.
+
+# 8c450b9d
+; 少し不気味だな。
+It's kind of creepy.
+
+# 2ba7e82d
+; me: 「疲れたな。何でも適当な穴に入りたい……」
+me: "I'm tired. I want to put anything in the right hole ……"."
+
+# a5d816b2
+; yule: 「あらやだ。ユールちゃんの？」
+yule: "Oh, no. Is it Yule?"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 7c11b9c9
+; yule: 「ご、ごほん。[i][char yule.kum]そ、そうですね。でも適当に入っちゃ駄目ですよ」
+yule: "Oh, my God. [i] [char yule.kum] That's right.But don't go in at random."
+
+# 7ac599f
+; me: 「わかってるよ」
+me: "I know,"
+
+# 657e08cd
+; yule: 「ちゃんと耳を当て、人の声が聞こえる穴に探しましょう」
+yule: "Put your ear on it and look for it in the hole where you can hear people."
+
+# 6158603d
+; そう言って、ユールちゃんは向こうの方を探索しに行った。
+Then Yule went on a search.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 527f640c
+; でも俺はまだやる気が戻ってない。
+But me hasn't recovered her motivation yet.
+
+# f70f95dd
+; 少し休む事にした。
+I decided to take a break.
+
+# e67f29e2
+; しばらく遠くを眺めながらボーッとする。
+I dazed for a while looking far away.
+
+# 1ea67872
+; me: 「……ふぅ」
+me: "` …… Phew,'"
+
+# a82ff8b5
+; この一帯は……
+This area is …….
+
+# 18ad5adc
+; 改めて見ても、不思議な眺めだ。
+Once again, it is a strange view.
+
+# 73f767c6
+;  <ruby="Vatnajökull"> ヴァトナヨークトル</ruby>。
+<ruby="Vatnaj ökull"> Vatnajokull</ruby>.
+
+# 57bdcd77
+; アイスランド最大の氷河。
+the largest glacier in Iceland.
+
+# ac286384
+; ここは広く、険しく、白と黒に覆い尽くされてる。
+It was wide, steep, and covered in black and white.
+
+# 9669183d
+; 何の色彩も、音も、動きもない。
+No color, no sound, no movement.
+
+# 9dcd32ef
+; ただ荒涼とした風光と、体に染みる寒さ。
+but the desolate wind and the cold that permeated my body.
+
+# cb0aa400
+; 雄大な静寂。
+a magnificent silence.
+
+# 54c21810
+; 万物を覆い尽くす沈黙。
+silence that covers all things.
+
+# da64e62d
+; ここは人の世界ではないと言ってるような、自然の孤独を感じさせた。
+It made me feel the loneliness of nature as if I were saying that this is not a human world.
+
+# 4cda3018
+; その母なる自然の寂しさは大きくて優しくて、
+Mother Nature's loneliness was great and kind.
+
+# 1fd392ea
+; 俺の寂しさをも包み込んでくれる気がして、心が引き込まれそうになる。
+me's loneliness is enveloped in her, and her heart is about to be drawn to her.
+
+# 852546e8
+; me: 「この雄大なる孤独に比べたら、俺の存在なんてちっぽけなんだ……」
+me: "Compared to this magnificent solitude, me's existence is petty."
+
+# d188440
+; yule: 「あら、感想に浸ってましたか」
+yule: "Oh, you were immersed in your thoughts"."
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# 68f80e13
+; いつの間にか隣に来てるユールちゃんが、俺の独り言にツッコミを入れた。
+Before I knew it, Yule, who was next to me, added a tsukkomi to me's soliloquy.
+
+# 345eb534
+; 恥ずかしいなおい。
+I'm embarrassed.
+
+# 97c64184
+; yule: 「でも{playerName}の気持ちもわかります。[i][char yule.emi]この氷河の偉大なる <ruby="トゥフランディ"> Töfrandi</ruby>は、人間にでも、何かを感じされるに十分です」
+yule: "But I understand how {playerName} feels.[i][char yule.emi] The great <ruby=" Tofrandi">T öbrandi</ruby> of this glacier is enough for humans to feel something."
+
+# 3fb01a97
+; me: 「トゥフランディ？」
+me: "Is it Tofrandi?"
+
+# 57774b31
+; yule: 「生命力とか魔力とか、このトゥーレの根源たるエネルギーの総称ですよ」
+yule: "Living power and Magical Power are generic terms for the energy that is the root of this Thule."
+
+# 7919fc04
+; me: 「生命力と魔力か……確かにな。[i]この氷河は無生物なはずなのに、大きな生命を感じる」
+me: "Life force and Magical Power or …… certainly.[i]This glacier is supposed to be inanimate, but I feel a great deal of life."
+
+# ab71332
+; yule: 「ですよね。[i]我々フルドゥフォルクの存在の根源も、実はこの氷河なのです」
+yule: "Right. [i] Actually, this glacier that is the root of Huldufolk existence."
+
+# 59a16168
+; me: 「そうか……」
+me: "Well, ……,"
+
+# 48179b48
+; フルドゥフォルクの話はよく理解できなかったけど、
+I didn't understand what Huldufolk was saying.
+
+# b3c0be4
+; これだけの自然の前では、どんな不思議な話も何故か納得できる。
+In the presence of such nature, any strange story is somehow acceptable.
+
+# efb60c0f
+; それくらい、母なる自然を感じる。
+That's how much I feel about mother nature.
+
+# f3999f45
+; me: 「もう少し、こうしてぼーっと生命力を感じていたい」
+me: "I want to feel a little more vital."
+
+# e0f57d8a
+; yule: 「はい。せっかくここまで来ましたし、それもいいでしょう」
+yule: "Yes, we've come all the way here, and that's all right."
+
+# 3713fd45
+; また俺は白に染まった世界を眺めながら、座った。
+Also, me sat down, looking at the world ting with white.
+
+# e874a019
+; me: 「俺にももらえるのかな、この生命力が」
+me: "I wonder if me can get this vitality."
+
+# 72c589db
+; そうしてまた、しばらく感想に浸り始めたその時。
+And when I started to get immersed in my thoughts for a while,
+
+# a92eafd0
+; me: 「うわっ！！！」
+me: "Wow!"
+
+# 23501fb3
+; いきなり。
+All of a sudden.
+
+# 8dfc8fa6
+; ゴゴゴゴゴゴと、轟音。
+Rumbling and roaring.
+
+# 4dfdc865
+; この一帯が全て鳴ってるみたいな雷鳴。
+The thunder sounds like everything in this area is ringing.
+
+# 92632978
+; me: 「な、なんだ？」
+me: "What is it?"
+
+# b571618d
+; 俺はとても驚いて、周りをおろおろと見回した。
+I looked around in great surprise.
+
+# f2db18ef
+; しかし、何もない。
+But there is nothing.
+
+# a9d5c122
+; 雨が降るような場所でもないのに。
+It's not a place where it rains.
+
+# e52b806
+; 無性に恐怖感が湧いてくる。
+I have a terrible sense of fear.
+
+# 1f1ddd0e
+; yule: 「これは氷河が崩れ落ちる音ですよ」
+yule: "This is the sound of glaciers collapsing,"
+
+# 2beb82d6
+; me: 「氷河って、崩れ落ちるのか」
+me: "Are glaciers going to collapse?"
+
+# d5a13e3d
+; yule: 「元は雪ですからね。崩れ落ちたりもするんですよ。にしても今回は大きかったんですね」
+yule: "It was originally snow.Sometimes it collapses, but this time it's big."
+
+# 24124c74
+; yule: 「でも急がないといけませんね。[i]この崩れで、エルフたちが驚いて隠れ家の場所を変えるかも知れません」
+yule: "But we must hurry.[i]This collapse may frighten Elf and change their hiding place."
+
+# d1ae4df8
+; me: 「あいつらの隠れ家って、移動式なのか……」
+me: "Is their hiding place mobile?"
+
+# 9102313c
+; 早く探さなくては。
+I need to find it quickly.

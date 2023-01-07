@@ -1,0 +1,165 @@
+; Japanese <ja> to English <en> localization document for `glaumbaer` naninovel script
+
+# fbadc074
+; me: 「こ、ここは……？」
+me: "Is this ……?"
+
+# d573a8bd
+; 芝生でできた家がいっぱいあった。
+There were many houses made of grass.
+
+# 79c13f83
+; アイスランドで太古より伝わる伝統ハウス、芝生の家、 <ruby="Laufás"> ロイヴァゥス</ruby>。
+<ruby="Lauf ás">Royvas</ruby> is a traditional house and lawn house handed down from ancient times in Iceland.
+
+# 20d66925
+; その家がまるで町のように並んでるのがここ、 <ruby="グラムバウア・ターフハウス"> Glaumbær</ruby> Turf Houses。
+This is where the houses line up like Village, <ruby="Grambauer Turf House">Glaumb ær</ruby> Turf Houses.
+
+# 1ab40446
+; 昔は農場だったという。
+It used to be a farm.
+
+# a4f4d8b4
+; me: 「まるで、エルフが住んでそうな家だな」
+me: "It's like the house where Elf lives,"
+
+# c59fadc5
+; そういや、エーリック教授が言ってたな。
+by the way, Professor Eric said that.
+
+# 5c953fb6
+; こうして緑が多い場所は、エルフに遭遇する可能性が高いと。
+If there is a lot of greenery like this, there is a high possibility of encountering Elf.
+
+# 58c4b41d
+; me: 「それにしても、なんという鮮明な緑だ」
+me: "But what a clear green!"
+
+# d3c4d452
+; 今が本当に１２月か？
+Is it really December?
+
+# a82cfbe4
+; 家自体も不思議だけど、その緑も不思議だ。
+The house itself is strange, but the greenery is also strange.
+
+# 47f1a78f
+; この町は８７４年、アイスランドに人が住んでた頃から存在してて、
+This Village has existed since 874 when people lived in Iceland.
+
+# 4814001e
+; １０１０年、 <ruby="スノリ・ソリフィソン"> Snorri</ruby> Þorfinnsson が住んでいた町でもある。
+It is also Village where <ruby="Snorri Solifison">Snorri</ruby> Þorfinnsson lived in 2010.
+
+# ff9def3d
+; スノリは、アメリカ大陸で産まれた最初に白人で、アイスランドのキリスト教化の重要人物だと知られてる。
+Snow was the first white man born in the Americas and is known to be an important figure in Iceland's Christianization.
+
+# fd792206
+; 彼の物語は、<tip="vinlandsaga">Vinland sagas</tip>にも述べられてる。
+His story is also described in <tip="vinlandsaga">Vinland sagas</tip>.
+
+# e9e41ad9
+;  <ruby="ヴィンランド"> Vinland</ruby>とは、古代ヴァイキングたちの用語で、北アメリカの海岸とグリーンランドを含む地域を示す。
+<ruby=" vinland">Vinland</ruby> is an ancient Vikingan term that refers to the coast of North America and the region including Greenland.
+
+# a9835713
+; Vinland sagaによると、スノリが３歳の時、ヴィンランドの原住民『トゥーレ人』との不和が生じた。
+According to Vinland saga, when Snori was three years old, she had a feud with 』, a native of vinland.
+
+# 4dfc545d
+; トゥーレ人との敵対心が強くなり、スノリとその家族はヴィンランドを去り、故郷のアイスランドに戻った、
+ThuleSnori and his family left vinland and returned to their native Iceland,
+
+# 9819b7c6
+; 彼の故郷の家がここ、 <ruby="グラムバウア"> Glaumbær</ruby>ってわけだ。
+His home is here, <ruby="grambauer">Glaumb ær</ruby>.
+
+# ec91b0ac
+; me: 「そういや<tip="vinlandsaga">Vinland saga</tip>って、同名の日本の漫画があったよな」
+me: "by the way <tip="vinlandsaga">Vinland saga</tip> was a Japanese cartoon with the same name."
+
+# 91b5ea95
+; あれは名作だったな。
+That was a masterpiece.
+
+# eff893f0
+; そういえばこの地は、そのVinland Sagaの主人公とも縁の地でもある。
+This is also the place where the Duke of Master of Vinland Saga is related.
+
+# bff1afdf
+; そういうとここはVinland Sagaの聖地巡礼の地でもある。
+This is also the pilgrimage site of Vinland Saga.
+
+# 8a9ce92a
+; 日本に帰ったら改めて読んでみたいものだ。
+I'd like to read it again when I get back to Japan.
+
+# 7de6e2aa
+; me: 「今のこの家に、実際に人が住んではいないな」
+me: "There are no people living in this house now,"
+
+# 44eb9ca1
+; 人々は１９４７年まで、この芝生の家に住んでたという。
+People reportedly lived in this lawn house until 1947.
+
+# 9179f854
+; そのあとこの家はアイスランド政府の管理下になり、伝統の保護目的で、博物館して運営されてる。
+The house was then managed by the Icelandic government and operated as a museum for the protection of tradition.
+
+# a61d8b05
+; 町の中央の教会の前には、 <ruby="グドリドル・ソルヤルナルドッティル"> Guðríður</ruby> Þorbjarnardóttirの像がある。
+In front of the central church in Village is a statue of <ruby="Gudridor Soljarnadtil">Gu ðr íður</ruby> Þorbjarnard óttir.
+
+# 50a5b82
+; 英語の表記では <tip="gudrid">Gudrid</tip> Thorbjarnardottir。
+<tip="gudrid">Gudrid</tip> Thorbjarnardottir in English.
+
+# 3a0404cc
+; グズリーズはこの教会を立てた人物でもあって、スノリの母親だった人物だ。
+Guzzlies was the person who founded the church and was Snow's mother.
+
+# 8f458743
+; グズリーズにはソルフィンという夫がいて、スノリはこの夫妻がヴィンランド逗留中に生んだ息子だ。
+Guzzlies had a husband named Solphine, who was the son of the couple during their stay in vinland.
+
+# 72cc5ee3
+; ちなみにソルフィン（ <ruby="ソルフィン・カルルセヴニ・ソルザルソン"> Þorfinnr Karlsefni Þórðarson</ruby>）は、有名なアイスランドの探検者で、日本の漫画Vinland Sagaの主人公でもある。
+By the way, Solphin (<ruby="Solphin Carlseveni Solzarson"> Þorfinnr Karlsefni Þór ðarson</ruby>) is a famous Icelandic explorer and Duke of Master in the Japanese comic book Vinland Saga.
+
+# d575f19d
+; me: 「偉大なるグズリーズの像……」
+me: "The Great Guzzlies ……"
+
+# c12575c7
+; １１世紀から２０世紀に至るまで、アイスランドで一番、多くの旅をした女性とも知られている。
+It is also known as Woman, which traveled the most in Iceland from the 11th century to the 20th century.
+
+# f53f789f
+; アイスランドから初めて、グリーンランド、ノルウェー、イギリス、ローマ、アメリカ大陸に至るまで、
+From Iceland to Greenland, Norway, England, Rome and the Americas.
+
+# 6a9525fa
+; 彼女の凄まじい旅人で、時代を超越した冒険家だった。
+She was a tremendous traveler and a timeless adventurer.
+
+# 8ba7763a
+; かのVinland Sagasでも、彼女は重要な人物として登場してる。
+She also appears as an important character in Vinland Sagas.
+
+# 8ddcef4f
+; me: 「１１世紀の北欧で、旅人だった女性か……」
+me: "In Northern Europe in the 11th century, Woman or …… were travelers."
+
+# 1b79f198
+; あの頃の旅行は今よりもずっと大変な事が多かっただろうに、本当にすごい人だったんだな。
+There must have been a lot more difficult times in those days than there are now, but he was such a great person.
+
+# 301b6c5e
+; me: 「最後には、この地に戻り、教会を建てたんだな」
+me: "In the end, you went back to this land and built a church,"
+
+# 88515f50
+; 長い旅の末、この <ruby="グラムバウア"> Glaumbær</ruby>に定着した彼女の姿を想像しながら、俺は町を去っていった。
+After a long journey, me left Village, imagining her settling in this <ruby="grambauer">Glaumb ær</ruby>.

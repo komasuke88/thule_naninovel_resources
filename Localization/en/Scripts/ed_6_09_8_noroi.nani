@@ -1,0 +1,69 @@
+; Japanese <ja> to English <en> localization document for `ed_6_09_8_noroi` naninovel script
+
+# 43054ae7
+; 犯す。
+commit a crime.
+
+# 658be482
+; 犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯犯。
+a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense, a criminal offense.
+
+# a085bead
+; me: 「うわあぁぁぁあああああ！」
+me: "`Oh, my God!'"
+
+# 3892d621
+; yule: 「えっ、ええええええっ！？うわ、なんてデカさ！」
+yule: "What, what, what!?"Oh, how big!"
+
+# 96d3342
+; 心の中の衝動に耐えきれなくて、
+I couldn't bear the urge in my heart.
+
+# 649ca89a
+; 俺はズボンを下ろして、目の前の女の子たちへと掛かっていった。
+I lowered his trousers and hung on to the Girls before him.
+
+# 24efb18c
+; しかし、
+However, you can,
+
+# f78a58a6
+; なぜか次の瞬間、俺の体は深い海の中に沈んでいた。
+Somehow, the next moment, me's body sank into the deep sea.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 99bf5ce4
+; hime: 「ケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケケ」
+hime: "I'm not going to be able to do that, but I'm not going to be able to do that anymore."
+
+# b11d1e66
+; hildur: 「これは、悪霊になりきってしまったわぁ。除霊しなくちゃ」
+hildur: "This has become a demon.I must exorcise him."
+
+# 18170c37
+; yule: 「くっ、{playerName}、ど、どうしよう……こんないきなり、悪霊の呪いで狂死なんて」
+yule: "Damn it, {playerName}, what shall I do? …… I can't believe I died so suddenly under the curse of an evil spirit."
+
+# 4118c8aa
+; hildur: 「ちょっとだけ耐えたらよかったものの、根性のない男ね」
+hildur: "I wish I had endured a little, but Man without guts."
+
+# 47fd7f5e
+; yule: 「……うぅぅ、せめてあの世では暖かく眠れるように、安らかな墓場をプレゼントしましょう」
+yule: "…… `Well, at least let us gift a peaceful grave so that we may sleep warmly in the afterlife,'"
+
+# c61d17b1
+; <ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。死後の祝福を、あなたに……
+<ruby=" Gledileg jol"> Gleðileg jól</ruby>.…… your posthumous blessing

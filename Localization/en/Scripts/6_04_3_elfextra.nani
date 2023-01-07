@@ -1,0 +1,373 @@
+; Japanese <ja> to English <en> localization document for `6_04_3_elfextra` naninovel script
+
+# fa0b01a8
+; elf2: 「シャッフルが終わった。さあ、サトシの運命は？！」
+elf2: "The shuffle is over.Now, what is Satoshi's fate?"
+
+# 5fc14fd2
+; 「ヨウヘイ、大げさなリアクションすんな」
+"Yohei, don't overreact.
+
+# 84fd9820
+; 「ふふ、では、カードを選んで」
+"Well, then, pick a card."
+
+# 53f11659
+; elf1: 「こ、このカード……いや、こっちにしようかな」
+elf1: "This card …… No, I think I'll take this one."
+
+# 807adaf4
+; 女の子が、机の上でカードを広げていた。
+Girl was opening his card on the desk.
+
+# 81da35d7
+; タロット占いみたいだ。
+It's like tarot fortune telling.
+
+# 8797cb07
+; elf0: 「今から引くカードが示すのは、サトシ君の想い人の今の気持ちよ」
+elf0: "What the card I'm going to draw now shows is how Satoshi's loved ones feel now."
+
+# 4a5d4eb4
+; elf2: 「サトシ、お前、好きな人いるの？」
+elf2: "Satoshi, do you like anyone?"
+
+# 2f40a617
+; elf1: 「ま、まあ……」
+elf1: "Well, ……,"
+
+# 461d9496
+; 「……ほぉ」
+" ……oh,"
+
+# 52e04666
+; elf3: 「俺は知ってるぞぉー」
+elf3: "I know me,"
+
+# e4c677f
+; elf2: 「なっ、コウスケにだけは言ったのかよ」
+elf2: "Did you say it only to Kosuke said."
+
+# 22fed1e0
+; elf0: 「ずるいなー私も知りたーい」
+elf0: "That's cheating. I want to know."
+
+# 77fd10e9
+; elf3: 「ヒメにだけは内緒だって言ってたよ」
+elf3: "He said it was a secret only to Hime,"
+
+# fc3646ab
+; elf1: 「なっ、コウスケお前……」
+elf1: "Oh, Kosuke, you ……."
+
+# 33ae529b
+; elf0: 「誰だか知らないけど、サトシ君にそんなに想われるなんて、羨ましいな～」
+elf0: "I don't know who it is, but I'm jealous that Satoshi thinks of me so much."
+
+# 12e0e112
+; elf1: 「なっ！そ、そ、そうか？」
+elf1: "Oh! Oh, really?"
+
+# 43875f23
+; elf2: 「デレデレしないで、ささ、早く選ぶんだ！」
+elf2: "Don't be dreary, Sasa, pick quickly!"
+
+# 839704a2
+; elf1: 「あ、ああ、分かった。それじゃ……」
+elf1: "Oh, oh, I see.Then ……"
+
+# 646045c8
+; elf0: 「あっ，うん、引いて」
+elf0: "Oh, yes, pull it out."
+
+# 8b7a2ebe
+; elf1: 「こ、これにする！」
+elf1: "I'll take this one!"
+
+# fa8ed9eb
+; elf2: 「おお、引いた引いた」
+elf2: "Oh, I did."
+
+# 5afa0305
+; elf0: 「カードは……定位置の恋人たち」
+elf0: "The cards are …… lovers."
+
+# 48962aa9
+; これは、タロット占いか。
+Is this tarot fortune telling?
+
+# 3a86d58d
+; 男女グループで青春ごっこでもやってるのか。
+Man You're acting like you're in a girl group.
+
+# 6d653422
+; 男の子四人はみんな冴えない顔をしてて、なんとなくオタクっぽい。
+All four of Man's children have dull faces and are somewhat nerdy.
+
+# 6ca4be6
+; 男だけのグループに一人だけの女。これはまるでオタサーの姫だな。
+There is only one woman in a group of Man.This is like a princess of otasar.
+
+# 23400436
+; オタサーの姫で、名前が姫化……いかにもヒメなのだな。
+the princess of Otasar, whose name is …… Himeka.
+
+# a73baade
+; しかし俺の高校時代の記憶に、こんな人がいたのか。
+But I wonder if there was such a person in me's high school memory.
+
+# 615b9e47
+; 見覚えがないんだけど、ま、取り戻してみたらわかるだろう。
+I don't remember seeing it, but you'll find out when you get it back.
+
+# a3f487e4
+; それにしても……
+Even so, ……
+
+# c1831ea6
+; me: 「あの男ども、みんな似ていて、誰が誰なのか区別がつかない」
+me: "Those Mans are all alike, and I can't tell who is who."
+
+# 2ceb133c
+; yule: 「でもみんな名前はあったんですね。ずばりと{playerName}の本名が出たらそいつですね」
+yule: "But they all had names, didn't they?If {playerName}'s real name comes out, that's it."
+
+# 6da2f55f
+; me: 「ああ、でも俺も俺の本名は知らないからな」
+me: "Ah, but me doesn't know me's real name,"
+
+# 85217986
+; yule: 「もうちょっと見てみましょう」
+yule: "Let's take a closer look,"
+
+# 2446542d
+; elf0: 「ね、先からずっと立てていたら疲れるでそう？座ってよ。私もういいから」
+elf0: "Do you think you'll get tired if you keep standing up?"Sit down. I'm done."
+
+# 14088bf6
+; 「いや、いいんだ。悪いし」
+"No, that's all right.I'm sorry."
+
+# 1c1e80d4
+; elf0: 「ううん……なら、この椅子、半分こしよう？はい。わたしの隣どうぞ」
+elf0: "No, if it's ……, shall I take this chair half way? Yes, next to me, please."
+
+# 62bfba6a
+; elf4: 「い、い、いや、いいって」
+elf4: "No, no, no, no, no."
+
+# d5499a65
+; elf0: 「ふふ、遠慮しないで」
+elf0: "Huh, don't hesitate,"
+
+# e5e3fb38
+; elf3: 「お前は優しすぎるな。そこまでする必要はないのに」
+elf3: "You are too kind.You don't have to go that far."
+
+# 97a2a8d6
+; elf3: 「そうだよ」
+elf3: "Yes,"
+
+# 9a7d994b
+; 「でも……」
+"But ……,"
+
+# cb33062d
+; 「こいつもいいって言ってるじゃん！おい、お前は俺の椅子に座れよ。ボクがそっちで一緒に座りたい」
+`He says it's good, too!'Hey, sit in me's chair.I want to sit there with you."
+
+# 9296ecad
+; 「でもケンちゃんなんだか疲れてるみたいだし」
+"But Ken must be tired."
+
+# 50025ef0
+; me: 「とりあえず全員の名前は知ったな」
+me: "I know the names of all of them,"
+
+# a354d44
+; yule: 「どうですか？誰が昔の{playerName}か、わかりましたか？」
+yule: "What do you think? Do you know who used to be {playerName}?"
+
+# c468d4d2
+; me: 「ふむ……」
+me: "Well, ……,"
+
+# 3fda4f1c
+; 男子の四人もそれぞれに特性がわかって、区別がつくようになった。
+Man Each of the four children was distinguished by their own characteristics.
+
+# 13391270
+; しかし昔の俺と思われる人は特定できない。
+However, it is impossible to identify people who appear to be old me.
+
+# 373b095a
+; もうすこし見たらわかるかな。
+You'll find out if you look a little more.
+
+# b59bb874
+; ……そう色々と考えてたその時、
+…… When I was thinking about many things,
+
+# fc49b4e0
+; unknown: 「うん？誰だ？そこの！」
+unknown: "Huh? Who is it? Over there!"
+
+# 2cb279db
+; yule: 「うわっ！」
+yule: "Wow!"
+
+# f0d8af8a
+; me: 「なっ！？」
+me: "What!"
+
+# 4b939c73
+; yule: 「やばっ！」
+yule: "Damn it!"
+
+# e9b25078
+; エルフに見つかった！
+I found it in Elf found it!
+
+# 69729742
+; ど、どうしよう。
+What should I do?
+
+# 6967895d
+; また魔法に掛かってしまうのか？
+Are you going to be enchanted again?
+
+# 52b5c3eb
+; @choice "調子を見る" goto:.chousi
+@choice "See how it goes" goto:.chousi
+
+# ed280352
+; @choice "パンチを食らわす" goto:ed_6_04_3_punch
+@choice "Punch" goto:ed_6_04_3_punch
+
+# 7e0a5965
+; elf5: 「見ない顔だけど、お前ら、今来たのか？」
+elf5: "You don't look at me. Are you here now?"
+
+# e3819230
+; me: 「え？あ、う、うん」
+me: "What? Uh, uh, uh, uh, uh, uh, uh, uh,"
+
+# 8847008b
+; 俺が人間だと気づかないみたいだ。
+They don't seem to recognize me as a human being.
+
+# 487418ce
+; 助かった。
+That's a relief.
+
+# 8b039743
+; しかし、なぜか違和感を感じるが……[br]そしてユールちゃんはどこに？
+But for some reason, I feel uncomfortable with ……[br], and where is Yule?
+
+# d44dc425
+; elf5: 「エキストラの役が足りなくて困ったとこだったけど、助かったな」
+elf5: "I was in trouble because I didn't have enough extra roles, but I'm glad to hear that."
+
+# de3bad42
+; こいつは何を言ってるんだ。
+What is he talking about?
+
+# d648e3ea
+; yule: 「ふふふ、それは何よりです」
+yule: "Well, that's the most important thing,"
+
+# f0d8af8a
+; me: 「なっ！？」
+me: "What!"
+
+# 72103961
+; いつの間にか制服を着てるユールちゃん。
+Before I knew it, I was wearing a uniform Yule.
+
+# 6e1782a6
+; こいつ、結構似合うな。
+He looks good on you.
+
+# 3d112e45
+; elf5: 「おう、自分の役割には充実しろよ。端役も大事なんだ」
+elf5: "O, be faithful to your role.Partial roles are important, too."
+
+# f4acc63
+; yule: 「くすくす、わかってます」
+yule: "I know giggle,"
+
+# 4b62288e
+; 違和感の正体がわかった。
+I could see what the discomfort was.
+
+# fc3f56f4
+; いつの間にか俺も、制服を着てた。
+Before I knew it, me was wearing a uniform.
+
+# a7c46565
+; ユールちゃんがやってくれたのか。
+I wonder if Yule did it for me.
+
+# 2a340709
+; yule: 「あなたはどんな役？」
+yule: "What kind of role are you?"
+
+# bfb391b6
+; elf5: 「俺か？俺は通りがかりの男子生徒Eの役だ」
+elf5: "Is it me? me is the role of School BoyE on the way."
+
+# 2d51abad
+; yule: 「モブですね、くすくす」
+yule: "It's a mob, giggle."
+
+# c3a703e7
+; elf5: 「なっ、それはお前らもだろう？くそっ、次は主演やりたいよ。じゃなー」
+elf5: "Well, that's you, isn't it?"Damn, I want to star next time. Bye."
+
+# 294896ee
+; そう言って端役のエルフは去って行った。
+Then Elf, the minor actor, left.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 3abf430c
+; yule: 「危機一髪でしたね、くすくす」
+yule: "It was a close call, giggle,"
+
+# 7260efe1
+; me: 「これ、やっぱりユールちゃんが？」
+me: "Is this Yule?"
+
+# 1fe3c2e6
+; yule: 「はい。ユールちゃんの魔法も中々のもんでしょう？くすくす」
+yule: "Yes, the magic of Yule is very good, isn't it?" giggle."
+
+# 9304fac
+; me: 「……ああ、助かったよ」
+me: "…… "Oh, that's a relief,"
+
+# d342eaa3
+; そして俺はユールちゃんを眺めた。
+Then me looked at Yule.
+
+# b0c875ee
+; yule: 「あれれ？何ですか？じっと見つめて。[i]ユールちゃんの制服姿にムラっと来たんですか？くすくす」
+yule: "Huh? What is it?Look at me.[i]Did Yule's uniform make you feel dizzy?giggle"
+
+# dab7325
+; @choice "違う" goto:.no
+@choice "No" goto:.no
+
+# d021a64c
+; @choice "ああ" goto:ed_6_04_3_yuleschool
+@choice "Ah" goto:ed_6_04_3_yuleschool
+
+# c4ade70a
+; me: 「ち、違うわ。冗談はやめて、覗きの続きだ」
+me: "No, no. Stop joking and keep peeping."
+
+# 216d9c88
+; yule: 「くすくす、はい」
+yule: " giggle, yes,"

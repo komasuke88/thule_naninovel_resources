@@ -1,0 +1,205 @@
+; Japanese <ja> to English <en> localization document for `airplane` naninovel script
+
+# d896847e
+; me: 「ここは、なんだろう？」
+me: "What is this place?"
+
+# 3e5768f6
+; 駐車場もあって、人が集まっていた。
+There was also a parking lot, and people gathered.
+
+# a8a158ab
+; 旅行計画には入れてなかった場所だったけど、ちょっとだけ車を停めてみた。
+I didn't include it in my travel plans, but I parked my car for a while.
+
+# b7162e07
+; me: 「この道は……」
+me: "This road is ……,"
+
+# b5b67228
+; 先の見えない道に、人の群れが歩いていた。
+A group of people were walking on a blind road.
+
+# cccbf327
+; 果てしない黒い砂漠のような場所に、人の列。
+A line of people in an endless black desert.
+
+# a14552d5
+; なんとも変な気分だ。
+What a strange feeling.
+
+# fc56df38
+; いったいこの道はどこへと繋がってるんだ？
+Where on earth does this road lead to?
+
+# f5737b54
+; あの向こうになにがあるんだ？
+What's over there?
+
+# 4cbf4eec
+; me: 「地図を見てみるか」
+me: "Shall we look at the map?"
+
+# 91d3f00a
+; グー○ルマップを確認してみたら、この先は海だった。
+I checked the Goggle map and found out that the sea was ahead.
+
+# 63b8a0bb
+; me: 「うみ？」
+me: "Sea?"
+
+# 9c9035ac
+; なんだ？
+What's going on?
+
+# d37212d2
+; 気になるな。
+I'm curious.
+
+# 25e35de8
+; とりあえず人の群れが向かってる場所へ行ってみる事にした。
+I decided to go to the place where the crowd was heading.
+
+# 68bd7e56
+; me: 「はぁはぁ……」
+me: "Yes, ……,"
+
+# a042c0b6
+; 数十分も歩いたのに、未だに先が見えない。
+I've been walking for several tens of minutes, but I still can't see the future.
+
+# 1dd60f8e
+; 海なんてのも少しも見えない。
+I can't see the sea at all.
+
+# 669029f0
+; 後ろを見てみると、駐車場もよく見えないほど、結構歩いてきた。
+Looking behind me, I walked so far that I couldn't even see the parking lot.
+
+# b7981887
+; 遠くに、雪山だけが見える。
+I can only see snowy mountains in the distance.
+
+# a547fce3
+; me: 「ここが、中間地点くらいかな」
+me: "I think this is somewhere in the middle,"
+
+# cdfdeaa4
+; 歩くのがしんどくて引き下がりたかったけど、ここまで来たのがもったいなくて、最後まで歩いてみる事にした。
+I wanted to back down because it was hard to walk, but it was a waste to come this far, so I decided to walk to the end.
+
+# 3ea899f
+; ……
+……
+
+# 6a028dd5
+; me: 「おお？」
+me: "Oh?"
+
+# 8cfb0a8
+; 何かが見えてきた。
+I saw something.
+
+# f3e11741
+; me: 「飛行機？？」
+me: "Airplane?"
+
+# e90a7d06
+; なんでこんなところに、墜落した飛行機が……
+Why did the plane crash here ……
+
+# a83dc701
+; me: 「うーん」
+me: "Well,"
+
+# 70c4f71b
+; 気になるけど、ここにはなんの標識もないし、知るすべがない。
+I'm curious, but there's no sign here and there's no way to know.
+
+# 2a7faebe
+; ……ちょっと聞いてみるか。
+…… Let me ask you something.
+
+# ffac6211
+; me: 「Hello, Excuse me」
+me: "Hello, Excuse me"."
+
+# b74fbf0b
+; man: 「What?」
+man: "What?"
+
+# 39fbf728
+; 隣の人に、話かけてみた。
+I talked to the person next to me.
+
+# 3ea899f
+; ……
+……
+
+# 576c4802
+; me: 「なるほど。そんな場所か」
+me: "I see. That's the place,"
+
+# 2825aa06
+; 隣の男は意外と親切に、そして詳しく、この飛行機について教えてくれた。
+The neighboring Man told me about the plane unexpectedly kindly and in detail.
+
+# d6373ec3
+; 詳しすぎて、あの男の正体が気になったけど、もうどっかに行ってしまった。
+I was so familiar with it that I was curious about the true nature of Man, but I've already gone somewhere.
+
+# b7693b9d
+; 1973年11月21日。
+November 21, 1973.
+
+# d2cded6c
+; 北大西洋を飛行中だったアメリカ軍用飛行機ダグラスDC-3に、[br]原因不明の故障が発生。
+A Douglas DC-3 U.S. military aircraft flying across the North Atlantic has failed [br] for unknown reasons.
+
+# e01aac96
+; 近くにあったこのアイスランド南海岸の黒い砂漠に不時着した。
+I made an emergency landing in the black desert on the south coast of Iceland.
+
+# f076ccce
+; 幸いに乗ってた人は全員生き残れたらしいが、
+Fortunately, all the people on board survived.
+
+# 27fa6251
+; 飛行機は修理不可能で、こんなになった。
+The plane couldn't be repaired, so it turned out like this.
+
+# 25107178
+; だけど何故か、アイスランド政府はそれを撤去せず放置。
+However, for some reason, the Icelandic government did not remove it and left it unattended.
+
+# dbbd13cf
+; 飛行機の残骸はこのままずっとここに残されたという。
+The wreckage of the plane was reportedly left here forever.
+
+# 12eaff4c
+; me: 「取り残された、飛行機の残骸……」
+me: "The wreckage of the plane ……"
+
+# 641ce662
+; 今では観光名所で、わざわざここまできて、あのように写真撮ってる人が多い。
+Now it's a tourist attraction, and many people come all the way here and take pictures like that.
+
+# 69cfac65
+; 俺も結構写真撮った。
+I I also took a lot of pictures.
+
+# 44da6b7c
+; me: 「そろそろ戻るか。しかし……」
+me: "I'll be back soon.But ……"
+
+# 4143a24d
+; またあの道を歩かなきゃいけないのか。
+Do I have to walk that road again?
+
+# 873b89f1
+; しんどいな。
+I'm tired.
+
+# 7ccb88d6
+; me: 「頑張れ、俺」
+me: "Cheer up, me."

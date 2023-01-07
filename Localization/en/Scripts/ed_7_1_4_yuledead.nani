@@ -1,0 +1,289 @@
+; Japanese <ja> to English <en> localization document for `ed_7_1_4_yuledead` naninovel script
+
+# 7063dbcc
+; me: 「ユールちゃん！あぶない！」
+me: " Yule!Dangerous!"
+
+# f2173ac0
+; と、大声で叫んでみたけど……
+he cried out, but ……
+
+# d583cad4
+; yule: 「〜〜〜♫」
+yule: "〜〜〜♫"
+
+# 4825a272
+; ユールちゃんは何も聞こえてないみたいで、
+Yule seemed to hear nothing;
+
+# bc18715d
+; 何も知らずに歌い続け……
+…… singing without knowing anything
+
+# 21f3a4fc
+; yule: 「え？」
+yule: "What?"
+
+# 9e42c0f5
+; そのまま、胸元を刺されてしまった。
+I was stabbed in the chest.
+
+# b9aca87b
+; 倒れてしまったユールちゃん。
+Yule fell down.
+
+# 768ec6b2
+; me: 「ユールちゃん！！」
+me: " Yule!"
+
+# 3c5ecc7
+; 俺は急いでユールちゃんに駆け出した。
+I rushed to Yule.
+
+# ba260be1
+; unknown: 「これでおしまいです。この詠唱は一人でも抜けると失敗ですよ。ククク」
+unknown: "That's it.This chant will fail if even one person fails.Laughing."
+
+# d9e75fc3
+; me: 「くっ、きさま！！」
+me: "Damn it, my dear!"
+
+# 209e08e
+; 俺は男を睨み返し、男の追撃からユールちゃんを守ろうと抱きしめたけど……
+I glared back at Man and hugged her to protect her from Man's pursuit. ……
+
+# d15fe132
+; yule: 「くっ、ど、どういうこと？[i][char yule.n_anrgy_a_awawa]あ、あいつ……！？」
+yule: "Damn it, what do you mean?"[i][char yule.n_anrgy_a_awawa] Oh, he's ……!?"
+
+# 6d1eba22
+; 胸元に、長いナイフを刺された状態なのに、平気で起き上がった！
+I got up without a hitch even though I had a long knife stuck in my chest!
+
+# 383f2774
+; me: 「えっ？お、お前、だ、大丈夫なのか？」
+me: "What? Oh, it's you. Are you all right?"
+
+# e35bc892
+; yule: 「ま、ヨールのユールちゃんは無敵ですから。[i]心臓を貫かれたって、簡単には……[i][char yule.dot]あれ？」
+yule: "Well, Yule of Jol is invincible.[i]It's not easy to say it's pierced through the heart ……[i][char yule.dot] Huh?"
+
+# 53b70316
+; me: 「え？ユールちゃん？」
+me: "What? Yule?"
+
+# 99e6c5b6
+; 起き上がったユールちゃんは、また力なく、倒れてしまった。
+When Yule got up, he fell down again helplessly.
+
+# 96712310
+; unknown: 「ククク、無駄です。この刃は邪気をまとっていまして、いくらフルドゥフォルクでも、耐えられないのでしょう」
+unknown: "It's useless.This blade is clad in Evil Force, and no Huldufolk can bear it."
+
+# 41abf5e7
+; me: 「お、おい！ユールちゃん、しっかりしろ！」
+me: "Oh, hey! Yule, pull yourself together!"
+
+# e136ad04
+; ユールちゃんは、死んだ魚のようなうつろな目で、停止していた。
+Yule had stopped with eyes as hollow as a dead fish.
+
+# 6e55a8e7
+; unknown: 「せっかくですので、そこのあなたも、死んでもらいましょう」
+unknown: "I'm sorry to trouble you, and I said."
+
+# e18c3770
+; 振り返てみると、男は懐から拳銃を取り出していた。
+Looking back, Man had taken a pistol out of his pocket.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 1d67f103
+; くそっ……
+Damn ……
+
+# daf8e0e7
+; こいついつの間にか離れた場所に立ってやがる。
+He's standing far away.
+
+# 36e1ad9a
+; この距離では反撃も難しい。
+It is difficult to counterattack at this distance.
+
+# 45fa7db1
+; unknown: 「人間など、銃で十分。では、さらば！」
+unknown: "Human beings, guns are enough.Good-bye, then!"
+
+# e6d25da0
+; me: 「くっ……」
+me: "Damn ……,"
+
+# 9030cc
+; あまりに悲しくて、自分の死などもどうでもよかったけれど、
+I was so sad that I couldn't care less about my own death.
+
+# 93085935
+; せめてユールちゃんと、もう少し……
+At least Yule and a little more ……
+
+# 60b58d82
+; yule: 「っ！」
+yule: "Huh!"
+
+# e6caddb9
+; unknown: 「ぐぁ！」
+unknown: "`Oh!'"
+
+# 46a5aa48
+; me: 「えっ……」
+me: "What ……,"
+
+# 7705b33e
+; 銃は、撃たれなかった。
+The gun was not shot.
+
+# c45c51f1
+; 俺に銃を向けていた男のほうが倒れたからだ。
+for Man, who was pointing his gun at him, fell.
+
+# c2dde8ab
+; yule: 「はぁ、はぁ……」
+yule: "Yes, yes, ……,"
+
+# 4951c84d
+; me: 「ユールちゃん！」
+me: " Yule!"
+
+# afbbad24
+; ユールちゃんが、倒れたままスプーンを出していた。
+Yule had fallen and had Spoon out.
+
+# 734be1f8
+; ユールちゃんが助けてくれたのか。
+Did Yule help you?
+
+# 289625bc
+; しかし、感謝の言葉よりも、まずユールちゃんのほうが心配だった。
+But I was more worried about Yule than about thanking her.
+
+# 59bee00c
+; me: 「ユールちゃん？？……気をつけたのか！？」
+me: "Are you careful Yule? ……?"
+
+# a21a8a64
+; yule: 「……{playerName}、無事でよかった。どうか、{playerName}だけでも、生き延びて……」
+yule: "I'm glad ……{playerName} is safe.Please, {playerName} alone, survive and ……."
+
+# 689569c1
+; me: 「えっ！？ユールちゃん？？……おい！ユールちゃんってば！？」
+me: "What!? Yule? …… Hey! Yule?"
+
+# 9138a6af
+; しかしいくら呼びかけるところで、ユールちゃんはなんの反応もなかった。
+But no matter how much he called out, Yule received no response.
+
+# e79d22c5
+; me: 「ど、どうしよう！！うぅぅ……」
+me: "Oh, my God!Oh, ……,"
+
+# 86c1199d
+; 倒れたユールちゃんは、あの時のように、体が透明になっていった。
+The fallen Yule became as transparent as it was then.
+
+# 1b84cc3c
+; me: 「そ、そうだ。他の姉妹たちに助けを……」
+me: "Oh, yes, …… help to the other sisters."
+
+# 5b140574
+; 俺は透明になり掛かってるユールちゃんを抱き上げて、他の姉妹を探しに行こうとした。
+I picked up Yule, who was about to become transparent, and tried to find the other sisters.
+
+# db1a37e5
+; でもその時、
+But at that time,
+
+# 8f5ec591
+; me: 「うん？え！？[i]
+me: "Huh? Huh!? [i]
+
+# 56d9856
+; う、うわぁぁ！！」
+Oh, my God!"
+
+# 409a534c
+; 突然んと、
+Suddenly,
+
+# 9dc47239
+; どこからか水が湧いてきた。
+Water came from somewhere.
+
+# ee8cf9c6
+; 海水。
+seawater.
+
+# 676e0ac4
+; 俺は、溺れてしまった。
+I drowned.
+
+# 4e4e7cef
+; 呼吸ができない中、どういう事かと慌ててたんだけど、
+I couldn't breathe, so I was in a hurry.
+
+# cf262923
+; 次の瞬間には、すべてを理解してしまった。
+The next moment I understood everything.
+
+# 9d9662d
+; そうか。
+Really。
+
+# 414eed1a
+; 神が、復活したんだ。
+God is back.
+
+# 305400eb
+; 魔法陣が、発動したのだな。
+The Magic Circle but it was activated.
+
+# 912f5149
+; ユールちゃんと俺だけじゃなく、
+Not just me and Yule.
+
+# ddcce123
+; １３姉妹も、エルフも、ドワーフも……
+Thirteen sisters, Elf, Dwarf ……
+
+# ca9bdd10
+; すべてのフルドゥフォルク、すべての人間……
+All Huldufolk, all human ……
+
+# e705de3f
+; 全員、消えてしまうんだ。
+They're all gone.
+
+# f8294468
+; そしてみんな、神の一部になるんだよ。
+And they all become part of God.
+
+# 38a7b3ab
+; いあ！いあ！いあ！
+Hey! Hey! Hey!
+
+# ed26b462
+; 俺は、喜びに満ちで、最後にこう言った。
+me, full of joy, said at last,
+
+# 1f5d973a
+; <s>　　　　　　　　　　　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。
+<s>              </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>.
+
+# 146e6f20
+; 消えていく沢山の命に手向けを、
+I put my hands on the many lives that are disappearing.
+
+# 2bd86948
+; そして新たなる <ruby="神"> 一</ruby>つの生命に、祝福を。
+And bless the new <ruby="God">one</ruby> life.

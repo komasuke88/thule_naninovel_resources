@@ -1,0 +1,177 @@
+; Japanese <ja> to English <en> localization document for `6_04_1_school` naninovel script
+
+# 3ea899f
+; ……
+……
+
+# 921b474c
+; 気がついたら俺たちは、建物の中だ。
+The mes found themselves in the our were in the building.
+
+# 69e1df1a
+; 先までの異国の風景ではない、故郷の風景だった。
+It wasn't a foreign landscape, it was a home landscape.
+
+# 821cc580
+; me: 「……ここは……」
+me: " …… This is ……."
+
+# 7ad4ab46
+; 俺は今、建物の中に倒れてる。
+I is lying in the building.
+
+# 5782bf09
+; me: 「何でクレバスの中にこんなものが？」
+me: "Why is there such a thing in crevasse?"
+
+# debbbb32
+; yule: 「……あっ、え、えるふ……ふぅん」
+yule: "…… "Oh, well, Elf...... Phewheezing."
+
+# d8a3c291
+; うん？
+Yup?
+
+# a05e81df
+; そういえば、ユールちゃんは？
+Come to think of it, what about Yule?
+
+# 510ed08f
+; 声の調子がおかしいけど、大丈夫か。
+My voice sounds weird. Are you okay?
+
+# cf611601
+; yule: 「……あん♡やだ、{playerName}ってば、あっ…ん…」
+yule: "I don't like ……an ♡, {playerName}, oh...."
+
+# 6cf466cf
+; ……って！俺の下だった！
+……! It was under me!
+
+# 554301e7
+; 俺は倒れたユールちゃんの上に乗りかかっていた。
+I was on top of the fallen Yule.
+
+# 6075de15
+; しかも何で俺はユールちゃんのおっぱいを掴んでるんだ？
+Why is me holding Yule's breast?
+
+# ca32d3ef
+; yule: 「……ふぅぅんっ♡」
+yule: "` …… Whoo♡'"
+
+# 242630f0
+; なんてこった。
+Oh, my God.
+
+# 4f4722bf
+; こんなラッキスケベがあっていいものか？
+Would it be nice to have such a ruckuskebe?
+
+# 711e10de
+; @choice "だめだ" goto:.dame
+@choice "No way" goto:.dame
+
+# 5139706a
+; @choice "いいぞもっとやれ俺" goto:ed_6_04_1_yuleoppai
+@choice "Good, do more me" goto:ed_6_04_1_yuleoppai
+
+# e0f63b33
+; me: 「なっ！す、すまん！」
+me: "Oh! I'm sorry!"
+
+# 208211d9
+; 慌てて手を離した。
+I let go of my hand in a hurry.
+
+# 7cbd44d0
+; yule: 「……ぅぅえ？えっ」
+yule: "`What ……? What?'"
+
+# eec40b4b
+; 起き上がって、ユールちゃんから離れる。
+Get up and get away from Yule.
+
+# 80d438cd
+; yule: 「……ふぅぅ」
+yule: "` …… Phew,'"
+
+# 43e64ae3
+; me: 「お、落ちてくる時に慌てて……ごめんな」
+me: "Oh, I'm sorry …… in a hurry when it falls."
+
+# fd010456
+; yule: 「い、いいえ。[i][char yule.l-dere2]……{playerName}って、童貞のくせにやりますね」
+yule: "No, no. [i] [char yule.l-dere2] ……{playerName}, you're a little girl."
+
+# e58a85da
+; こいつ、下ネタ好きなくせに、攻めには弱いんだな。
+He likes dirty jokes, but he's not good at attacking.
+
+# d1c698ee
+; しばらく周りを見てみて、ここがどこなのかわかった。
+After looking around for a while, I knew where I was.
+
+# 41337322
+; me: 「……学校……？」
+me: "Is …… school ……?"
+
+# 9fb2ad67
+; 俺たちは教室の外、廊下にいるのだ。
+I they were outside the classroom, in the hallway.
+
+# 5a1d6746
+; yule: 「{playerName}の記憶をもとに作られた空間だと思います。見覚えないですか？」
+yule: "I think it was created based on the memory of {playerName}.Don't you remember?"
+
+# b625280c
+; me: 「そう、かな？……見覚えは、ない」
+me: "Is that so? I don't remember seeing ……."
+
+# 9b1f07a7
+; yule: 「記憶にないですか？」
+yule: "Don't you remember?"
+
+# e66ef08c
+; me: 「ああ、記憶がないせいかな。[i]でも俺の故郷の風景ってことは間違いないと思う。[i]ここは高校だ」
+me: "Oh, maybe it's because I don't remember.[i]But I'm sure it's the scenery of me's hometown.[i]I'm in high school."
+
+# c1e7f1c9
+; yule: 「{playerName}が日本で通っていた高校ってわけですね。[i]間違いなく、ここが今回のエルフの隠れ家、幻想空間ですね」
+yule: "That means {playerName} went to a high school in Japan.[i]Without a doubt, this is the place where Elf is hidden and fantastic."
+
+# 4103fd75
+; me: 「幻想空間か。確かに。氷河の中でこんな日差しはありえない」
+me: "Fantastic space, I'm sure.There can't be this kind of sunshine in the glacier."
+
+# 4db6f0f4
+; yule: 「ここならユールちゃんたちが来れないと思ったんでしょうけど、誤算でしたね。エルフめ」
+yule: "You must have thought that Yule wouldn't be able to come here, but it was a miscalculation.Elf You know what?"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 66ae3b8c
+; 高校の風景。
+the scenery of high school scenery of high school.
+
+# b9a01356
+; 見覚えはないけど、懐かしい風景だった。
+I don't remember seeing it, but it was a nostalgic landscape.
+
+# 1d1f3686
+; しかし、氷河の真ん中に作られた幻想空間か。
+But is it a fantasy space built in the middle of the glacier?
+
+# 28395b87
+; また不思議な体験ができそうで、ちょっと楽しい気分になった。
+I felt like I could have a strange experience again, and it made me feel a little happy.
+
+# d9c2c782
+; me: 「これから、俺の高校時代からのすべての記憶を取り戻すんだな」
+me: "You're going to get all the memories of me from high school."
+
+# 54a63990
+; yule: 「はい。でもまずは状況を知る必要がありますから、中の調子を見てみましょう」
+yule: "Yes, but we need to know the situation first, so let's see what's going on inside."

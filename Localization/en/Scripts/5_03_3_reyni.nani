@@ -1,0 +1,341 @@
+; Japanese <ja> to English <en> localization document for `5_03_3_reyni` naninovel script
+
+# c697da7b
+; 一歩一歩も難しい、強い海風を突き抜けて歩く。
+Walk through the difficult sea breeze.
+
+# 1ae72978
+; 寒さで赤くなった頬に、風の砂が当たって痛かった。
+The wind sand hit my cheeks red with cold and it hurt.
+
+# 4b95ef21
+; ポケットの中には、風が運んでる黒い砂がいっぱい積んでいた。
+In his pocket was a load of black sand carried by the wind.
+
+# e172b710
+; そろそろキツいなと思った時、
+When I thought it was going to be tough,
+
+# d66103b9
+; 浜辺の最果てと思われる場所に到着した。
+I arrived at what seemed to be the end of the beach.
+
+# 8dae12f5
+; yule: 「見つけました！」
+yule: "I found it!"
+
+# 9d295c2e
+; me: 「なに？エルフを？」
+me: "What? Elf?"
+
+# 157ab099
+; yule: 「いいえ。ご先祖様です。[i]エルフの居場所について、聞き込みするために来たんです」
+yule: "No, it's our ancestors.[i]I came here to inquire about Elf's whereabouts."
+
+# ced7c19e
+; me: 「……ご先祖様？？」
+me: "…… Your ancestors?"
+
+# 597e8683
+; yule: 「あそこにいらっしゃいますよ」
+yule: "There he is,"
+
+# dc82042
+; <ruby="レイニスドランガル"> Reynisdrangar </ruby>。
+<ruby=" Reynisdrangar">Reynisdrangar</ruby>.
+
+# a31edff
+; 黒に覆い尽くされたモノクロの浜辺で。
+on a black-and-white beach.
+
+# 18e14686
+; 原住民のような、海に突っ立ってる巨大な石柱が、目を奪う。
+A huge stone pillar standing in the sea, like a native, catches the eye.
+
+# 16589148
+; アイスランドの伝説によると、あの石柱は石化されたトロール。
+According to an Icelandic legend, that stone pillar was petrified Troll.
+
+# e82119c
+; トロールは、太陽の光を浴びると岩になってしまうという。
+Troll is said to turn into a rock when exposed to sunlight.
+
+# 76240c37
+; 二人のトロールが、３本のマストの船を岸に引き寄せようとしたとき、
+When the two Troll were drawing the three mast ships ashore,
+
+# 11637f0
+; うっかり時間を忘れてしまい、太陽が昇ってしまった。
+I accidentally forgot the time and the sun rose.
+
+# 297e6178
+; 太陽の光を浴びてしまった二人のトロールは、
+The two Troll, who had been exposed to the sun,
+
+# c3dd9ab8
+; 今でもあの時の姿のままで、この海岸を突き立ってる。
+I'm still standing on this beach as I was then.
+
+# 1702e4e5
+; あの二人が、ユールちゃんのご先祖様だったらしい。
+Those two seem to have been ancestors of Yule.
+
+# 4186e234
+; ……と、ユールちゃんが説明してくれた。
+…… explained Yule.
+
+# ea937da0
+; me: 「トロールが、ご先祖様なのか？」
+me: "Is Troll your ancestor?"
+
+# fe6b5629
+; yule: 「はい。ユールちゃんも、トロールですもん」
+yule: "Yes, Yule is Troll, too."
+
+# ba4615bd
+; me: 「と、トロール？？」
+me: "And Troll???"
+
+# e00f6259
+; yule: 「ま、驚く事も無理ありません。[i][char yule.n_sad_close_hehe]こんなにかわいいですもんね、くすくす」
+yule: "Well, it's not surprising.[i][char yule.n_sad_close_hehe] It's so cute, giggle"
+
+# 8d563641
+; me: 「いや、そんな事はどうでもいいが……」
+me: "No, I don't care about that, ……,"
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# 3ffa95fe
+; me: 「エルフとかトロールとか、まだしっくり来ない話しだ」
+me: "It doesn't suit Elf or Troll yet,"
+
+# 365cf02a
+; yule: 「……あ、えっと、[i][char yule.l-kusu]ほら、このユールちゃんの耳。[i]普通の人間とは違うと思いませんか？」
+yule: "…… Oh, well, [i] [char yule.l-kusu] Look, this Yule ear.[i]Don't you think it's different from ordinary people?"
+
+# 2109cd3a
+; me: 「耳？」
+me: "Ears?"
+
+# f9f18c2b
+; yule: 「……ほらほら」
+yule: "…… "Here you go,"
+
+# 373f69cf
+; ユールちゃんは俺に近づいて、自分の横顔を俺へと突き出した。
+Yule approached me and thrust his profile into me.
+
+# 24df388e
+; me: 「……お……」
+me: " ……o ……,"
+
+# 431410ad
+; ユールちゃんをよくみたら、本当に、耳が尖っていた。
+When I looked closely at Yule, my ears were really sharp.
+
+# 9d7204b0
+; 何で今まで気にしなかったんだろう。
+Why didn't I care?
+
+# b2c24d3c
+; yule: 「人間世界に行った時は魔法で目眩ししてたんですけど、本来はこうなんです」
+yule: "When I went to the human world, I was dazzled by magic, but it was like this."
+
+# c0cc1bd6
+; me: 「……こ、これ、作り物ではなく、本物の耳？」
+me: "Is this a real ear, not a fake one?"
+
+# 6741b99d
+; yule: 「そうですって。触ってみてもいいですよ？」
+yule: "Yes, sir.May I touch it?"
+
+# b3b27515
+; me: 「……で、では……」
+me: "Now, ……,"
+
+# 5323bbbc
+; 指先で、ユールちゃんの耳の先んちょを、そっと触ってみた。
+I gently touched the tip of Yule's ear with my fingertips.
+
+# 3cfcefd2
+; yule: 「ひゃん！」
+yule: "Oh, my God!"
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# b8547847
+; ちょっとだけ触ったけど、変な声だすから驚いたな。
+I touched it a little, but I was surprised to hear a strange voice.
+
+# f55a96fe
+; それにしても、柔らかいな。
+But it's soft.
+
+# bb2b275c
+; ちょっとだけドキッとした。
+I was a little surprised.
+
+# b2beef6a
+; yule: 「み、耳は敏感ですので」
+yule: "My ears are sensitive"."
+
+# 3a332d1a
+; me: 「お、お前が触れって言ったろう」
+me: "Oh, you told me to touch it,"
+
+# 12fc606
+; yule: 「はい……いいです。[i]もっと沢山触ってもいいですよ？ふぅぅ」
+yule: "Yes, …… is good.[i]Can I touch more?Whooooooooooooooooooooooooooooooooooo!"
+
+# 74f20d8c
+; me: 「いや、もういいが」
+me: "No, that's enough,"
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# 6237aca5
+; me: 「でも本物だって事はわかった」
+me: "But I knew it was real,"
+
+# f94128cb
+; yule: 「でしょう？」
+yule: "Right?"
+
+# 46507534
+; me: 「でもそっか。[i]この耳の形。確かにエルフだな」
+me: "But I see. [i] The shape of this ear shape.Elf indeed."
+
+# a2555410
+; yule: 「エルフではないのです！トロールです！」
+yule: "`Not Elf!'Troll!"
+
+# c94dee6e
+; me: 「あ、そう？」
+me: "Oh, really?"
+
+# 5c8de8e1
+; yule: 「確かに耳とか、エルフと似たような特性はあります。[i][char yule.huuu]全てのフルドゥフォルクの源流はハイエルフですので。[i][char yule.kum]だけど、トロールです！」
+yule: "It certainly has similar characteristics to ears and Elf.[i][char yule.huuu] The origin of all Huldufolk is High Elf.[i][char yule.kum] But it's Troll!"
+
+# e1916fb5
+; me: 「そ、そう……わかった」
+me: "Yes, …… I see,"
+
+# 999edc38
+; yule: 「……ま、フルドゥフォルクの話は、後でじっくりと説明してあげますよ」
+yule: "I'll explain Huldufolk's story to you later,"
+
+# 8ff417ec
+; me: 「あ、ああ……」
+me: "Oh, oh, ……,"
+
+# b022c94f
+; しかし、ユールちゃんがトロールだって事は……
+But Yule is Troll, which means …….
+
+# 2491b1c0
+; 先のトロールについでの話が、ふいに浮かんだ。
+The story that followed Troll suddenly occurred to me.
+
+# 7714b427
+; me: 「ゆ、ユールちゃんは大丈夫なの？」
+me: "Yu, is Yule all right?"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 4646f8d6
+; me: 「太陽の光を浴びると、岩になるんじゃないか？」
+me: "Doesn't the sun make you a rock?"
+
+# 54b95fb
+; yule: 「それですね。よく気づきましたね」
+yule: "That's right. You've noticed it well."
+
+# baf80f1d
+; me: 「今は昼なんだけど、ユールちゃんは大丈夫そうだな」
+me: "It's noon now, and Yule seems to be all right."
+
+# f2b99615
+; yule: 「ユールちゃんみたいな小さなトロールは、このくらい太陽の光なら、魔力でなんとか防げますよ」
+yule: "A little Troll like Yule can be prevented with such sunlight."
+
+# b169c5e0
+; me: 「ま、魔力？」
+me: "Well, Magical Power?"
+
+# 630cd01b
+; yule: 「多くのフルドゥフォルクは、魔法が使えるんですよ」
+yule: "Many Huldufolks can use magic."
+
+# 223ca711
+; me: 「そ、そうか……」
+me: "Well, ……,"
+
+# 2c9d4936
+; 先から変な事が起こり続けてたから、魔法の話しを聞いても『そっか』と納得してしまう。
+Strange things have been happening for a long time, so I understand that 『 or 』 even when I hear the magic story.
+
+# 762f2595
+; me: 「しかし太陽の光を防ぐ魔力とか、[i]日焼け止めみたいだな」
+me: "But it's like Magical Power to keep out the sun, or [i] sunscreen."
+
+# 3c01cdb2
+; yule: 「くすくす、そうですね。[i][char yule.huuu]ま、最近その日焼け止めが徐々に弱くなっていて困ってますけどね。[i][char yule.yoko_anrgy_close_hehe]ま、とりあえず今は大丈夫ですから！」
+yule: "Yes, giggle.[i][char yule.huuu] Well, the sunscreen is getting weaker these days.[i][char yule.yoko_anrgy_close_hehe] Well, I'm fine now!"
+
+# ab8aaca0
+; me: 「そっか。ま、大丈夫ならいいが……」
+me: "Well, I hope it's all right, ……."
+
+# 4eb7d26b
+; yule: 「それではユールちゃんは、ちょっとご先祖様と相談をしてきます」
+yule: "Then Yule will consult with her ancestors for a moment."
+
+# 4592e824
+; そしてユールちゃんは、俺から離れて岩の方へ走った。
+Then Yule ran away from me towards the rock.
+
+# 8ff417ec
+; me: 「あ、ああ……」
+me: "Oh, oh, ……,"
+
+# 304a91fd
+; そういや、エルフの居場所について聞き込みするために来たんだって言ったな。
+by the way I told you that I came to inquire about Elf's whereabouts.
+
+# 7657e1df
+; me: 「……あれがトロールね。……って、うわあ！」
+me: "That's Troll, ……, wow!"
+
+# a100701b
+; ゴゴゴゴゴゴゴゴゴゴゴゴ
+crumpled
+
+# 590f7594
+; いきなり、地面が揺れた。
+Suddenly, the ground shook.
+
+# c2104d
+; 地震？？
+Earthquake???
+
+# 62ea07dc
+; い、いや。
+Yes, no.
+
+# 972d1e4b
+; これは……ちょっと違う。
+This is a bit different …….
+
+# 1150b16b
+; あの岩が、[i]動く音だ！
+[i] That rock is moving!

@@ -1,0 +1,257 @@
+; Japanese <ja> to English <en> localization document for `5_03_4_reynitroll` naninovel script
+
+# 662a54ed
+; yule: 「グレリヨール！ご先祖様、今日も素敵です」
+yule: " Glediyol! Your ancestors look great today, too."
+
+# 24a0a11b
+; troll1: 「…………！」
+troll1: "…………！"
+
+# b8a03cce
+; yule: 「はい。お久しぶり…[i][char yule.dot]って、なんか衰弱してますね、ご先祖様」
+yule: "Yes, it's been a while... [i] [char yule.dot] You're kind of weak, old man."
+
+# 43a8670a
+; troll1: 「<s>　　　　　　　　　　　　</s>」
+troll1: "<s></s>"
+
+# ec66185a
+; yule: 「え？そういや、最近、南のエルフとか、海の民が、色々とおかしくなってましたね。ご先祖様は大丈夫ですか？」
+yule: "What? by the way, Elf in the south, and the people of the sea have gone crazy.Are your ancestors all right?"
+
+# 6599aa85
+; troll2: 「<s>　　　　　　　　</s>！！」
+troll2: "<s></s>!"
+
+# 34404924
+; yule: 「はい。ご先祖様の事だから、そんな心配は無用だとはわかってますが。……はい。気にしません」
+yule: "Yes, I know you don't have to worry about your ancestors. …… Yes, I don't care."
+
+# 43a8670a
+; troll1: 「<s>　　　　　　　　　　　　</s>」
+troll1: "<s></s>"
+
+# bbe50c5c
+; yule: 「え、お母さん？はい。元気です。また大きくなりました。[i]……あ、そういえば、おかしな事があったんです」
+yule: "Oh, Mom? Yes, I'm fine.It's grown up again.[i]…… Oh, come to think of it, something strange happened."
+
+# 7bf94e9
+; troll2: 「<s>　　　　</s>？」
+troll2: "<s></s>?"
+
+# cb0c8173
+; yule: 「どうやってか知らないけどお母さん、いきなり人間の世界に現れては消えたんです。[i]いったい何があったのか知ってます？」
+yule: "I don't know how, but my mother suddenly appeared in the human world and disappeared.[i]Do you know what happened?"
+
+# 5080a830
+; troll2: 「<s>　　　　　　　　　　　　　　　　　　　　　　</s>」
+troll2: "<s></s>"
+
+# 7c400dc4
+; yule: 「そうですか。それはご先祖様もご存知ないと……」
+yule: "I see. Your ancestors don't know that, ……."
+
+# 90e62d57
+; troll1: 「<s>　　　　</s>？」
+troll1: "<s></s>?"
+
+# ee74af2f
+; yule: 「あ、いいえ。用事は他にあります。[i][char yule.default]今日はですね。記憶泥棒のエルフの行方を尋ねにですね」
+yule: "Oh, no. I have something else to do.[i][char yule.default]To-day, to inquire about the whereabouts of Elf, a memory thief."
+
+# c313926c
+; troll2: 「<s>　　　　　　　　　　</s>？」
+troll2: "<s></s>?"
+
+# 44f75ade
+; yule: 「え？あ、はい。あの人間の記憶です」
+yule: "What? Oh, yes. It's his memory."
+
+# 806f05b1
+; troll1: 「<s>　　　　　　　　　　　　</s>～」
+troll1: "<s></s>~"
+
+# 87fef1ca
+; yule: 「えっ？いいえ。違います。あの人間は食べませんよ」
+yule: "What? No.No, he doesn't eat it."
+
+# 7fee9a72
+; troll2: 「<s>　　　　　　　　　　</s>～～」
+troll2: "<s></s>~"
+
+# fad40c9f
+; yule: 「いや、そんなことは……」
+yule: "No, that's ……,"
+
+# d0cb3726
+; troll2: 「<s>　　　　　　　　</s>～～」
+troll2: "<s></s>~"
+
+# 25179c3f
+; yule: 「そ、そんな。もう、ご先祖様ったら。くすくす」
+yule: "Oh, well, my ancestors, giggle."
+
+# 30802102
+; troll1: 「<s>　　　　　　　　　　　　</s>……」
+troll1: "<s></s> ……"
+
+# 46a53585
+; yule: 「……はい。そういう意味では、食べたいかも……くすくす」
+yule: "…… Yes, in that sense, you might want to eat ……giggle."
+
+# c533a72f
+; troll2: 「———」
+troll2: "———"
+
+# 7b0f7e70
+; yule: 「うん？あ、エルフを見ましたか？……流石にご先祖様です」
+yule: "Huh? Oh, did you see Elf?…… As expected, they are our ancestors."
+
+# 43a8670a
+; troll1: 「<s>　　　　　　　　　　　　</s>」
+troll1: "<s></s>"
+
+# 24b33356
+; yule: 「うん？あ、あっちですね。なるほど。わかりました。セルフォスの辺りか……」
+yule: "Huh? Oh, that way.I see. I see.Around Celfos or ……"
+
+# 48101450
+; troll2: 「<s>　　　　</s>」
+troll2: "<s></s>"
+
+# a5e791cb
+; yule: 「あ、ああ。はい。ありがとうございます」
+yule: "Oh, yes. Thank you."
+
+# a5fdae19
+; troll1: 「———！」
+troll1: "———！"
+
+# cd745f36
+; troll2: 「<s>　　　　　　</s>！」
+troll2: "<s></s>!"
+
+# d1f34702
+; yule: 「では、また来ますね。どうかお安らかに」
+yule: "Well, I'll be back.Please rest in peace."
+
+# fb6175be
+; ゴゴゴゴゴ
+rumbling
+
+# c869f362
+; yule: 「{playerName}の記憶を盗んだエルフの位置がわかりましたよ！」
+yule: "Now I know where Elf stole the memory of {playerName}!"
+
+# 38d09001
+; me: 「おおぅ……」
+me: "`Oh, ……,'"
+
+# 3536491b
+; ユールちゃんが戻ると、岩の動きも、揺れも止まった。
+When Yule returned, the rock stopped moving and shaking.
+
+# 2464e46d
+; 動く岩が少し怖かったので、止まってよかった。
+I was a little scared of moving rocks, so I'm glad it stopped.
+
+# c7b07dee
+; me: 「では、記憶を取り戻せるのだな」
+me: "Then you can get your memory back,"
+
+# ca6fca02
+; 記憶を盗むとか、よく理解できないけど、
+I don't understand how to steal memories.
+
+# 89200bf0
+; とりあえずなんとかなりそうだから、喜んだ。
+I was glad that I could manage it for now.
+
+# 101274f7
+; yule: 「はい。[i]でも少し遠いので、近道で行きましょう」
+yule: "Yes. [i] But it's a little far, so let's take a shortcut."
+
+# c49db7f5
+; me: 「近道？」
+me: "A shortcut?"
+
+# 515d69c9
+; yule: 「こっちです」
+yule: "This way,"
+
+# 39c479da
+; そしてユールちゃんは、浜辺の隣にある洞窟へと向かった。
+Then Yule headed for the cave next to the beach.
+
+# f5c5ae0d
+; me: 「ああ、近道って、洞窟の中を通って行くの……って？」
+me: "Oh, the shortcut, …… through the cave?"
+
+# 9f77f4f5
+; しかし洞窟の中は、閉ざされていた。
+But the cave was closed.
+
+# d2780d22
+; どこにも続いていない。
+It doesn't continue anywhere.
+
+# 5be6af83
+; me: 「い、行き止まりだけど？」
+me: "Yes, it's a dead end?"
+
+# b2200f7d
+; yule: 「くすくす、道ならありますよ。{playerName}には見えないでしょうけど。[i][char yule.l-kusu]ささ、手をとって」
+yule: "There's a road, giggle, though it doesn't look like {playerName}.[i][char yule.l-kusu] Hold your hand."
+
+# ceb24999
+; ユールちゃんはまた俺に近づいて、手をとった。
+Yule approached me again and took her hand.
+
+# 66d3f3a4
+; yule: 「さて、行きますよー」
+yule: "Here we go,"
+
+# a229fa8e
+; ユールちゃんは俺を引っ張って、全速力で走った。
+Yule pulled me and ran at full speed.
+
+# 56b1cec3
+; 行き止まりの壁に向かって！
+Toward the dead end wall!
+
+# d4426c53
+; me: 「いや、ちょっと、あそこは岩で塞がれて、あ、頭ぶつかる？
+me: "No, wait a minute, it's blocked by rocks, oh, hit my head?"
+
+# b4e4ce9c
+; うわっ！？……あれ？」
+What!? …… Is that it?"
+
+# afd368e3
+; 壁にぶつかると思ったけど、何もなかった。
+I thought I was going to run into a wall, but nothing happened.
+
+# 891077c
+; 代わりに、暗闇になった。
+Instead, it became dark.
+
+# addd9d8c
+; 今の位置から考えるに、
+From this point of view,
+
+# 67b12345
+; 俺たちは、岩を通過したのだ。
+I they had passed through the rock.
+
+# fe9c064
+; そして……
+And ……
+
+# b14ad800
+; me: 「うわあぁぁぁあ」
+me: "Oh, my God said."
+
+# f8f0b1e5
+; 俺は、深い闇の底へと飲み込まれて行った。
+I was swallowed up into the depths of darkness.

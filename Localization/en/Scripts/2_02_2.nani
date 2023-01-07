@@ -1,0 +1,373 @@
+; Japanese <ja> to English <en> localization document for `2_02_2` naninovel script
+
+# 3ea899f
+; ……
+……
+
+# 20d375ab
+; hime: 「恐ろしい風だったわね」
+hime: "It was a dreadful wind,"
+
+# 5476dbdc
+; me: 「アイスランドは常に風が強いって聞いたけど、実感できたよ」
+me: "I heard that Iceland is always windy, but I could feel it."
+
+# ffcd7b6e
+; hime: 「アイスランドって、これが普通なんだ」
+hime: "This is the norm in Iceland."
+
+# 670aefe2
+; me: 「うん。だから強風注意報でも出る時などはもう、運転もできないんだと」
+me: "Yeah. That's why I can't drive when I get a strong wind warning."
+
+# 23dcc80d
+; hime: 「車が吹き飛ばされたりするのかな？」
+hime: "Does the car get blown away?"
+
+# 4e8b00cc
+; me: 「ああ、稀に車がひっくり返される事もあるんだと聞いた」
+me: "Oh, I've heard that cars can be overturned in rare cases."
+
+# fbfbb6
+; hime: 「え、ホントに？」
+hime: "Really?"
+
+# b9ee31d3
+; me: 「うん。そんな時には絶対遠出しちゃ駄目だな」
+me: "Yeah. You should never go out in such a case."
+
+# 95ccd7c7
+; hime: 「こわいね！[i]運転しなくてよかった」
+hime: "I'm scared! [i] I'm glad I didn't drive."
+
+# 7ce3e3b1
+; me: 「ま、それでもアイスランド旅行には、車が一番だけどね」
+me: "Well, a car is the best way to travel to Iceland."
+
+# 34eaaa17
+; hime: 「そう？」
+hime: "Is that so?"
+
+# bbfbde39
+; me: 「ここには電車もないし、バスもそんなに多くないからな」
+me: "There aren't many trains here, and there aren't so many buss."
+
+# 8c245f28
+; hime: 「えっ！？そうなの？」
+hime: "What!? Really?"
+
+# aa0c2816
+; me: 「……あれ？知らなかったの？」
+me: "…… "Huh? You didn't know?"
+
+# f7997b87
+; hime: 「あはは……[i][char hime.car_sad_wink_emi]わたし、計画なしで来たもので。[i][char hime.car_sad_w_nico]あまり詳しくないんだ」
+hime: "Ah ……[i][char hime.car_sad_wink_emi] I came here without any plans.[i][char hime.car_sad_w_nico] I don't know much about it."
+
+# adff5303
+; me: 「そ、そうなんだ」
+me: "I see,"
+
+# 89770547
+; 車なしで来たものだから、レイキャヴィク観光だけ目的に来たのだと思った。
+Since I came here without a car, I thought Reykjavik came only for sightseeing.
+
+# 924af16b
+; それともヒッチハイクだが、ヒメには向いてなさそうだしな。
+or Hitchhiking, but I don't think it's suitable for Hime.
+
+# 53054565
+; hime: 「……調査とか計画は、元カレに任せっぱなしだったから。てへっ」
+hime: "…… I left the research and planning to my ex-boyfriend. Hehe."
+
+# 3fe1ef75
+; me: 「ああ、それで……」
+me: "Oh, and ……,"
+
+# e3c49da
+; hime: 「車なしでは、旅行できないほどなの？」
+hime: "Can't you travel without a car?"
+
+# 7b355ee
+; me: 「いや、レイキャヴィクだけなら別に構わないよ。[i]あえて遠くまで行きたいなら、ヒッチハイクもあるけど……」
+me: "I don't mind if it's just Reykjavik.[i]If you dare to go far, there is Hitchhiking, but ……."
+
+# 6b32b978
+; hime: 「ヒッチハイク？」
+hime: "Is it Hitchhiking?"
+
+# 8c19520b
+; me: 「でもそれは止した方がいいよ。女性ひとりだと危ないし」
+me: "But you'd better not do that.Woman It's dangerous to be alone."
+
+# 41dfe819
+; hime: 「うん。別にヒッチハイクはいいかな。[i][char hime.car_b_w_nico]わたしには{playerName}の車があるから」
+hime: "Yeah. I don't think Hitchhiking would be a problem.[i][char hime.car_b_w_nico] I have a {playerName} car."
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# 3b1c51a2
+; hime: 「ふふふ、冗談よ。[i][char hime.car_b_a_nico]どのみち、レイキャヴィクのホテルを二週間も取ってあるから。[i][char hime.car_b_a_emi]多分、レイキャヴィク周りの観光だけになると思うよ」
+hime: "Huh, I'm kidding.[i][char hime.car_b_a_nico] Anyway, I've booked a hotel in Reykjavik for two weeks.[i][char hime.car_b_a_emi] Probably only sightseeing around Reykjavik."
+
+# 26d29da1
+; me: 「あ、ああ。そ、そうだよな」
+me: "Oh, oh, oh, oh, yes."
+
+# a2cbc5d3
+; 焦った。
+I'm in a hurry.
+
+# 8af9999
+; hime: 「普通はみんな、色々と調べて来るんだよね」
+hime: "Normally, everyone comes to check things out."
+
+# bc5171ef
+; me: 「そりゃ、海外旅行だからな。[i]色々と知っておかないと命取りになる事もあるから」
+me: "Well, it's an overseas trip.[i]If you don't know many things, it can be fatal."
+
+# d8f85eae
+; hime: 「えっ？そうなの？ここって、危ないの？」
+hime: "What? Really?Is it dangerous here?"
+
+# 42b5e7a0
+; me: 「いや、幸い、アイスランドは治安はいい国だから。[i]特にレイキャヴィクだけならあまり心配はないかな」
+me: "Well, fortunately, Iceland is a safe country.[i]I don't think there's much to worry about, especially if it's just Reykjavik."
+
+# 65686748
+; hime: 「そ、それはよかったー」
+hime: "Well, that's good,"
+
+# 354ee28e
+; me: 「ま、事前情報なしでの旅も、なんか冒険って感じでいいかもな」
+me: "Well, traveling without prior information might be like an adventure."
+
+# a8c7166
+; hime: 「うーん。でもわたし、そんな冒険家じゃないし。[i][char hime.car_sad_close_hae]今更だけど、あまりにも知らなすぎって感じがしてきた……」
+hime: "Well, but I'm not such an adventurer.[i][char hime.car_sad_close_hae] It's late now, but I feel like I don't know too much ……"
+
+# 60f02804
+; そしてヒメは少し黙ったあと、俺に質問してきた。
+Then Hime paused for a moment and asked me a question.
+
+# d3624661
+; hime: 「……ね、{playerName}？」
+hime: "You ……, {playerName}?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 9b538043
+; hime: 「わたしが知っておくべき事とか、あるかな？この、アイスランドについて」
+hime: "Is there anything I should know?About Iceland."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# f4e1e51b
+; hime: 「{playerName}はちゃんと準備して来たんでしょう？何か注意事項とかあったら、教えて」
+hime: "You've prepared {playerName} well, haven't you?"Let me know if there are any precautions."
+
+# df674701
+; me: 「あ、ああ。そうだな……」
+me: "Oh, yes, ……."
+
+# e68e369d
+; 注意事項。
+Precautions.
+
+# f9a0cdf0
+; その単語を聞いた時に、何故か真っ先に、あれを思い出した。
+When I heard the word, I remembered it first.
+
+# 44d2852c
+; 旅行前に、ツアー会社の関係者から聞いたお話。
+A story I heard from a tour company official before my trip.
+
+# a988143b
+; 一番強く印象に残っていたあのお話。
+The story that impressed me the most.
+
+# 8da7fcc4
+; 最初に浮かんだあの注意事項を、俺は口にした。
+I said the first thing that came to mind.
+
+# fdb7b270
+; me: 「エルフ……かな」
+me: "Maybe Elf……,"
+
+# e7b94211
+; hime: 「え、エルフ？」
+hime: "What, Elf?"
+
+# 78943165
+; me: 「ああ。エルフに注意しろって言われた」
+me: "Yes. I was told to watch out for Elf."
+
+# c68bd6f4
+; hime: 「えっと」
+hime: "Well,"
+
+# 538991cd
+; ヒメは一瞬、『それ、笑うとこ？』という曖昧な微笑みを浮かべながら俺の顔を伺った。
+For a moment, 『 looked into me's face with a vague smile: "Is that where you laugh?" 』.
+
+# 25f8192a
+; でもすぐ冗談じゃないとわかったみたいだ。
+but he soon found out that it was no joke.
+
+# fc6c2177
+; hime: 「その……エルフって、ゲームとかに出てくる、あの耳の長い人？」
+hime: "Is that ……Elf that long-eared person in games?"
+
+# 413a5b1c
+; me: 「うん。ただ、ゲームみたいなファンタジー種族ではなく、小さな妖精の事だけど」
+me: "Yes, it's not just a fantasy tribe like a game, it's a little fairy."
+
+# 85526b3b
+; hime: 「なるほど。北ヨーロッパの妖精さんだね」
+hime: "I see. She's a northern European fairy."
+
+# b76ed509
+; me: 「ああ。大体のアイスランド人は、その存在を信じてると言う」
+me: "Yeah. Most Icelanders say they believe in it."
+
+# fa8e7fd5
+; hime: 「それって、アイスランドの民間信仰とか？」
+hime: "Is that Icelandic folk belief?"
+
+# 8d797a98
+; me: 「そう、民間信仰。[i]別に俺たちまで一緒に信じる必要はないけど、[i]注意しろって言われるくらいだから、知っておく必要はあると思うんだ」
+me: "Yes, folk belief.[i]You don't have to believe me together, but [i] they tell you to be careful, so I think you need to know."
+
+# cf577ad3
+; hime: 「うんうん。言いたい事は、わかったよ。[i][char hime.car_sad_a_nico]……でもそれって、何をどうやって注意すればいいの？」
+hime: "Yes, I see what you mean.[i][char hime.car_sad_a_nico] …… But what and how should I be careful about that?"
+
+# 7e451436
+; me: 「【エルフの住処】を、触れたらいけないらしい」
+me: "You shouldn't touch 】 where 【Elf lives."
+
+# 9040e077
+; hime: 「へー、もしかして、触れたら祟りにあうとか？」
+hime: "Oh, by any chance, would you be cursed if you touched it?"
+
+# 85b04930
+; me: 「だそうだ」
+me: "Yes,"
+
+# 85679ad9
+; 真実ではなくても、それが地元の人の共通意識なら尊重する必要がある。
+Even if it's not true, if it's the common sense of the local people, we need to respect it.
+
+# f5e41a09
+; だからこんな冗談みたいな話でも、知識としては覚えておくべきだ。
+Therefore, even such jokes should be kept in mind as knowledge.
+
+# b089488b
+; hime: 「怖い話ね。その【エルフの住処】って、どんなところなの？」
+hime: "That's a scary story. What kind of place is 】 where 【Elf lives?"
+
+# 933c67a2
+; me: 「小さな人形の家みたいなのが、アイスランドの色んなところにあるんだって」
+me: "There's a little doll house in many parts of Iceland."
+
+# 64ee6000
+; hime: 「小さな人形の家？[i][char hime.car_b_w_emi]なんだか、かわいい感じね。[i][char hime.car_b_a_nico]祟りは怖いんだけど、人形の家はちょっと見てみたいかも」
+hime: "A little dollhouse?"[i][char hime.car_b_w_emi] It's kind of cute.[i][char hime.car_b_a_nico] I'm afraid of curses, but you might want to see a doll house."
+
+# 21dafbc1
+; me: 「ま、見るだけならいいんじゃない？触れなければいいんだ」
+me: "Well, isn't it all right to just look?You don't have to touch it."
+
+# cad9fd29
+; hime: 「うん。わかった。とりあえず注意事項その一は【エルフの住処】でしたね。あとは？」
+hime: "Yes, I see.First of all, one of the precautions was 】, the residence of 【Elf.What else?"
+
+# b2510c7b
+; me: 「あとは……」
+me: "And ……,"
+
+# 8d6d541e
+; そして俺は、他にもアイスランドで注意すべき事を色々話してあげた。
+and me told him many other things to watch out for in Iceland.
+
+# 28a8c225
+; と言っても、俺も直接経験したわけじゃないから、そんなに詳しいわけではない。
+However, I didn't experience me directly, so I don't know much about it.
+
+# 81cff7a2
+; でもそれなりに調べて来たから、こうして初心者に案内くらいは出来る。
+But since I've looked into it in my own way, I can guide beginners like this.
+
+# 3af389a3
+; me: 「俺が知ってる事は、これくらいだな」
+me: "That's all me knows,"
+
+# 5e866d9c
+; hime: 「うんうん。わかった。とても助かったよ！ありがとう、{playerName}」
+hime: "Yes, sir. All right.That was a great help!Thank you, {playerName}."
+
+# 5632316e
+; me: 「どういたしまして」
+me: "You're welcome,"
+
+# 69d91a1c
+; hime: 「あと、もうひとつだけいい？」
+hime: "And one more thing?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# c7084a5c
+; hime: 「レイキャヴィクでおすすめのコースとか、知ってるとこあるなら教えて？」
+hime: "Do you know any recommended courses in Reykjavik?"
+
+# 641adbbc
+; 今から観光プランも立てようとしてるのかな。
+I wonder if they are planning to go sightseeing now.
+
+# cca841e2
+; me: 「俺が調べてきたのは大体レイキャヴィクの外だけど、いくつか有名なところなら知ってるよ」
+me: "It's mostly outside Reykjavik that me has looked into, but I know some famous places."
+
+# 1aaf4084
+; そして俺はヒメに、レイキャヴィク観光の話を色々と聞かせてあげた。
+Then me told Hime various stories about Reykjavik sightseeing.
+
+# b5d5d17d
+; 一番の目印であるハットルグリムス教会とか、
+The first landmark, the Church of Hattulgrims,
+
+# 80a7cfd9
+; 海沿いの芸術的な建物であるハルパとか。
+Harupa is an artistic building along the coast.
+
+# 7c8f4a1d
+; 最後に、パブめぐりの話をしてあげたら、とても楽しみにしてた。
+Finally, when I talked about the pub tour, I was really looking forward to it.
+
+# ed9cf019
+; ヒメは俺とは違って、知らない人とお酒を飲むのが好きみたいだった。
+Unlike me, Hime seemed to like drinking with strangers.
+
+# b2510c7b
+; me: 「あとは……」
+me: "And ……,"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……

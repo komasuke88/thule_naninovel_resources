@@ -1,0 +1,237 @@
+; Japanese <ja> to English <en> localization document for `_drekagil` naninovel script
+
+# 8fd79192
+; me: 「この道を進むと、何があるんだ？」
+me: "What's going on down this road?"
+
+# fd29eeba
+; yule: 「そっちはアスキャ火山の方向で、この道をそのまま進むと、Drekagil峡谷が見えますね」
+yule: "That's the direction of the Asuka volcano, and if you go straight down this road, you'll see the Drekagil Gorge."
+
+# 304e465
+; me: 「ドレカギル？」
+me: "Dreka-gil?"
+
+# a27ebb7e
+; yule: 「とりあえず行ってみましょう」
+yule: "Let's go first."
+
+# effd4a60
+; me: 「おぉ……」
+me: "Oh, ……,"
+
+# a42c8c84
+; なんと刺々しい峡谷だ。
+What a sharp canyon!
+
+# d334477d
+; ファンタジーアニメに出てきそうな岩の形。
+The shape of a rock that looks like it will appear in a fantasy animation.
+
+# a4090cdd
+;  <ruby="ドレカギル"> Drekagil</ruby>は『竜の谷』という意味で、
+<ruby="Drekagil">Drekagil</ruby> means 』 Dragon Valley 『.
+
+# 24a7c560
+; ねじれた溶岩の形がまるで竜のようで、そう名付けられた。
+The twisted lava looks like a dragon and is named so.
+
+# 40ae4521
+; この谷は2020年、NASAがの火星ミッションの研究に使用したという事で注目を集めた。
+The valley attracted attention in 2020 because it was used by NASA to study the Mars mission.
+
+# ff9b8770
+; ドレカギルの岩だらけで刺々しい地形は、
+The rocky and rugged terrain of Drekagir;
+
+# db06a19
+; 火星の表面をローバーが移動するシミュレーションを行うのに最適な場所だったという。
+It was the perfect place to simulate the movement of rovers on the surface of Mars.
+
+# 6bc6f973
+; me: 「竜の谷か……本当に、竜が住んでいそうな雰囲気だ」
+me: "Ryu no Tani or …… It feels like a dragon lives there."
+
+# c30e3968
+; yule: 「トゥーレでは本当に住んでますよ。竜さん」
+yule: "I really live in Thule.Mr. Dragon."
+
+# ea72e03b
+; me: 「えっ、マジで？」
+me: "Really?"
+
+# a6b0f22
+; yule: 「ちょっと呼んで見ましょうか？」
+yule: "Would you like me to call you asked."
+
+# e366da71
+; me: 「えっ？いや、ちょ、ちょっと、おい！」
+me: "What? No, wait, wait, wait, wait!"
+
+# 7d334fb3
+; dragon: 「ああ、ユールラッズの、この奥地まで何のようだ？」
+dragon: "Oh, what is it to the depths of Yulelads?"
+
+# f50cd2df
+; yule: 「グレリヨール、ドラさん。ちょっとこちらの人と旅をしてまして」
+yule: "Mr. Glediyol, Mr. Dora.I've been traveling with this person for a while."
+
+# f40e85df
+; me: 「ど、どうも」
+me: "Well, thank you,"
+
+# f9c5e43b
+; 大きいな。
+It's big.
+
+# f51bbd5a
+; でもグリーラよりは小さい気がする。
+But I think it's smaller than gryla.
+
+# bb977396
+; dragon: 「なるほどね。旦那さんか。いつ攫ってきたんだ？」
+dragon: "I see, sir.When did you snatch him?"
+
+# 6a03c9c8
+; yule: 「あ、男を攫ってくるのは昔の習慣で、今は普通に恋愛です」
+yule: "Oh, it was an old custom to kidnap Man, and now it's a normal romance."
+
+# 1c9663ac
+; dragon: 「ああ、まだ恋愛中なんだ。ま、頑張れや」
+dragon: "Oh, we're still in love. Hang in there."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# d0c08906
+; 別に恋愛してないけど、黙っておく事にした。
+I'm not in a relationship, but I decided to keep quiet.
+
+# 221ede53
+; dragon: 「どころでスヴォルちゃんよ」
+dragon: "By the way, Thuvor,"
+
+# 4bb18530
+; yule: 「あ、アタシの事はこれから『ユールちゃん』と呼んでくださいな」
+yule: "Oh, please call him 『Yule』 from now on."
+
+# f1084391
+; dragon: 「ユールちゃん？？まあいいや、ユールちゃんな。とにかく、お前んちのお母さん、最近どこに要るんだ？」
+dragon: " Yule?? Well, Yule. Anyway, where do you need your mother these days?"
+
+# 11c6b19f
+; yule: 「それが……ユールちゃんたちにも行方がわからない状態でして」
+yule: "and the ……Yules were still missing,"
+
+# a3f32467
+; dragon: 「そうか？最近、人間世界に現れたりしたか？」
+dragon: "Really? Have you recently appeared in the human world?"
+
+# 35eac5e0
+; yule: 「えっ！？[i][char yule.eto]そ、そうですよ。よく知っていらっしゃいますね」
+yule: "What!? [i] [char yule.eto] That's right.You know very well."
+
+# 355048a9
+; dragon: 「最近、サムスティラもおかしくなったのか色々と変なんだ。よく人間世界との干渉が起こる。この間はワシも人間世界に一瞬行ってきたんだよ」
+dragon: "I wonder if Samstilla has gone crazy lately. There are a lot of strange things.Interference with the human world often occurs.The other day the Eagle went into the human world for a moment."
+
+# a1592fed
+; me: 「ヴェっ」
+me: "Vee,"
+
+# da339d50
+; こんなのが人間世界に一瞬だけ現れたか。
+This kind of thing appeared in the human world for a moment.
+
+# a6d80ad4
+; 見た人は大変ショックだったんだよなきっと。
+The viewers must have been very shocked.
+
+# 396e6c72
+; yule: 「そうです。いったいこのトゥーレに何が起こってるのでしょう」
+yule: "Yes, what's going on with this Thule?"
+
+# 9e50a3f8
+; dragon: 「これはワシの感だけどな」
+dragon: "It feels like an eagle,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# aaac13ca
+; dragon: 「最近、アゥサトゥルの連中の動きが変なんだ。どうみてもオーディンの教えではない行動を、色々とデカしてる」
+dragon: "These days, Asatru's movements are strange.I'm obviously doing a lot of things that are not Odin's teachings."
+
+# 6f7a101a
+; yule: 「なるほど。あの邪教の連中めが」
+yule: "Well, those wicked fellows,"
+
+# 4414c9e7
+; dragon: 「ユールちゃんも、アゥサトゥルの連中を見かけたら、注意深く観察してみるといい。この最近のサムスティラの異変と関係あるはずだ」
+dragon: "If you see them, Yule, you may observe them carefully.It should be related to the recent change in Samstilla."
+
+# 651be584
+; yule: 「ええ。いい情報提供、ありがとうございます！」
+yule: "Yes. Thank you for the good information!"
+
+# cd7c20f3
+; dragon: 「いやいや、フルドゥフォルクはみんな家族のようなもんだからな。いつか地球の氷河が消えるその瞬間まで、危機は一緒に乗り越えないとな」
+dragon: "No, no, Huldufolk is all like a family.We must overcome the crisis together until the moment when the earth's glaciers disappear."
+
+# 9c43c783
+; yule: 「そう、ですね。はい」
+yule: "Yes, sir. Yes,"
+
+# 9f148b1d
+; dragon: 「ワシたち竜種は、お前たちトロールよりも遥かに個体数が少ないからな。[i]こんな時期には下手に動かない方がいいと思うんだ。ずっとこの峡谷で様子見してるよ」
+dragon: "for the eagles have a much smaller population than you Troll.[i]I think it's better not to move badly at this time of year.I've been watching you in this canyon."
+
+# 97ee882d
+; yule: 「はい。ユールちゃんも何かわかったら情報提供します」
+yule: "Yes, I'll give you information about Yule when I know what it is."
+
+# 8d07305b
+; dragon: 「ああ、それじゃあ、ワシはまたお昼寝しに行くよ。んじゃあな」
+dragon: "Well, then the Eagle will go for a nap again, see you later."
+
+# 4807c52f
+; そう言ってドラゴンは去っていった。
+and Dragon went away.
+
+# c585c73a
+; yule: 「ただのお挨拶のつもりでしたけど、思わぬ情報交換をしましたね」
+yule: "It was meant to be just a greeting, but we exchanged unexpected in an unexpected way."
+
+# c7c7ff48
+; me: 「アゥサトゥルか。そういえば」
+me: "Is it Asatru?Come to think of it."
+
+# cdbf7996
+; あの胡散臭い男と、その仲間が、何か企んでたな。
+That suspicious Man and his companions were up to something.
+
+# bd6c692a
+; yule: 「？なにか知ってますか？」
+yule: "? Do you know what it is?"
+
+# 5e1f1d19
+; me: 「あいつら、世界を救う儀式とか、そんなのやってると聞いてな」
+me: "I've heard they're doing ceremonies to save the world."
+
+# 7a09b611
+; yule: 「世界を救う？……どうも胡散臭いですね。いったいあいつら何を……」
+yule: "Save the world? …… That sounds suspicious.What on earth do they ……?"
+
+# aa27143
+; ユールちゃんは何か色々と考えてるみたいだったけど、結論はでないみたいだった。
+Yule seemed to be thinking a lot, but the conclusion was that
+
+# 8feea62a
+; yule: 「ま、今はあいつらがどこにいるかも知らないから、何もできませんけど、[i][char yule.l-w]どこかで見つけたら、何をやってるか問い出すとしましょう」
+yule: "Well, I don't know where they are now, so I can't do anything. [i] [char yule.l-w] If you find them somewhere, you ask them what they're doing."
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"

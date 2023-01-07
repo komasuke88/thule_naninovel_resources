@@ -1,0 +1,393 @@
+; Japanese <ja> to English <en> localization document for `6_12_3_darkhildur` naninovel script
+
+# 8b92bd57
+; そして数分後……
+And a few minutes later, ……
+
+# 5fe200ae
+; me: 「フルルルルル」
+me: "Flurling"."
+
+# a1488ecb
+; 息が苦しい。
+have difficulty breathing.
+
+# 54b8240c
+; 先からずっと休まず、全力で走ってる。
+I've been running with all my might.
+
+# 40028a7b
+; me: 「ヒィーん……」
+me: "The niegh……,"
+
+# 9c350f20
+; 俺は、逃げてる。
+I is running away.
+
+# 238ffd38
+; ひたすら、逃げてる。
+I'm just running away.
+
+# a1c208ee
+; hime: 「逃げ切ったのかな？[i]もう見えなくなったよ？」
+hime: "Did I run away?"[i]It's out of sight now."
+
+# 4d01bd72
+; me: 「ヒヒーン（でもまだ油断できない。早くここから出ないと……[i]道は、この車輪の跡を辿って行けばいいのだったな）」
+me: "niegh (But I still have to be on my guard.We must get out of here soon ……[i] and follow the tracks of these wheels."
+
+# 41cd4fde
+; hime: 「うん！頑張って、{playerName}」
+hime: "Yeah! Cheer up, {playerName}"."
+
+# 7e6ea6d5
+; ユールちゃんは、もういない。
+Yule is gone.
+
+# fc6cd7d1
+; 俺とヒメだけだ。
+There were only Hime and me.
+
+# 429b342e
+; 俺たちは【奴ら】から逃げて、北の方へ向かってる。
+I and they are running away from 】 and heading northward.
+
+# e178044d
+; 数分前。
+A few minutes ago.
+
+# 4b5d08f5
+; ヒルドルの後ろ姿を発見した俺たちは、
+I found the back of Hildur.
+
+# c970f5
+; 彼女に近づいて、声をかけた。
+I approached her and spoke to her.
+
+# e350349a
+; hildur: 「……」
+hildur: "……"
+
+# 3a461e3
+; yule: 「おーい！ヒルドル！」
+yule: "Hey, Hildur!"
+
+# 3611bc9b
+; me: 「ヒヒーン！（よう！ヒルドルよ。俺たちが来たぜ）」
+me: "Yes, Hildur.me Here they are."
+
+# e350349a
+; hildur: 「……」
+hildur: "……"
+
+# 43f2da65
+; hime: 「あれ？聞こえなかったのかな？」
+hime: "Huh? Didn't you hear me?"
+
+# ce8573b6
+; ヒルドルは後ろを向いたまま返事がない。
+Hildur looked back and there was no answer.
+
+# eb4f1b43
+; 変だな。
+That's weird.
+
+# 85910cf7
+; 馬の足音は聞こえてたはずなのに、全然振り向きもしないで……
+I should have heard the horse's footsteps, but I didn't turn around at all ……
+
+# 23fd7517
+; yule: 「なんですか？もう……」
+yule: "What? Already ……."
+
+# 98c94544
+; ぶつぶつ言いながら、俺たちは彼女の正面へと回り込んで顔を見た。
+As they grumbled, me and others turned to her front and looked at her face.
+
+# c7551637
+; yule: 「ええっ？ヒルドル？？」
+yule: "What? Hildur?"
+
+# 76961cf7
+; hime: 「ええっ！？」
+hime: "What!"
+
+# 83117e9f
+; me: 「ヒヒーン？（こ、こいつは……）」
+me: "Is this niegh?"
+
+# e350349a
+; hildur: 「……」
+hildur: "……"
+
+# e350349a
+; hildur: 「……」
+hildur: "……"
+
+# 4ecaae8
+; 目が逝っていた。
+My eyes were gone.
+
+# 67ff126f
+; ヒルドルは、どうやら正気を失ってるように見える。
+Hildur seemed to be out of his mind.
+
+# 422aee8d
+; me: 「ヒヒーン（こっちが、見えてないのか？それに……）」
+me: "niegh (Can't you see this?)and ……)"
+
+# 2cf5e819
+; hime: 「ひ、ヒルドルさん、だよね？……この肌色は……？」
+hime: "Hi, Hildur, right? …… Is this skin color ……?"
+
+# b83f4a8a
+; そう、肌色が異様だ。
+Yes, my skin color is strange.
+
+# 89301476
+; まるで死体の……
+like the …… of a corpse
+
+# f65e7aa8
+; me: 「ヒヒーン！！（こ、こいつ、ヒルドル、だよな？？……もしかして、死んでる？）」
+me: "niegh!! (Is he dead, ……, right? Hildur Is he dead, by any chance?)"
+
+# 25a70c5a
+; yule: 「い、生きてはいるみたいですが……[i][char yule.kum]そうですね。一応、叩いてみますか。[i][char yule.spoon-dot]ほら」
+yule: "Yes, I think he's alive, but ……[i][char yule.kum] That's right.Do you want to hit it first?[i][char yule.spoon-dot] See?"
+
+# 3480c12a
+; シ—————ン
+---------------
+
+# c0cc8dfe
+; hildur: 「………………」
+hildur: "………………"
+
+# 5a1857a9
+; 無反応。
+No response.
+
+# 501fb0f9
+; me: 「ヒヒーン！（なっ？？喜ばないんだと！？）」
+me: "niegh! (What???)You don't like it!?"
+
+# 32f17347
+; ここはギャフン♡って反応しなきゃだめだろう。
+You'll have to react with Gahun♡ here.
+
+# 9e2de86a
+; 叩いても反応がないなんて、このヒルドル、完全にいかれてるな。
+I can't believe there's no response when I hit him. This Hildur is so crazy.
+
+# 8f797965
+; hime: 「それは、あんまりなのでは……」
+hime: "Isn't that too much ……?"
+
+# e350349a
+; hildur: 「……」
+hildur: "……"
+
+# bb53d2a5
+; me: 「ヒヒーン？（うん？ちょっと動いた？）」
+me: "niegh? (Huh? Did you move a little?)"
+
+# 389a2f57
+; yule: 「あ、これは……」
+yule: "Oh, this is ……."
+
+# 53aeeecd
+; いや、動いたんじゃない。
+No, it didn't move.
+
+# 4ae4fb32
+; 震えだ。
+I'm shaking.
+
+# feb6ad33
+; それと同時に、ヒルドルの体からは得体の知らない暗いオーラが滲み出ていた。
+At the same time, a dark aura of unknown character oozed from Hildur's body.
+
+# 11cb4850
+; この気配は、まるで、あの時のような……
+This sign is as …… as it was then 
+
+# 1db42da6
+; me: 「ヒヒ—————ん！（あっ！？あ、あたまが！）」
+me: "HeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeOh, my head!'"
+
+# a569e099
+; 激しい頭痛。
+a severe headache.
+
+# 55ab6d6b
+; hime: 「いやぁぁぁぁぁあぁあぁぁぁ」
+hime: "`Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh!Oh, my God!"
+
+# 8c8ff49e
+; 俺とヒメは、同じく悲鳴をあげた。
+I cried Hime, as well.
+
+# 99fb14da
+; yule: 「えっ！？いきなり、なに？[i][char yule.hm]あ、こ、これは……！？[i][char yule.spoon-okoru]く、くそっ、どうなってるんですか！」
+yule: "What!? All of a sudden, what?"[i][char yule.hm] Oh, here, here ……...!?[i][char yule.spoon-okoru] Damn, what's going on?"
+
+# f5796ecd
+; ユールちゃんがスプーンを取り出し、俺たちの周りで振り払った。
+Yule took out Spoon and shook them off.
+
+# ca797b20
+; me: 「ヒヒーン（あ）」
+me: "The niegh,"
+
+# 7acb9556
+; 痛くなくなった。
+It's gone.
+
+# 1868f1c7
+; ユールちゃんが、何かの魔法をかけてくれたみたいだ。
+Yule seemed to have cast some spell on him.
+
+# 8c7a62ba
+; hime: 「な、何だったの？急に……[i]頭が割れるかと思ったよ」
+hime: "Well, what was it?"……[i] I thought my head was going to crack."
+
+# d94f3038
+; yule: 「邪気に、当てられたんですね」
+yule: "You got it right by Evil Force,"
+
+# e7862ad9
+; hime: 「あ……」
+hime: "Oh, ……,"
+
+# 2c2a9290
+; yule: 「ヒルドルの全身から、邪気が漏れ出てます」
+yule: "There's a leak of Evil Force from all over Hildur."
+
+# 3fdecc3d
+; 通りで、あの時みたいな感覚を覚えたわけだ。
+In the street, I had a feeling like that.
+
+# cced2f3f
+; 南の海で、外界の神に出会った、あの時。
+I met the god of the outside world in the southern sea.
+
+# 6935bdde
+; yule: 「幸い、弱い邪気だったんで、ユールちゃんの魔法でなんとかなりましたけど……」
+yule: "Fortunately, it was a weak Evil Force, so ……'s magic managed it."
+
+# 6b19b518
+; me: 「って事はもしかして、ヒルドルも”やられた”のか？」
+me: "So, by any chance, did Hildur "do it?"
+
+# ed0f4e52
+; yule: 「そうですね。その可能性が高いと……[i][char yule.huu]はぁはぁ……」
+yule: "Yes, it's very likely that ……[i][char yule.huu] Ha-ha ……."
+
+# 7afd3028
+; me: 「ヒヒーン（ユールちゃん？）」
+me: " niegh?"
+
+# 1430d824
+; ユールちゃんは、とても疲れそうに息を荒くしていた。
+Yule was breathing heavily, looking very tiredly.
+
+# 6c4b9dd2
+; hime: 「えっ？……ユールちゃん！？どうなってるの？）」
+hime: "What? ……Yule!?"What's going on?"
+
+# 3d0ac2c
+; yule: 「はぁ……はい？」
+yule: "Yes, ……?"
+
+# 549ef999
+; hime: 「今、体が一瞬、透けて見えたよ？」
+hime: "I could see through my body for a second."
+
+# c9685387
+; me: 「ヒヒーン（ほ、本当だ！）」
+me: "niegh (Really!)"
+
+# 1f21943b
+; ユールちゃんの体が点滅していた。
+Yule's body was flashing.
+
+# 987932e0
+; me: 「ヒヒーン（こ、これって……？？）」
+me: "niegh (This is ……??)"
+
+# 62267420
+; yule: 「あっ、ユールちゃん、魔力があまり残ってないみたいですね」
+yule: "Oh, Yule and Magical Power aren't there much left?"
+
+# d6f85a29
+; me: 「ヒヒーン（あ、そういえば、前にもこんな事あったな）」
+me: "niegh (Come to think of it, this has happened before.)"
+
+# 9002c103
+; hime: 「そうなの？大丈夫なの？」
+hime: "Really? Are you all right?"
+
+# c0ec4645
+; yule: 「完全に魔力切れなら、安全装置でワープされちゃいますけど、[i][char yule.yoko_sad_a_emi]まだ大丈夫。少し休んだらいいと思います。[i][char yule.l-nayami]それよりも、これはどうしましょう？」
+yule: "If you're completely out of Magical Power, you'll be warped with a safety device. [i][char yule.yoko_sad_a_emi] It's still okay. You should rest for a while.[i][char yule.l-nayami] What should I do with this?"
+
+# 391f2bbd
+; hime: 「これって？」
+hime: "What's this?"
+
+# e7753706
+; yule: 「このヒルドル、話が通じなさそうですから」
+yule: "This Hildur doesn't seem to make sense."
+
+# f90cc86d
+; hime: 「あっ、そうだね。[i]{playerName}の体を戻してもらって、色々と聞きたい事もあったのに」
+hime: "Oh, yes.[i]There were many things I wanted to ask after {playerName}'s body was put back."
+
+# a3bfb9dc
+; me: 「ヒヒーン（このままでは、話が通じないな）」
+me: "niegh (We can't communicate at this rate.)"
+
+# c14892ae
+; hildur: 「ま……」
+hildur: "Ma ……,"
+
+# 8aa9ee77
+; yule: 「えっ！？しゃ、喋った？」
+yule: "What!? Did you talk?"
+
+# 2544a75e
+; hime: 「ひ、ヒルドルさん？」
+hime: "Mr. Hildur?"
+
+# 8d7ec519
+; me: 「ヒヒーン（お、ヒルドル！正気に戻ったのか！）」
+me: "niegh (Oh, Hildur! Are you back to your senses?)"
+
+# 39dcc20
+; hildur: 「魔法陣が、乗っ取られ……」
+hildur: "The The Magic Circle has been hijacked ……."
+
+# 1db96ed9
+; yule: 「え？魔法陣が、乗っ取られる？」
+yule: "What? Will The Magic Circle be hijacked?"
+
+# 61098a7e
+; hildur: 「に……」
+hildur: "Ni ……,"
+
+# 5a48d1a6
+; yule: 「えっ！？なんだって？」
+yule: "What!? What?"
+
+# 8c4e95c6
+; hildur: 「に……げ……て……」
+hildur: " …… run ……."
+
+# 14dfd8ff
+; me: 「ヒヒーン（逃げて、って……あ）」
+me: "niegh (Run away, ……ah)"
+
+# 9e057bc7
+; と、その時、
+said he.

@@ -1,0 +1,401 @@
+; Japanese <ja> to English <en> localization document for `2_04_4_aurora` naninovel script
+
+# 893f4ad9
+; カメラの露出を調整して、一枚。
+Adjust the exposure of the camera.
+
+# c0bd5fe8
+; …………カシャッ！
+………… Shh!
+
+# 76162add
+; me: 「へー」
+me: "Huh,"
+
+# dbf128c8
+; 写真には、綺麗なオーロラが写っていた。
+There was a beautiful Northern Light in the photo.
+
+# b3420a2d
+; 写真の方が、肉眼で見た時よりも、美しかった。
+The picture was more beautiful than when I saw it with the naked eye.
+
+# c468d4d2
+; me: 「ふむ……」
+me: "Well, ……,"
+
+# 4197f869
+; もう一度空を見上げたけど、
+I looked up at the sky again.
+
+# 9b186d96
+; 緑色の空がうっすらと映るだけだった。
+There was only a faint green sky.
+
+# 5e9652db
+; この空が、本物なのにな。[i]ちょっと拍子抜けだ。
+This sky is real.[i]I'm a bit off the mark.
+
+# 4c0b7be6
+; ネットで見たオーロラの写真は、全て写真だからこそ、美しいもんだったのかもな。
+Maybe the pictures I saw online of Northern Light were all beautiful because they were all pictures.
+
+# d604b761
+; me: 「……オーロラって、こんなもんだったのかな」
+me: "I wonder if ……Northern Light was like this,"
+
+# 61619e17
+; 俺はがっかりしたような口ぶりで、そんな独り言を言い放った。
+I said to himself in a disappointed tone.
+
+# 6309ba6
+; sara: 「オーロラはこんなもんじゃない！」
+sara: "`This is not what Northern Light is!'"
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# e9c11c3d
+; 俺の独り言に、サラが何故かむっとしながら答えた。
+Sara answered to me's soliloquy, somewhat sulky.
+
+# 841f9bfa
+; sara: 「この空、全然怖くないじゃん？」
+sara: "You're not scared of the sky at all, are you?"
+
+# 74854363
+; me: 「え？もちろん。全然怖くないし、むしろ美しい方だ」
+me: "What? Of course.I'm not scared at all, but rather beautiful."
+
+# e2f0991c
+; sara: 「弱いオーロラだからだよ。ちょっと美しいかなーと思うだけ」
+sara: "Because I have weak Northern Light.I just think it's a little beautiful."
+
+# f699d4ba
+; me: 「……どういう事？」
+me: "What do you mean ……?"
+
+# c478b4fe
+; sara: 「本物のオーロラは怖いんだ。美しいってもんじゃない。[i][char sara.close_emi]美しいって感想も出ないくらいの、驚異なんだから！」
+sara: "Real Northern Light is scary.It's not beautiful.[i][char sara.close_emi] It's so amazing that I can't even say it's beautiful!"
+
+# f1f4a22
+; me: 「へぇー、[i]サラは、前にもオーロラ見た事あるんだな」
+me: "Oh, [i]You've seen Northern Light before, haven't you?"
+
+# 4bf4265a
+; sara: 「もちろんさ。ボクは、オーロラハンターだからね」
+sara: "Of course, I'm a Northern Light hunter."
+
+# 7ca1a846
+; me: 「オーロラハンター？」
+me: "Is it Northern Light Hunter?"
+
+# 745bb30
+; sara: 「{playerName}は、オーロラを観たの初めてだな？」
+sara: "It's your first time seeing Northern Light, isn't it {playerName}?"
+
+# 51e18b67
+; me: 「うん。初めて見た。実はアイスランド旅行も、今日が初日だよ」
+me: "Yes, it's my first time seeing it.Actually, today is the first day of my trip to Iceland."
+
+# 5c1ce2e1
+; sara: 「今のKp値（オーロラ数値）は２だ。[i]肉眼ではうっすらでしか見えない。[i]オーロラアプリを見るとわかる」
+sara: "The current Kp value (the Northern Light value) is 2.[i]It can only be seen faintly with the naked eye.[i]Northern Light You can tell by looking at the app."
+
+# 4de34d23
+; me: 「アプリなら一応見てるけど……[i]Kp値ってのは知らなかった。[i]オーロラの強度みたいなもんかな？」
+me: "I'm just looking at the app, but I didn't know the ……[i]Kp value.[i]Is it like the strength of Northern Light?"
+
+# 54ddf168
+; sara: 「そう。地磁気の強さで、０から９までのレベルがあるけど、０～２は弱いレベルだ」
+sara: "Yes, there are levels from 0 to 9, but 0 to 2 are weak."
+
+# 3a78a792
+; sara: 「今みたいなレベル２では、むしろ写真の方が美しくなる。[i][char sara.default]肉眼で見るよりもね」
+sara: "At level two like now, photography becomes more beautiful.[i][char sara.default]rather than with the naked eye."
+
+# 68d19ced
+; me: 「あ！そういう事だったのか」
+me: "Oh! I didn't know that"."
+
+# fb7ae96b
+; ちょうど先、俺が思ってた事だ。
+Just a moment ago, me thought,
+
+# 4b982e7c
+; 肉眼で見るより、写真の方が美しかった。
+The photograph was more beautiful than the naked eye.
+
+# 4da53343
+; 俺の感想って、割と一般的な感想だったんだ。
+me's impressions were rather general.
+
+# 5e9ec3d5
+; sara: 「強いやつは、逆に写真に収めるのが難しい。光の強さが全然違うから」
+sara: "On the contrary, it is difficult to photograph a strong guy.The intensity of the light is completely different."
+
+# 7cc7314f
+; me: 「俺も、強いオーロラが見たかったな。[i]最初に見たのがこれって、ちょっと残念だ」
+me: "I wish I had seen a strong Northern Light, too.[i]It's a bit disappointing to see this at first."
+
+# e2c6e413
+; sara: 「ま、そのうち見れるさ。今はそれでいい。[i][char sara.hae]いや、[i][char sara.close_e]むしろ最初は、こんなもんがいいかもな」
+sara: "Well, you'll see it one of these days.That's fine now.[i][char sara.hae] No, [i] [char sara.close_e] I think this is better at first."
+
+# 45ccaa32
+; me: 「え？何で？」
+me: "What? Why?"
+
+# 900bb20
+; sara: 「最初からあまり凄すぎるのを見たらさ、次、期待しちまうんじゃん？[i][char sara.close_sad]でも、そんなものは中々見れないんだから」
+sara: "`If you see it too great from the start, you'll expect it next time, won't you?'[i][char sara.close_sad] But I rarely see such things."
+
+# 14985170
+; me: 「それは、たしかに」
+me: "That's true,"
+
+# 2fea2814
+; sara: 「そしてまた、あんなのがみたいって、思ってしまう。[i][char sara.e]ずっと、一生、オーロラだけを追いかけるようになるんだ」
+sara: "And I want to see it again.[i][char sara.e] I'll keep chasing Northern Light for the rest of my life."
+
+# a72e27f2
+; なんだか遠い目をしながらそういった。
+he said, with some distant eyes.
+
+# 95151ecb
+; me: 「サラが、そうだったんだな？」
+me: "Is that so, Sara?"
+
+# 955b290d
+; sara: 「そう！ボクは観てしまったのさ。最初から、とんでもないモノを。[i]そう……[i][char sara.kira]あの時、ボクが観たオーロラはな……！？」
+sara: "Yes! I've seen it.From the beginning, something ridiculous. [i]Yes ……[i][char sara.kira]What Northern Light did I see then?"
+
+# df175a65
+; me: 「……お、おう」
+me: "…… "Oh, my God,"
+
+# 2aac816c
+; サラはいきなりスイッチが入ったように、目をキラキラしながら、子供のように話し始めた。
+Sara began to speak like a child, glittering eyes, as if the switch had suddenly turned on.
+
+# 9472d839
+; これは、聞いてあげるしか無い。
+I have no choice but to listen to it.
+
+# e2715445
+; sara: 「そう、それは１１年前の、アイスランド……」
+sara: "Yes, that was Iceland …… 11 years ago."
+
+# a0da9659
+; そしてサラは高揚した声で、自分の見たオーロラについて語り始めた。
+Then Sara began to speak in an exalted voice about the Northern Light he had seen.
+
+# 9071cc5b
+; オーロラ・サブストーム。
+Northern Light Substorm.
+
+# 395a310
+; 光の嵐。
+a storm of light.
+
+# 42ad37af
+; 夜空いっぱいに広がる鮮烈な色は、人を神秘の領域に導く。
+The vivid colors that fill the night sky lead people to mysterious areas.
+
+# 23d1d1db
+; その動きは、ただ揺らぐってレベルじゃない。
+The movement is not just wavering.
+
+# 6582b75d
+; 爆発して、舞い踊り、拡散し、一瞬で夜空を明るく埋め尽くす。
+It explodes, dances, spreads, and fills the night sky in an instant.
+
+# 790bc697
+; 世界が緑色で染められる中、その端に紫、赤、ピンク、
+As the world is dyed green, purple, red, pink,
+
+# 3cdd9f62
+; 様々な色が現れて、色とりどりの夜空を作る。
+Various colors appear to create a colorful night sky.
+
+# 4ba7f472
+; 形もはっきり見取れるけど、目で追えないくらい、変化が激しい。
+You can see the shape clearly, but the changes are so intense that you can't follow it with your eyes.
+
+# 6a11a7df
+; オーロラ・サブストームは、普通のオーロラではない。
+Northern Light · Substorm is not an ordinary Northern Light.
+
+# a331d61c
+; オーロラが爆発する現象だ。
+This is a phenomenon in which Northern Light explodes.
+
+# 5bbc71bc
+; Kp値５以上になると、その出現率も高くなるが、
+If the Kp value is greater than or equal to 5, the appearance rate increases.
+
+# b881ce0c
+; 普通、５以上のKp値はあまり現れるものでもないし、
+Usually, Kp values above 5 do not appear very often.
+
+# a92c51d9
+; Kp値が高いからって絶対に見られるとも言い切れない。
+It's hard to say that you can definitely see it because the Kp value is high.
+
+# 3c34f087
+; [br]サブストームは人間が自然界で見れる現象の中でも最高の驚異だけど、
+[br]Substorm is the greatest phenomenon that humans can see in nature.
+
+# 44141910
+; サブストームを見れる確率は、極めて低い。
+The probability of seeing Substorm is extremely low.
+
+# 455302cb
+; サラはまだ学生だった頃、オーロラ・サブストームを見た。
+Sara saw Northern Light Substorm when she was still a student.
+
+# b8928b17
+; 初めて見たその光は、とても恐ろしくて、まるで神の降臨のようで、
+The first light I saw was so frightening that it was like the descent of God;
+
+# 35608861
+; サラはその日の夜空に魂を持って行かれた。
+Sara took his soul into the night sky that day.
+
+# 9a2e7929
+; 魂を持っていかれたのは、ただ比喩的な表現ではない。
+It's not just a metaphor that takes the soul away.
+
+# cd36aaf2
+; 実際に一瞬だけ、魂がオーロラの中へ吸い込まれるような経験をした。
+In fact, for a moment I had an experience where my soul was drawn into Northern Light.
+
+# c76da32f
+; そしてオーロラの中で、何か特別な出来事があった気がした。
+And I felt something special happened in Northern Light.
+
+# 46166ce7
+; それがどんな出来事だったのかは、今は覚えてない。
+I don't remember what happened now.
+
+# 70e1dc89
+; あの時サラが経験したものはいったいなんだったのか。
+What on earth did Sara experience then?
+
+# fa5cb9b3
+; あまりにも鮮烈な光を見たせいで、そう感じてただけなのか。
+I wonder if he just felt that way because he saw such a bright light.
+
+# 95121969
+; [br]それからずっと二度目の出会いを追いかけてるけど、
+[br] I've been chasing my second encounter since then.
+
+# e6c3f3
+; まだあの時のような鮮烈なサブストームは見たことがない。
+I've never seen such a vivid Substorm as it was then.
+
+# 33d46431
+; me: 「サラはそのオーロラ・サブストームを、また見てみたいってわけだな」
+me: "and Sara would like to see Northern Light Substorm said."
+
+# 22a3bad7
+; sara: 「サブストーム自体はその後も何度か見た。[i]でも１１年前のような特別なものは、まだ見てない」
+sara: "I saw Substorm itself several times after that.[i]But I haven't seen anything special like 11 years ago."
+
+# b608edc8
+; me: 「そうか。すごいオーロラ・サブストームってのは、中々見れるもんじゃないんだな」
+me: "Well, you can't see a great Northern Light Substorm very often."
+
+# 6bd84380
+; sara: 「うん。[i]だけど、今年ならきっと見れる。[i][char sara.ww]ボクはね。今年だけをずっと待ってたんだ」
+sara: "Yes. [i] But I'm sure I can watch it this year.[i][char sara.ww] Me.I've been waiting for this year."
+
+# d3e6fbaa
+; me: 「今年、何かあるのか？」
+me: "What's going on this year?"
+
+# 668d813e
+; sara: 「うーん。[i]これはちょっと難しい話になるんだけど、[i][char sara.kira]説明しよう！」
+sara: "Hmm. [i] This is a bit difficult. [i] [char sara.kira] Let me explain!"
+
+# 9af73f92
+; サラはまたも興奮した声とキラッとした目で、話を始めた。
+Sara began again with an excited voice and glaring eyes.
+
+# 734eb72b
+; 余程オーロラが好きなんだな。
+You like Northern Light a lot.
+
+# f4d5a081
+; オーロラは、地球の磁気圏に太陽風の粒子がぶつかって光るものだ。
+Northern Light is a light that shines when particles of solar wind collide with the Earth's magnetosphere.
+
+# 2f1209b5
+; その粒子は地球の磁力線に沿って、極域に降り込んで来る。
+The particles descend into the polar region along the Earth's magnetic line.
+
+# f73981a8
+; オーロラが見れるその極域の一帯を、オーロラ・オーバルという。
+The polar region where you can see Northern Light is called the Northern Light Oval.
+
+# 16b90655
+; オーロラ・オーバルの一端からは、稀に明るいオーロラが一瞬で拡大する。
+From one end of the Northern Light Oval, a rare bright Northern Light expands in an instant.
+
+# 840d4f02
+; それがオーロラ・サブストームだ。
+That's Northern Light Substorm.
+
+# 42980ea9
+; [br]この現象には、大量の高エネルギー太陽風粒子が必要だ。
+[br] This phenomenon requires a large amount of high-energy solar wind particles.
+
+# a094d569
+; それは大規模の太陽フレア（太陽の爆発）によって発生する。
+It is caused by a large-scale solar flare.
+
+# 25c7e24b
+; 太陽活動の規模は、１１年の周期に最大化する。
+The scale of solar activity will be maximized every 11 years.
+
+# 7a9caf22
+; 太陽活動の極大期には、大規模の太陽フレアが多く発生する。
+Large-scale solar flares occur during the maximum period of solar activity.
+
+# dcb43bee
+; その時期には、地球上にオーロラが広く、頻繁に現れて、
+At that time, Northern Light appeared widely and frequently on Earth.
+
+# 9997f103
+; オーロラ・サブストームも多く観察される。
+Northern Light and Substorm are also observed in many cases.
+
+# 9f77affc
+; 前の極大期、X級のフレアが観測されたのは２０１４年。
+During the previous maximum period, X-class flares were observed in 2014.
+
+# 3ba5b39
+; その後１１年ぶりに迎える極大期が今年、２０２５年だ。
+This year, 2025, will be the first time in 11 years.
+
+# 277b82c
+; 実際、今年はオーロラ・オーバルの全域でオーロラの出現率が高い。
+In fact, Northern Light has a high incidence throughout the Northern Light Oval this year.
+
+# f6b296fe
+; 強度の違いはあれど、ほぼ毎日オーロラが現れる。
+Despite differences in strength, Northern Light appears almost every day.
+
+# 73e078f7
+; 太陽の活動が活発だという証拠だ。
+It is evidence that the sun is active.
+
+# e498dd52
+; こんな時期なら、サブストームを現れる可能性も高い。
+At this time of year, there is a high possibility that Substorm will appear.
+
+# b33e26d0
+; 今年は、特別なのだ。
+This year is special.

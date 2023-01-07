@@ -1,0 +1,297 @@
+; Japanese <ja> to English <en> localization document for `5_01_1_airplane` naninovel script
+
+# af3111b5
+; 寒い。
+Cold。
+
+# d4f69110
+; 感覚があるってことは、どうやら俺は生きてるみたいだ。
+Sensibility means that me is alive.
+
+# ea144128
+; @choice "目覚める" goto:.mezame
+@choice "Wake up" goto:.mezame
+
+# 2b6669ee
+; @choice "死ぬ" goto:ed_5_01_1_die
+@choice "Death" goto:ed_5_01_1_die
+
+# 246cb269
+; 「……ここは、どこだ」
+…… "Where am I?"
+
+# 15c1b715
+; [br]灰色の空に、黒い砂の荒野。
+[br] In the gray sky, in the black sand wasteland.
+
+# 8538a8df
+; いつの間にか俺は気を失って、
+Before he knew it, me fainted;
+
+# 8bbb5566
+; 気が付いたらこんなところで倒れてたんだ。
+I found myself falling down here.
+
+# b94685e8
+; [br]「あれは……」
+[br] "That's ……,"
+
+# 49e70710
+; [br]目の前には、墜落した飛行機の残骸。
+[br] In front of us was the wreckage of the plane that crashed.
+
+# e5169f13
+; @choice "俺が乗ってた" goto:.tsuiraku
+@choice "There was me on board" goto:.tsuiraku
+
+# 22e6f2f2
+; @choice "俺が撃墜した" goto:ed_5_01_1_gekitui
+@choice "Shooted down by me" goto:ed_5_01_1_gekitui
+
+# 44581f1d
+; 俺は確かに飛行機に乗っていたはずだが……[br]
+I must have been on the plane, but ……[br]
+
+# 12f46e81
+; 「墜落した？」[br]
+"Did it crash?" [br]
+
+# a2b6ed52
+; 飛行機の破損は激しく、完全に壊れてる。
+The plane was severely damaged and completely broken.
+
+# 1731fb2b
+; なのに俺はこうして生きていて、大きな怪我もない。
+But me lives like this and doesn't have any serious injuries.
+
+# 6230d527
+; これは奇跡だ。運がいい。
+This is a miracle. I'm lucky.
+
+# a6cd0128
+; しかしこんな状況、どうしたら……[br]
+But in this situation, how can I ……[br]?
+
+# 5219686c
+; 「とりあえずスマホで……うん？」[br]
+"Anyway, …… with Smartphont?" [br]
+
+# bc3bfe2c
+; ない。
+Absent。
+
+# fa578620
+; ポケットの中にはスマホも、財布も、何もない。
+There was no Smartphont, no wallet, or anything in my pocket.
+
+# 949f6c3a
+; 落としたのか。
+Did you drop it?
+
+# 77a3ee15
+; 「……そういえば、他の人たちは？」
+…… "Now that you mention it, what about the others?"
+
+# 426e2983
+; [br]俺はパイロットではない。
+[br]me is not a pilot.
+
+# 1d008691
+; 一人で飛行機に乗ってたわけじゃないはず。
+I don't think I was on the plane alone.
+
+# c685127a
+; 人を探した。
+I looked for someone.
+
+# fe71ce8c
+; だけど飛行機の周りには、誰もいなかった。
+But there was no one around the plane.
+
+# ba732ce6
+; 飛行機の内部は焦げていて、空っぽだった。
+The inside of the plane was burnt and empty.
+
+# 6fe0d925
+; 人の気配はしない。[br]
+There is no sign of anyone.[br]
+
+# 267d3f71
+; 「誰もいないか……」[br]
+…… "Nobody [br]" [br]
+
+# 397208c6
+; いくら探しても、何も見当たらない。
+No matter how much I look for it, I can't find anything.
+
+# 6f6db67c
+; 人がいた痕跡さえもない
+There is not even a trace of human presence.
+
+# 5c78214d
+; 見渡す限りの黒い砂には、足跡すらない。
+The black sand as far as the eye could see, there were no footprints.
+
+# b9d369fe
+; 「……生存者は、俺だけ？」[br]
+"Is …… the only survivor?" [br]
+
+# cfca48e1
+; だとしてもおかしい。
+It would be strange if
+
+# 2f5ba511
+; 人か死んだら、死体でもいるはずだ。[br]
+If a person dies, there should be a corpse.[br]
+
+# 5cbf048a
+; 「俺だけ残されて、みんなどこかに……？」[br]
+"Only me is left, and where is everyone ……?" [br]
+
+# 3bb5eea4
+; いや、だったら足跡くらいは残ってるはずだ。
+No, then there should be some footprints left.
+
+# 548be822
+; それに俺が倒れてた場所は、とても見えやすいどこだった。
+and the place where me had fallen was very easy to see.
+
+# 4903848d
+; 俺だけ見落とされる理由は思いつかないが。[br]
+I I can't think of any reason to be overlooked.[br]
+
+# 1f04c6e6
+; 「……こんな推測など、いくらやっても無駄だ。とりあえず……」
+…… "It's no use trying to guess. …… for now."
+
+# b9474fd7
+; @choice "探索" goto:.tansaku
+@choice "Search" goto:.tansaku
+
+# 67cc62fa
+; @choice "寝る" goto:ed_5_01_1_sleep
+@choice "Sleep" goto:ed_5_01_1_sleep
+
+# bbf9cab6
+; また飛行機の内部を探索。[br]
+Explore the interior of the plane. [br]
+
+# 29158e7b
+; 「……」[br]
+The …… [br]
+
+# 1211285f
+; 今度は詳しく調べた。
+This time I looked into it in detail.
+
+# 1bde0893
+; 死体はもちろん、人の荷物などもない。
+Not only the body, but also the baggage of a person.
+
+# 7a0417c5
+; それでも何か落ちてないか、色々と探してみたけど、何もなかった。[br]
+Still, I looked for something to see if it had fallen, but there was nothing.[br]
+
+# 1166d63
+; 「変だ……」[br]
+"Strange ……" [br]
+
+# 6d8ea661
+; 火災で燃えたとしても、こんなに綺麗さっぱり何もなくなるもんか？
+Even if it burns in a fire, it will be so clean and nothing will go away?
+
+# 357f3b3a
+; それに、これだけ焦げてるのに、今は煙もしてない。
+And even though it's burnt like this, there's no smoke now.
+
+# 26f1534a
+; [br]もしかして、墜落してから結構時間が立ったのか。
+[br] Maybe it's been quite a while since the crash.
+
+# e11220b3
+; ……今は何月、何日なんだ？
+…… What month and date is it now?
+
+# b368d155
+; 現在の状況を把握できる手がかりが、何もない。
+There is no clue to the current situation.
+
+# c55a0d3b
+; [br]「……」
+[br] " ……"
+
+# 67b26fab
+; なら、考える。
+Then I'll think about it.
+
+# d082e4cf
+; 俺は飛行機で、どこかへ向かってたはずだ。
+I was on the plane, and she must have been heading somewhere.
+
+# 395b735
+; 目的地を思い出せれば、ここがどの辺りなのかは推測できる。
+If you remember your destination, you can guess where it is.
+
+# 3aa28138
+; ……[br]
+……[br]
+
+# 97b2a114
+; どこへ？
+Where?
+
+# 449148a6
+; 「思い出せない」[br]
+[br] "I can't remember"
+
+# da5d7cbb
+; いや、そもそも。
+No, in the first place.
+
+# 7ed28d32
+; 俺がいつ、飛行機に乗ってのかも、
+I don't know when me got on the plane.
+
+# 79e67aa6
+; 何で飛行機に乗ってたのかも、思い出せない[br]
+I can't even remember why I was on the plane [br]
+
+# 1799dbe5
+; ……記憶が欠損してる。[br]
+…… My memory is missing.[br]
+
+# 17c502ca
+; 「墜落の途中、頭を打ったのかな……?」[br]
+"Did I hit my head during the crash ……?" [br]
+
+# d7b1a42c
+; ただでさえまずい状況なのに……[br]
+……[br] even though it's already a bad situation
+
+# 3d2836
+; 「……」
+「……」
+
+# 4be8e00
+; だけど、ここで立ち止まっているわけにも行かない。
+But I can't stop here.
+
+# 57046ea8
+; 闇雲にでも、探索しよう。
+Let's search in the dark.
+
+# dc21ac3
+; どこかに移動するんだ。
+Move somewhere.
+
+# 7300dd91
+; そうだ。右か左かだけ決定して動こう。
+Right. Let's decide whether it's right or left and move.
+
+# 203106f3
+; @choice "右へ進む" goto:5_01_2_desert
+@choice "Go to the right" goto:5_01_2_desert
+
+# 99a76606
+; @choice "左へ進む" goto:ed_5_01_1_lingbakur
+@choice "Go left" goto:ed_5_01_1_lingbakur

@@ -1,0 +1,253 @@
+; Japanese <ja> to English <en> localization document for `6_11_2_langisjor` naninovel script
+
+# fa28175f
+; この峡谷の先が、目的地までの近道だっていうから、
+I heard that the end of this canyon is a shortcut to the destination.
+
+# f09fb849
+; 荒い道だったけど、がむしゃらに走った。
+It was a rough road, but I ran like crazy.
+
+# 6b32b69e
+; ひたすらに山道を登り上がった先には、また新しい風景が広がっていた。
+As I climbed up the mountain path, there was a new landscape.
+
+# 209d6a54
+; hime: 「わぁー！」
+hime: "Wow!"
+
+# 57049d80
+; その崖から見下される景色は、またも珍しい水の景色だった。
+The view from the cliff was once again a rare sight of water.
+
+# ccdf88cf
+; 黒と緑の山々の間に、くねくねと広がってる青い色の湖。
+a winding blue lake between the black and green mountains.
+
+# b2d0677e
+; 湖の向こうから、冷たい匂いの風が吹いてきた。
+A cold-smelling wind blew from across the lake.
+
+# 10257b3e
+; yule: 「ここは【長い海】という意味の湖、 <ruby="ラゥンギショゥル"> Langisjór</ruby>。[i]この湖を越えて行くと、すぐにラーカギーガルです」
+yule: "This lake means 【 long sea 】, <ruby=" Langisjor">Langisj ór</ruby>.[i]If you cross this lake, you'll soon find Lakagigar."
+
+# 53dfd2f4
+; hime: 「ラゥンギショゥルか。またも見たことのない素晴らしい景色だよ！」
+hime: "Is it Langisjor?It's a wonderful sight I've never seen before!"
+
+# c7ed0828
+; me: 「ヒィーン（本当に絶景だな。[i]アイスランドの自然は、いつでも多彩で飽きないんだな）」
+me: "neigh (It's really a magnificent view.[i]Iceland's nature is always so colorful that you never get tired of it.)""
+
+# dbb3db57
+; yule: 「ラゥンギショゥルはアクセスが難しく、知ってる人だけ知ってる場所ですが、[i]この独特な眺めで、秘境とも呼ばれてます」
+yule: "The Langisjor is a place that is hard to access and known only to people who know it. [i] This unique view is also called a secluded place."
+
+# eb0e5bb3
+; hime: 「ランドマンナロイガルといい、ハイランドには素晴らしい場所が多いよね」
+hime: "It's called Landmannalaugar, and there are many wonderful places in Highland."
+
+# d9682723
+; me: 「ヒヒーン（俺の知り合いも絶賛してたな。アイスランドで一番好きなのがこのハイランドの一帯だって）」
+me: " niegh (My acquaintance of me praised me very much.My favorite part of Iceland is this area of Highland.)""
+
+# 59fad51f
+; hime: 「うん。こんな風景を知る事ができて、嬉しいと思うよ。[i][char hime.default]ずっとレイキャヴィクにだけ居座っていたら、きっと後悔したよね」
+hime: "Yes, I'm glad to know the scenery like this.[i][char hime.default] If you've only been in Reykjavik for a long time, you must have regretted it."
+
+# 1bf9d98c
+; me: 「ヒヒーン（ま、トゥーレに来たのは不本意なはずだけどな、お互い様に）」
+me: "niegh (Well, we must not have come to Thule, but to each other.)"
+
+# 82856f43
+; hime: 「ふふふ、それはそうだね。[i][char hime.default]だけど、掛け替えのない経験だったと思う。[i][char hime.sad]……この思い出、忘れたくないのに」
+hime: "Well, that's true.[i][char hime.default] But I think it was an irreplaceable experience.[i][char hime.sad] …… I don't want to forget these memories."
+
+# 8f01abbd
+; me: 「ヒィーん（そう、だな）」
+me: "Yes, niegh,"
+
+# 1601472
+; 人間世界に戻ると、何もかも忘れる事になるか。
+Will I forget everything when I return to the human world?
+
+# cddc8044
+; このトゥーレに来る直前の記憶に、戻る事になるのかな。
+I wonder if I'm going to go back to my memory just before I came to Thule.
+
+# bf0f3830
+; トゥーレに来る前って、俺はディムボルギルに訪れていたな。
+Before coming to Thule, me had visited dimmuborgir.
+
+# 4ceb99f2
+; ……あ、そういえば。
+…… Come to think of it.
+
+# aff98ea0
+; me: 「……そういや、ヒメはどこでどうやって、このトゥーレに迷い込んだんだ？」
+me: "Where and how did Hime get lost in this Thule?"
+
+# 7a27dcd0
+; hime: 「えっと、多分、ブルーラグーンからホテルに帰るところで。[i][char hime.hae]そういえば、そこでいけない事をやっちゃったんだけど、そのせいかな？」
+hime: "Well, perhaps on my way back to the hotel from Bluelagoon.[i][char hime.hae] Come to think of it, I did something bad there. Is that why?"
+
+# ca2f9824
+; me: 「ヒヒーン（いけない事って？……）」
+me: "niegh (What's wrong? ……)"
+
+# 71edb8e2
+; hime: 「触れちゃったの、【エルフの住処】に」
+hime: "I touched 】, where 【Elf lives."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 50d50527
+; yule: 「わざと触れたんですね？たまにいますね。そんな旅行客が」
+yule: "Did you touch it on purpose?"Sometimes I do.Such a tourist."
+
+# c76349ac
+; hime: 「うん。非日常な出来事、起こらないかなと思って。[i][char hime.komaru]そうなるとね。嫌な事は全部、忘れられる気がして」
+hime: "Yeah. I thought something extraordinary might happen.[i][char hime.komaru] That's what happens.I feel like I can forget everything I don't like."
+
+# 8bacc4f9
+; 何か嫌な事があったのか。……ま、そこはあえて踏み込むべきではないか。
+Did something bad happen? …… Well, shouldn't we step into it?
+
+# 369eb9c9
+; me: 「ヒヒーン（だからって、それは禁忌だって、言ったのにな）」
+me: "niegh (I told you it was contraindicated.)"
+
+# 5d5c8066
+; hime: 「うん。タブーだとは聞いてたけど、知ってても触れちゃった」
+hime: "Yeah. I heard it was taboo, but even if I knew it, I touched it."
+
+# 3803a686
+; yule: 「昔は、タブーでも何でもなかったんですけどね。[i]人間世界でそんなタブーができたのは割と最近の事です」
+yule: "In the past, it wasn't taboo.[i]It is relatively recent that such a taboo has been created in the human world."
+
+# e2b7236d
+; hime: 「え？そうなの？」
+hime: "What? Really?"
+
+# 7adb19fc
+; yule: 「はい。この頃エルフたちがおかしくなっちゃって。[i]【エルフの祟り】と名付けられた被害が出てきたせいです」
+yule: "Yes, these days Elfs have gone crazy.[i]It's because of the damage that was named 】's curse."
+
+# e8260ec7
+; me: 「ヒヒーン（で、ヒメは【エルフの祟り】にあったのか）」
+me: "niegh (And was Hime the curse of 【Elf?)"
+
+# 6c15d7c0
+; hime: 「うん。そこから記憶が途切れてるから。[i]その【エルフの祟り】で、わたしはこのトゥーレに来たのだと思うよ」
+hime: "Yeah, I can't remember from there.[i]】 the curse of 【Elf, and I think I came to this Thule."
+
+# 4370b8ae
+; yule: 「えっと、それは違うと思います」
+yule: "Well, I don't think so,"
+
+# baa3ce4a
+; me: 「ヒーン？（何が？）」
+me: "niegh? (What?)"
+
+# 5399a4ee
+; yule: 「エルフたちの魔法くらいで、人間をトゥーレ連れてくる事は不可能です」
+yule: "It's impossible to bring a human Thule with the magic of Elf."
+
+# c4410b08
+; me: 「ヒヒーン（そういえば……）」
+me: " niegh (Now that you mention it, ……."
+
+# 2a17196e
+; フェージングで人間を連れて来るのは無理だと聞いてた。
+Phasing I heard that it is impossible to bring people here.
+
+# 4f676c3
+; 考えてみると、俺があった【エルフの祟り】はもっと直接的な被害だった。
+If you think about it, 】's curse 【Elf, which had me, was more direct damage.
+
+# 805243c7
+; 車がひっくり返されたよな。
+The car was overturned.
+
+# da5c8ac2
+; me: 「ヒヒーン（ヒメがトゥーレに来たのは、エルフのせいではないのか？）」
+me: "Isn't it Elf's fault that Hime came to Thule?"
+
+# 80eb6de4
+; yule: 「はい。それはエルフの仕業ではないと思います。[i][char yule.eto]最近、突然と人間がトゥーレに現れる現象がありますから、[i]その影響だとは思うますが……」
+yule: "Yes, I don't think Elf did it.[i][char yule.eto] Recently, there has been a phenomenon in which humans suddenly appear in Thule. [i]I think that's the effect, but ……."
+
+# 72ae182
+; me: 「ヒィーん（偶然、時期がかぶっちゃった？）」
+me: "niegh (Did you happen to have a chance?)"
+
+# 94e740ca
+; hime: 「でも、わたしが気を失ったのは、【エルフの住処】に触れた直後だったよ？」
+hime: "But I fainted shortly after I touched 】, where 【Elf lived?"
+
+# 9fa5d79c
+; me: 「ヒィーん（なんだか関係はありそうにみえるけどね）」
+me: " niegh (although it seems to have something to do with it)"
+
+# 1c87d2b
+; yule: 「そうですね。何かあるかも知れませんけど……」
+yule: "Yes, there may be something, but ……."
+
+# bb8845b9
+; hime: 「ユールちゃんも知らないの？」
+hime: "You don't even know Yule?"
+
+# f3c9b5a8
+; yule: 「最近のトゥーレで起こってる事は、ユールちゃんにも知らない事が多いですから」
+yule: "There are many things that Thule doesn't know about these days."
+
+# ad6b0e67
+; me: 「ヒヒーン（……ヒルドルなら、知ってるかな？）」
+me: "Do you know niegh?"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 603cb9d3
+; me: 「ヒヒーン（あいつ、エルフの女王だろう？【エルフの祟り】と、人間がトゥーレに迷い込む現象について聞いてみてもいいじゃないか？）」
+me: "niegh (She's the Queen of Elf, isn't she?)Why don't we ask about the curse 】 of 【Elf and the phenomenon of humans getting lost in Thule?"
+
+# 271edd9c
+; yule: 「あ、そうですね！一応、聞いてみてもいいかもです」
+yule: "Oh, yes!You may ask them just in case."
+
+# 68c9b7c2
+; hime: 「うん！もうすぐ会えるんだし。女王さま」
+hime: "Yeah! We'll see each other soon.My Queen."
+
+# f4b3771d
+; me: 「ヒヒーン（どのみちもうすぐ人間世界に帰れるわけだし。今更原因なんて知らなくてもいいとは思うけど、気になるからな）」
+me: " niegh (Either way, we can soon return to the human world.I don't think I need to know the cause now, but I'm curious.)"
+
+# 3c14e3a
+; hime: 「うん。知った方がすっきりすると思う」
+hime: "Yeah. I think it'll be better to know."
+
+# 88d6ff0d
+; me: 「ヒヒーン（さて、ヒルドルのところへ急ぐとするか。えっと、どっちだ？）」
+me: " niegh (Well, let's hurry to Hildur.Well, which one?"
+
+# 4858e65c
+; yule: 「えっと、あの湖の、浅いところを渡る必要がありますね。こっちです」
+yule: "Well, we must cross the shallow part of that lake.This way."
+
+# 7080f7be
+; 湖を超えるか。
+Over the lake?
+
+# 5ac619a
+; 俺の馬力が試される時が来たな。
+The time has come to test the horsepower of me.
+
+# ffea6c93
+; ……ってすっかり馬としてアイデンティティーを持ち始めたな俺。
+…… and you're beginning to have your identity as a horse me.

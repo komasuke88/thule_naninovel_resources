@@ -1,0 +1,37 @@
+; Japanese <ja> to English <en> localization document for `road85` naninovel script
+
+# ce14785
+; me: 「東アイスランの終わりだな」
+me: "It's the end of the East Ice Run,"
+
+# 7b022fb
+; ここが東北アイスランドの分岐点。
+This is the turning point of Tohoku Iceland.
+
+# c087ff1c
+; もうすぐ <ruby="ディムボルギル"> Dimmuborgir</ruby>につく。
+We're almost at <ruby=" dimmuborgir">Dimmuborgir</ruby>.
+
+# 3c858fca
+; me: 「道は、どうするか」
+me: "What shall we do about the road?"
+
+# 33baf5f6
+; このまま国道１番号、リングロードを沿って西方向へ行けば、Dimmuborgirだ。
+Go west along National Highway 1, Ring Road, and you'll find Dimmuborgir.
+
+# de9c5d74
+; そしてリングロード巡礼の旅なら、リングロードを辿って行くのが定番だ。
+And for Ring Road pilgrimage, it is standard to follow Ring Road.
+
+# 540fa940
+; 北の方へ向かう国道８５番号には特に行かなくても良さそうではあるが……
+I don't think I need to go to National Highway 85 heading north, but ……
+
+# 4779f789
+; me: 「ま、風の向くまま、気の向くままだな」
+me: "Well, as the wind blows, as you please,"
+
+# 64dfe8c0
+; 道はどこへでも繋がってるからな。
+The roads are connected everywhere.

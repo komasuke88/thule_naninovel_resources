@@ -1,0 +1,405 @@
+; Japanese <ja> to English <en> localization document for `2_02_1_hime` naninovel script
+
+# 4c3eeab
+; girl: 「{playerName}？変わった名前だね」
+girl: " {playerName}? That's a strange name."
+
+# dac22a36
+; 空港エリアからレイキャヴィクへ向かう道。
+The road from the airport area to Reykjavik.
+
+# c2114cc2
+; お互い軽く自己紹介を済ませた。
+We introduced ourselves briefly.
+
+# d1f54b7c
+; me: 「ペンネームのようなもんさ」
+me: "It's like a pen name,"
+
+# 525d5a5
+; girl: 「じゃあ、わたしはヒメって呼んで？」
+girl: "Then call me Hime?"
+
+# 9fa8fcea
+; me: 「姫さま？」
+me: "Princess?"
+
+# d83c2cd6
+; hime: 「それいい！うん。南川姫花だから、ヒメ」
+hime: "That's good! Yes, it's Namikawa Himeka, so Hime."
+
+# 859a6eb0
+; いつの間にか、タメ口になってる。
+He's speaking informally.
+
+# e8057506
+; この子、意外とフランクな性格だった。
+She had a surprisingly frank personality.
+
+# 98afefa3
+; hime: 「それにしてもすごい偶然ね。同じ日に来て、同じ日に帰るなんて」
+hime: "But what a coincidence!to come on the same day and go back on the same day."
+
+# ae959745
+; me: 「そうだな。こんな事もあるんだな」
+me: "Well, I can't believe this happened."
+
+# cf8939b5
+; 俺と彼女は、帰りの飛行機便までも同じだった。
+I she said, as well as her return flight.
+
+# 4c7aca72
+; アイスランド旅行が終わっても、成田でまた会うことになる。
+Even after the trip to Iceland, we will meet again in Narita.
+
+# c82891d0
+; hime: 「{playerName}は、一人旅中なの？」
+hime: "Is {playerName} traveling alone?"
+
+# b20a8273
+; me: 「そうだよ」
+me: "Yes,"
+
+# e6b605a9
+; hime: 「すごいね。そんなの、かっこいいと思う」
+hime: "That's amazing. I think that's cool."
+
+# 42c81e1a
+; me: 「ヒメも、一人旅なんだろう？」
+me: "Is Hime traveling alone?"
+
+# 660ad75e
+; hime: 「わたし？[i][char hime.car_sad_close_e]……あっ、そうだね。今は、[i][char hime.car_sad_w_emi]わたしもそうだよね」
+hime: "Me? [i] [char hime.car_sad_close_e] …… Oh, that's right.Right now, [i][char hime.car_sad_w_emi] So am I."
+
+# c5fbbad5
+; me: 「今、は？」
+me: "What now?"
+
+# ca873a0c
+; hime: 「最初は、一人旅じゃなかったけどね」
+hime: "I wasn't traveling alone at first,"
+
+# 4c0eb966
+; me: 「それは……同行人が来れなくなったとか？」
+me: "Is that ……'s companion no longer able to come?"
+
+# 7e0fbc89
+; hime: 「うーん。なんて言えばいいのかな……[i][char hime.car_sad_w_nico]彼氏とお別れしちゃってさ。[i]つい先週」
+hime: "Well, what should I say? ……[i][char hime.car_sad_w_nico] I'm leaving my boyfriend.[i]just last week."
+
+# 29078b14
+; me: 「そ、そう」
+me: "Yes, yes,"
+
+# 5f2c4eb4
+; 重い話なのに、さり気なく言う。
+It's a serious story, but I say it casually.
+
+# 193c64fc
+; hime: 「わたしって、いつもこうなんだ。恋愛って難しいわ」
+hime: "I'm always like this.It's hard to fall in love."
+
+# b8181ae0
+; 独り言かどうか区別がつかない口調で、ヒメはそんな事を言った。
+In a tone indistinguishable from whether he was talking to himself or not, Hime said such a thing.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 8a35ae5f
+; 俺は恋愛経験ゼロだから、何か言える事もなくて黙った。
+I had no experience in love, so she had nothing to say and shut up.
+
+# d3decac2
+; hime: 「元カレは飛行機キャンセルしたけどさ。[i][char hime.car_b_a_nico]わたしはそのまま強行して、[i][char hime.car_angry_wink_emi]で、ここに居るわけ」
+hime: "My ex-boyfriend canceled her flight.[i][char hime.car_b_a_nico] I'll just force it and stay here [i][char hime.car_angry_wink_emi]."
+
+# a4313d55
+; me: 「まぁ、よくやったよ。[i]海外旅行って、一度チャンスを逃したら中々次が掴まれないからね」
+me: "Well, well done.[i]When you travel abroad, once you miss an opportunity, you can hardly get the next one."
+
+# fa39035a
+; hime: 「うん。せっかくだから、自分探しの旅でもしようと思ってね。[i][char hime.car_b_w_nico]失恋旅行だけど、へへ」
+hime: "Yes. I'm thinking of going on a trip to find myself.[i][char hime.car_b_w_nico] It's a trip with a broken heart, but hehe."
+
+# aa4dd5ee
+; 表情は少し悲しげだったけど、言い方は爽やかだった。
+His expression was a little sad, but his way of speaking was refreshing.
+
+# f95adbd7
+; me: 「この旅で、何もかも忘れるといいさ」
+me: "You may forget everything on this journey,"
+
+# 45109b4d
+; hime: 「うん。ありがとう。そうする」
+hime: "Yes, thank you.I will."
+
+# fec376e4
+; だから俺も重くならず、さり気なく答えた。
+So me did not weigh heavily, and answered casually.
+
+# f5d1245e
+; お互いに一回きりの関係だってわかってるから、
+We know that it's a one-time relationship.
+
+# 93980900
+; こんな重い話題も軽く言えるかも知れない。
+Such a heavy topic may be lightly talked about.
+
+# e6ed3f07
+; hime: 「{playerName}って、会社員なの？」
+hime: "Is {playerName} an office worker?"
+
+# d14658e9
+; me: 「いや。ちょうど先週やめたんだから、今はニートね」
+me: "No, I quit just last week, so now I'm NEET."
+
+# bf09a7e0
+; hime: 「すごいね。会社やめて二週間も海外旅行なんて」
+hime: "That's amazing. I quit my job and traveled abroad for two weeks."
+
+# 45db3b8c
+; me: 「まぁ、やっちまった感あるな」
+me: "Well, I feel like I've done it,"
+
+# e2e0be07
+; これからどうしようって不安はあるけど、今はただ旅を楽しむ事にした。
+I'm worried about what to do from now on, but now I just decided to enjoy my trip.
+
+# 28ca50de
+; me: 「人生、なるようになるからね」
+me: "Life will be like that."
+
+# 45118d95
+; hime: 「わたし、社会人になったらこんな長期旅行は無理かなーって思ってた。ちょっと感心」
+hime: "I thought I wouldn't be able to travel this long if I became a member of society.I'm a little impressed."
+
+# 83cd4192
+; me: 「ヒメは、まだ大学生だったよな」
+me: "You were still a college student, weren't you?"
+
+# 99b347e9
+; hime: 「うん。四年生だから、今年で最後だけどね」
+hime: "Yeah. I'm in the fourth grade, so this is my last year."
+
+# e1e191
+; me: 「就職の内定が決まって、卒業旅行って感じかな？」
+me: "I guess it's like a graduation trip because I got a job offer."
+
+# e6674da0
+; hime: 「ううん。決まってない。[i][char hime.car_sad_a_emi]というか、就活もしなかった。[i][char hime.car_b_close_pero]だから、わたしもニート予定だよ」
+hime: "No, I haven't decided yet.[i][char hime.car_sad_a_emi] Or rather, he didn't even get a job.[i][char hime.car_b_close_pero] So I'm planning to have a NEET, too."
+
+# 52774aa8
+; 似たような立場だねと、くすりと笑う。
+He grinned, saying that he was in a similar position.
+
+# 77bc9278
+; me: 「そっか。まぁ、自由な未来が待ってるんだから、いいんじゃないか」
+me: "Well, I think it's good to have a free future."
+
+# f2c97062
+; hime: 「ふふふ、その解釈、いいね」
+hime: "Huh, that interpretation is good."
+
+# 66c89899
+; me: 「でも大学生なのに二週間もアイスランド旅行を決めるなんて、厳しかったじゃないの？[i]ここ、物価も高いし」
+me: "But wasn't it difficult for you to decide to travel to Iceland for two weeks even though you were a college student?"[i]Prices are high here."
+
+# 3ebe51ab
+; hime: 「ううん。わたし、お小遣い結構もらってるから。余裕だったんだ」
+hime: "No, I get a lot of pocket money.I was relaxed."
+
+# 29078b14
+; me: 「そ、そう」
+me: "Yes, yes,"
+
+# e9ae5c66
+; 普通、２週間のアイスランド旅行費用は、目安として５０万円くらい。
+Usually, a two-week trip to Iceland costs about 500,000 yen.
+
+# e68b9d06
+; 極端に節約したバックパッカーでも、２５万円くらいはかかるはずだ。
+Even a backpacker who has saved so much money should cost about 250,000 yen.
+
+# 23ba91dd
+; 後者でも決して安くない。
+The latter is by no means cheap.
+
+# c447ad03
+; そしてヒメの場合、どうも後者には見えない。
+And in the case of Hime, it does not appear to be the latter.
+
+# 6a27e3a4
+; お小遣いでなんとかできるレベルではないと思うけどな。
+I don't think I can manage it with my allowance.
+
+# 7a5c7bf7
+; 俺なんて、何年間も給料もらって、[br]溜まってきたお金があるからこそ、やっと決められたのに……
+I I've been paid for years, [br] I've been saving money, so I've finally decided ……
+
+# c4b8b80f
+; [br]……っていうか、大学生がお小遣いもらってる時点でもう俺とは違うよな。
+[br]…… I mean, it's different from me when college students get pocket money.
+
+# 9f1cf998
+; この子、お金持ちのお嬢様なのかな。
+I wonder if she's a rich girl.
+
+# 3ea899f
+; ……
+……
+
+# a8d05205
+; ヒメと色んな話をしてると、結構時間が経ったようだ。
+Hime It seems like it's been quite a while since we talked about various things.
+
+# 976e5fc3
+; 周りの風景が、先とはまた変わってきた。
+The scenery around me has changed again.
+
+# 4abe6e9a
+; 遠くからは、雪山が眺められ、本当に北欧に来たって感じがした。
+From a distance, I could see snow mountains, and I felt like I really came to Northern Europe.
+
+# b8937ec3
+; そして近くには、黒い岩と苔に覆われた奇妙な荒野。
+and near was a strange wilderness covered with black rocks and moss.
+
+# 3a7e35f0
+; なんとも異国的な眺めが広がっていた。
+There was a very exotic view.
+
+# 73ce01f1
+; hime: 「すごいね。これが、アイスランドなんだ」
+hime: "That's amazing. This is Iceland."
+
+# 569aea97
+; me: 「ああ。ちょっと車止めていいかな？写真取りたい」
+me: "Yes. Can I pull over for a moment?"I want to take a picture."
+
+# ffda1a18
+; hime: 「いいよ。わたしも撮りたいし」
+hime: "Okay, I want to take a picture, too."
+
+# 9f9c58ed
+; 道端に車を止めて、
+Pull over to the side of the road.
+
+# 941238ca
+; 俺は後ろ席のカバンからカメラを取り出した。
+I took the camera out of his back bag.
+
+# cda8d679
+; レンズを交換して、設定の調整をしていると、ヒメが聞いてきた。
+Hime asked me when I was changing the lens and adjusting the settings.
+
+# ada84e34
+; hime: 「大きいカメラ持ってるんだね。専門家？」
+hime: "You have a big camera.An expert?"
+
+# ea07e3a
+; me: 「いや、素人だけど、ちょっと無理して買ったんだ」
+me: "No, I'm an amateur, but I forced myself to buy it."
+
+# 81654b39
+; hime: 「趣味なの？」
+hime: "Is it a hobby?"
+
+# 7e0bebde
+; me: 「俺、旅行記の本を出そうとしてるんだ。で、そこにカッコいい写真を付けたくてな」
+me: "I'm trying to publish a travel book me.And I want to put a cool picture on it."
+
+# c108aaa6
+; hime: 「えっ？{playerName}って旅行作家さんだったの？」
+hime: "What? Was {playerName} a travel writer?"
+
+# c64d6e6c
+; me: 「いや、作家志望者だよ。まだ一冊も出してないし」
+me: "No, I'm an aspiring writer.I haven't published a single book yet."
+
+# 6206c9
+; hime: 「会社員やめたのって、旅行作家にデビューするためだったんだ」
+hime: "I quit my job because I wanted to Byu a travel writer."
+
+# bbffdda6
+; me: 「うん。ちょっとしたチャレンジっていうか」
+me: "Yeah. It's a little challenge."
+
+# 31b4c7ad
+; hime: 「なれるよきっと！[i][char hime.car_b_wink_emi]{playerName}が本出したら絶対に買うね」
+hime: "`I'm sure I'll get used to it!'[i][char hime.car_b_wink_emi] I'll definitely buy {playerName} when they publish a book."
+
+# 87fc345f
+; me: 「はは、ありがとう。ま、出せたらな」
+me: "Yes, thank you. Well, I wish I could."
+
+# 9f85f057
+; そんな会話すしてるうちにカメラの調整が終わって、そろそろ降りようとした。
+After that conversation, I finished adjusting the camera and I was about to get off.
+
+# 302c057
+; me: 「降りるぞ」
+me: "I'm going down,"
+
+# a8366664
+; hime: 「はーい」
+hime: "Yes,"
+
+# c9cf5122
+; 車のドア開かれて、車から降りた瞬間、
+As soon as I got out of the car door,
+
+# 9a7d49fb
+; hime: 「きゃっ！」
+hime: "Oh, my God!"
+
+# f694bd5d
+; me: 「うわーっ！」
+me: "Whoa!"
+
+# 136d50fd
+; ご————と、凄まじい風の圧力を感じた。
+I felt tremendous wind pressure.
+
+# e5701366
+; 正面から向かい合うと、息もできないくらい。
+I can't breathe when I face each other.
+
+# fcd5cd80
+; このデカイ車まで、揺れてる。
+Even this big car is shaking.
+
+# f3e5062a
+; ヒメの方は、髪が風に荒らされて、大変な事になっていた。
+Hime, whose hair had been ravaged by the wind, was in great trouble.
+
+# befac276
+; あとスカートの方も、大変な事に……
+Also, for the skirt, ……
+
+# 2a04ce05
+; hime: 「わ、わたしは車の中に戻るよ」
+hime: "Well, I'll go back into the car,"
+
+# 52e13bad
+; ヒメはスカートを抑えながら、困り顔でそう言った。
+said Hime, holding his skirt back, with a troubled look.
+
+# 423d2768
+; me: 「あ、ああ。それがいい」
+me: "Oh, yes, that's good."
+
+# 8ccdbf20
+; そして乱れた髪を整えながら、助手席に戻った。
+and, trimming his disheveled hair, returned to the passenger seat.
+
+# d4a9e411
+; me: 「くっ」
+me: "Damn it,"
+
+# 2994774f
+; 俺も長居ができなく、三枚くらい撮って、すぐ運転席に戻った。
+I couldn't stay long, so I took about three pictures and immediately returned to the driver's seat.

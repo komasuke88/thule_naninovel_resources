@@ -1,0 +1,105 @@
+; Japanese <ja> to English <en> localization document for `godafoss` naninovel script
+
+# db595dd9
+; ここは、 <ruby="ゴーザフォス"> Goðafoss</ruby>。
+This is <ruby="Go the Foss">Go ðafoss</ruby>.
+
+# 93f4e595
+; その名の意味は『神々の滝』
+The name means 『 The Falls of the Gods 』
+
+# 9a486aa0
+; 広さ３０ｍ、高さ１２ｍの壮観な滝で、ダイアモンド・サークルの必須コースの一つだ。
+It is a spectacular waterfall 30 meters wide and 12 meters high and is one of the essential courses of the Diamond Circle.
+
+# aef31ea3
+; me: 「神々の滝……壮大な名前だな」
+me: "The Fall of the Gods …… That's a magnificent name,"
+
+# 2629fd1e
+; そのような大げさな名前がこの滝についた理由については、アイスランドの歴史で語られてる。
+The reason why such an exaggerated name came to the waterfall is said in Icelandic history.
+
+# 5f5d6097
+; ９世紀。
+the ninth century.
+
+# aa673969
+; 北欧の人々が初めてアイスランドに定着した頃、
+When the Nordic people first settled in Iceland,
+
+# 74bbcb17
+; 多くの人はトール・オーディン・ロキのような古代ノルドの神を崇拝していた。
+Many people worshipped ancient Norse gods such as Thor Odin Loki.
+
+# 7f6d3b69
+; しかし西暦９３０年から、全ヨーロッパでキリスト教への改宗の圧力が強くなった。
+However, from 930 A.D., pressure to convert to Christianity increased throughout Europe.
+
+# 203ed5a0
+; 西暦１０００年では、もはや改宗しなければ異教の国と断定され、
+In 1000 A.D., it was declared a pagan country if it was no longer converted;
+
+# b33a8c6f
+; ヨーロッパの国からの侵略がほぼ確実な状態だった。
+The invasion from European countries was almost certain.
+
+# 7d21fa9a
+; 当時の立法者は <ruby="アゥサトゥル"> Ásatru</ruby>の司祭、 <ruby="ソルゲイル・リョーサンヴァトンガゴディ"> Þorgeir</ruby> Ljósvetningagoði。
+The legislators at the time were the priests of <ruby=" Á"> Þatru</ruby>, and <ruby="Solgail Ryeosambatongaddi"> óorgeir</ruby> Lj ðsvetningago Asatrui.
+
+# 63ebc68
+; 彼はアイスランドの改宗についての決定権を持っていた。
+He had the right to decide on the conversion of Iceland.
+
+# af9197d
+; 彼は毎日のように毛皮の上で跪け、正しい決定を下せますようにと、
+He knelt down on his fur almost every day, hoping that he could make the right decision.
+
+# 557a739d
+; 苦悩しながら、オーディンに祈ってた。
+I was praying to Odin in agony.
+
+# 4de5b604
+; やがて <ruby="シンクヴェトリル"> Þingvellir</ruby>で議会が開かれ、
+Eventually, Congress will be held at <ruby=" Thingvellir"> Þingvellir</ruby>.
+
+# a4754425
+; 彼は結局、人々の利益のために、キリスト教を公式的に認めて、国教に決めた。
+In the end, he officially recognized Christianity for the benefit of the people and decided to become a national religion.
+
+# 5ac9973a
+; その決定を証明するために、彼は北アイスランドの家に帰り、
+To prove his decision, he went back to his house in Northern Iceland.
+
+# 3f0b539c
+; 古代ノルドの神々の偶像を、この美しい滝の下へ投げ捨てたという。
+It is said that the idols of the ancient Nord gods were thrown under this beautiful waterfall.
+
+# 3f5367f4
+; それ以来、この滝は神々の滝、Goðafossと呼ばれている。
+Since then, the waterfall has been called Go ð afoss, a waterfall of gods.
+
+# 2911f55b
+; me: 「アゥサトゥルの司祭が、ここで信仰を捨てたんだ」
+me: "The priest of Asatru gave up his faith here,"
+
+# 5b0c4e4c
+; だからこの滝は、司祭って意味のgoðiを使い、 <ruby="ゴーディフォス"> goðifoss</ruby>とも呼ばれてるらしい。
+That's why this waterfall uses go ði, which means priest, and is also called <ruby="gordifoss">go ðifoss</ruby>.
+
+# 96851a27
+; me: 「アゥサトゥルって、結構歴史のある宗教だったんだな」
+me: "It was quite a long-established religion, Asatru said."
+
+# 9c9ce5b2
+; 今では異教徒扱いされてるけど、キリスト教に改宗される前の、古代のアイスランドでは国教だったんだな。
+He is now treated as a pagan, but he was a national religion in ancient Iceland before he was converted to Christianity.
+
+# 1f1acb25
+; そのノルド信仰の象徴である神々の像が、今でもこの滝の下に眠ってるんだよな。
+The statues of the gods, the symbol of Nord's faith, still sleep under this waterfall.
+
+# 9df04591
+; 俺はオーディンを信じるわけではないけど、その信仰の長い歴史には自然と頭が下がった。
+I did not believe in Odin, but the long history of his faith naturally bowed his head.

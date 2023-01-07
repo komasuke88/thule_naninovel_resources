@@ -1,0 +1,261 @@
+; Japanese <ja> to English <en> localization document for `6_03_2_vatnahole` naninovel script
+
+# a1655489
+; 氷河の崩れ音がやんで、また静かになった。
+The sound of the glacier collapsing stopped and became quiet again.
+
+# 702d8fc9
+; 俺たちは穴の探索を続ける。
+I They continue to search for holes.
+
+# fdbe12bb
+; 新しいクレバスを発見して、近づく。
+Discover and approach a new crevasse.
+
+# 9e646c51
+; 山も結構高いところまで登ってきて、
+The mountain had climbed quite high.
+
+# 55346454
+; そろそろ体力が限界になろうとした時、それはあった。
+It happened when I was about to run out of energy.
+
+# 9a5e2e8
+; ざわざわと。
+in a loud voice.
+
+# 40201525
+; 穴の底から、人々の喋り声。
+From the bottom of the hole, the voices of people talking.
+
+# d0d3402c
+; この誰もいないはずの荒涼なこの氷河には、似合わない音。
+A sound that does not suit this desolate glacier, which is supposed to be empty.
+
+# 8df3743b
+; yule: 「くすくす、見つけました。エルフめ」
+yule: "I found giggle.Elf You know what?"
+
+# f8b89c72
+; そう言って、スプーンを取り出すユールちゃん。
+Then Yule took out the Spoon.
+
+# 14054700
+; me: 「……それで攻撃でもするのか？」
+me: "…… So you're going to attack me?"
+
+# 9815ae09
+; yule: 「いいえ。仕事する前に気力を補充しようかと」
+yule: "No, I'm thinking about replenishing my energy before I work."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# e39bb2bb
+; ユールちゃんは、スプーンを地面に突っ込んだ。
+Yule thrust Spoon into the ground.
+
+# 3897310e
+; 飛び散る雪と氷の破片に続き、地面の中身が見えた。
+Following the splashing snow and ice fragments, I could see the contents of the ground.
+
+# 802b3f3d
+; エメラルド色に光る氷。
+emerald-colored ice.
+
+# d91088c0
+; 氷河って言われてもじっくり来なかったけど、こうして地面から氷が出てくると実感する。
+They didn't come slowly even though they said it was a glacier, but I realized that ice came out of the ground like this way.
+
+# 430be14e
+; やっぱりここは氷河の上だな。
+We're on a glacier, after all.
+
+# 6d65fe34
+; それにしても、いきなり何をやってるんだ……
+But what are you doing all of a sudden ……
+
+# e8fd7db1
+; yule: 「よっと」
+yule: "All right,"
+
+# 1d094e42
+; 氷を地面から削り出して、食べた。
+I shaved the ice off the ground and ate it.
+
+# 85a0859b
+; yule: 「もぐもぐ……ふぅぅ…」
+yule: "`Mumbling …… Whoo...'"
+
+# 6b341728
+; ……気力補充って、氷が食べたかったのか。
+…… Did you want to eat ice to replenish your energy?
+
+# 6f3e03a8
+; me: 「それ、うまいの？」
+me: "Is that good?"
+
+# 92c06713
+; yule: 「{playerName}も食べましょう。……はいっ」
+yule: "Let's eat {playerName}, too.…… Yes."
+
+# 3209222a
+; 氷河の欠片をもらった。
+I got a piece of glacier.
+
+# 7c0d4a90
+; ちょうど俺も喉が渇いてたから、食べてみる。
+I was thirsty too, so I'll try it.
+
+# 98aba56b
+; me: 「もぐもぐ……ん？」
+me: "What about ……?"
+
+# 3f7a91
+; これはすごい。冷たくて美味しくて、そして……
+This is amazing. It's cold, delicious, and ……
+
+# 1d6b4527
+; me: 「おおおおっ！？」
+me: "Oh, my!"
+
+# 140480fe
+; 疲れが取れていく！元気が湧いてくる！
+I'm getting rid of my fatigue!It gives me energy!
+
+# 8ec2c24
+; HPがMAXになった！MPがMAXになった！
+HP is now MAX!The MP's are now MAX!
+
+# 34811cb2
+; ……って、MPってなんだ。俺にそんなものはない。
+…… What is an MP?me There is nothing like that.
+
+# 5af1c174
+; yule: 「くすくす、いいでしょう？」
+yule: "Is giggle all right?"
+
+# dd436b23
+; me: 「おおぅ、ピンピンになった。これはすごい」
+me: "`Oh, my God, it's a snap,' said.This is amazing."
+
+# 8fc1639f
+; yule: 「あらやだ。どこがそんなにピンピンですか？くすくす、ちょっと見せて下さい」
+yule: "Oh, no. Where is it so sharp?"giggle Let me see."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 8f759f0c
+; @choice "見せない" goto:.kaihuku
+@choice "I won't show you" goto:.kaihuku
+
+# 2e015983
+; @choice "見せる" goto:ed_6_03_2_miseru
+@choice "Show me" goto:ed_6_03_2_miseru
+
+# 1c9de858
+; 睨む。
+glare at .
+
+# ac55adb9
+; yule: 「じょ、冗談ですよ冗談。んじゃ、早く入りましょう」
+yule: "I'm just kidding. Let's get in now."
+
+# 648b613c
+; ……実は、本当にあっちも元気になった。
+…… Actually, they really got better.
+
+# dc44d76e
+; MPって、ManPowerだったな。
+MP was ManPower.
+
+# 212a9a8e
+; 恐るべし氷河の氷。
+terrifying glacial ice.
+
+# b4810b9
+; だけどこんなこと言うと、ユールちゃんがまたウザくなりそうだから黙っておこう。
+But if you say this, Yule will be in a bad mood again, so I'll shut up.
+
+# 2d39a572
+; とりあえず体力も戻ったし、記憶を取り戻しに行きますか。
+First of all, I'm back in strength, so I'll go get my memory back.
+
+# cf4d5f68
+; ユールちゃんと亀裂の前に立った。
+Yule I stood before the crack.
+
+# ad6cc54b
+; 巨大なクレバス。
+a huge crevasse.
+
+# bcce31e6
+; me: 「そ、それで、このままここに飛び込むの？」
+me: "And you're just going to jump in here?"
+
+# e47edfb1
+; yule: 「そうですよ」
+yule: "Yes,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 843c3dfd
+; 先は適当に入りたいって言ったけど……いざ入るとすると、怖い。
+I said I wanted to go in, but …… I'm scared when I go in.
+
+# 12ea1335
+; こんな穴に飛び込んだら、氷の間に挟まれて抜けられないのではないか。
+If you jump into a hole like this, you won't be able to get caught in the ice.
+
+# 8f1a805
+; me: 「……普通、クレバスって、飛び込んでいいものか？」
+me: "Is …… normally a good idea to jump in?"
+
+# e2d84835
+; yule: 「いやいや、自殺行為ですよ。[i]他の穴には絶対に入らないで下さいよ？」
+yule: "No, no, it's suicide.[i]Don't ever go into any other hole?"
+
+# 686c3f67
+; me: 「でも、ここに飛び込むんだよな」
+me: "But you're going to jump in here,"
+
+# 1bbe58e8
+; yule: 「こっちだけは、エルフのカモフラージュですから」
+yule: "This is the camouflage of Elf,"
+
+# 8fb3d5dd
+; me: 「そうか。ここはクレバスに見えるけど、そうじゃなかったんだ」
+me: "Well, it looks like crevasse here, but it wasn't."
+
+# 5c2f899d
+; yule: 「そうですよ。まあ、何もかも行ってみればわかりますよ」
+yule: "Yes, sir. You'll find out if you go to everything."
+
+# 7e99bbf2
+; yule: 「さて！」
+yule: "Now!"
+
+# 295952c7
+; me: 「えっ？ちょっ……」
+me: "What? Wait a minute ……."
+
+# d6e40434
+; ユールちゃんは俺を掴むと、そのまま引っ張って飛び降りた。
+Yule grabbed me and pulled him straight down.
+
+# 3f62e859
+; me: 「ちょ、ちょっ…うわぁぁぁぁぁ！」
+me: "Wait, wait, wait, wait, wait, wait, wait, wait, wait.Oh, my God!"
+
+# 3c4d77c2
+; yule: 「くすくすくす」
+yule: "The giggleus,"
+
+# 49d0a533
+; そして俺たちは、兎穴に入り込むアリスのように、クレバスに飛び込んだ。
+and they jumped into crevasse, like Alice in the rabbit hole.

@@ -1,0 +1,173 @@
+; Japanese <ja> to English <en> localization document for `stykkisholmur` naninovel script
+
+# d29b2ba8
+; me: 「町まで辿り着く道が……険しいな」
+me: "The road to Village is …… steep."
+
+# df8b7d7d
+; 経路を間違えた。
+I took the wrong route.
+
+# 5a3020a
+; もっと簡単な道もあっただろうに、あえて険しそうに見える周り道を選んだ結果、こんな道路を通るはめになった。
+There would have been an easier road, but as a result of choosing a road that looked rough, I ended up going through this road.
+
+# 945a5f56
+; 未舗装道路といってもこんな険しい場所に、ちゃんと道路が作られてるのが信じられないくらいだ。
+It's hard to believe that roads are built in such a steep place even though they are not built yet.
+
+# e2482e57
+; me: 「そういや、この道路についての昔話があったよな」
+me: "There was an old story about this road, by the way,"
+
+# 48eaa87a
+; ここは <ruby="ベルセルクヤフロイン"> Berserkjahraun</ruby>。
+This is <ruby="Berserkjahraun"</ruby>.
+
+# 87515c65
+; スナイフェルスネス半島のHelgafell山の西で、４０００年前に形成された溶岩地帯だ。
+Snaefellsnes It is a lava zone formed 4,000 years ago west of Mount Helgafell on the peninsula.
+
+# 8c1fbc6f
+; 南のエルドフロインに似てる苔の草原でもある。
+It is also a mossy meadow similar to Eldhraun in the south.
+
+# 7d0ec721
+; Berserkjahraunの名前の由来は狂戦士を意味するバーサーカーである。
+Berserkjahraun's name comes from Barserkar, which means a madman.
+
+# 359f00d4
+; 古い <ruby="エイルビギャ・サガ"> Eyrbyggja</ruby> Sagaに、この道路についての物語が述べられてる。
+The old <ruby="Ailbiga Saga">Eyrbyggja</ruby> Saga tells a story about the road.
+
+# 3776cf75
+; この近くの町に、 <ruby="ヴィガ・スティル"> Víga-Styr</ruby>という農夫がいた。
+There was a farmer named <ruby="Viga Still">V íga-Styr</ruby> in Village near here.
+
+# f2078624
+; 彼は農場で働かせるために、スウェーデンから二人のバーサーカーを連れてきた。
+He brought two berserkers from Sweden to work on the farm.
+
+# a27ebaf3
+; だけどその中の一人が農夫の娘と恋に落ちて、結婚すると申し出た。
+But one of them fell in love with the Farmer's daughter and offered to marry her.
+
+# 21cec2f
+; 農夫はそれを拒絶したかったけど、バーサーカーが怖くて言えなかった。
+The farmer wanted to reject it, but he was afraid of Barserker and couldn't say it.
+
+# 69c297f9
+; その代わりに、提案をした。
+Instead, I made a proposal.
+
+# 4c42b597
+; ここの溶岩地帯に、自分の農場と兄弟の農場を繋ぐ道を作ってくれたら、
+If you could make a way to connect your own farm to your brother's farm in the lava area,
+
+# 35cd1c1e
+; 自分の娘との結婚を許可すると言った。
+He said he would allow him to marry his daughter.
+
+# 8a69c0df
+; その偉業は達成不可能のように思えたけど、
+The feat seemed unattainable;
+
+# 16b1d8b4
+; バーサーカーたちは一日でその経路を作ってしまい、新しい道ができた。
+The berserkers created the route in a day, and a new one was created.
+
+# f307b13c
+; しかし農夫は約束を守る代わりに、バーサーカーたちを罠に陥れて、
+But instead of keeping his word, the farmer trapped the Barserkers;
+
+# a1bff3a
+; 二人のバーサーカーを殺し、この <ruby="ベルセルクヤフロイン"> Berserkjahraun</ruby>に埋めたという。
+He killed two berserkers and buried them in this <ruby="Berserkjahraun">Berserkjahraun</ruby>.
+
+# 2a92b069
+; me: 「狂戦士の荒野か」
+me: "Is it the wilderness of mad warriors?"
+
+# 937bebf1
+; 今走ってるこの道が、あの二人のバーサーカーが作ったって事だよな。
+This road we're running on is made by those two berserkers.
+
+# 97039754
+; 確かにこの険しい溶岩地帯に道路を作るという事は、昔なら狂戦士くらいでないと不可能と思われるだろうな。
+Surely it would be impossible to build a road in this rugged lava area unless it was a madman in the past.
+
+# ff8d4e46
+; me: 「車でもしんどいくらいだからな」
+me: "`It's almost as hard as a car,'"
+
+# 9965ae58
+; 昔作られた未舗装道路だからか、車の振動が激しいわ。
+Maybe it's an unpaved road built in the past, but the car vibrates a lot.
+
+# 15cc1687
+; 早く町に行きたいな。
+I want to go to Village soon.
+
+# 1e5cb275
+; me: 「やっと着いた！」
+me: "Here we are!"
+
+# f61e8740
+; スナイフェルスネス半島の北にある町、 <ruby="スティキーショルムル"> Stykkishólmur</ruby>。
+Village ó, north of the peninsula, <ruby="sticky sholmul">Stykkish Snaefellsneslmur</ruby>.
+
+# 78718da9
+; 古くから人が住んでいて、 <ruby="ラクスデラ・サガ"> Laxdæla</ruby> Sagaの背景にもなる町だ。
+Village has been inhabited since ancient times and is also the background of <ruby="Laxdella Saga">Laxd æla</ruby> Saga.
+
+# b73266fc
+; 情熱的で強力なヒロイン、 <ruby="グズルーン・オスヴィフルスドッティール"> Guðrún</ruby> Ósvífrsdóttirが、
+The passionate and powerful heroine, <ruby="Guz Rune Osvifflesdottir">Gu úr ín</ruby> Ósv ófrsd ðttir.
+
+# 8044edd1
+; 四名の夫を失う運命に抗って、子供たちを守りながら戦う話だ。
+It is a story about fighting against the fate of losing four husbands while protecting their children.
+
+# b97bdd51
+; サガによると、彼女はアイスランドの初のシスターになった。
+According to Saga, she became Iceland's first sister.
+
+# 5d9011f3
+; 彼女が死んだあとは、この <ruby="スティキーショルムル"> Stykkishólmur</ruby>の近くの
+After her death, you will be able to access the <ruby="sticky sholmul">Stykkish ólmur</ruby>
+
+# bf8231f1
+;  <ruby="ヘルガフェル"> Helgafell</ruby>山の墓に葬られたという。
+<ruby="Hergafell">Hergafell</ruby> He was buried in a mountain grave.
+
+# 9f86a1a1
+; me: 「アイスランドには、逞しい女性が主人公として登場するの話が多いよな」
+me: "There's a lot of talk about strong Woman appearing as Duke of Master in Iceland."
+
+# 756f81a5
+; 女性の主人公の物語、また女性モンスターの物語。
+The story of Master, Duke of Woman, and the story of Woman Monster.
+
+# 9a01e394
+; この地の女性は、やっぱりヴァイキングの血が流てるのかも知れない。
+The Woman in this area may be bleeding from Viking.
+
+# 450d168f
+; me: 「そういえばここは、あの映画の舞台でもあったってな」
+me: "Come to think of it, this was the setting of the film,"
+
+# 47e75d0a
+; アメリカの映画、LIFE！（原題: <tip="life">The Secret Life of Walter Mitty</tip>）で、
+In the American movie LIFE! (Original: <tip="life">The Secret Life of Walter Mitty</tip>),
+
+# 6562511
+; グリーンランドのヌークとして撮影された場所だ。
+It was filmed as a Nuke in Greenland.
+
+# 7766b73
+; me: 「確かにこの景色なら、グリーンランドのヌークと言っても納得するかも知れない」
+me: "It is true that with this view, you may be convinced that it is the Nuke of Greenland."
+
+# f537565a
+; ヌークには行ってみた事ないけど、なんだか遠くなら見える町並みがそれっぽく見えた。
+I've never been to Nuke, but it looked like Village, which I could see in the distance.

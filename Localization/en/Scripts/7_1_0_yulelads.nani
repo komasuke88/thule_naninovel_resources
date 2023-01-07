@@ -1,0 +1,253 @@
+; Japanese <ja> to English <en> localization document for `7_1_0_yulelads` naninovel script
+
+# a8169eaa
+; 輝く極光。
+a shining polar light.
+
+# 38794347
+; キレイなヨールの夜空の下で。
+Under the beautiful night sky of Jol.
+
+# 8a024a59
+; 俺たちは戦っていた。
+The mes were fighting.
+
+# 4ffe9869
+; unknown: 「げ———————————————————」
+unknown: "Oh, my God."
+
+# 36c79017
+; また一匹、魚人が飛ばされた。
+Another Fishman was blown away.
+
+# 586f15a
+; byu: 「もう、何匹め？」
+byu: "How many of them?"
+
+# d9e225be
+; ソーセージを三節棍のように振りながら、ビューちゃんが疲れた顔でブツブツ言った。
+He shook sausage like a trilogy club, and Byu muttered with a tired look.
+
+# 60046415
+; yule: 「……きりがないですね。魔法陣の周りを埋め尽くしてますかね？」
+yule: "There is no end to …….Are you filling the area around The Magic Circle?"
+
+# b7beca86
+; keruta: 「でもこれで、このあたりは一件落着なのです」
+keruta: "But this is the end of the matter,"
+
+# 46eaa30
+; 俺たちは今、アークティック・ヘンジの近くの丘。
+The me are now on a hill near Arktick Henge.
+
+# 648a5e45
+; 約束の場所に向かう途中、ビューちゃんとケルタちゃんと合流した。
+On my way to the appointed place, I joined Kerta and Byu.
+
+# 38c846b1
+; その時に、どこからか化け物たちが湧いてきて、
+Then, Monster came from somewhere.
+
+# 4b629e4e
+; 再会の挨拶もままならないままで、３人は戦いながら道を進んだ。
+The three of them fought along the road, unable to greet each other again.
+
+# 39995609
+; unknown: 「あら、みんな集まってるのね」
+unknown: "Oh, they're all gathered together,"
+
+# b9e023af
+; そしてまた一人の、聞いた事がある声が聞こえてきた。
+and another voice he had heard.
+
+# 87e11c27
+; suteki: 「クレリヨール。みんな久しぶりね」
+suteki: "Clery Jol. It's been a long time no see."
+
+# f077a36
+; keruta: 「クレリヨールなのです、ステキ」
+keruta: "It's Cleri Jol, wonderful."
+
+# 8953b9dd
+; byu: 「あ、ステキちゃんだ」
+byu: "Oh, it's Stekky,"
+
+# 258256a2
+; yule: 「クレリヨール、ステキちゃん。あれ以来ですね。いい羊は見つかりましたか？」
+yule: "Clery Jol, Stekky.Since then, have you found a good sheep?"
+
+# a6bf2951
+; suteki: 「ええ。見つかったんだけど、魚人に殺されてしまって。あいつら全員、皆殺しにし……[i][char suteki.o]って……」
+suteki: "Yes. I found him, but he was killed by Fishman.Kill them all ……[i][char suteki.o] ……"
+
+# 1999e68
+; ステキちゃんは会話の途中、俺を見つけると停止した。
+Stekky stopped when they found me in the middle of the conversation.
+
+# fef5ae9a
+; me: 「よう、久しぶりだな」
+me: "Well, it's been a long time,"
+
+# 235563d7
+; suteki: 「…………………………えっ」
+suteki: "What …………………………?"
+
+# f033ca08
+; me: 「ああ。俺の事、わからないのかな？[i]あの時は羊だったんだからな。[i]人間の姿では始めまして、かな」
+me: "Yes, don't you understand me?"[i]She was a sheep then.[i]It's my first time in human form, I suppose."
+
+# 596e9b1d
+; suteki: 「……………[i][char suteki.awawa]……………」
+suteki: " ……………[i][char suteki.awawa] ……………"
+
+# 5abbfa87
+; me: 「うん？どうした？」
+me: "Huh? What's the matter?"
+
+# 26d6201d
+; 何かわけがわからない顔をしていたので、少し近づいて話そうとしたけど……
+He looked puzzled, so I tried to get closer and talk to him, but ……
+
+# c031bfc7
+; suteki: 「あ、あ、あたし、先に行くわ！[i][char suteki.close-uwa]じゃあ！」
+suteki: "Oh, oh, I'll go first! [i] [char suteki.close-uwa] Then!"
+
+# 613c956f
+; そう言って、ステキちゃんは風のように去っていった。
+Then Stekky went away like the wind.
+
+# cd4883bd
+; byu: 「あ、逃げた」
+byu: "Oh, he ran away."
+
+# 75e80d27
+; me: 「な、なんだったんだ？」
+me: "What was it?"
+
+# ea640bab
+; yule: 「あ、忘れてました。ステキちゃんは……」
+yule: "Oh, I forgot.Stekky is ……."
+
+# 5fc97c38
+; keruta: 「人間の男が苦手なのですよ」
+keruta: "I don't like human Man."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 2fde3629
+; あんなにドＳだった子が、男が苦手だったなんて。
+I can't believe a child who was so bad at Man.
+
+# 88a6a03e
+; あの偉そうな態度は、羊にだけだったのか。
+Was it only the sheep that had such an important attitude?
+
+# c9534c8f
+; me: 「し、信じられん」
+me: "But I can't believe it,"
+
+# c5c26aff
+; keruta: 「ですよね」
+keruta: "Right,"
+
+# 5f36014a
+; byu: 「そうだよ。何で苦手なのかな？[i][char byu.sonna]こんなに美味そうなものが付いてるのに」
+byu: "Yes, why am I not good at it?[i][char byu.sonna] There's something that looks so delicious."
+
+# 7379b651
+; me: 「……え」
+me: "You ……,"
+
+# 7004602b
+; またこの子はなんて事を言いやがるんだ。
+What's he saying again?
+
+# 55856677
+; yule: 「もう、{playerName}はもうユールちゃんの旦那様ですから！狙っては駄目ですよ？」
+yule: "Now, {playerName} is Yule's husband! Don't aim at him?"
+
+# 1d6fae43
+; byu: 「うわっ！そうなの？」
+byu: "Wow! Really?"
+
+# 8121cacf
+; keruta: 「へー？契を結びましたか」
+keruta: "Huh? Did you sign a contract?"
+
+# c7aca30f
+; yule: 「そうですよ。えっへん！」
+yule: "Yes, indeed!"
+
+# a5d08a9e
+; byu: 「ねね、スヴォル」
+byu: "Well, Thuvor,"
+
+# 24685273
+; yule: 「……ユールちゃんです」
+yule: "It's ……Yule,"
+
+# 5afe602b
+; byu: 「{playerName}の、やっぱりすごい？直に感じるとどう？」
+byu: "Is {playerName} amazing? How do you feel?"
+
+# 91767078
+; yule: 「あ、そりゃもう、言うまでもなく……うへへっ」
+yule: "Oh, well, of course, ……uhe,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 69517846
+; byu: 「羨ましい！ボクは服越しで触れただけだったけど、[i][char byu.sonna]それでもわかっちゃったもの！大物だって！」
+byu: "I envy you! I just touched it through my clothes. [i] [char byu.sonna] But I knew it! He's a big shot!"
+
+# b9407865
+; keruta: 「ぼくも見ましたけど、あれはとんでもないものですね。ウラヤマですよ」
+keruta: "I've seen it, and it's a terrible thing.It's Urayama."
+
+# deca5eb2
+; yule: 「……って、{playerName}って、何で全員に見せびらかしてやがりますか！」
+yule: "Why, ……, show off to all of you all?"
+
+# 41b9d633
+; me: 「……いや、みんな成り行きって言うか」
+me: "…… "No, it's all going to happen."
+
+# df9f60f3
+; なんでギャルトークみたいなムードになってるんだ。こういうの苦手だ。
+Why is it like a girl talk?I don't like this kind of thing.
+
+# ed757d48
+; me: 「……って、それよりお前ら、急いでたんじゃないのか？」
+me: "Wasn't …… more urgent than that?"
+
+# af2239ff
+; byu: 「あ、そうだった。魔法陣！」
+byu: "Oh, yes.The Magic Circle!"
+
+# c40d6ead
+; yule: 「あ」
+yule: "Ah,"
+
+# 51b65c7a
+; keruta: 「早く行きましょう。他の姉妹たちも、そろそろ揃ってるはずです！」
+keruta: "Hurry up and go.The other sisters should be ready soon!"
+
+# 756f5100
+; みんな急いで走って行った。
+They all hurried away.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 5d513655
+; なんか最後の決戦みたいな雰囲気だったみたいだけど、そんなに緊張感はないんだな。
+It seemed like the final battle, but you're not that nervous.
+
+# ef31c883
+; 俺も急いでユールちゃんたちに付いていった。
+I followed them hastily.

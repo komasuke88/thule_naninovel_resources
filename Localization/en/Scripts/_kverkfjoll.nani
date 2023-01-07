@@ -1,0 +1,81 @@
+; Japanese <ja> to English <en> localization document for `_kverkfjoll` naninovel script
+
+# 5f9181f8
+; me: 「ここは……なんだ」
+me: "This is ……,"
+
+# 5910c921
+; yule: 「ヴァトナヨークトルの北の氷舌、 <ruby="クヴェルクフィヨットル"> Kverkfjöll</ruby>。また同名の火山が、氷河の下で眠ってる場所です」
+yule: "The northern ice tongue of ö, <ruby="Kverkfj Vatnajokullll</ruby>, is where a volcano of the same name sleeps under the glacier."
+
+# ab8c9223
+; 高さ１７６４ｍの活火山、 <ruby="クヴェルクフィヨットル"> Kverkfjöll</ruby>。
+An active volcano, 1764 meters high, <ruby="Kverkfj öll</ruby>.
+
+# 833627fa
+; その上は雪が積もって、氷河になってる。
+On top of that, snow piled up to form a glacier forms.a. glacier.
+
+# b52f20
+; この氷河の下、火山の地下には巨大なマグマ溜まりがあり、
+Under this glacier, underneath the volcano, is a huge pool of magma;
+
+# 1289bc2d
+; そこに由来する熱のために氷河洞ができている。
+A glacial cave is formed because of the heat derived from it.
+
+# 49ecc1fd
+; 洞窟はいつ決壊するか予測できないため、立ち入り禁止となっている。
+The cave is off limits because it is impossible to predict when it will collapse.
+
+# c40f277d
+; またこのマグマで溶けた氷河の水は川に流され、
+And the water of the glacier melted by this magma is washed down the river.
+
+# a94f9d1a
+; 北アイスランドの大きな川、 <ruby="ヨークルスアゥ・アゥ・フヨットウム"> Jökulsá á Fjöllum</ruby>川を生成してる。
+It produces the <ruby=" Jokulsa a Fjollum">J ökuls á áFj öllum</ruby> river, a large river in northern Iceland.
+
+# 8bbfa28a
+; 昔はこの火山の爆発で、その川に凄まじい洪水が発生した事もあるという。
+In the past, the volcano's explosion caused tremendous flooding in the river.
+
+# 491ddd06
+; me: 「まるで、遠くの惑星に着陸した気分だ」
+me: "I feel like I'm landing on a distant planet."
+
+# 301263ad
+; 壮大なモノクロの景色。
+a magnificent black-and-white view.
+
+# 1358d266
+; 白と黒のコントラスト。
+The contrast between black and white.
+
+# 6ffb90c4
+; 火山の爆発に寄って形成された黒つくしの山々に、流れる白い氷河の景色が圧倒的だ。
+The view of flowing white glaciers is overwhelming on the Black Tsukushi mountains formed by volcanic eruptions.
+
+# 5dbc22d3
+; yule: 「ここもアクセスが難しいハイランドの中でも奥地なので、あまり普通の観光客は来ないんですよ」
+yule: "This is also a remote part of Highland, which is difficult to access, so ordinary tourists don't come."
+
+# 2f6a14ad
+; me: 「ああ、わかる気がする」
+me: "Oh, I think I understand,"
+
+# ed44a10b
+; ここに来る道は、ユールちゃんの魔法のサポートを得てさえも、かなり難しかったからな。
+It was quite difficult to get here, even with the magical support of Yule.
+
+# 2da50e17
+; 人間世界では、思いつめてここに来ようと決めてなければ、安易には来れない場所だとおもう。
+In the human world, if you don't make up your mind to come here, you won't be able to come easily.
+
+# 74595a3f
+; me: 「だけど、一度来てみれば、それまでの苦労は全部報われるだろう」
+me: "But once you've come, all the trouble you've had will be rewarded."
+
+# 47f9d194
+; yule: 「くすくす、本当にそうですよ。だからハイランドはこんなに険しいにも関わらず、多くの人が目指してるんですもの」
+yule: "Yes, giggle, indeed.That's why many people are aiming for Highland even though it's so steep."

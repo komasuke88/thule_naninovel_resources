@@ -1,0 +1,109 @@
+; Japanese <ja> to English <en> localization document for `ed_5_02_2_noname` naninovel script
+
+# e9a5c5b6
+; me: 「俺は『　　　』だ」
+me: " me is 『　　　』,"
+
+# 7da7e157
+; girl: 「はい？？？」
+girl: "What???"
+
+# f9497bd4
+; me: 「えっ？[i]俺は今、何って……[i]うっ、[i]あっ、[i]ああああああああああああああああああああああああああああ！？」
+me: "What? [i] What …… [i] Ugh, [i] Ugh, [i] Ugh, [i] Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh, Ugh,"
+
+# 7990024a
+; その名を口にするんじゃない。
+Don't mention the name.
+
+# e69e68cf
+; 名前の無い何かを、呼ぶんじゃない。
+Don't call something unnamed.
+
+# 97b36ced
+; ？
+？
+
+# c9f43404
+; 名前がないのに、どうして口にする事ができたんだ？俺は……
+How could you say it when you don't have a name?me is ……
+
+# a1a6138e
+; ……わからない。
+…… I don't know.
+
+# 15ee48de
+; わからない。
+do not know。
+
+# fb7b059b
+; わからないが……
+I don't know, but ……
+
+# f531cc0f
+; いや、わかった。
+No, I got it.
+
+# cfeabf8a
+; 我は、『　　　　』だ。
+I am 『　　　　』.
+
+# 377f1d82
+; だから我は、帰らないといけない。
+So I have to go back.
+
+# d6532469
+; いやー何で今まで忘れてたんだろう。
+No, why did I forget about it?
+
+# 69123f40
+; こんなに当たり前の事を。
+It's so obvious.
+
+# 382c7eea
+; けけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけけ
+I'm not going to be able to do that anymore, I'm not going to be able to do that anymore, I'm not going to be able to do that anymore, I'm not going to be able to do that anymore, I'm not going to be able to do that anymore.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# a01141bc
+; yule: 「そ、そんな、{playerName}、なんて事……！？」
+yule: "Well, {playerName}, what ……!"
+
+# a2e468b3
+; 「ゆ、ユールちゃんの魔法で、なんとかならない？」
+"Yu, can't you manage with the magic of Yule?"
+
+# 3d2836
+; 「……」
+「……」
+
+# 75f943f4
+; 「だ、駄目です。もう手遅れです」
+"No, I can't.It's too late."
+
+# e3eb07c6
+; 「こんな訳のわからない狂死なんて、ユールちゃんにもどうにもなりません……」
+"It's no use to Yule to die such an inexplicable madness."
+
+# 6585f9ff
+; 「うぅぅぅ……{playerName}」
+`Oh, ……{playerName},'
+
+# af3d7cbf
+; 「せめてあの世では、どうか穏やかな心を失わないように……」
+"At least in the afterlife, I hope you don't lose your peace of mind ……"
+
+# 41597cb1
+; <ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに……
+<ruby=" Gledileg jol"> Gleðileg jól</ruby>.Blessings of the Holy Night, …… to you

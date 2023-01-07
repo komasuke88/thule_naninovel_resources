@@ -1,0 +1,137 @@
+; Japanese <ja> to English <en> localization document for `dver` naninovel script
+
+# ca38fa6
+; ドワーフの岩という意味の柱状節理、 <ruby="ドヴェルグハムラル"> Dverghamrar</ruby>。
+<ruby="Dverghamral">Dverghamlar</ruby> is a columnar joint meaning rock of Dwarf.
+
+# 5a3ac5e7
+; ここにドワーフが住んでるとわかったのは、百年前の事だ。
+It was a hundred years ago that Dwarf lived here.
+
+# dfb0274f
+; １９０４年、ある夏の日の夕方。
+One summer evening in 1904.
+
+# 9c30700a
+; とある農家の娘が羊を追って、この岩を通り過ぎた途中、
+A farmer's daughter was chasing a sheep and walking past this rock.
+
+# 15901d3c
+; どこからか歌が、讃美歌の『天の御父』が、聞こえてきた。
+A song came from somewhere, and 』 the Father of Heaven, the hymn.
+
+# 5513e1cd
+; それはとても美しい歌声で、少女は羊を追ってた足と止め、その歌声の元を探したけど、
+It was a very beautiful singing voice, and the girl stopped after the sheep, and looked for the source of her singing voice;
+
+# 796c4db
+; 不思議なことに、その歌声は岩の中から聞こえてきたのだった。
+Strangely enough, the singing voice came from among the rocks.
+
+# 61ed2f6b
+; 少女はその現象がとても理解できなくて、岩の辺りを詳しく調べてみたけど、
+The girl could not understand the phenomenon very well, so she examined the area of the rock closely.
+
+# e1772773
+; 結局、誰も見つからなかった。
+In the end, no one was found.
+
+# 81c88599
+; 後で伝わる話によると、それはこの岩に住んでるドワーフの歌声だったという。
+According to a later story, it was the singing voice of Dwarf, who lives on the rock.
+
+# 515d7d29
+; それからこの岩は、ドワーフの岩って名前がついたのだった。
+It was then named the Rock of Dwarf.
+
+# 9fb1eace
+; ここのドワーフはライトエルフの一族で、見えざる人々、フルドゥフォルクだ。
+Here Dwarf is a family of Wright Elf, the invisible Huldufolk.
+
+# 923506b4
+; だから人間がいくら探しても見つからないんだと。
+That's why no matter how many people you look for, you can't find them.
+
+# e3a7fde2
+; unknown: 「……」
+unknown: "……"
+
+# 3625b09c
+; me: 「あれ？」
+me: "Huh?"
+
+# 1f05ff11
+; 今一瞬、この近くで背が低いおっさんがいたような……
+I felt like there was a short old man near here for a second ……
+
+# 1c6f1e7e
+; me: 「も、もしもし、ドワーフさん？」
+me: "Hello, Mr. Dwarf?"
+
+# 3ea899f
+; ……
+……
+
+# 16a9f026
+; me: 「気のせいだよな」
+me: "It's just my imagination,"
+
+# ff505457
+; ドワーフなんて、そんなわけないよな。
+Dwarf I don't think so.
+
+# 218beb79
+; さて、もっと奥に行ってみるか。
+Now, let's go further.
+
+# 87cdb8c2
+; me: 「あれが、シドの滝だな」
+me: "That's Sid Falls,"
+
+# e2fcf484
+; そこに見える滝は、 <ruby="フォス・ア・シド"> Foss</ruby> á Síðu
+The waterfall you see there is <ruby="Foss a Sid">Foss</ruby> áS íðu
+
+# 460ec74
+; シドの滝という意味だ。
+It means Sid Falls.
+
+# fb7655de
+; アイスランドの初期の文学の中の定着の書（Book of Settlement）にも言及されてる。
+It is also mentioned in the Book of Settlement in Icelandic early literature.
+
+# 9cb4aea6
+; この滝の近くの農家には、幽霊が彷徨うという。
+It is said that Ghost wanders around the farm near the waterfall.
+
+# 85604436
+; １６世紀、ここに住んでる一人の男が悪事を働いたせいで、
+In the 16th century, one Man living here committed an evil deed;
+
+# 251476a1
+; その家族は神様に呪われ、９代に渡って幽霊によって苦しむ事になったという。
+The family was cursed by God and suffered from Ghost for nine generations.
+
+# d3699668
+; 幽霊は <ruby="モリ"> Móri</ruby>という名の犬で、
+Ghost is a dog named <ruby="mori">M óri</ruby>.
+
+# 270e00f6
+; その罪を犯した人の家系以外には害をもたらさないという。
+It is said that it does no harm to anyone but the lineage of the person who committed the crime.
+
+# c8b1de7e
+; me: 「ドワーフと、犬の幽霊」
+me: "The Dwarf and the dog Ghost."
+
+# 19660274
+; この地には、人外の存在についての伝説が多いんだな。
+There are many legends about non-human beings here.
+
+# ece0ca23
+; me: 「さて、移動するか」
+me: "Now, shall we move?"
+
+# ddc75697
+; dwarf: 「……」
+dwarf: "……"

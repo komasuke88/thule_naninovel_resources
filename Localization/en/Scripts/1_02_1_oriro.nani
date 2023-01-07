@@ -1,0 +1,145 @@
+; Japanese <ja> to English <en> localization document for `1_02_1_oriro` naninovel script
+
+# 6ed8ee70
+; 無礼だと思った。
+I thought it was rude.
+
+# 3cf93855
+; 付き合ってられない。
+I can't keep company.
+
+# e7605995
+; me: 「降りろ」
+me: "Get off,"
+
+# 31ed3b3
+; girl: 「えっ？」
+girl: "What?"
+
+# 9560df1e
+; me: 「聞こえなかったか？乗せてあげない事にした。降りる」
+me: "Didn't you hear me?I decided not to give him a ride.I'm going down."
+
+# 918919b2
+; girl: 「ど、ど、どうしたんですか？[i]えっとえっと、ご、ごめんなさい。あ、アタシの発言で、何か気に障る事がありましたら謝りますから」
+girl: "What's the matter with you?[i]Let's see, let'sorry.Oh, I apologize if there is anything wrong with Atashi's remarks."
+
+# 6f17ff21
+; 女の子は狼狽えながら、涙目になって、俺にすがりついた。
+Girl clung to me in dismay, tearful eyes.
+
+# e8b17b7a
+; me: 「もう遅い。謝っても許してあげない」
+me: "It's too late. I won't forgive you even if you apologize."
+
+# e6303d72
+; girl: 「そ、そんなー」
+girl: "Oh, yes,"
+
+# dae71e18
+; me: 「…………」
+me: "…………"
+
+# 594662a8
+; girl: 「で、でもあなた、このままでは危険ですよ？エルフに狙われて……」
+girl: "And yet, my dear fellow, it is dangerous at this rate?"…… targeted by Elf."
+
+# b0e58bd5
+; me: 「いいから！降りるんだ！」
+me: "Never mind! Get off!"
+
+# 6049be96
+; girl: 「う……はい。わかりました。ぐすん……」
+girl: "Uh-huh, ……. All right, ……."
+
+# eca8331
+; 女の子はとても悲しい表情で、涙を流しながら、ドアを開けた。
+Girl opened the door with a very sad expression and tears.
+
+# 1fa2927
+; girl: 「……うっ……でもどうか……お気をつけて……」
+girl: "…… Oh, …… But please …… Be careful ……."
+
+# 3d336fbc
+; そういって、女の子は車のドアを閉めた。
+Then Girl closed the car door.
+
+# 8cbbc3b
+; me: 「じゃあな」
+me: "Good-bye,"
+
+# 7ccd695b
+; 俺はそのまま速度を上げて、あの子から遠ざかった。
+I continued to speed up and move away from her.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 973c01b2
+; unknown: 「あら、惨めなことに」
+unknown: "Oh, my God, to be,"
+
+# c8547d83
+; unknown2: 「ペタンコになりましたね。車の転落ですね」
+unknown2: "It's become a petanko.It's a car crash."
+
+# 63f9a774
+; unknown: 「この潰れっぷり。メッチャ高い場所から落ちたのね」
+unknown: "You're crushed.Metcha fell from a high place."
+
+# edb5feab
+; unknown2: 「でもこの辺りは平地なんですけど」
+unknown2: "But it's a level ground here,"
+
+# 7ef59a44
+; unknown: 「そう。これは、あいつらの仕業よ」
+unknown: "Yes, they did it."
+
+# af18ce42
+; unknown2: 「この人、遠い国から来たみたいだけど、可愛そうに」
+unknown2: "I think he's from a far country, but he looks cute"."
+
+# ec69022d
+; unknown: 「……ところで、この潰された車で、微かに……………の匂いもするわね」
+unknown: "…… "By the way, this crushed car smells faintly like …………."
+
+# 8059da1c
+; unknown2: 「あの子が？……あの子は大丈夫でしょうか？」
+unknown2: "She? …… Is she all right?"
+
+# 3a16ae86
+; unknown: 「少しの間だけ乗ってたみたいだけど、すぐに降りたみたいよ」
+unknown: "I think I was riding for a while, but I think I got off right away."
+
+# f94abc13
+; unknown2: 「まぁ確かに、あの子が乗っていたのなら、こんな事にはなってなかったのでしょう」
+unknown2: "Well, if she had been on board, this would not have happened,"
+
+# 90bbf07c
+; unknown: 「ええ」
+unknown: "Yes,"
+
+# 9db39004
+; unknown2: 「運がないのですね。この人間も」
+unknown2: "You have no luck.This man, too."
+
+# 2b5098af
+; unknown: 「せめてあの世では寒くないように、温かい墓場をプレゼントしてあげるかしら」
+unknown: "I'll at least gift the warm grave, so that it won't be cold in the afterlife."
+
+# f384e251
+; unknown2: 「ええ、そうしましょう」
+unknown2: "Yes, I will,"
+
+# cc5593d1
+; <s>　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに。
+<s>    </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>.Bless you on a holy night.

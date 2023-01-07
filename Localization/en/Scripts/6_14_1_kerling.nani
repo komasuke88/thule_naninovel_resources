@@ -1,0 +1,193 @@
+; Japanese <ja> to English <en> localization document for `6_14_1_kerling` naninovel script
+
+# 2c32a121
+; me: 「ヒヒーン（迷いに迷って、ここか）」
+me: "niegh (I'm lost, I'm here)"
+
+# 471d4e2b
+; ディムボルギルに向かうはずだったのに、
+dimmuborgir I was supposed to be heading for him.
+
+# e1ae277
+; 最初の目的地に到着してしまった。
+I arrived at my first destination.
+
+# 7bb30345
+; キェルトリンガルフィヨットル。
+Kerlingarfjoll.
+
+# ffb2cc4
+; 三人でここを目指してたのに、一人で辿り着いた。
+The three of us were aiming for this place, but we got there by ourselves.
+
+# 4d428897
+; まぁ、一人っていうか。
+Well, I'm not alone.
+
+# 28f6968d
+; me: 「ヒヒーン」
+me: "The niegh,"
+
+# b0e749ae
+; 一匹で。
+Just one.
+
+# aee111d5
+; ま、折角来たんだし、
+Well, I just came.
+
+# e215062b
+; 最初の目的とおり、俺の最後の記憶の欠片を探すとするか。
+Let's look for the last fragment of me's memory, as the first goal is.
+
+# 3ea899f
+; ……
+……
+
+# 4219ed14
+; me: 「ヒヒーン（うむ……）」
+me: "Yes, ……."
+
+# aac46aeb
+; しばらくこの一帯を回ってみたけど、動物、植物はおろか、虫一匹すらなかった。
+I went around here for a while, but there was not a single insect, let alone an animal or a plant and a plant.
+
+# 6730d26
+; 生命が生きられない場所。
+a place where life cannot live.
+
+# bf7cd9b3
+; 黄色の丘と、白い雪、そして蒸気だけで埋まってる。
+It's filled with yellow hills, white snow, and steam.
+
+# 57ec7452
+; ささってくる硫黄臭。
+It smells like sulfur.
+
+# d2f9fda3
+; 地面のところところで湯気が噴き出され、湯けむりができていた。
+Steam was spewing on the ground, and there was a splash of steam.
+
+# fa12a71c
+; そんな中で、いろんなところに雪が積もってる、独特な風景だった。
+In the midst of this, it was a unique landscape with snow piled up in many places.
+
+# a103750e
+; まるで地の果てのみたいだ。
+It's like the end of the earth.
+
+# 74f10774
+; ケルリンガルフィヨットルはアイスランドの中央部の広い山脈の事だ。
+Kellingalphyotr is a large mountain range in the center of Iceland.
+
+# c961c46f
+; その中でもこの地熱地帯を <ruby="クヴェラダリル"> Hveradalir</ruby>という。
+Among them, this geothermal zone is called <ruby=" Hveradalir">Hveradalir</ruby>.
+
+# f1d2e186
+;  <ruby="ホフスヨークトル"> Hofsjökull</ruby>氷河と <ruby="ラングヨークトル"> Langjökull</ruby>氷河の間に位置してて、
+<ruby="Hofs Yorktor">Hofsj ökull</ruby> and <ruby="Langj ökull</ruby> glaciers.
+
+# b1881b5f
+; 火山の力と氷河の力がせめぎあって、アイスランドの最も大きな地熱地帯のひとつだ。
+Volcanic power and glacial power struggle one of Iceland's largest geothermal regions.
+
+# 8cf4f196
+; 俺はエルフが居るという、地熱地帯の中央に向かった。
+I headed for the center of the geothermal zone where Elf was located.
+
+# dc8a7825
+; me: 「ヒヒーン（確かにこんなところなら、何かあれば目立つだろうけど……）」
+me: " niegh (I'm sure something would stand out here, ……)"
+
+# ffe3fff0
+; 俺だけでも探せるはずだと、ユールちゃんが言ってたのを思い出した。
+I I remembered Yule saying that he should be able to find it.
+
+# c9f66b7e
+; しかしこれだけ広いと、少し時間はかかりそうだな。
+But if it's this big, it'll take some time.
+
+# 3d4b0d81
+; 時間……
+Time ……
+
+# deba4d16
+; me: 「ヒヒーン（……って、もう１２月２４日も過ぎてるかも？？）」
+me: "niegh (Maybe it's already past December 24th??)"
+
+# f079862c
+; 今は何月何日だ？
+What month is it now?
+
+# f5fc8ea2
+; 先まで夕暮れだったのに、いつの間にかまた、明るくなってるし。
+It was dusk before, but it's getting brighter again.
+
+# 1afc0454
+; また人間世界に行ってきたんだから、また時間の流れがおかしくなったかも知れない。
+Now that I've been to the human world again, time may have gone wrong again.
+
+# e0eec523
+; 確認がしたいんだけど、こんな何もない場所に、日付を確認する手段などない。
+I'd like to check, but there's no way to check the date in such an empty place.
+
+# 9221a297
+; me: 「ヒヒーン（……このまま２４日が過ぎてしまったら、どうなるんだ？）」
+me: "niegh (What will happen if the 24th passes like this?)"
+
+# b7afa126
+; ここがトゥーレなのは確実。
+I'm sure it's Thule here.
+
+# aa8ff19e
+; このままトゥーレ還元が終わったら、俺はもう人間世界には戻れなくなるのか？
+If Thule reduction continues, will me no longer be able to return to the human world?
+
+# 4e1755f
+; それは大変な事……
+That's a big deal ……
+
+# 4b8c1867
+; me: 「ヒヒーン（……いや）」
+me: " niegh (I don't like ……)"
+
+# 7da6fdaf
+; 考えてみると、むしろこれでよくね？
+Come to think of it, this is better, isn't it?
+
+# 8aa1149a
+; 昔の記憶は諦めて、トゥーレで馬として生きるのだ。
+You give up your memories of the past and live as a horse in Thule.
+
+# b842e36a
+; @choice "よくない" goto:.yokune
+@choice "Not good" goto:.yokune
+
+# 8ed26d05
+; @choice "よい" goto:ed_6_14_1_horseed
+@choice "Good" goto:ed_6_14_1_horseed
+
+# beca3bb6
+; me: 「ヒヒーン（いや、ここがトゥーレだとしても、せめて人間として生きて行きたいな）」
+me: "niegh (No, even if it's Thule, I'd at least like to live as a human being.)"
+
+# 39722591
+; 人間として、またユールちゃんと会いたいし。
+I want to see Yule again as a human being.
+
+# edfe8f83
+; とりあえずは記憶を探して、ユールちゃんとところに向かおう。
+For the time being, let's look for memories and head for Yule.
+
+# 2928f73b
+; 約束もしたし。
+I made a promise.
+
+# 1233d23
+; それ以外に、特にやる事もないんだし。
+I have nothing else to do.
+
+# aba594cc
+; ただ今できる事をやるまでだ。
+I'm just doing what I can now.

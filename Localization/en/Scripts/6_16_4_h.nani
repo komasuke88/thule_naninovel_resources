@@ -1,0 +1,213 @@
+; Japanese <ja> to English <en> localization document for `6_16_4_h` naninovel script
+
+# a1d52402
+; 受け入れても、いいのか？
+Can I accept it?
+
+# 4cb35e94
+; yule: 「あいたっ！」
+yule: "Oh, my God!"
+
+# fe567c6b
+; 飛び込んでくるユールちゃんを避けた。
+I avoided Yule jumping in.
+
+# f486debb
+; ユールちゃんは岩に頭をぶつかったみたいだ。
+Yule seemed to have hit his head against a rock.
+
+# ee2fa210
+; me: 「ご、ごめん。つい……」
+me: "Oh, I'm sorry. I just ……."
+
+# a5815ca5
+; yule: 「うぅぅぅ……」
+yule: "`Oh, ……,'"
+
+# 9c1fcf68
+; ユールちゃんはよろめきながら立ち上がった。
+Yule staggered to his feet.
+
+# 258cca33
+; yule: 「もう……そんなにユールちゃんが嫌なんですか？」
+yule: "You don't like …… that much anymore?"
+
+# e8732f92
+; me: 「い、嫌っていうか……さすがにちょっとこういうことはもっと慎重に、な？」
+me: "No, I mean, ……, you're a little more careful about these things, aren't you?"
+
+# 5af46aec
+; そういいながら、湯船を出ようとしたけど……
+I tried to get out of the bathtub, but ……
+
+# 16538a9
+; yule: 「ていっ！」
+yule: "`Come on!'"
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# 2e964cfd
+; う、動けない？
+Uh, can't you move?
+
+# 8beef28
+; me: 「なななっ！？」
+me: "What!"
+
+# dd03634f
+; 体が、勝手に！
+My body... Do whatever you want!
+
+# 90f20bac
+; 金縛りになったみたいだ。
+I think I have sleep paralysis.
+
+# bdf98530
+; me: 「ま、魔法をかけたな？？」
+me: "Well, you cast a spell?"
+
+# 3e9a53e5
+; yule: 「そうです。これでもう逃げられません。[i][char yule.onsen_angry_www_dot]じっくりと観察させてもらいますよ？」
+yule: "Yes, now I can't escape.[i][char yule.onsen_angry_www_dot] I'll observe it carefully."
+
+# 70f8daba
+; me: 「あっ」
+me: "Oh,"
+
+# 15ede67d
+; ユールちゃんは俺を岩の上に押し倒した。
+Yule pushed me down on the rock.
+
+# 959584ce
+; 横たわって、動けない俺の股間に、ユールちゃんの顔が近づいてきた。
+The face of Yule approached the crotch of me, who lay motionless.
+
+# cb2ff100
+; yule: 「うわ……本物……本当にすごい」
+yule: "Wow, …… real …… is amazing."
+
+# e432f233
+; じっと見てる！
+I'm staring!
+
+# c37bfc26
+; は、恥ずかしすぎる！
+It's too embarrassing!
+
+# e6d25da0
+; me: 「くっ……」
+me: "Damn ……,"
+
+# 701fe804
+; 屈辱！
+Humiliation!
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# 80a6d5aa
+; 触られた！
+I got touched!
+
+# 5a5086b0
+; yule: 「……こ、こんなにも」
+yule: "So much ……,"
+
+# a1bdac0e
+; にぎにぎと、
+with a great deal of excitement;
+
+# 9abe0bfc
+; 両手で握られてる！
+He's holding it with both hands!
+
+# 905841ad
+; me: 「ううっ！」
+me: "Ugh!"
+
+# 946ebbcd
+; 不覚にも感じてしまう。
+I can't help but feel it.
+
+# 747dbbf5
+; yule: 「えっ？さらに固く？？し、信じられません！[i][char yule.onsen_b_nemu_hae]こ、こんなのが、これからユールちゃんの中に……？[i][char yule.onsen_angry_close_auu]はぁ……ちゃんと、できるかな？」
+yule: "What? Harder??? And I can't believe it![i][char yule.onsen_b_nemu_hae] Is this …… in Yule?[i][char yule.onsen_angry_close_auu] Can you do it properly ……?"
+
+# d1a10fec
+; me: 「……えっ！？」
+me: "What ……?"
+
+# 6688232b
+; このまま、やるっていうのか！
+You're going to do it like this!
+
+# de739f2f
+; me: 「……で、できないからな！」
+me: "`I can't do it with ……!'"
+
+# 486d8dbc
+; yule: 「ちょっと無理でも、頑張らないとですね！」
+yule: "Even if you can't do it, you have to do your best!"
+
+# cfa601ba
+; me: 「いやいや、頑張る必要なんてないんだからね」
+me: "No, no, you don't have to work hard."
+
+# 7b3b024a
+; yule: 「これから、家族になるのです。ユールちゃんと{playerName}の、夫婦の契です！」
+yule: "We're going to be a family now.Yule and {playerName} are married!"
+
+# 91cba1e9
+; me: 「……ふ、夫婦の契って、あっ……ちょっとまって」
+me: " …… Well, a couple's engagement, …… Wait a minute."
+
+# 9a97b71b
+; yule: 「うるさいな！もう黙って！」
+yule: "Don't be noisy! Shut up!"
+
+# 9f0d7a32
+; me: 「ああっ！」
+me: "Ah!"
+
+# 16cddf79
+; ユールちゃんは俺のちん○んをぶっ叩いた。
+Yule slapped ○ of me.
+
+# 1e477b77
+; 痛くはなかったけど、刺激が！
+It didn't hurt, but it was stimulating!
+
+# c3971364
+; yule: 「これからはすべて、ユールちゃんに任せていればいいですよ、くすくす」
+yule: "You can leave everything to Yule from now on,"
+
+# d028dcd
+; 高圧的な雰囲気のユールちゃんは、俺の体を岩の上に倒して、その上に乗っかかてきた。
+Yule, in a high-pressure atmosphere, fell me's body on a rock and climbed onto it.
+
+# aabe2deb
+; yule: 「それでは、頂きますよ〜」
+yule: "Then I'll have it~"
+
+# 3ebf1d2f
+; 俺の真上から、腰を下ろすユールちゃん。
+Yule sitting directly above the me.
+
+# 954eed06
+; yule: 「はぁん♥」
+yule: "Yes ♥"
+
+# c36ecdbd
+; me: 「ああぁっ！？」
+me: "Ah!?"
+
+# e126377a
+; 今度こそ本当に、
+This time, really,
+
+# 44f17c3b
+; 俺はDTを失ってしまった。
+I lost DT.

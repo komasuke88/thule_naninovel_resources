@@ -1,0 +1,729 @@
+; Japanese <ja> to English <en> localization document for `8_1_1_rescue` naninovel script
+
+# 257aa796
+; <s>　　　　　　　　　　　　　　</s>失踪者を発見。繰り返す、失踪者を発見。
+<s>              </s> Disappeared.Repeat, missing persons found.
+
+# f527b723
+; 『アークティックヘンジにて、行方不明の北島健二氏を発見しました』
+『 We found the missing Kenji Kitajima at the Arcichenge 』
+
+# e2a5270d
+; 気がつくと、俺は雪の原に倒れていた。
+I found me lying in the snow.
+
+# 20be405e
+; me: 「ううぅっ」
+me: "`Ugh,'"
+
+# 3fc7a5dc
+; 誰かが、俺の肩を軽く叩いていた。
+Someone was patting me on the shoulder.
+
+# 2e7da8cd
+; unknown: 「大丈夫ですか！？こちらの声が聞こえますか？」
+unknown: "Are you all right?"Can you hear my voice?"
+
+# 4989e808
+; 誰かが俺を呼ぶ声が聞こえた。
+I heard someone calling me.
+
+# 50010e96
+; 顔を上げてみた。
+I looked up.
+
+# 743baf98
+; me: 「え、えっと？」
+me: "What?"
+
+# c1e4b3bc
+; unknown: 「おお！よかった。無事だったんですね！」
+unknown: "Oh! I'm glad to hear that.You're safe!"
+
+# 28fd792
+; 目の前には、雪と、不思議な形の列石と、数人の人がいた。
+In front of me was the snow, the strange shape of the procession, and several people.
+
+# 1c91e2ab
+; 俺の近くに二人、赤と青の防寒着を着てる。
+They are wearing red and blue winter clothes near me.
+
+# 50e51989
+; me: 「あ、あなたがたは……？」
+me: "Oh, are you ……?"
+
+# 805419ff
+; rescue2: 「我々はレスキューです。[i]気を失って倒れてる人が居ると緊急通報を受けて来ましたが……」
+rescue2: "We are Rescue.[i]I got an emergency call when someone fainted and fell down, but ……."
+
+# 18de315e
+; me: 「レスキュー……？」
+me: "Is it Rescue……?"
+
+# 357fc5ca
+; 救助隊の事だよな。
+You're talking about the rescue team.
+
+# 83be1d3
+; rescue1: 「あなたは日本から来た北島健二さんですね？」
+rescue1: "Are you Kenji Kitajima from Japan?"
+
+# 78b779
+; me: 「ああ、はい。そうですが……」
+me: "Oh, yes, but ……."
+
+# c7e45239
+; そう言いながら、俺は立ち上がろうと、身を動かした。
+As he spoke, me moved to his feet.
+
+# 40bcd568
+; rescue1: 「ああ、無理しないでください。私たちが肩を貸し……」
+rescue1: "Oh, don't push yourself too hard.We'll lend you a shoulder ……."
+
+# 9015c272
+; me: 「よっと」
+me: "All right,"
+
+# 55689a49
+; 普通に立ち上がった。
+I stood up normally.
+
+# 47d08176
+; rescue2: 「えっ？？」
+rescue2: "What?"
+
+# 9e74059a
+; me: 「？」
+me: "？"
+
+# 8cb82e2e
+; レスキューの人たちは俺が立ち上がった様を見て、驚いてるみたいだった。
+The people of Rescue seemed surprised to see me standing up.
+
+# 2df321c
+; rescue1: 「あなた、体、大丈夫ですか？」
+rescue1: "Are you all right?"
+
+# 13f12ad0
+; me: 「はい。特に異常はないみたいですが」
+me: "Yes, I don't think there's anything wrong."
+
+# c14f727f
+; 体のどこも痛くないし、意識もちゃんとしてる。
+It doesn't hurt anywhere in my body and I'm conscious.
+
+# e3cf92e9
+; rescue1: 「そ、そうですか。それは何よりですが……」
+rescue1: "Oh, is that so?That's the most important thing, but ……""
+
+# 1ccf78e1
+; レスキューの人たちはアイスランド語で、お互いに何かを話していた。
+The people of Rescue were talking to each other in Icelandic.
+
+# 708250e1
+; me: 「何か、あったんですか？」
+me: "What happened?"
+
+# fd0b7a49
+; rescue2: 「つい先あなたの身元を確認させてもらったのですが、[i]長い間に行方不明だった人と聞きましたので」
+rescue2: "I just had your identity checked, but [i] I heard that you had been missing for a long time."
+
+# 230da68d
+; me: 「ゆ、行方不明？自分が？」
+me: "Yu, are you missing?"myself?"
+
+# ec29b7cc
+; rescue2: 「……もしかして、覚えてないですか？」
+rescue2: "Don't you remember ……?"
+
+# 25d3f0b
+; me: 「……そう、ですね。倒れる直前の記憶が曖昧で……[i]そういえば、ここはどこですか？」
+me: "…… Yes, sir.……[i]Come to think of it, where are we?"
+
+# 8dc7d844
+; rescue1: 「ここはアイスランド北部の、アークティック・ヘンジと呼ばれる場所ですよ」
+rescue1: "This is a place in northern Iceland called the Arctic Henge."
+
+# 720d29e1
+; me: 「アークティックヘンジ？」
+me: "Arcitic henge?"
+
+# 88843855
+; その地名には聞き覚えはあったけれど、訪れた覚えはない。
+The place name sounds familiar, but I don't remember visiting it.
+
+# 20a8cb7b
+; rescue1: 「このアイスランドを訪れた記憶は？」
+rescue1: "Do you remember visiting Iceland?"
+
+# 89daf43f
+; me: 「はい。それはちゃんと記憶してますよ。自分は海外旅行でここに来まして……」
+me: "Yes, I remember that very well.I came here on an overseas trip ……"
+
+# e719aabf
+; rescue2: 「ディムボルギル、という場所は、覚えてますか？」
+rescue2: "Do you remember the place called dimmuborgir?"
+
+# fd08dc35
+; me: 「えっ？ああ、そういえば確かに、[i]ディムボルギルには訪れた記憶はありますが……」
+me: "What? Oh, come to think of it, I remember visiting [i] dimmuborgir, but ……."
+
+# 2aa51678
+; rescue1: 「あなたの車は、そこに駐車されてあったといいます。そこから……」
+rescue1: "They say your car was parked there.From there, ……."
+
+# 636ddaa1
+; 俺は北アイスランドのディムボルギルで、行方不明になったらしい。
+I was reportedly missing in dimmuborgir, North Iceland.
+
+# 197c9cf1
+; 乗って来たレンタカーを、そこに駐車したまま。
+I parked my rental car there.
+
+# 2121c805
+; ディムボルギルでは俺の荷物ー財布・スマホ・パスポートなどが落ちていて、
+dimmuborgir Then, me's luggage, wallet, Smartphont, passport, etc. were missing.
+
+# 2426adc7
+; 失くし物として警察に通報が入ったという。
+Police were reported to have been called as lost property.
+
+# 3de13afc
+; そこから俺が加入していた保険会社と日本国大使館にも連絡が通って、
+From there, me contacted the insurance company and the Japanese Embassy.
+
+# d7189352
+; 早くも俺の調査が始まったらしいが、
+It seems that the investigation of me has already begun.
+
+# d285d796
+; 結局、何の手掛かりもなく、そのまま失踪事件として扱われた。
+In the end, he was treated as a disappearance without any clues.
+
+# 80034d32
+; その後、失踪した俺が発見されたのは、
+Subsequently, the missing me was discovered.
+
+# 462d5a30
+; ディムボルギルから約１５０Kmも離れたこの場所だって事だ。
+dimmuborgir It's about 150 km away.
+
+# 23389d8b
+; me: 「ディムボルギル……」
+me: "The dimmuborgir……,"
+
+# 52856e94
+; アイスランドの、リングロードを回る旅行記を書こうとした俺は、
+me, who was going to write a tour of Iceland's Ring Road,
+
+# ca85c441
+; 南西部のレイキャヴィクから出発し、東北部まで来た。
+I started from Reykjavik in the southwest and came all the way to the east-north.
+
+# 8fb6f9b5
+; ディムボルギルは、その旅行ルートの一つで……
+dimmuborgir is one of its travel routes ……
+
+# e22293c7
+; うん？[i]いや、ちょっと待って。
+Huh? [i] No, wait a minute.
+
+# 5ff5d86d
+; ディムボルギルに訪れたのは、ただの観光目的だったか？
+dimmuborgir Was it just for sightseeing?
+
+# e2745a3f
+; 何か、探しものがあったんじゃなかったか？
+Wasn't there something you were looking for?
+
+# 41a90b49
+; それは、何だ？
+What's that?
+
+# 9af2f672
+; もうちょっとで、何か思い出せそうだけど、思い出せない。もどかしい。
+I think I can remember something, but I can't remember.It's frustrating.
+
+# d4411807
+; 具体的な事を思い出そうとすると、頭が痛くて、考えがまとまらない。
+When I try to remember specific things, my head hurts and I can't come to an agreement.
+
+# b05a4920
+; まるで夢の中の出来事のように、ぼんやりとしたイメージしかない。
+There is nothing but a vague image, as if it were an event in a dream.
+
+# 89d75d25
+; me: 「……うっ」
+me: " …… Ugh,"
+
+# 65226036
+; 軽く目眩がした。
+I felt faintly dizzy.
+
+# 693467b2
+; rescue1: 「ディムボルギルを訪れた後の事は、覚えてませんか？」
+rescue1: "Don't you remember after visiting dimmuborgir?"
+
+# 638f0df
+; me: 「……はい。何も……」
+me: " …… Yes, nothing ……."
+
+# a4f3be4b
+; rescue2: 「数日間の記憶喪失ですか。まるでエルフのイタズラですな」
+rescue2: "A few days of amnesia?It's like Elf's prank."
+
+# 232c1da6
+; me: 「……数日間？」
+me: "For a few days ……?"
+
+# 976702d9
+; それって、俺が行方不明になってから数日が経ったって事？
+Does that mean it's been a few days since me went missing?
+
+# 4ded5f1
+; me: 「……きょ、今日は、何月何日ですか？」
+me: "What month is it today, ……?"
+
+# e7a81582
+; rescue2: 「あ、そうですね。今日は２０２５年１２月２５日ですよ」
+rescue2: "Oh, yes.Today is December 25th, 2025."
+
+# 16252c8d
+; me: 「２５日……」
+me: "25th ……"
+
+# ef328b6c
+; 俺がディムボルギルに着いた時は、確か１４日くらいだった気がする。
+When me arrived at dimmuborgir, I think it was about 14 days.
+
+# 21ab4cf9
+; あれから１０日以上も経ってるって事だ。
+It's been more than 10 days since then.
+
+# db724799
+; me: 「いつの間にか、クリスマスになってるんですね……」
+me: "It's Christmas before you know it ……"
+
+# dd8a1381
+; rescue1: 「はい。クリスマスです。[i]アイスランドでは、ヨールの夜明けの日で <ruby="ヨーラダーグル"> jóladagur</ruby>とも言いますね」
+rescue1: "Yes, it's Christmas.[i]In Iceland, it's the dawn of Jol, and it's also called <ruby="Yoladagur"> joladagur</ruby>."
+
+# ff056aa3
+; me: 「ヨール……？？」
+me: " Jol……???"
+
+# d6fcc98b
+; その言葉を聞いて、何かを思い出しそうになった。
+The words almost reminded me of something.
+
+# 3a2f1476
+; トロール、エルフ、ヨールの魔法、
+The magic of Troll, Elf, Jol,
+
+# fe9c064
+; そして……
+And ……
+
+# a0e233
+; me: 「お、お、俺はあの時、トゥーレに行ってて……」
+me: "Oh, oh, me went to Thule then and ……."
+
+# 30575779
+; rescue2: 「トゥーレ？」
+rescue2: "Is it Thule?"
+
+# e758001
+; rescue1: 「アイスランドの昔の呼び名ですね」
+rescue1: "It's an old name for Iceland."
+
+# 8c8600f8
+; rescue2: 「ああ、あれね。『地の果てのトゥーレ』という」
+rescue2: "Oh, that's it.『 It's called Thule』 at the end of the earth."
+
+# 62b7d816
+; rescue1: 「うん。そういやトゥーレは『既知の世界の境界線』という意味でもあったというがな」
+rescue1: "Yeah. by the wayThule meant 』, the known boundary of the world."
+
+# 2413dc09
+; rescue2: 「北島さんは、未知の世界へ行ってきたって事ですかね、はは」
+rescue2: "Do you mean Mr. Kitajima has been to an unknown world?"
+
+# d2a44f31
+; そう。
+so。
+
+# 199e98e
+; 向こうの世界、地の果てのトゥーレ。
+The other world, the Thule at the end of the earth.
+
+# e3381dc3
+; 俺はその魔法の世界で、あの子と……
+I is the magical world, and she and ……
+
+# c840fdfb
+; あの子？
+Is that her?
+
+# 31c7cd5d
+; me: 「うううっ！？」
+me: "Ugh!"
+
+# fb29ae38
+; いきなりもう一度、強烈な頭痛が襲ってきた。
+Suddenly I had another severe headache.
+
+# d3e8592e
+; rescue1: 「……き、北島さん？ど、どうしたんですか？」
+rescue1: "Mr. ……ki, Mr. Kitajima? What's the matter?"
+
+# 9ee73608
+; me: 「あ、いや、ちょっと頭痛があって……あれ？」
+me: "Oh, no, I have a slight headache and ……?"
+
+# 6733c420
+; 今、何か思い出したと思ったんだけど、全部きれいあっさりに、忘れてしまった。
+I thought I just remembered something, but I forgot everything because it was clean and simple.
+
+# f9e1d076
+; なんだろう？
+What is it?
+
+# 507e5207
+; me: 「何か思い出したと思ったんですが、気のせいだったみたいです。やっぱり何も覚えてません」
+me: "I thought I remembered something, but I guess it was just my imagination.I still don't remember anything."
+
+# 17513ee6
+; rescue2: 「一旦ここは、病院に行ったほうがいいですね。[i]数日も行方不明で、記憶に混乱もあるようですし」
+rescue2: "You'd better go to the hospital first.[i]He's been missing for a few days, and he seems to have some confusion in his memory."
+
+# aa3646cc
+; rescue1: 「そうですね。早く私達の車に……」
+rescue1: "Yes, hurry up and …… our car."
+
+# 259cc534
+; me: 「いやいや、大丈夫ですよ。そこまでお世話になるわけにも……」
+me: "No, no, it's all right.I can't thank you so much ……"
+
+# 984ad892
+; rescue1: 「いや、大丈夫そうに見えても、中で出血などもあるかもしれませんから、一旦病院で検査を受けるべきです」
+rescue1: "No, even if you look OK, you may have bleeding inside, so you should go to the hospital for an examination."
+
+# 8428be04
+; me: 「そ、そうですか。でも……」
+me: "Oh, is that so?But ……"
+
+# 4e83da4e
+; rescue2: 「何にせよ、街には行った方がいいですよ？[i]ずっとここに居たいわけにもないでしょう？」
+rescue2: "You'd better go to town anyway, wouldn't you?"[i]You don't want to stay here forever, do you?"
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# bfd69c25
+; そうだった。
+That's right.
+
+# 9c100ef7
+; 今の俺は何も持ってないし、車もない。
+The current me doesn't have anything and doesn't have a car.
+
+# 3167d316
+; もう一度周りを見渡してみたけど、本当に何もない場所だった。
+I looked around again, but it was really empty.
+
+# a76b2263
+; 俺一人でここにずっと居ても、仕方がない。
+I It's no use staying here alone.
+
+# ef172ecf
+; rescue1: 「北島さん、こっちです。私達の車に乗ってください」
+rescue1: "Mr. Kitajima, this way.Get in our car."
+
+# c9cd3960
+; me: 「ああ。……え、えっと。はい。ありがとうございます。お世話になります」
+me: "Yes. …… Well, let's see. Thank you.Thank you for your help."
+
+# 4d89867
+; よくわからんが、病院に運んでくれるみたいだ。
+I'm not sure, but they seem to take me to the hospital.
+
+# 3c19f023
+; 俺も今の俺の状態がよくわからないから、従う事にした。
+I I didn't understand the current state of me, so I decided to follow her.
+
+# 4c43f855
+; そして俺は、レスキューたちの車に乗って、近くの街、アクレイリまで行く事になった。
+Then me took the Rescue's car to the nearby town of Acrely.
+
+# 3ea899f
+; ……
+……
+
+# 9f24e5c4
+; アークティックヘンジからの去り際。
+Time to leave the arcichenge.
+
+# 74284e31
+; 車の窓から見渡す景色の中で、
+In the view from the car window,
+
+# 75c71e1b
+; ちらっと、黒い岩が柱のように立ってるのが見えた。
+I caught a glimpse of a black rock standing like a pillar.
+
+# ad58e417
+; me: （あ、れ？）
+me: "(Oh, what?)"
+
+# 798ee950
+; 俺は何故か、その岩が気になって仕方がなかったけど、
+I I couldn't help worrying about the rock.
+
+# 32443bd6
+; 車の速度が早くなって、すぐにも視野から消えてしまい。
+The speed of the car got faster and soon disappeared from view.
+
+# 913216df
+; やがてそれを忘れてしまった。
+Then I forgot about it.
+
+# 3ea899f
+; ……
+……
+
+# 78382c4a
+; アクレイリまでも道で、新しくわかった事があった。
+There was something new to be discovered on the road to Acrely.
+
+# 93e08c6c
+; 俺のレンタカーは、警察経由でレンタカー会社が回収したそうだ。
+me's rental car was reportedly collected by a rental car company via the police.
+
+# 979311e6
+; 他の荷持は全部、レイキャヴィクの警察署で保管してるという。
+All other baggage is reportedly kept at a police station in Reykjavik.
+
+# b270c331
+; あとでレイキャヴィクに戻ったら、財布、スマホ、パスポートなども取り戻せる。
+When you return to Reykjavik later, you can get your wallet, Smartphont, and passport back.
+
+# 342b1452
+; 数日間の記憶以外には、失くしたものは何もないって事だ。
+I mean, I have nothing to lose but a few days of memory of a few days.
+
+# 3ea899f
+; ……
+……
+
+# 30a584f8
+; 数時間後。
+A few hours later.
+
+# a04facc4
+; アクレイリに着いた頃は、もう日が暮れていた。
+By the time we arrived at Acrely, it was already dark.
+
+# 24f385d4
+; まだ午後４時というのに、冬のアイスランドの夜は流石に夜が早い。
+It's only 4 p.m., but it's surprisingly early in Iceland in winter.
+
+# effd4a60
+; me: 「おぉ……」
+me: "Oh, ……,"
+
+# 924e8592
+; 車の窓からアクレイリの街が見渡せた。
+The car window overlooked the city of Acrely.
+
+# 978394b9
+; me: 「街が、なんだか賑やかですね」
+me: "The streets are kind of bustling,"
+
+# 8fdc6371
+; rescue1: 「ヨールですからね。お祭りですよ」
+rescue1: "That's Jol.It's a festival."
+
+# 8b9ef4cd
+; me: 「ヨールって、クリスマス・イブの事ですね」
+me: "You mean Christmas Eve, don't you?"
+
+# 6dde5005
+; rescue2: 「いや、１２月２１日から、１月１日までの時期は、だいたいヨールと言っています」
+rescue2: "No, the period from December 21st to January 1st is usually Jol."
+
+# bb05be80
+; rescue1: 「アイスランドでは特別な時期なんです。国全体がお祭り雰囲気ですよ」
+rescue1: "It's a special time in Iceland.The whole country has a festive atmosphere."
+
+# 89cbf0fc
+; me: 「そう、ですか」
+me: "Yes, sir,"
+
+# 2c9b7c75
+; rescue1: 「あなたが失踪から帰ってきたのも、ヨールの奇跡かも知れませんね。はは」
+rescue1: "It may be a miracle of Jol that you have returned from your disappearance, haha."
+
+# fdf12fe7
+; me: 「ヨールの奇跡か……」
+me: "Is it a miracle of Jol?"
+
+# 40d5ff60
+; なんだかその言葉が、心に響いてきた。
+Somehow the words touched my heart.
+
+# 7c6d051f
+; アクレイリの病院で、俺は診察を受けた。
+At a hospital in Acreli, me was examined.
+
+# 78e448e3
+; 結果、何もなかった。
+As a result, nothing happened.
+
+# 7b39a88f
+; 体に特に異常もなく、脳震盪でもなさそうだ。
+There is nothing wrong with his body and he does not appear to have a concussion.
+
+# ed503cd2
+; 唯一の問題は、ここ数日間の記憶喪失なのだが、
+The only problem is the memory loss of the last few days.
+
+# f7b62b50
+; それについては、何もわからなかった。
+I didn't know anything about it.
+
+# f0e69708
+; でも命に関わる別状はないという事で、診断はここで打ち切れた。
+But the diagnosis was terminated here because there was no life-threatening danger.
+
+# 9d4e0532
+; 病院の看護婦から、気になる噂を聞いた。
+I heard a disturbing rumor from a hospital nurse.
+
+# ba92dc9d
+; 最近、俺と似たような事例が結構あるらしいという事だった。
+It was said that there have been many similar cases with me recently.
+
+# cfefdc28
+; 行方不明になって、記憶喪失で帰った人が数人も居たという。
+Several people reportedly went missing and returned home with amnesia.
+
+# d4267bcb
+; 行方不明、そして１０日以上の記憶の空白。
+Missing, and a memory gap of more than 10 days.
+
+# ac6d89bc
+; いったい彼らは、そして俺は、
+They were, and me were,
+
+# 4dee5bcc
+; どんな事件に巻き込まれたのだろう。
+I wonder what kind of incident he was involved in.
+
+# ac641b4a
+; ……思い出せない。
+…… I can't remember.
+
+# 931ffd28
+; どうしても、思い出せない。
+I just can't remember.
+
+# e8dbaa67
+; 俺はそれがとても悔しくて、そして悲しかった。
+I was very frustrated and sad about that.
+
+# 41023881
+; ……翌日、レイキャヴィク。
+…… The next day, Reykjavik.
+
+# b59a41b6
+; me: 「久しぶり、かな？」
+me: "It's been a long time no see."
+
+# 35520608
+; ありがたい事に、
+Thankfully,
+
+# f49cbfca
+; レスキューの人たちは、俺をレイキャビクまで送ってくれた。
+The people of Rescue took me to Reykjavik.
+
+# 9374201f
+; そこから俺はすぐに警察署へ向かった。
+From there, me headed straight to the police station.
+
+# 704a9da8
+; 色々と調べてもらったけど、特にわかった事もなく、
+I had a lot of research done, but I didn't know anything about it.
+
+# c5de8196
+; 俺は預かれていた荷物を返してもらい、
+I had his baggage returned;
+
+# 714516a1
+; 何もかもが元に戻った。
+Everything went back to normal.
+
+# 9a8012
+; me: 「ふぅ」
+me: "`Phew,'"
+
+# a1d40016
+; 大変な事件があったはずなのに、今では何もなかったのように、とても普通だ。
+There must have been a serious incident, but now it's as normal as if nothing had happened.
+
+# c8dcc561
+; ……俺は、普通の旅人に戻った。
+……me returned to being an ordinary traveler.
+
+# 5f60b35d
+; me: 「しかし、困ったな」
+me: "But I'm in trouble,"
+
+# 62b37f48
+; 帰り便を逃してしまったよ。
+I missed my return flight.
+
+# 3a21174f
+; 日本に帰る飛行機は１２月２０日だったんだ。
+The flight back to Japan was on December 20th.
+
+# 65c24a3f
+; 予定通りなら、俺は今頃には日本にいるはずなのに。
+If it were on schedule, me would be in Japan by now.
+
+# 120b7754
+; me: 「……まぁ、いいか。今からでもまた別の便を予約すればいいだけの事だし」
+me: "…… "Well, you know what?All you have to do is book another flight now."
+
+# fe962fcc
+; かなり痛い出費だけど、これだけはどうしようもない。幸い、まだカードの残高は残ってるしな。
+It's a pretty painful expense, but there's nothing I can do about it.Fortunately, I still have the balance of my card.
+
+# e24ab444
+; me: 「今から……いや……」
+me: "From now on, ……, ……."
+
+# 7c38aa75
+; ……明日にしようか。
+…… Shall we do it tomorrow?
+
+# a0112033
+; なんか疲れてしまったし、まだちょっと名残惜しいし。
+I'm kind of tired, and I still feel a bit sad.
+
+# 49a88ede
+; 今日一晩くらいは、この街のどこかで泊まるとしよう。
+Let's say I'll stay somewhere in this city for one night or so.
+
+# 6cbb3771
+; そうだな。
+That's right.
+
+# ac64a3d9
+; あのホステルに戻ってみるか。
+Let's go back to that hostel.
+
+# e1ed9b6e
+; 部屋が空いてるか聞いてみよう。
+Let's ask if the room is available.

@@ -1,0 +1,173 @@
+; Japanese <ja> to English <en> localization document for `ed_5_04_3_sheep` naninovel script
+
+# bde05330
+; yule: 「えええええ？？」
+yule: "`What?'"
+
+# 7488a88b
+; それから一年後。
+A year later.
+
+# ed83636d
+; ステキちゃんを選んだ俺は……
+I was chosen by …… as Stekky was selected by …….
+
+# bef8ffb4
+; 「べ———」
+"Ba-ha-ha-ha-ha-ha-ha-ha-ha."
+
+# 320f646e
+; 「べ——————」
+"Bae-ae-ae-ae-ae-ae-ae-ae."
+
+# a4837a1d
+; 「べ—————————」
+"Beh-beh-beh-beh-beh-beh-beh-beh."
+
+# b493a076
+; ここはステキちゃんの羊牧場。
+This is a sheep farm in Stekky.
+
+# 71ad456e
+; 俺は今ここで暮らしてる。
+I is living here now.
+
+# 978499c4
+; 羊として頑張ることにした。
+I decided to do my best as a sheep.
+
+# 6d5b414f
+; もぐもぐ。
+mumbling.
+
+# cfe21fa3
+; me: 「べ————（草うまっ）」
+me: "Ba-ma-ma-ma-ma-ma-ma-ma-ma-ma-ma."
+
+# 1b2b68a
+; 根底まで引き抜いて食った。
+I pulled it to the bottom and ate it.
+
+# bbfab838
+; me: 「べ——————」
+me: "Bae-ae-ae-ae-ae-ae-ae-ae."
+
+# 552acb56
+; 羊の人生はまったりしてて、心地よい。
+Sheep's life is relaxed and comfortable.
+
+# fcc149fc
+; 食って、歩いて、寝るだけ。
+Just eat, walk, and sleep.
+
+# 883b227c
+; 思えば、それだけでいいのだ。
+That's all I need to think about.
+
+# f4073801
+; 今までの人生ってなんだったのだろう。
+I wonder what life has been like so far.
+
+# 3da812c5
+; むしろ最初から羊に生まれてもよかった。
+but he could have been born sheep from the beginning.
+
+# 25da0f14
+; me: 「べ——（それにしても、暇だな）」
+me: "But I'm free."
+
+# 246fcef
+; そう思ったとき、遠くから聞きなれた足音が聞こえた。
+Just as I thought about it, I heard familiar footsteps from afar.
+
+# ed1023eb
+; suteki: 「{playerName}！あたしが来たよー」
+suteki: " {playerName}! I'm here,"
+
+# eca1b7ff
+; たくさんの羊の中で、俺を見つけて走ってくるステキちゃん。
+Stekky running to find me among many sheep.
+
+# 65aac8
+; 愛する人。
+Someone I love.
+
+# 824e6033
+; me: 「べ———（おかえり）」
+me: "`Welcome back,'"
+
+# 89fe1cce
+; suteki: 「あっ！」
+suteki: "Oh!"
+
+# e4b27fcb
+; コケた。
+It's mossy.
+
+# 4c7f417d
+; ステキちゃんは足が悪いから、よくコケる。
+Stekky has bad legs, so it's very funny.
+
+# fa3c934d
+; suteki: 「いたたた……」
+suteki: "It was ……,"
+
+# 63d6314d
+; me: 「べ——（だから走るなって）」
+me: "Don't run."
+
+# a4bd1e69
+; suteki: 「うん。へへへ」
+suteki: "Yes, hehe."
+
+# 15989fbc
+; そして何事もないようにまた俺に近づく。
+Then he approaches me again, as if nothing had happened.
+
+# 9df315ef
+; suteki: 「ふふふ」
+suteki: "Phew,"
+
+# 845c9659
+; 俺の上に乗って、その長い木の靴で俺を叩いた。
+On top of me he struck me with his long wooden shoes.
+
+# 479212d0
+; パンパン
+with a bang
+
+# 304a2930
+; me: 「べ～～～（いたっ！）」
+me: "Bae~~~~~~~~~~~~~~~!"
+
+# 68f311f8
+; suteki: 「わははははははは」
+suteki: "Hahaha,"
+
+# 4f0ba37f
+; me: 「べ————————（でも気持ちいい！）」
+me: "But it feels good!"
+
+# 65d16f85
+; そしてステキちゃんは俺を抱きしめながら、ささやく。
+Then Stekky whispered, hugging me.
+
+# 5ef44a4a
+; suteki: 「ね、{playerName}？」
+suteki: "Well, {playerName}?"
+
+# 2ee39578
+; me: 「べ——？」
+me: "Beh?"
+
+# bb9677bd
+; suteki: 「愛してるよ」
+suteki: "I love you"."
+
+# dba49cd4
+; me: 「べ———————！（ああ、俺もさ！）」
+me: "Bae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae-ae!"
+
+# 477b805d
+; この地は、愛で満ちている———————
+This land is full of love.

@@ -1,0 +1,165 @@
+; Japanese <ja> to English <en> localization document for `6_12_1_exitmerman` naninovel script
+
+# 3fd88ec7
+; me: 「ヒヒーン（もう、追ってこないか？）」
+me: " niegh (Will you follow me now?")"
+
+# 8144390f
+; yule: 「はい。どうにか逃げ切ったみたいですね」
+yule: "Yes, I guess you managed to escape."
+
+# cbee6bf4
+; 全力で走ってきた俺は、少し息を整えた。
+me, who had been running with all his might, breathed a little.
+
+# 2c5f832
+; hime: 「マーマンさん、どうなっちゃったの？」
+hime: "What happened, Mr. merman?"
+
+# 9bce6f88
+; yule: 「ドラウグに傷を負ってしまった、と言っていましたね」
+yule: "You said you had a wound to Draugur,"
+
+# e3dd07c5
+; me: 「ヒーン（あ、もしかしてこれが、あの死んだエルフが言ってた【感染】なのか？）」
+me: "niegh (Oh, is this the 【 infection that the dead Elf mentioned?)"
+
+# eac33f5
+; hime: 「傷を負って、感染してしまって、化け物に変わってしまった？」
+hime: "Did you get hurt, get infected, and change to Monster?"
+
+# 2cc3d2b8
+; yule: 「そうだと思います。[i]【外界の神】の手先にやられたんですよね。[i]まさかあんな姿になるとは……」
+yule: "I think so.[i]【 It was done by 】, the god of the outside world.[i]…… I never thought I'd look like that."
+
+# 7623aa87
+; me: 「ヒヒーン（傷を負って【感染】されてしまうか……それってまるで……）」
+me: "niegh (Do you get hurt and 】 infection ……? …… is like 【.)"
+
+# eb83a940
+; hime: 「うん……まさに【ウイルス】なんだよね」
+hime: "Yes, …… is the 【 virus 】."
+
+# 7ef96188
+; yule: 「ウイルスですか。[i][char yule.l-nayami]トゥーレにはない概念でしたので、知識としてしか知らなかったのですが、こういう事だったんですね」
+yule: "Is it a virus?[i][char yule.l-nayami] It was a concept that Thule didn't have, so I only knew it as knowledge, but it was like this."
+
+# b1cdd4d2
+; hime: 「だとしたら、先に話も……もしかして本当に……？」
+hime: "If that's the case, is it really ……?"
+
+# c1986722
+; me: 「ヒヒーン（先の話……そうだな）」
+me: "niegh (The other story ……)"
+
+# 62ea8e4a
+; 永久凍土に眠ってる【ウイルス】が表に出て、
+【 virus 】 lying in permafrost appeared;
+
+# 4c938b1e
+; 人類は滅亡し、地球は【外界の神】に飲み込まれる。
+Human beings are destroyed and the earth is swallowed up by 【, the god of the outside world.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# e16649f
+; グロいものを見て、暗い話を聞いたせいか、なんだか気分が晴れないな。
+Maybe it's because I saw something grotesque and heard a dark story, but I don't feel well.
+
+# a315004d
+; yule: 「ま、ただの妄言かも知れませんから。あまり気にしないでください」
+yule: "Well, it may be just absurd remarks.Don't worry too much."
+
+# dcd73e65
+; me: 「ブルルル（そう、かもな）」
+me: "Yes, Brrrr,"
+
+# 34ed90dc
+; yule: 「あいつは賢者だけど、正気を失った状態だったし」
+yule: "He's a wise man, but he's lost his mind."
+
+# 74e7beb5
+; hime: 「そういえば、頭がおかしくなったような言葉も沢山喋ってたよな」
+hime: "Come to think of it, you used to say a lot of crazy things."
+
+# 975a301b
+; me: 「ヒヒーン（そうだな。あんな話気にするところで、どうにもならん）」
+me: " niegh (Yes.It's no use worrying about such a thing.)"
+
+# 2c33378e
+; hime: 「そう、だね。……仮に本当だとしても、わたしたちにはどうにかできる問題でもなさそうだし」
+hime: "Yes, sir. …… If it were true, it would not be a problem we could manage."
+
+# bf309f26
+; yule: 「はい。今はただユールちゃんたちがやれる事をやるしかないですよ。[i][char yule.default]引き続き、ヒルドルを探しに行きますか！」
+yule: "Yes, now we just have to do what Yules can do.[i][char yule.default]Will you continue to look for Hildur?"
+
+# 48ff4667
+; hime: 「うん。{playerName}を人間に戻すんだよね？」
+hime: "Yeah. You're going to turn {playerName} back into a human being, right?"
+
+# e6ff46a7
+; me: 「ヒヒーン（ああ。残りの記憶も探さないといけませんしね）」
+me: "niegh (Yes, I have to look for the rest of my memory.)"
+
+# e17b40e9
+; yule: 「はい。そのあと二人は、人間世界に戻るだけですよ」
+yule: "Yes, they'll only go back to the human world after that."
+
+# c68dbbad
+; me: 「……ヒヒーン（そう、だな）」
+me: "Yes, ……niegh,"
+
+# cf5a9c7d
+; もうすぐ俺のすべての問題が解決する。
+All me issues will be resolved soon.
+
+# 4e11a21f
+; トゥーレから、人間世界に戻る。
+Thule Return to the human world.
+
+# 1dd7bdef
+; 旅は、終わる。
+The journey is over.
+
+# c20f596
+; それはいい事なはずだけど、このすっきりしない感じはなんなのかな。
+That should be a good thing, but I wonder what this feeling is.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# c9b26fdc
+; いやいや。
+No no。
+
+# a02e4587
+; はっきりしない事について、いつまでも悩んでも仕方ないじゃん。
+It's no use worrying about things that aren't clear.
+
+# e9c3d117
+; me: 「ヒヒーン（……とりあえずは、目的地に向かって走り続けるのみだ）」
+me: "niegh (For now, just keep running towards your destination.)"
+
+# 7e87eb92
+; yule: 「はい！」
+yule: "Yes!"
+
+# 76467720
+; me: 「ヒヒーン（……で、ヒルドルのところは、どっちに向えばいいんだ？）」
+me: "niegh (Which way should Hildur go, ……?)"
+
+# e2c9cdc3
+; yule: 「あ、ラーカギーガルですね。すぐそこですよ。あの山を超えると、見えてくるはずです」
+yule: "Oh, Lakagigar.It's just around the corner.If you cross that mountain, you'll see it."
+
+# 3e6fbec
+; me: 「ヒーン！」
+me: " niegh!"
+
+# 70f1ba73
+; 俺は二人を乗せて、ユールちゃんが目指した先へと、走り出した。
+I took them on board, and began to run to the end of Yule's aim.

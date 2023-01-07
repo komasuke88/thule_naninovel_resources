@@ -1,0 +1,61 @@
+; Japanese <ja> to English <en> localization document for `husavik` naninovel script
+
+# 1f34e85
+; me: 「ついに <ruby="フーサヴィーク"> Húsavík</ruby>まで来たな」
+me: "Finally <ruby="Housavik">H úsav ík</ruby>"
+
+# 1ee78676
+; フーサヴィークのランドマーク、 <ruby="フーサヴィークルキルキャ"> Húsavíkurkirkja</ruby>教会が見えてきた。
+The Housavik landmark <ruby="Housaviklekirca">H úsav íkurkirkja</ruby> is now visible.
+
+# 801c1399
+; me: 「フーサヴィークというば、あの曲だよな」
+me: "Housavik is that song."
+
+# 1574b33d
+; ここは2020年、ネットフリックスの映画、<tip="firesaga">Eurovision Song Contest: Story of Fire Saga</tip>の背景になった町だ。
+This is Village, the background of the 2020 Netflix movie <tip="firesaga">Eurovision Song Contest: Story of Fire Saga</tip>.
+
+# 5e9e8ee7
+; その映画が上映された後、町を訪れる観光客が大きく増えたという。
+After the movie was shown, the number of tourists visiting Village increased significantly.
+
+# 2a0b3a6a
+; 映画の中で、この町の同名の歌、<tip="husavik">Husavik (My Hometown)</tip>という曲が出る。
+In the movie, the song <tip="husavik">Husavik(My Hometown)</tip> of the same name of Village appears.
+
+# 3b594e9a
+; 映画ではその歌がコンテストで優勝候補になるが、実際にその歌は93rd Academy Awardsで優勝候補になった。
+In the movie, the song is a contender for the contest, but in fact the song was a contender for the 93rd Academy Awards.
+
+# 48dda891
+; me: 「サビの方の高い声がたまらなかった」
+me: "I couldn't help but hear the chorus part's high voice"."
+
+# 3dcffc6f
+; せっかくここまで来たんだし、ちょっと聞いてみるか。
+Now that we've come all the way here, shall I ask you something?
+
+# 32fa490
+; 俺はイヤホンを付けて、Husavikを聞きながら町を歩いてみた。
+I tried to walk around Village while listening to Husavik with earphones on.
+
+# b7d67180
+; me: 「ま、映画の事じゃなくても、もともと有名な町ではあったけどね」
+me: "Well, even if it wasn't about movies, it was originally a famous Village."
+
+# deece23d
+; この町の前の湾には、よく色んな種類のクジラが入って来て、
+In the bay in front of Village, there are many kinds of whales.
+
+# 97235fed
+; ホエールウォッチング（クジラ観察）ツアーとしても有名な町でもある。
+It is also a famous whale watching tour Village.
+
+# 1726e517
+; me: 「でもクジラ観察は……今は無理そうだ」
+me: "But whale watching is …… I don't think I can do it now."
+
+# e3fb73fc
+; しばらく町を歩いたあと、俺はガソリンスタンドに寄ってからその町を出た。
+After walking Village for a while, me stopped by the gas station and left the Village.

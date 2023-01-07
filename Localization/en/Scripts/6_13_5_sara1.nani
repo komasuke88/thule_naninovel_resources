@@ -1,0 +1,677 @@
+; Japanese <ja> to English <en> localization document for `6_13_5_sara1` naninovel script
+
+# 8267cbb0
+; 一晩を過ごせるような寝所を探して、急いで駆け出したけど、
+I rushed to find a place to sleep for the night.
+
+# 972e9d8d
+; 特に走る事もなかった。
+There was no particular running.
+
+# 43b0e2f5
+; すぐ近くで、それが見つかった。
+I found it very close by.
+
+# a269f081
+; me: 「ヒヒーン！（お！？あそこに、家があるぞ！）」
+me: " niegh! (Oh!?)There's a house over there!'"
+
+# 1a896e1e
+; hime: 「えっ、本当にあったんだ！」
+hime: "Oh, there it really is!"
+
+# 771d24ca
+; me: 「ヒヒーン（空き家かな）」
+me: "niegh (I suppose it's an empty house?"
+
+# bbabfbac
+; エルフの家ではない。
+It's not Elf's house.
+
+# b508f31a
+; 人間のサイズの家だ。
+It's a house of human size.
+
+# 7e7ad1a3
+; サムスティラで現れた、人間の物だろう。
+Samstilla It must have been human.
+
+# c0c2ee7
+; なら、空き家に違いない。
+Then it must be an empty house.
+
+# 1ce61ff2
+; me: 「ヒヒーン（よし、今晩はあそこで泊まって……）」
+me: " niegh (All right, stay there tonight ……)"
+
+# df423a6e
+; そう言って、そこの家に近づこうとしたその時、
+And when I was about to get close to the house.
+
+# 10768563
+; hime: 「きゃっ！？な、なに？」
+hime: "What!? What?"
+
+# ed38bbd7
+; me: 「ヒヒーン（うわっ！眩しい！）」
+me: "niegh (Wow! It's so bright!)"
+
+# 277bc209
+; 一瞬、世界が瞬いた。
+For a moment the world blinked.
+
+# 45bcb178
+; 白い光に包まれて、なにも見えなくなった。
+Wrapped in a white light, nothing was to be seen.
+
+# 40e2e39d
+; 徐々に目がなれると、周りの風景を確認してみた。
+As his eyes gradually grew, he checked the surrounding scenery.
+
+# 6683e9b9
+; だけど、特に何も変化はなかった。
+But there was no particular change.
+
+# 39ab46ae
+; hime: 「うぅぅ……目が痛いな。なんなの？」
+hime: "`Wow …… my eyes hurt.What?"
+
+# 187fe404
+; me: 「ヒヒーン（わ、わからん。太陽、ではあるまいし、[i]これっといった光源も見当たらないが……）」
+me: " niegh (I don't know.The sun, I don't think, and [i] I don't see any particular source of light ……)"
+
+# b353bf55
+; 光の正体について色々と推測してみようとしたその時、
+When I was trying to guess what light really is,
+
+# cfc6dfd2
+; me: 「ヒヒーン（えっ？）」
+me: "niegh (What?)"
+
+# aa05a0c5
+; 今度は突然と、この場に合わない音が聞こえてきた。
+This time, suddenly, I heard a strange sound.
+
+# 821e1228
+; ブロロロと、静かな世界で、うるさく響いた。
+There was a murmur of noise in the quiet world.
+
+# cc0296e5
+; me: 「ヒヒーン（こ、この音は……？）」
+me: "niegh (Is this sound ……?)"
+
+# 9ff8b3d5
+; hime: 「ど、どこから……[i]あ！あれ！？……{playerName}！見てみて、あそこ！？」
+hime: "Well, from where ……[i] Ah!Oh!? ……{playerName}! Look, over there!?"
+
+# d286d54b
+; me: 「ヒヒーン（あ、えっ……？）」
+me: "niegh (Oh, ……?)"
+
+# 1c908cc5
+; 俺は足を止めて、ヒメが指差した方向を見てみた。
+I stopped and looked in the direction pointed by Hime.
+
+# 7a7359e
+; そこには……
+It contains ……
+
+# 19c85498
+; 白い４WDが、丘を回ってこちらへ近づくのが見えた。
+I saw a white 4WD circling the hill and approaching me.
+
+# 2bb5ab91
+; 車だ！
+It's a car!
+
+# 1d2da509
+; 人か？
+Is it a person?
+
+# b49e0d18
+; ここに俺たち以外に人かいたのか！？
+Was there anyone else here besides me?
+
+# 487e2f38
+; ドキドキする。
+My heart is pounding.
+
+# a4f967fe
+; 誰もいないトゥーレに長くいたせいか、
+Maybe it's because I've been in Thule for a long time.
+
+# 9377aa02
+; 他人が恋しくなって、人間社会の物が懐かしかった。
+I missed other people and missed the things of human society.
+
+# 51957ac3
+; しかし、なんだいきなり、どういうことだ。
+But what happened all of a sudden?
+
+# 37aad9e3
+; なんでこっちに車が？
+Why is there a car over here?
+
+# 1326aa3e
+; …………ちょっとまった。
+………… It's a bit awkward.
+
+# 8e089b06
+; あれ本当に、人が乗ってるんだろうか？
+Are there really people on board?
+
+# 3186d9d6
+; すぐに、嬉しさは消えて、警戒心が湧いてきた。
+Soon the joy disappeared and the alarm grew.
+
+# 85f6b6d9
+; あまりにも突然過ぎて、この状況が受け入れられなかった。
+It was so sudden that I couldn't accept this situation.
+
+# 1e2223ff
+; me: 「ヒヒーン（怪しいな。トゥーレで車なんて。[i]いったい誰が乗ってるんだ？）」
+me: " niegh (Suspicious.Thule I can't believe it's a car.[i]Who in the world is on board?"
+
+# 6d9d8c89
+; hime: 「えっ？[i]そ、それじゃあ、もしかして、化け物が乗ってたり？」
+hime: "What? [i] Well, is there Monster on board?"
+
+# f6920955
+; me: 「ヒヒーン（とりあえず、逃げるか？）」
+me: "niegh (Do you want to run away?)"
+
+# 2c9dce88
+; と、思ったけど、すぐにその車は俺たちの近くまで来て、停まった。
+I thought, but soon the car came near me and stopped.
+
+# e01afba1
+; そして、
+And...
+
+# 4bc4e706
+; unknown: 「お？ <ruby="クヴェラヴェトリル"> Hveravellir</ruby>で乗馬か。久しぶりに見たな」
+unknown: "Oh? Riding at <ruby="Kuveravetril">Hveravelir</ruby>?"It's been a long time since I saw it."
+
+# 3a0be003
+; 車のドアが開けられて、人の声が聞こえた。
+The car door was opened and I heard people.
+
+# f67c7854
+; 英語。
+English。
+
+# b524bc02
+; 聞き覚えのある声だった。
+It was a familiar voice.
+
+# cf920191
+; 車から降りた人物は……
+The person who got out of the car was …….
+
+# 73dcff16
+; sara: 「 <ruby="ハロゥ"> Halló！</ruby>」
+sara: "「 <ruby="Hello">Hall ó!</ruby>"
+
+# 5fafd6f8
+; me: 「ヒヒーン（さ、サラ？？）」
+me: " niegh?"
+
+# dda319a8
+; hime: 「えっ？なに？{playerName}の知り合い？[i]……って、子供なの？」
+hime: "What? What? An acquaintance of {playerName}?"[i]…… Is that a child?"
+
+# e9717f48
+; me: 「ブルルル（……それは言わないでくれよ。怒るから。子供じゃない）」
+me: " …… (Don't say that, Brrrr)I'm angry. I'm not a child.)"
+
+# a6747bbd
+; 俺たちがヒソヒソと話してると、サラがこちらに歩み寄って、さらに声をかけてきた。
+I and they were whispering, when Sara walked up to us and called to us further.
+
+# 734ea35
+; sara: 「 <ruby="ハイハイ"> Hæhæ！</ruby>こんばんは、お嬢ちゃん。[i][char sara.ww]Nice to meet you」
+sara: "「 <ruby="Hi, hi">H æh æ!</ruby>Hello, Miss.[i][char sara.ww] Nice to meet you."
+
+# 7418221f
+; サラはヒメの方を見ながら、話しかけた。
+Sara spoke to Hime, looking at her.
+
+# 91587b69
+; ヒメは俺の背中から降りて、サラに挨拶した。
+Hime got down from me's back and greeted Sara.
+
+# 32dbc998
+; hime: 「え、えっと。イェ、イェス。[i]ハロゥ」
+hime: "Let's see. Yes, yes.[i]Hello."
+
+# a5b6cf4c
+; ヒメがぎこちない英語で挨拶を交わし。
+Hime exchanged greetings in awkward English.
+
+# 32e636b4
+; sara: 「あの空き家で泊まろうかと思ってたところなんだけど、お嬢ちゃんもそうなん？」
+sara: "I was thinking of staying in that vacant house, and so was your daughter?"
+
+# cc1edfea
+; hime: 「え、ええ。まぁ」
+hime: "Well, yes, well,"
+
+# 76f407ff
+; sara: 「そっか。一足遅かったか」
+sara: "I see. Was it a little late?"
+
+# 6493f096
+; hime: 「あはは……えっと……」
+hime: "`Ah, ……, ……,'"
+
+# 1211db6f
+; ヒメが俺の方を伺った。
+Hime asked me.
+
+# 86f54a96
+; 車から俺の知り合いが降りてきて安心したみたいだけど、
+It seems like an acquaintance of me got out of the car and felt relieved.
+
+# 6e2ac9dd
+; いきなり過ぎて、どんな話をしたらいいかわからなく、混乱してるらしい。
+He seems to be confused because he doesn't know what to say after a sudden lapse.
+
+# 76ca12a3
+; 俺は、久しぶりに会った知り合いの顔を見て嬉くなって、近寄って声をかけた。
+I looked glad to see the face of an acquaintance whom he had not seen in a long time, and approached him and called out to him.
+
+# 9fd06cf7
+; me: 「ヒィィン！（サラ！久しぶりだな！）」
+me: "Hing! Sara! Long time no see!"
+
+# a64a631c
+; sara: 「うわっ！」
+sara: "Wow!"
+
+# 42672a05
+; me: 「ヒィィン！！（しかしどういう事だ？サラも、このトゥーレに迷い込んだのか！？）」
+me: "Hing! (But what do you mean?)Did Sara get lost in this Thule!?"
+
+# 845e1501
+; sara: 「こ、この馬、いきなりなんだ？[i]ボクを見て嬉しそうに唸って。人懐っこいな」
+sara: "What is this horse all of a sudden?"[i]Look at me and groan happily. You're friendly."
+
+# 2ed9a9d9
+; me: 「ヒィーン？（さ、サラ？）」
+me: "Is it Sara?"
+
+# cee3d9e1
+; サラは俺の方ではなく、ヒメの方だけを見ながら話した。
+Sara said, looking only at Hime, not at me.
+
+# 55daa48d
+; 俺の話はまるで聞こえなかったみたいに……
+…… as if he hadn't heard anything about it me
+
+# fde57386
+; あ、しまった。
+Oh, no.
+
+# 9927f328
+; 俺は今、馬なんだ。
+I is a horse now.
+
+# 941a1ddc
+; ヒメは微弱な魔力をまとってるから、俺の声の意味がわかるって言ったけど、
+Hime said that she understood the meaning of me's voice because she was wearing a weak Magical Power;
+
+# ac57edd2
+; 普通は、俺の声は理解できないのだな。
+Normally, you can't understand me's voice.
+
+# 95024b83
+; ……トゥーレではあまりにも当たり前だったから、うっかりしてた。
+……Thule Then it was so obvious that I forgot.
+
+# f85d49fe
+; しかし、サラにはいったい何があって、このトゥーレに？
+But what in the world is there with Sara, Thule?
+
+# c49d2fc
+; いや、もしかして今回も、その逆……
+No, by any chance, the reverse ……
+
+# bebca4b2
+; sara: 「それにしても、お嬢ちゃん、一人？[i]他の乗馬客たちは？」
+sara: "By the way, is your daughter alone? [i] What about the other riders?"
+
+# 1adbec7
+; 俺が一人で色々と考えてる際に、サラはヒメにやたらと話しかけてくる。
+While me is thinking about various things by herself, Hime talks to Sara a lot.
+
+# d582acc1
+; hime: 「え、えっと……ここには、わたしたち二人だけです」
+hime: "Well, ……, there are only two of us here,"
+
+# 8102fe43
+; sara: 「二人？」
+sara: "Two?"
+
+# 331bcf70
+; hime: 「あ、この馬と、ですよ。[i]二人で旅行中っていうか」
+hime: "Oh, with this horse.[i]We're traveling together."
+
+# 6bd8db96
+; ヒメはとっさにそんな事を言った。
+Hime said such a thing at once.
+
+# 40d22276
+; いきなり人が現れて混乱してるんだろうか。
+Are you confused when someone suddenly appears?
+
+# 306a743e
+; sara: 「へー！乗馬体験じゃなくて旅行だったんだ。[i][char sara.ww]珍しい。[i][char sara.w]今どき乗馬でハイランド観光とは、かっこいいな」
+sara: "Oh! It wasn't a riding experience, it was a trip.[i][char sara.ww] That's rare.[i][char sara.w] It's cool to go sightseeing in Highland riding these days."
+
+# ce536f89
+; hime: 「ど、どうも」
+hime: "Well, thank you,"
+
+# fde613a7
+; sara: 「あ、ボクはサラっていうんだ。アメリカから来て、今はハイランドを回っていたけどさ」
+sara: "Oh, my name is Sara.I came from America, and now I've been around Highland."
+
+# 11d6e929
+; サラが丁寧に挨拶をすると、ヒメもサラに向かい合い、礼儀正しく自己紹介をした。
+When Sara greeted him politely, Hime also faced Sara and introduced himself politely.
+
+# 860ad4
+; hime: 「わたしは南川姫花っていいます。日本から来ました……」
+hime: "My name is Himehana Minagawa.…… from Japan."
+
+# 3cf2d92d
+; ヒメはまだこの状況が落ち着かないみたいだったけど、聞かれた事には丁寧に返事をした。
+Hime seemed still uneasy about the situation, but he answered politely when asked.
+
+# 43d4e6b3
+; sara: 「えっ、南川姫花？」
+sara: "What, Namikawa Himeka?"
+
+# ac83e6ab
+; hime: 「は、はい」
+hime: "Yes, yes,"
+
+# 348fc87c
+; サラはヒメに近づいてその顔をじっと見つめると、
+Sara approached Hime and stared him in the face.
+
+# 40cc716b
+; sara: 「…………その名前、どこかで………………[i][char sara.uwa2]あっ！？」
+sara: "………… "Somewhere ………………[i][char sara.uwa2] Oh!"
+
+# d06f5efe
+; 何か思い出したように大声をあげた。
+I screamed as if I had remembered something.
+
+# cc654b46
+; sara: 「ああ！！ヒメカちゃんって、もしかして、ボルグホテルの宿泊客？」
+sara: "Ah!! Is Himeka a guest at the Borg Hotel by any chance?"
+
+# c9ee7411
+; hime: 「えっ？あ、はい。確かにそう、だったんですけど……」
+hime: "What? Oh, yes. Yes, I did, but ……."
+
+# e2dc682e
+; sara: 「ヒメカちゃん！警察が探してたよ！[i]行方不明になった日本人観光客だって。[i]ボクの方にも聞き込みが来て、もう大変だったよ」
+sara: "Mr. Himeka!The police were looking for it![i]It's a missing Japanese tourist.[i]I've been asked a question, and I've had a hard time."
+
+# 4d274a36
+; hime: 「ゆ、行方不明って？……ああ……[i][char hime.e]えっ……？？」
+hime: "Yu, are you missing? …… Oh, ……[i][char hime.e] What ……???"
+
+# 996b5854
+; sara: 「大丈夫？[i]変な事件に巻き込まれたとかしなかった？」
+sara: "Are you okay? [i]Didn't you get involved in a strange incident?"
+
+# 4ea95341
+; hime: 「……た、確かに巻き込まれたっていえば、そうですけど」
+hime: "Well, if you say you're involved,"
+
+# b6ff429d
+; sara: 「てか、ここで何してたの？[i]失踪者だって聞いたから心配だったけど、そんな危ない状態には見えないし……」
+sara: "Well, what were you doing here?"[i]I was worried because I heard that he was missing, but he doesn't look so dangerous ……"
+
+# 7c50dbd7
+; hime: 「え、えっと。ちょっと事情がありましてて……」
+hime: "Well, let's see. I've got some circumstances, ……."
+
+# 7037b975
+; sara: 「……なんか訳あり、かな？」
+sara: "What's the matter with ……?"
+
+# dd2bbf4c
+; hime: 「訳ありって言うか、その……なんて言えばいいのだろう……」
+hime: "I mean, what should I say about the ……?"
+
+# e9d3a01c
+; ヒメが自分の状況の説明求められたけど、流石に答えに困るだろう。
+Hime was asked to explain his situation, but he would be at a loss for an answer.
+
+# b66c3766
+; 長くなるし、複雑だ。
+It's going to be long and complicated.
+
+# 5ea5844d
+; sara: 「……まあ、事情はともかく、無事なのはよかったよ！」
+sara: "…… "Well, I'm glad you're safe, no matter what!"
+
+# d41c6a6b
+; 俺たちが答えに困ってるうちに、サラはヒメの肩をポンポンと叩きながら、慰めるようにそう言った。
+While they were at a loss for an answer, Sara patted Hime on the shoulder and said so comfortingly.
+
+# 94098848
+; しかしサラの方が背が小さくて、子供が大人にすがるような構図に見えた。
+However, Sara was shorter and looked like a child leaning on an adult.
+
+# 90b8ccb5
+; なんか微笑ましいな。
+It's kind of funny.
+
+# e8d287c8
+; sara: 「あ、そうだ！」
+sara: "Oh, yes!"
+
+# 3208e1cd
+; hime: 「はい？」
+hime: "What?"
+
+# ba9f2c17
+; sara: 「{playerName}って人、知らない？[i]ヒメカちゃんと同じく日本から来た男で、[i]彼、ボクのルームメイトだったけどよ……」
+sara: "Don't you know who {playerName} is?"[i]Himeka It was Man from Japan as well. [i] He was my Room mate. ……."
+
+# 31bc9128
+; hime: 「ああ、はい。{playerName}なら……」
+hime: "Oh, yes, ……, {playerName}."
+
+# 29cbd40f
+; sara: 「お、やっぱ知ってるんだ。[i][char sara.w]{playerName}もヒメカちゃんと同じ時期に、同じく行方不明になったって聞いたからさ。[i][char sara.default]もしかして、ヒメカちゃんなら何か知ってるかな？と思って」
+sara: "Oh, you know that.[i][char sara.w] I heard that {playerName} went missing at the same time as Himeka.[i][char sara.default]I was wondering if Himeka would know anything."
+
+# c4dcadeb
+; hime: 「一緒に居ますけど、ここに……」
+hime: "I'm with you, but here ……."
+
+# 16e09de3
+; sara: 「え、ここ？ホント！？どこ？」
+sara: "Here? Really? Where?"
+
+# 6800cd6a
+; hime: 「えっと、ここに」
+hime: "Here,"
+
+# 5ff36ffe
+; ヒメは俺の方を指差しながらいった。
+Hime pointed to me.
+
+# cdca7583
+; sara: 「ここにって？ヒメカちゃんの馬しかいないんだけど」
+sara: "Here? There's only Himeka's horse."
+
+# d558fd6a
+; サラはぎょろぎょろと周りを探した。
+Sara looked round.
+
+# a556e69f
+; me: 「ヒィーん（俺が{playerName}だよ！事情があって今は馬の姿になったんだ！）」
+me: "niegh (The {playerName} is me! For some reason, he is now a horse!)"
+
+# ddb1cac3
+; sara: 「うわっ！この馬！またボクにかかってきて唸ったよ！」
+sara: "Wow! You horse! He came to me again and groaned!"
+
+# 3570f70
+; しかし、サラは俺なんてなんの構いもなしに話を進めた。
+But Sara proceeded without regard to me.
+
+# 71d07a7b
+; ああ、やっぱり、通じない。
+Oh, I can't get through.
+
+# 9c98621
+; 無駄だとわかったけど、ダメ元で言ってみた。
+I knew it was useless, but I said it in a bad way.
+
+# 5f1203de
+; hime: 「この馬が、{playerName}ですよ？」
+hime: "This horse is {playerName}?"
+
+# dc50bcb5
+; sara: 「はぁ？[i][char sara.close_e]……えっと、[i][char sara.komaru]この馬の名前が{playerName}って事？」
+sara: "Huh? [i] [char sara.close_e] …… Let's see. [i] [char sara.komaru] Does this horse have a name of {playerName}?"
+
+# a026c3e9
+; hime: 「あ、だから、この馬が{playerName}本人で、[i][char hime.komaru]……あ、いや……えっと、{playerName}？」
+hime: "Oh, so this horse is {playerName} himself. [i] [char hime.komaru] …… Oh, no, ……, {playerName}?"
+
+# adff7ec
+; ヒメが俺の方を見ながら、助けを求めた。
+Hime turned to me for help.
+
+# 570aa668
+; どう説明していいか、戸惑ってるみたいだった。
+He seemed confused about how to explain it.
+
+# 1da1480
+; そうだな。ポリモーフの魔法を食らって、こんな姿になったとか、[i]言っても理解してもらえないかもな。
+I know. You might not understand if you say that you were under the spell of polymorph. [i]
+
+# 39557cd5
+; sara: 「名前が同じなんだな！ははっ、それはうけるわ。[i][char sara.close_w]ま、すごい偶然ではあるけど、[i][char sara.w]先も言った通り、ボクが言ってる{playerName}っていうのは、日本から来た男性の事で……」
+sara: "They have the same name! Ha, ha, that'll pay.[i][char sara.close_w] Well, it's a big coincidence, but [i] [char sara.w] As I said before, {playerName} means Man from Japan."
+
+# 4cdf7878
+; hime: 「いいえ。だから……どこから言えばいいのだろう……{playerName}？」
+hime: "No, so where should I start with …… ……{playerName}?"
+
+# 57ba18a6
+; sara: 「うん？」
+sara: "Huh?"
+
+# 625a1f
+; 俺に話しかけてるヒメの姿を、サラが怪訝な目で見つめた。
+Sara looked suspiciously at Hime talking to her.
+
+# 19deaad2
+; me: 「フルルルル（……サラには、俺の話が理解できないみたいだ）」
+me: "……Sara doesn't seem to understand me's story."
+
+# 2324d245
+; hime: 「うん。そうなんじゃないかとは思ってたけど……どうしよう」
+hime: "Yes, I thought so, but …… What should I do?"
+
+# f6e99985
+; sara: 「うん？ごめん、聞こえなかったけど、どういう事？」
+sara: "Huh? Sorry, I didn't hear you. What do you mean?"
+
+# 4367c8af
+; サラには、ヒメが独り言でも言ってるように見えたのだろう。
+To Sara it seemed as if Hime were talking to himself.
+
+# 33977ad4
+; 少し、変わった娘かと思われたかも。
+You might have thought she was a little strange.
+
+# 64fd05f8
+; hime: 「あ、いいえ。ちょっと{playerName}と話を……」
+hime: "Oh, no. I'll have a word with {playerName}."
+
+# c906b045
+; sara: 「馬と話？？[i][char sara.w]へぇーヒメカちゃんは、馬の話がわかるんだな」
+sara: "Talking to horses??[i][char sara.w] Oh, Himeka knows what horses are talking about."
+
+# 7cd486ee
+; サラは微笑ましくそう言ったけど、本気で信じるわけじゃなさそうだ。
+Sara said so with a smile, but he didn't seem to believe it.
+
+# 1c7ddc52
+; hime: 「そ，そうです！え、えっと、今は{playerName}が少し緊張してるみたいで、落ち着かないです」
+hime: "Oh, that's right! Well, {playerName} seems a little nervous right now, so I don't feel comfortable."
+
+# c5d6a011
+; sara: 「あ？ああ。そうだな。うん。先からボクの方を見て唸ってるし」
+sara: "Oh? Oh, yeah. Yeah. He's been looking at me and groaning."
+
+# f97a547c
+; hime: 「ちょっと相談……いいえ、落ち着かせますから、少しだけ待ってください」
+hime: "Let me talk to you for a moment …… No, I'll calm you down, so please wait a moment."
+
+# 182f2b4
+; sara: 「うん。どうぞどうぞ」
+sara: "Yes, go ahead."
+
+# d184bd3a
+; ヒメが俺の方に近づいて、首輪を握った。
+Hime approached me and seized her collar.
+
+# 217e16c8
+; me: 「ヒヒーン！」
+me: " niegh!"
+
+# 82665257
+; そして俺を引っ張って、サラから少し距離を取って、耳元でヒソヒソと話した。
+Then he pulled me, distanced himself a little from Sara, and whispered in his ear.
+
+# 740af95a
+; hime: 「ど、どうしよう、どんな状況なの？[i]わたしたち、人間世界に戻った？[i]だったらサラさんに本当の事を、伝えた方がいい？{playerName}の事は？信じてくれるかな？」
+hime: "Oh, my God, what is the situation?[i]Have we returned to the human world?[i]Then should I tell Mr. Sara the truth? What about {playerName}? Will you believe me?"
+
+# b68815f0
+; me: 「ヒヒーン（ちょ、ちょっとまった）」
+me: "niegh (Wait a minute.)"
+
+# 87eab93b
+; いきなり質問攻めだ。
+All of a sudden, they are bombarded with questions.
+
+# d587f0a3
+; hime: 「サラさんと話してると、まるで夢から覚めて、人間世界に戻った気分になるけど、[i][char hime.uu]でも今もこうして、馬の{playerName}と会話できてるし……何がなんだか」
+hime: "When I talk to Sara, I feel like I'm back in the human world after waking up from a dream. [i][char hime.uu] But I'm still able to talk to {playerName}, the horse, and I don't know what's going on."
+
+# ed33002b
+; 少し落ち着いて考えが必要かもな。
+Maybe you need to calm down and think.
+
+# 142affc7
+; me: 「ヒヒーン（とりあえず俺の事は、ただの馬として扱ってくれ。[i]話が長くなるだけだからね。[i]それより、今の状況を確かめたい」
+me: "niegh (Treat me as a mere horse for now.[i]It's only going to be a long story.[i]Rather than that, I want to make sure of the situation."
+
+# 2cb248c5
+; hime: 「今の状況って？」
+hime: "What's the current situation?"
+
+# e7bfdc0c
+; me: 「ヒヒーン（まずは日付を確認だ。[i]もう１２月２３日になってるのかも知れないからな）」
+me: "niegh (First, check the date.[i]for it may be the 23rd of December already."
+
+# 88df241
+; hime: 「え……」
+hime: "What ……,"
+
+# 6818b441
+; me: 「ヒヒーン（今の状況について、色々と考えて見たのだが……）」
+me: "niegh (I've thought a lot about the current situation, ……)"

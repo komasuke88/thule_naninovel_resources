@@ -1,0 +1,77 @@
+; Japanese <ja> to English <en> localization document for `_grimsey` naninovel script
+
+# 90cf7e08
+; yule: 「アイスランド最北端の、 <ruby="グリムセイ"> Grímsey</ruby>島に到着です」
+yule: "We're on the northernmost island of Iceland, <ruby="Grimsey">Gr ímsey</ruby>."
+
+# 24ff6775
+; me: 「……おぉ」
+me: "Oh, ……,"
+
+# b87f2e26
+; 車に乗ってたのに、あっという間に海を渡ってきた。
+I was in the car, but I came across the ocean in no time.
+
+# b3486705
+; 普通の旅行だったら船を予約しないと来れなかったよな。
+If it was a normal trip, I wouldn't have been able to come without booking a boat.
+
+# 1369c084
+; yule: 「ま、厳密にはもっと北にKolbeinseyという島もありますが、人が住める島はここが最後ですね」
+yule: "Strictly speaking, there is an island called Kolbeinsey further north, but this is the last island where people can live."
+
+# dcbcf925
+; me: 「ここにも人が住んでるんだな」
+me: "There are people living here, too,"
+
+# 2bffbe4c
+; yule: 「ま、人間世界ではですね」
+yule: "Well, in the human world,"
+
+# a8a9d310
+; me: 「あそこに見える変な球体は？？」
+me: "What strange sphere do you see over there?"
+
+# 425248b0
+; yule: 「ああ、あれは『ここから北極圏』を示してる像で、人間世界から来たものです」
+yule: "Oh, that's a statue from here that shows the Arctic 』, from the human world."
+
+# 4c2e6105
+; me: 「北極圏……なるほど」
+me: "Arctic …… I see."
+
+# 8931209
+; yule: 「といっても、ここは暖かなメキシコ湾流のおかげで、意外と寒くないです」
+yule: "But it's not cold here because of the warm Gulf Stream."
+
+# c54ef119
+; me: 「ああ、だから人が住めるんだね」
+me: "Oh, that's why people can live there,"
+
+# 4e18af27
+; そう言いながら、俺は誰も居ない島の中央部まで、車を走らせた。
+As he spoke, me drove to the middle of the deserted island.
+
+# 845c313c
+; me: 「ま、だいたい回ったな」
+me: "Well, it's pretty much round,"
+
+# 8556e4de
+; yule: 「もういいですか？本土へ戻りましょうか？」
+yule: "Are you ready?"Shall we go back to the mainland?"
+
+# ad64f6a
+; me: 「ああ」
+me: "Ah,"
+
+# 985e2a38
+; yule: 「くすくす、それでは」
+yule: "Well, giggle,"
+
+# 2cb8419
+; この島に来た時と同じく、
+Just like when I came to this island,
+
+# 3c2650b9
+; 俺たちはユールちゃんの魔法で一瞬で空を飛び、もとの場所へ戻った。
+The me flew in an instant under the spell of Yule and returned to their original place.

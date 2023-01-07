@@ -1,0 +1,545 @@
+; Japanese <ja> to English <en> localization document for `6_07_5_seacave` naninovel script
+
+# 63035e15
+; ユールちゃんについて島の端まで来たら、崖があった。
+I followed Yule to the edge of the island and found a cliff.
+
+# 6babc295
+; me: 「崖？」
+me: "A cliff?"
+
+# faddf6ee
+; yule: 「『妖精の道』です」
+yule: "It's 』 the Fairy Way."
+
+# a244e777
+; me: 「妖精の道か。ここにもあったんだな」
+me: "The Fairy Way. It's here, too."
+
+# 22eac87f
+; hime: 「あの……妖精の道って？」
+hime: "That …… Fairy Way?"
+
+# ccf81a6b
+; me: 「ああ、ワープポイントみたいなところでね……」
+me: "Oh, at warp Point, ……,"
+
+# 160fb339
+; 俺はヒメに『妖精の道』について説明してあげた。
+I explained to Hime about 』 the Fairy Way,
+
+# 5a985ff3
+; me: 「……そういやヒメは？[i]幽霊でもワープできるのか？」
+me: "What about ……by the wayHime?"[i]Ghost But can you warp?"
+
+# 34762029
+; yule: 「いいえ」
+yule: "No,"
+
+# 3ee5c5b4
+; me: 「なっ？だ、駄目じゃん！」
+me: "What? No, no!"
+
+# 8a782599
+; hime: 「えっ、わたし、置いていかれちゃう？」
+hime: "Oh, am I going to be left behind?"
+
+# 1b7095a7
+; yule: 「いや、{playerName}に取り憑いた幽霊だから、{playerName}から離れても勝手について来ちゃいますよ？」
+yule: "No, Ghost is possessed by {playerName}, and she will follow me even if I leave {playerName}?"
+
+# 90730131
+; me: 「そうだったな」
+me: "Yes,"
+
+# 7cf2b624
+; hime: 「も、もうこんな扱いやだー」
+hime: "But I don't want to be treated like this anymore,"
+
+# 375b93cb
+; yule: 「くすくす、それでは……」
+yule: " giggle, then ……,"
+
+# 3c40ef4f
+; またどこからか、大きなスプーンを取り出したユールちゃん。
+Also, Yule took out a big Spoon from somewhere.
+
+# 59e24c67
+; yule: 「ユールちゃんに続けてくださいね！」
+yule: "Go on with Yule!"
+
+# 2b5dfa19
+; そう言って、崖から飛び降りようと、駆け出した！
+and ran off to jump off the cliff!
+
+# a5cc3e1d
+; hime: 「えっ！？ユールちゃん大丈夫なの？？」
+hime: "What!? Yule Are you all right?"
+
+# acc2dea5
+; me: 「大丈夫だ。この前にも経験したんだ。……よっと！」
+me: "It's all right. I've experienced it before.…… All right!"
+
+# a84f5a31
+; 俺も続いて駆け出し、飛び降りた。
+I followed by a run and jumped down.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 4ad63880
+; yule: 「えっ？えええええええええええ？？」
+yule: "What? Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes?"
+
+# 8263aae7
+; 空中で、ユールちゃんの悲鳴が聞こえた。
+I heard Yule scream in the air.
+
+# 1f88927b
+; me: 「な、な、なっ！？」
+me: "What, what, what!"
+
+# d8d514a6
+; 妖精の道なら、この辺でワープして、違う場所についてるはずなんだけど……
+If it were a fairy's way, I would have warp around here, and I would have followed him somewhere else ……
+
+# b17e3b01
+; me: 「ワープしない？？？」
+me: "Why don't you warp?"
+
+# b7b3bbfc
+; hime: 「{playerName}！ユールちゃん！」
+hime: " {playerName}! Yule!"
+
+# 3aad7a08
+; 落ちてる。
+It's falling.
+
+# 562df556
+; ただ、崖から落ちてる。
+I'm just falling off a cliff.
+
+# 5a01eea
+; 落ちたら、どうなる？
+What happens if it falls?
+
+# e975e1d1
+; ……そりゃ、死ぬだろう！？
+…… You're going to die!?
+
+# 88da18d3
+; me: 「うわあああぁぁぁぁぁぁぁぁぁぁぁ」
+me: "`Oh, my God,'Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhh."
+
+# bba82404
+; unknown: 「ぐわ——————————」
+unknown: "Gooooooooooooooooooooooooooooooooooooooooooooooooo"
+
+# 566187a
+; me: 「あ、あれ」
+me: "Oh, that,"
+
+# 857583b8
+; なにか柔らかいものの上に落ちた。
+I fell on something soft.
+
+# 40c5eb25
+; 俺は、死んでない。
+I is not dead.
+
+# a3d844e4
+; me: 「こ、これは……」
+me: "This is ……,"
+
+# 8d6deb9e
+; unknown: 「ぐわっ」
+unknown: "Geez,"
+
+# 4ee4175
+; 巨大なパフィンだ。
+It's a huge puffin.
+
+# 7f32efea
+; 俺は、パフィンの背の上に乗ってる。
+I is on the back of the padded jacket.
+
+# 5a27c6ec
+; yule: 「よ、よかったです。パーちゃんが助けてくれました」
+yule: "Well, I'm glad to hear me.DearPuppin helped me."
+
+# b1c24f98
+; ユールちゃんも同じくここに乗ってた。
+Yule was riding here as well.
+
+# 99f00ffa
+; 俺たちはパフィンの上で向かい合って座ってる。
+The mes were sitting face to face on the muffins.
+
+# f6b6a763
+; me: 「ど、どういう事？」
+me: "What do you mean?"
+
+# 13e04acb
+; yule: 「わかりません。『妖精の道』を開いたつもりだけど、何故か聞かなかったみたいです……」
+yule: "I don't know.『 I thought I opened 』 the Fairy Way, but I guess I didn't ask why ……"
+
+# 4b4dadb3
+; me: 「し、死ぬところだったな」
+me: "But I almost died,"
+
+# 8acea5e3
+; yule: 「すみません。最近のユールちゃん失敗ばかりで、お嫁さん失格です」
+yule: "I'm sorry. My daughter-in-law has been disqualified because of all the recent Yule failures."
+
+# 3b8da76a
+; me: 「お嫁さんではないけど、気にするな。[i]どうせユールちゃんじゃなかったら俺、とっくの前に死んでたし」
+me: "I'm not married, but don't worry.[i]If it hadn't been Yule, me would have died a long time ago."
+
+# 79495b33
+; yule: 「あ、ありがとうございます」
+yule: "Oh, thank you."
+
+# d3af5d5
+; hime: 「どうなってるの？」
+hime: "What's going on?"
+
+# cac2a811
+; me: 「う、うわっ！」
+me: "Oh, my God!"
+
+# ec0c8f1f
+; ヒメが飛んで来て、驚いた。
+I was surprised when Hime flew in.
+
+# fb7fca07
+; ヒメはパフィンには乗ってないで、空中で浮かんでる。
+Hime is floating in the air, not on a muffin.
+
+# da798485
+; 流石に幽霊だなーと思ってしまう。
+As expected, I think it's Ghost.
+
+# b4d19be
+; hime: 「もう、いつまで驚くの？」
+hime: "How long will you be surprised?"
+
+# 50e9256
+; yule: 「ユールちゃんの魔法が、効かなかったのです」
+yule: "The magic of Yule didn't work."
+
+# fad66960
+; hime: 「そんな事もあるんだ。なんで？」
+hime: "That's the case.Why?"
+
+# 46902035
+; yule: 「わかりません。魔力が尽きた時には、たまにこうなりますが……」
+yule: "I don't know.When Magical Power runs out, this happens sometimes, ……."
+
+# 745f8eb8
+; me: 「魔力が尽きたのか？」
+me: "Have you run out of Magical Power?"
+
+# eee8d38c
+; yule: 「いいえ。違うと思います。[i]魔力が尽きたらユールちゃん、岩になっちゃいますから」
+yule: "No, I don't think so.[i]When Yule runs out, Magical Power becomes a rock."
+
+# 72b3cc03
+; me: 「そ、そうだった」
+me: "Oh, yes,"
+
+# 16babb62
+; トロールは太陽の光を浴びると岩になっちゃう。
+Troll becomes a rock in the sun.
+
+# f7622172
+; だけど普段は魔力で保護されてるのだったな。
+But it was usually protected by Magical Power.
+
+# 42f6ee58
+; hime: 「えっと、原因はわからないって事？」
+hime: "Well, you don't know the cause?"
+
+# 3421696d
+; yule: 「はい……」
+yule: "Yes, ……,"
+
+# 5f01d2fa
+; 理由はわからないけど、ユールちゃんが落ち込んでるんで、話題を変えた。
+I don't know why, but Yule is depressed, so I changed the subject.
+
+# 30e2122d
+; me: 「で、この鳥は…………もしかしてビューちゃんの？」
+me: "And is this bird ………… by any chance Byu?"
+
+# c48b4fb
+; yule: 「あ、はい。ビューちゃんが飼ってるパフィンです。ちょっと借りました」
+yule: "Oh, yes, it's a puffin owned by Byu.I borrowed a little."
+
+# 24fa7f46
+; hime: 「巨大な鳥か。わたしも乗ってみたいな」
+hime: "A huge bird. I'd like to ride it, too."
+
+# a5700a1f
+; yule: 「いや、あなたは元々飛んでるから要らないじゃないですか」
+yule: "No, you don't need it because you're always flying"."
+
+# f4d60854
+; hime: 「でもわたしだけ乗ってないから、仲間はずれみたいじゃん」
+hime: "But I'm the only one who didn't ride it, so I feel like I'm out of the group."
+
+# 952ff589
+; me: 「……あのな。ユールちゃん」
+me: "You know, ……."
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# bfd5be89
+; me: 「妖精の道を使えなくても、こいつで移動したらいいじゃないか？」
+me: "Even if you can't use the fairy path, why don't you move with him?"
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# 88a8a684
+; me: 「ほら、妖精の道を使って移動しようとした場所へ。この鳥に乗って行くの」
+me: "Here, to the place where you tried to travel by fairy-path.I'm going on this bird."
+
+# c7c121d9
+; yule: 「あ、そうですね。そうしてもいいと思いますよ」
+yule: "Oh, yes.I think you can do that."
+
+# adb2e43a
+; hime: 「北アイスランドまで、この鳥に乗って移動するの？」
+hime: "Are you going to ride this bird to Northern Iceland?"
+
+# 277f8dbe
+; me: 「北アイスランド……考えてみるとちょっと遠すぎかな？」
+me: "Is it too far to think of …… North Iceland?"
+
+# 497ec158
+; yule: 「大丈夫です。パーちゃんの速度はぱねーですから」
+yule: "It's all right. The speed of DearPuppin is flat."
+
+# 49420258
+; me: 「ぱねーか」
+me: "Pane,"
+
+# 429c0ba3
+; yule: 「それでは……」
+yule: "Then ……,"
+
+# ac004a71
+; そういってユールちゃんは、正面の方へ向き直って座った。
+Then Yule turned to the front and sat down.
+
+# 2d6fbc68
+; バイクの二人乗りみたいな体勢になった。
+I felt like riding a motorcycle with two people.
+
+# 55601659
+; yule: 「行きましょう。そのままでは危ないから、ユールちゃんの体をしっかりと捕まえてください」
+yule: "Let's go.It's dangerous as it is, so please hold Yule tightly."
+
+# 8ff417ec
+; me: 「あ、ああ……」
+me: "Oh, oh, ……,"
+
+# 1bec82b2
+; どこを掴めばいいのだろう？
+Where should I grab it?
+
+# 8d185107
+; @choice "腰" goto:.yoko
+@choice "waist" goto:.yoko
+
+# d3192517
+; @choice "胸" goto:ed_6_07_5_mune
+@choice "chest" goto:ed_6_07_5_mune
+
+# 67f28796
+; 恐る恐るユールちゃんの腰を掴まえようとした時、
+When I was about to grab Yule by the waist,
+
+# b2378bc1
+; puppin: 「グア！！」
+puppin: "Gua!"
+
+# c105a748
+; 鳥が羽ばたいた。
+The bird flapped its wings.
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# 7c8ada53
+; いきなりの動きで落ちそうになったんで、ユールちゃんを掴む手に力が入った。
+The sudden movement almost gave me strength in my grip on Yule.
+
+# 847ae793
+; 思わず強く抱きしめた。
+I couldn't help but I couldn'
+
+# d3d60c71
+; yule: 「ああん！♥」
+yule: "Ahhhhhhhhhhhhhhhhhhh"
+
+# f0d8af8a
+; me: 「なっ！？」
+me: "What!"
+
+# d755bb4e
+; 俺、もしかして捕まえては行けないところを……？
+me, …… where you can't possibly catch them?
+
+# 9ca39d7f
+; いや、違うが……
+No, but ……
+
+# 87653d06
+; hime: 「もう{playerName}ってば、ユールちゃんのどこを捕まえてるのよ！」
+hime: "`What part of Yule are you catching!'"
+
+# d5c79012
+; 後ろでヒメが何かぶつぶつ言ってる。
+Hime is muttering something behind her.
+
+# 315ffe18
+; me: 「腰だ！腰を掴んでる！もうユールちゃんも、冗談言わないで」
+me: "It's my waist! I'm holding my waist!Don't joke about Yule any more"
+
+# fbd14212
+; yule: 「くすくす、わかりました。[i][char yule.eto-l]でも{playerName}？」
+yule: "I see, giggle.[i][char yule.eto-l] But {playerName}?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 263de4fa
+; yule: 「ちょっと離れすぎです」
+yule: "It's a little too far away."
+
+# 7e29de6e
+; me: 「そうか？」
+me: "Is that so?"
+
+# f2c7a9c6
+; 驚いて距離を開いたからな。
+I was surprised and distanced myself.
+
+# dbee497c
+; yule: 「はい。もうちょっとくっついてください」
+yule: "Yes, stick with me a little bit more"."
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# f0e19b09
+; 恐る恐る近づいた。
+I approached him nervously.
+
+# 87e82e4
+; ……ちょっと、密着しすぎかな？
+…… Is it too close?
+
+# 17b82c1
+; yule: 「あん♡」
+yule: """An♡""
+
+# da377351
+; me: 「こ、今度は何だ？」
+me: "What's this time?"
+
+# 79dd9f6e
+; yule: 「ユールちゃんのお尻に何か当たってる」
+yule: "There's something on Yule's butt."
+
+# 3c5dfe12
+; hime: 「もう{playerName}ってば、やらしい」
+hime: "`I don't like {playerName} any more,'"
+
+# 5a30caad
+; 後ろでヒメがなにかブツブツ言ってる。
+Hime muttered something behind her.
+
+# bebcb356
+; でも違う。
+But it's not.
+
+# cd9755de
+; me: 「当たってない！」
+me: "You're not right!"
+
+# a13e8d73
+; yule: 「くすくす」
+yule: "The giggle,"
+
+# 3d2bef6
+; ユールちゃんの冗談だった。
+It was a joke between Yule.
+
+# fb83bf25
+; そんな冗談が言えるくらい、密着はしてる。
+I'm close enough to tell such a joke.
+
+# 24e93a9b
+; でも危ないから、これ以上は離れられない。
+But it's dangerous, so I can't leave any longer.
+
+# c0b312e2
+; yule: 「それでは、飛びます」
+yule: "Then I'll fly,"
+
+# 631eb074
+; ユールちゃんが何か合図をすると、ふっと、鳥が羽ばたいた。
+Yule gave a signal, and suddenly the bird flapped its wings.
+
+# 7a495315
+; puppin: 「ぐわっ」
+puppin: "Geez,"
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# 135da4ec
+; どんどんと、空の上へ。
+Go up into the sky.
+
+# cf9a6b10
+; 下を見ると、エリザエイ島が見えてきた。
+Looking down, I saw Ellidaeyishima.
+
+# 4f9e2cc6
+; 周りが広く見渡せる高さまで飛んで来たのだ。
+It flew to a height with a wide view of its surroundings.
+
+# bd1a4424
+; me: 「こ、これはちょっと、怖いな」
+me: "This is a bit scary,"
+
+# 18ab3cd7
+; hime: 「{playerName}まで幽霊になったらどうしよう？」
+hime: "What if {playerName} becomes Ghost?"
+
+# 956c9945
+; me: 「不吉な事言うんじゃない。……でも本当に落ちないかな？」
+me: "Don't say anything sinister. Will …… really fall off?"
+
+# edd3b277
+; yule: 「くすくす、大丈夫です。それでは加速しますよー」
+yule: "It's all right, giggle.I'll accelerate, then."
+
+# a1bc76af
+; そしてすぐに、下の風景など見えないくらい、鳥は速度して行った。
+and at once the bird sped so fast that it could not see the landscape below.
+
+# 104de2ca
+; …………
+…………

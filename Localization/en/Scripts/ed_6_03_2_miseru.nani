@@ -1,0 +1,65 @@
+; Japanese <ja> to English <en> localization document for `ed_6_03_2_miseru` naninovel script
+
+# a6ee25f2
+; 言われた通りにやってやる。
+I'll do as I'm told.
+
+# 8002b3dd
+; yule: 「えっ？ちょ、ちょっと、何を取り出して……[i]うわっ！なんて大きい！」
+yule: "What? Hey, what did you take out ……[i] Wow! How big!"
+
+# 8638b5f
+; yule: 「い、いや、確かに言いましたけど……こんな目の前まで……えっ、あ、あたま？」
+yule: "Yes, no, I told you, …… till this is the last moment …… What, oh, my head?"
+
+# 5efb401c
+; yule: 「も、も、もういいですから。こ、こ、これ以上顔に近づけても……うわっ！か、硬っ！」
+yule: "Well, that's enough.This, this, this, this, this, this, this, this, this, this, this, this, this, this, this, this, this, this, this, this, this, this"
+
+# cb17b588
+; yule: 「ええええええ！？？[i]っっうっぷ」
+yule: "`Yes, yes, yes!??[i]Whoop!"
+
+# a338e39e
+; yule: 「んん♥」
+yule: "Yes ♥"
+
+# 3ea899f
+; ……
+……
+
+# becbf37e
+; <s>　　　　</s>一年後
+<s>    </s>One year later
+
+# 140fd6f7
+; yule: 「くすくす、ついにユールちゃん念願の、ハーフトロルが生まれる訳ですね」
+yule: "So giggle finally, Yule's long-cherished half-trol is born."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9b5493
+; yule: 「くすくす。{playerName}がこんなに簡単にユールちゃんに乗せられるなんて」
+yule: " giggle. I can't believe {playerName} can be put on Yule so easily."
+
+# a83044ac
+; me: 「挑発しやがって」
+me: "He provoked me,"
+
+# 5a70754c
+; yule: 「くすくす。でもよかったでしょう？」
+yule: " giggle, but is it all right?"
+
+# 946f351e
+; me: 「まあ、最高だった」
+me: "Well, it was great,"
+
+# 1a90b116
+; yule: 「くすくす。ユールちゃんもです。これからは永遠に、最高の毎日をおくりましょうね」
+yule: " giggle. Yule, too.Let's live the best days ever from now on."
+
+# 9eb94185
+; me: 「ああ、楽しみだ」
+me: "Oh, I'm looking forward to it,"

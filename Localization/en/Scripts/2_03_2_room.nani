@@ -1,0 +1,469 @@
+; Japanese <ja> to English <en> localization document for `2_03_2_room` naninovel script
+
+# f860effa
+; 部屋のドアを開けると、妙に古びた匂いがした。
+When I opened the door of the room, I smelled strangely old.
+
+# 2ed2e44f
+; この狭い空間には誰も見当たらなく、静かだった。
+There was no one in this small space, and it was quiet.
+
+# 3205968a
+; me: 「……もしかして、俺一人？」
+me: "Is …… alone?"
+
+# c7b792e5
+; ……いや、よく見ると、そこらへんに荷物が置いてあった。
+…… No, when I looked closely, I found my luggage about there.
+
+# c006f408
+; 少ないけど、俺だけじゃない。他にも宿泊客はいる。
+It's not just me, though is not just だけ.There are other guests.
+
+# 773e6ed8
+; みんな観光中なのかな。
+I wonder if everyone is sightseeing.
+
+# 9f8256db
+; me: 「でも、意外と心地良いかもな」
+me: "But it may be surprisingly comfortable,"
+
+# 7d707c40
+; 二段ベッドが６つ、１２人室のドミトリー。
+A dormitory with six bunk beds and a 12-person room.
+
+# 7765a65d
+; 狭苦しいけど、キレイだし、安い値段を考えると悪くない。
+It's cramped, but it's clean, and it's not bad considering the cheap price.
+
+# 1d117b17
+; [br]これから二泊、見ず知らずの外国人たちと、
+[br] For the next two nights, with strangers,
+
+# d0390188
+; この狭い部屋で一緒に過ごす事になる。
+We will spend time together in this small room.
+
+# fbf8cc90
+; 普段ではできない体験で、少し緊張するけど、期待もできた。
+It was an experience that I couldn't normally experience, and I was a little nervous, but I was able to expect it.
+
+# c9437fb6
+; me: 「このベッドか」
+me: "This bed,"
+
+# 5ab13418
+; 指定された自分のベッドに近づき、荷物を降ろした。
+I approached my designated bed and unloaded my luggage.
+
+# 4e6f5f7
+; 大体の荷物は車に残してきたから身軽かった。
+I left most of my luggage in the car, so it was light.
+
+# e41a9bae
+; マットレスに横になってみる。
+Try lying on the mattress.
+
+# fb5ac883
+; me: 「……ふうぅ」
+me: "` …… Phew,'"
+
+# 32f167c
+; 少し固い。
+It's a bit hard.
+
+# a22e2d73
+; 安いマットレスみたいで、寝心地はよくなさそうだ。
+It looks like a cheap mattress, and it doesn't look comfortable to sleep on.
+
+# 40a937f0
+; でも、久しぶりにベッドに横たわって、ちょっと気持ちよかった。
+But I felt a little better lying in bed for the first time in a while.
+
+# 455ecc21
+; 急に、眠気が襲ってくる。
+I suddenly feel sleepy.
+
+# 2a1eae53
+; このまま寝るのは、時間がもったいないとは思うけど、体が言うことを……
+I think it's a waste of time to sleep like this, but ……
+
+# 31607b91
+; unknown: 「Hallo」
+unknown: "Hallo"."
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# 155550fb
+; いきなり誰かが現れて、
+Someone suddenly appeared.
+
+# a30ac690
+; 驚いてベッドから起き上がった。
+I got out of bed in surprise.
+
+# e8d4f1b9
+; 眠気も一気に去った。
+Sleepiness disappeared at once.
+
+# 88374402
+; unknown: 「Oh,Sorry……」
+unknown: "Oh, Sorry ……"."
+
+# 2894536a
+; デカイひげのおっさんがいた。
+There was an old man with a big beard.
+
+# 8e18afc7
+; 二階ベッドから降りてきたみたいだった。
+I felt as if I had come down from the upstairs bed.
+
+# 43a9742f
+; 誰もいないと思ってたけど、見間違いだったのかな。
+I thought there was no one here, but I guess I saw it wrong.
+
+# 43b23fd2
+; unknown: 「I'm Eric Skarphedinsson, From Akureyri, Iceland. Your roommate. Nice to meet you」
+unknown: "I'm Eric Skarphedinsson, From Akureyri, Iceland. Your roommate. Nice to meet you."
+
+# 2778c73a
+; おっさんはいきなり自己紹介しながら握手を求めてきた。
+The old man suddenly introduced himself and asked for a handshake.
+
+# d1e1518a
+; アイスランド人で、名前はエーリックという。
+He is an Icelandic named Eric.
+
+# 94ca12d2
+; 上の名前は難しくて覚えられなかった。
+The name above was too difficult to remember.
+
+# 5c7c0e1a
+; 北アイスランドに住んでるみたいで、ここには旅行に来たのだと思われる。
+He seems to be living in Northern Iceland, and he is thought to have come here on a trip.
+
+# 96b50242
+; エーリックは受付の子とは違って、偉くフレンドリーだった。
+Unlike Counter Girl, Eric was great and friendly.
+
+# 4365d40f
+; 驚いたけど、悪い気分ではなかった。
+I was surprised, but I didn't feel bad.
+
+# 5488a839
+; me: 「Thanks, Nice to meet you. I'm {playerName}……」
+me: "Thanks, Nice to meet you. I'm {playerName}……"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 60b9a434
+; エーリックは変に積極的に俺に話かけてきて、
+Eric spoke strangely aggressively to me;
+
+# a4f9e5cc
+; 自然に俺たちは色んな世間話をするようになった。
+Naturally, me and others began to talk about various things.
+
+# e584c7d
+; 自己紹介から、それぞれの旅の話など……
+From self-introduction to travel stories ……
+
+# 2dccef28
+; エーリックの馴れ馴れしさは、俺には嬉しかった。
+me's familiarity pleased Eric.
+
+# 2f4f011b
+; こうして外国人と世間話をしてると、妙な安心感が来る。
+Talking to foreigners like this gives me a strange sense of security.
+
+# 3263aa68
+; 『俺は、この異国の地でも受け入れられたんだな』と。
+『me was accepted in this foreign land, 』
+
+# 4bf6eac1
+; [br]それにエーリックは外国人の相手に慣れてるらしく、察しがよくて、
+[br] Besides, Eric seems to be used to dealing with foreigners, and he is easy to understand.
+
+# 487e9082
+; 俺のたどたどしい英語でも無理なく会話ができた。
+I could have a conversation without difficulty in me's halting English.
+
+# fe4c92c7
+; me: 「エルフ教授？」
+me: "Professor Elf?"
+
+# 9ce71e18
+; eric: 「ああ。北アイスランドの大学で、エルフの講義もやってるのさ」
+eric: "Yeah. I also give lectures on Elf at a university in North Iceland."
+
+# 72890fea
+; アイスランド人はエルフの存在を信じてるとは聞いたんだけど、大学で講義まであったんだな。
+I heard that Icelanders believe in Elf, but they even gave lectures at university.
+
+# 44f50719
+; eric: 「ま、正確にはエルフではなく、フルドゥフォルクについての講義だけどね」
+eric: "Well, it's not exactly Elf, it's about Huldufolk."
+
+# 6319a69e
+; me: 「フルドゥフォルク？」
+me: "Is it Huldufolk?"
+
+# c5044252
+; eric: 「フルドゥフォルク（Huldufólk）とは、隠された人々って意味で、エルフだけでなく、トロール、ドワーフなどの色んな人外の総称でな」
+eric: "Hulduf ólk means hidden people, not only Elf, but also Troll, Dwarf, and so on."
+
+# 5ec00d90
+; me: 「は、はあ」
+me: "Yes,"
+
+# edba04cd
+; 目をキラキラさせるエルフ教授。な、なんだか嫌な予感が……
+Professor Elf's eyes sparkle. I have a bad feeling ……
+
+# b2a1d831
+; eric: 「エルフが一番有名だけど、他にもな、そうだな。もうすぐユール（クリスマス）なんだけど、」
+eric: "The Elf is the most famous, but there's nothing else, you know.Yule (Christmas) is just around the corner."
+
+# 3d73c4d
+; eric: 「その時期になればユールラッズという、１３人のサンタクロースが、順に町に訪れるんだ」
+eric: "Thirteen Santa Clauss, Yulelads, will visit Village in turn."
+
+# 7c72fca9
+; eric: 「そいつらもフルドゥフォルクでね……」
+eric: "They're Huldufolk, too,"
+
+# c7e66d96
+; 嫌な予感は当たった。
+The bad feeling was right.
+
+# c2235cbd
+; フルドゥフォルクにまつわる民話から、北欧神話のお話まで。
+From folk tales about Huldufolk to stories about Norse mythology.
+
+# 4bbf8a0f
+; 俺は教授に色んな昔話を、長々と聞かされる事になった。
+I was told many old stories by the professor at length of the professor.
+
+# c9641290
+; 面白い話だけど、こんな一気に押し寄せて来ると、消化しきれない。
+It's a funny story, but I can't digest it when it comes to me all at once.
+
+# f36fafdc
+; [br]英語の割には分かり易かったけど、全部は理解できなかった。
+[br] It was easy to understand for English, but I couldn't understand everything.
+
+# 44fe73bf
+; まるで大学の講義室に座ってる気分になった。
+I felt as if I were sitting in a university lecture room.
+
+# 2bd7f4b9
+; eric: 「とまぁ。このような神話や民話の話が、大学での講義の内容だけど」
+eric: "Well, these myths and folk tales are the content of lectures at university."
+
+# a1426372
+; me: 「い、良い講義ですね」
+me: "Yes, that's a good lecture."
+
+# 1194cffb
+; eric: 「だが私の本業は、『現実の問題』を研究する事だ。講義がメインではない」
+eric: "But my main job is to study 『 real problems 』.Lectures are not the main focus."
+
+# 70ec888c
+; me: 「現実の、問題？」
+me: "Is it a real problem?"
+
+# 94be3e93
+; eric: 「昔話ではなく、今の人間とフルドゥフォルクの関係をだ。[i]両者の間のトラブルなどをな」
+eric: "It's not an old story, it's a relationship between people today and Huldufolk.[i]trouble between the two."
+
+# 8ced1891
+; me: 「……フルドゥフォルクが、何かトラブルを起こすんですかね？」
+me: "Does ……Huldufolk cause any trouble?"
+
+# bde13938
+; なんだか胡散臭い話だけど、
+It sounds suspicious.
+
+# b9f01fce
+; 面白いネタで興味深かったので、続けて話を促した。
+It was interesting and interesting, so I went on to encourage him to talk.
+
+# c1932f17
+; こんな非日常な話は、俺が旅行に求めてたものでもある。
+This extraordinary story is also what me wanted for her trip.
+
+# fe2ad3b7
+; eric: 「信じがたい話だろうがね。それがあるんだよ！私はその跡を追ってるのさ」
+eric: "It's hard to believe.There's that!I'm following the trail."
+
+# 5ec00d90
+; me: 「は、はあ」
+me: "Yes,"
+
+# 7c85f24f
+; eric: 「色んな事件があった。昔からずっとね。[i]でも最近、何故かそれが異常に増えてきてね」
+eric: "There have been many incidents.Ever since.[i]But recently, for some reason, it has increased abnormally."
+
+# dcc41171
+; me: 「今年から？」
+me: "From this year?"
+
+# af534bda
+; eric: 「正確には１０年前、オクヨクットルが死んでから、激しくなったんだと思うんだ」
+eric: "To be exact, I think it became more intense after Okyoktol died 10 years ago."
+
+# a50ee635
+; me: 「オクヨクットル？」
+me: "Ok-yok-yok-yok-tul?"
+
+# 78d49785
+; eric: 「氷河の名前だ。７００歳で死んだよ」
+eric: "It's the name of the glacier.He died at the age of seven hundred."
+
+# 8f6971d1
+; me: 「氷河が死んだって……」
+me: "The glacier is dead ……"."
+
+# 573a1034
+; その話を聞いて、俺は今日レイキャヴィクに到着した時の気温を思い出した。
+The story reminded me of the temperature when she arrived in Reykjavik today.
+
+# f4751b8
+; me: 「……もしかして、溶けてなくなったって事ですかね」
+me: "Do you mean …… melted away?"
+
+# cff3fcf3
+; eric: 「そうだよ。氷河は、山の上で雪が積もってできるもんだが、[i]今は雪が消えて、[i]丸裸の山だけ残ってるんだ」
+eric: "Yes, glaciers are formed by accumulating snow on top of mountains. [i] Now the snow is gone. [i] There are only bare mountains left."
+
+# 792b5cad
+; me: 「温暖化と、最近の異常気温のせいですね」
+me: "It's because of the warming and the recent abnormal temperature."
+
+# 52603011
+; eric: 「そうさ。[i]悲しい事に、温暖化は日々加速してる。[i]後３０年で、アイスランドの全ての氷河が消えるという説もあるんだ」
+eric: "Yes. [i] Sadly, global warming is accelerating every day.[i]There is also a theory that all glaciers in Iceland will disappear in 30 years."
+
+# 8514a65d
+; me: 「３０年後って、２０５５年？……早すぎませんかね？」
+me: "30 years from now, 2055? …… Isn't it too early?"
+
+# c707ba74
+; eric: 「３年前の予測では２２００年だったのによ。[i]今年の予測では２０５５年って言うんだ。[i]この３年で、溶ける速度が早くなったんだ」
+eric: "Three years ago, it was 2200 years. [i] This year's forecast is 2055.[i]Over the past three years, the melting speed has increased."
+
+# cd9a2c8d
+; 教授は一つため息をついた後、話を続けた。
+The professor sighed and went on.
+
+# 1950f6d3
+; eric: 「これは世界的な異変だと言う。[i]温暖化はすぐに終わるって見解を持ってた学者たちも、この三年の状況を見て話しを撤回したよ」
+eric: "This is a global anomaly.[i]Scholars who had the view that global warming would end soon also withdrew after seeing the situation over the past three years."
+
+# cff89e4
+; me: 「学界でも、もう希望的な見解が出ないって事ですか」
+me: "Do you mean that there are no more hopeful views in academia?"
+
+# 4ff37029
+; eric: 「そうさ。[i]それくらいに、今年の気温はやばい。[i]アイスランドで、こんなに暖かい冬は初めてだ」
+eric: "Yes. [i] That's how bad the temperature is this year.[i]I've never had such a warm winter in Iceland."
+
+# 93b08109
+; me: 「そうですね。俺も異常だと思いました。日本とあまり変わらないくらいでしたから」
+me: "Yes, I thought me was abnormal, too.It wasn't much different from Japan."
+
+# 89a82207
+; eric: 「まったくだ。[i]５年前は感染症でもう沢山死んだのに、今度は熱射病で沢山死にそうだ」
+eric: "Oh, my God. [i] Five years ago, I died of infectious diseases, but now I'm dying of heat radiation."
+
+# 105045be
+; me: 「地球は、人類が住みにくくなってますね」
+me: "The earth is getting harder for mankind to live on."
+
+# 2d750920
+; eric: 「このまま氷河が溶け続けると、さらに住みにくくなるんだ。[i]食料危機も来るのだろう。[i]本当に、世界の終わりが近づいてるかも知れん」
+eric: "If the glacier continues to melt, it will be even harder to live in.[i]There will be a food crisis.[i]Indeed, the end of the world may be near."
+
+# ffa65a31
+; 日本人の俺もヒメも、アイスランド人の教授も、みんな同じ事を感じていた。
+Japanese me, Hime, and Icelandic professors all felt the same thing.
+
+# caa6da0a
+; 世界の全ての人が、地球の限界を、薄々感じてる。
+Everyone in the world feels the limitations of the earth.
+
+# 33915de
+; eric: 「いや、今年の異常気象を見ると、もう終わりは始まりかもしれん……ふぅ……」
+eric: "`Well, if you look at this year's unusual weather, the end may have begun …… Whoo ……,'"
+
+# 592ca678
+; そこまで言って、教授は話を本題に戻した。
+After saying that, the professor got back to the subject.
+
+# 917512fb
+; eric: 「……ま、それはまた別の問題で、[i]今私はフルドゥフォルクの問題を調査してるんだけど」
+eric: "…… Well, that's another problem. [i] Now I'm investigating the Huldufolk problem."
+
+# 94b3750e
+; me: 「一体、どんな問題があるんですか？」
+me: "What kind of problem is there?"
+
+# e2a57491
+; eric: 「そうだな。レイキャヴィクの道路工事が、エルフの祟りによって中止された話が、一番有名なんだな」
+eric: "Well, the most famous story is that Reykjavik's road construction was canceled due to the curse of Elf."
+
+# 8806b85c
+; １０年前、２０１５年８月。
+Ten years ago, August 2015.
+
+# 8b49267c
+; レイキャヴィクの辺りで新しい道路の工事をしていた。
+I was working on a new road around Reykjavik.
+
+# 2834795a
+; 工事現場には「エルフの岩」とされてる岩があった。
+At the construction site, there was a rock called "Rock of Elf."
+
+# ae0ef51b
+; 地元の言い伝えで聖地とされてるところだった。
+It was considered a sacred place according to local traditions.
+
+# 24bfc0c4
+; でも道路建設社側はそんな事は知らず、
+But the road construction company didn't know that.
+
+# f69eb4bc
+; 道路工事を進める為に、その岩を埋めてしまった。
+I buried the rock in order to proceed with road construction.
+
+# 383102f0
+; それからだった。
+and then.
+
+# 85c47c42
+; 工事関係者たちに、原因不明の災難が起こり続けるようになったのは。
+The construction workers were told that the cause of the disaster continued to occur.
+
+# 620d4e8c
+; 工事現場の作業員が大怪我したり、中工業用機械が全て壊れたり、
+Workers at the construction site were seriously injured, and all the industrial machinery was damaged.
+
+# c511483c
+; 取材に来たジャーナリストが泥沼に溺れて死にそうになったり。
+Journalists who came to interview them almost drowned in the mud.
+
+# deeb7946
+; その後も色々と危険な事故が急に増え続けて、工事が進めなくなった。
+Since then, many dangerous accidents have suddenly increased, and construction work has become impossible.
+
+# c43d26be
+; 結局、アイスランド政府はその岩の掘り出しを命じ、元に戻す事になった。
+In the end, the Icelandic government ordered the rock to be dug up and restored.
+
+# a8de9e
+; ここに予定されてた道路の路線も、回り道で作り直す事になった。
+The route of the road that was planned here was also to be reconstructed as a roundabout route.

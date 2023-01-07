@@ -1,0 +1,153 @@
+; Japanese <ja> to English <en> localization document for `night` naninovel script
+
+# d7d9c6e4
+; hime: 「……レイキャヴィクって、こんなに遠いの？」
+hime: "Is ……Reykjavik so far away?"
+
+# 45733828
+; me: 「あっ、いや、ほら、もうすぐ街に……」
+me: "Oh, no, you see, …… in town soon,"
+
+# 873de36c
+; hime: 「すっかり暗くなってて、周りに何も見えないけど？」
+hime: "It's so dark that I can't see anything around me."
+
+# b3ba2776
+; me: 「そう、だな」
+me: "Yes, sir,"
+
+# e426ef0d
+; hime: 「……ああ、なるほどね」
+hime: "…… "Oh, I see,"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 58dd5b17
+; hime: 「こんな暗くなるまで連れ回して、こんな誰もいない場所まで来て……二人っきり、車の中で、ね？」
+hime: "I'll take you around till it's so dark, and come to such an empty place …… alone in the car?"
+
+# f2fed115
+; me: 「いやいやいや、これは……」
+me: "No, no, no, this is ……,"
+
+# bfea27cb
+; hime: 「……まぁ……別に、構わないけどね？わたしは」
+hime: "…… "Well, …… I don't mind, do I?"I am."
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# 55ba431a
+; hime: 「どうせ彼とは別れちゃったし。もう何もかも、どうでもいいやって感じの旅行だったし……」
+hime: "I broke up with him anyway.Everything was a trip that didn't matter ……"
+
+# a59db2b5
+; me: 「ちょ、ちょっと！？」
+me: "Wait a minute!"
+
+# a7e24f7b
+; 車の中で。
+In the car.
+
+# 47f4ce53
+; 俺は脱DTした。
+The me was removed from DT.
+
+# fe392
+; yule: 「<ruby="ヤーヤ">　Jæja</ruby>、こんな夜中になるまで右往左往して、何してるんですか？」
+yule: "<ruby=" Jaya"> Jæja</ruby>, what are you doing wandering around until this late night?"
+
+# d935d4d7
+; me: 「あっ、いや、これは……」
+me: "Oh, no, this is ……,"
+
+# acbb925f
+; yule: 「くすくす、もしかして、{playerName}ってやっぱり……」
+yule: " giggle, by any chance, {playerName} is ……."
+
+# f289d2b
+; me: 「……うん？」
+me: "What ……?"
+
+# bdc8bdfa
+; yule: 「ユールちゃんを変なところに連れ込もうとしてるんですね！」
+yule: "You're trying to bring Yule into a strange place!"
+
+# e64f8118
+; me: 「いやいや、違っ！！」
+me: "No, no, no!"
+
+# 2f0a38d
+; yule: 「もう、その気があるなら最初から言ってくださいよ。くすくす」
+yule: "If you're willing to do so, tell me from the beginning, giggle."
+
+# a59db2b5
+; me: 「ちょ、ちょっと！？」
+me: "Wait a minute!"
+
+# a6e666da
+; ユールちゃんが、乱暴に俺のズボンを下ろした。
+Yule violently pulled down me'
+
+# 642303d3
+; me: 「ええっ！？」
+me: "What!"
+
+# 2a2b9cf2
+; しかし、なぜか抗えなかった。
+However, he could not resist it for some reason.
+
+# 5bd7a37d
+; yule: 「くすくす、じっとしてくださいよ？っていうか、じっとするしかないでしょう？ユールちゃんがそうしましたから。くすくす」
+yule: "giggle "Stay still, will you? I mean, you'll have to stay still, won't you?"for Yule did it. giggle."
+
+# 91c82712
+; me: 「か、体が……」
+me: "Oh, my body ……."
+
+# 119e9c11
+; 体が言う事を聞かない。ユールちゃんに抵抗できない。
+My body doesn't listen.Yule I can't resist.
+
+# 322b0efe
+; yule: 「ああ、もうどうしましょう。夜になってるせいかユールちゃん、熱くなってしまって、[i]やってしまいまいたよ。[i]でもまぁ、今更仕方ないか。[i]くすくす、それでは、いただきます！」
+yule: "Oh, what shall I do now?Maybe it's because of the night, Yule got hot and [i] I'm done.[i]Well, it can't be helped now.[i]giggle Well, I'll have it!"
+
+# 5c1dbdd1
+; me: 「あああっ！！」
+me: "Ahhhhhhhhhhhhhhhhhh!"
+
+# 51094162
+; 遠い旅先で出会った女の子に襲われて。
+I was attacked by Girl, whom I met while traveling far away.
+
+# df04a26c
+; 俺は、心と体を奪われてしまった。
+I was deprived of his mind and body.
+
+# 836a0098
+; それから、俺はずっとこのアイスランドで、
+And me has been in Iceland for a long time.
+
+# dcae85c6
+; 妻のユールちゃんと、たくさんの子供を育ちながら、楽しく生きてる。
+She is living happily with her wife, Yule, while raising many children.
+
+# 19ab7e5b
+; 夜のなった。
+Night has come.
+
+# 827ee88c
+; 疲れも溜まってきたし、これ以上のドライブは危険かな。
+I'm getting tired, and I think it's dangerous to drive any further.
+
+# ee4ad188
+; ここから近い街で一泊してから、夜が明けたらまた移動しよう。
+Let's stay overnight in a city near here and then move again after dawn.
+
+# 4b849e57
+; yule: 「夜ですね。少し休みましょう」
+yule: "It's night. Let's take a rest"."

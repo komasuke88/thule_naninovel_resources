@@ -1,0 +1,185 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_b_sokoptera` naninovel script
+
+# 154cde21
+; そうだ。
+That's it。
+
+# 3e6366cf
+; 俺はチャタテムシ。
+I Booklice.
+
+# a902b2fe
+; ……って、チャタテムシって職業か？
+Is …… a profession called Booklice?
+
+# 49002aaa
+; いや。
+Disagreeable。
+
+# 9bf6c7c9
+; 虫の名前だ。
+It's a bug's name.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 2d25c692
+; 気づいたらチャタテムシになってる俺。
+When I noticed it, I got Booklice.
+
+# 37b53781
+; 小さすぎて誰にも見えないだろうけど、俺はいる。
+It's too small for anyone to see, but me is there.
+
+# 80b96dcb
+; 床にペッタリと張り付いて。
+Stick to the floor.
+
+# e3f600a9
+; me: 「たてたて」（チャタテムシ語）
+me: "Tate" (in Booklice)"
+
+# 72727395
+; チャタテムシでも、俺はやっていける。
+Booklice But me can get by.
+
+# 51bdb29b
+; 実は何万匹の仲間たちが、俺の帰還を待ってる。
+In fact, tens of thousands of her companions are waiting for me's return.
+
+# 6a15fef5
+; 俺の世界はマイクロ単位だ。
+The world of me is in micro units.
+
+# e91a68c1
+; チリの森をすり抜いて、巣に帰るのだ。
+He would slip through the Chilean forest and return to his nest.
+
+# a98ea35d
+; あと少しで到着だ。
+We're almost there.
+
+# e2fe0f4
+; ……そういえば。
+…… Come to think of it.
+
+# 8ef87b33
+; ユールちゃんは何してるのかな。
+What is Yule doing?
+
+# a298c12c
+; そう思って、見上げてみたら…
+So I looked up and...
+
+# eb8ec671
+; yule: 「やだ！チャタテムシ！」
+yule: "No! Booklice!"
+
+# 7c05112c
+; 俺を発見したのか。
+Did you find me?
+
+# bc695ecd
+; 大した目だな。
+That's a big deal.
+
+# 597f3579
+; yule: 「大嫌いです」
+yule: "I hate it."
+
+# 56f63eec
+; えっ？あ、あれは……
+What? Oh, that's ……
+
+# 13c16835
+; いかん！殺虫スプレーだ！
+No! It's an insecticide spray!
+
+# 5fff862f
+; ーシャーっ。
+- Shh.
+
+# 273029fd
+; 殺虫スプレーを食らった。
+I was sprayed with insecticide.
+
+# ac13715a
+; me: 「たてえぇぇぇ」
+me: "`Yes,'"
+
+# e24ecb8f
+; たっと、
+I mean...
+
+# d5042578
+; 俺は止まってしまった。
+I stopped.
+
+# 7d189423
+; チャタテムシの身体は貧弱で、あんなの食らったらすぐ死ぬんだ。
+Booklice's body is poor, and he dies as soon as he eats it.
+
+# 187acf80
+; が、しかし！
+But!
+
+# 50ef3008
+; me: 「てぇぇ…」
+me: "Yes..."
+
+# e4f9498a
+; まだだ。
+Not yet.
+
+# aadef4de
+; まだ俺は死なない。
+I is not dead yet.
+
+# 58f7ed6d
+; 殺虫スプレーを食らって生きて巣まで帰ってきたチャタテムシなんていない。
+No Booklice has ever returned to their nests alive after being sprayed with insecticide.
+
+# cb9fd941
+; 帰ったら、俺は英雄になるんだ。
+When me returns, she becomes a hero.
+
+# 7a10c467
+; もう少し、頑張れば…到着だ！
+If you work harder... We're here!
+
+# 19fe7c6d
+; me: 「たてっ…！」
+me: "Stand up!"
+
+# 328317fd
+; パチパチパチ！
+Crackling!
+
+# c62b02e3
+; 俺の帰還を祝う仲間たちの拍手の音。
+the clapping of friends celebrating the return of me.
+
+# a8cab9f9
+; ああ。
+Ah。
+
+# de0e7ccd
+; 生きててよかった。
+I'm glad I'm alive.
+
+# c91c693d
+; 悔いのない虫生だった。
+I had no regrets.
+
+# 39f64a13
+; ……消滅。
+…… disappearance.
+
+# 60b23ca6
+; @choice "消滅？" goto:ed_7_2_z_relive
+@choice "Disappeared?" goto:ed_7_2_z_relive
+
+# 31a54677
+; @choice "自然に帰る" goto:ed_7_2_b_suisou
+@choice "Return to Nature" goto:ed_7_2_b_suisou

@@ -1,0 +1,409 @@
+; Japanese <ja> to English <en> localization document for `2_03_3_eric` naninovel script
+
+# 3b604c43
+; eric: 「このようなエルフ絡みの事件は、今でも続いてる。[i]しかもその被害が日々酷くなっていて、[i]今年は特にひどいもんだ」
+eric: "These Elf-related incidents continue to this day.[i]And the damage is getting worse every day. [i] This year is especially bad."
+
+# 80ef9f85
+; me: 「今年って、どんな被害が？」
+me: "What kind of damage has happened this year?"
+
+# 10e8d329
+; eric: 「何もないところで車が転覆したとか、山から岩が転がってくるとか、[i]原因不明の事故だ。まさにエルフの祟りなのさ」
+eric: "[i] The accident was caused by an unknown cause, such as a car overturning in the middle of nowhere or a rock rolling from a mountain.It's the curse of Elf."
+
+# 65963dc
+; me: 「エルフの祟り……」
+me: "The curse of Elf ……."
+
+# b8c67fbc
+; eric: 「そして事故よりも厄介なのは、神隠しだな」
+eric: "And what's more troubling than accidents is blindfold,"
+
+# 1e7a3dd0
+; me: 「神隠しって……失踪事件ですかね？」
+me: "Is Kamikakushi a case of …… disappearance?"
+
+# bae28dda
+; eric: 「そうだ。人がいきなり消えてるんだよ」
+eric: "Yes, people are disappearing all of a sudden."
+
+# 211b2a9e
+; me: 「それは、怖いですね」
+me: "That's scary,"
+
+# 2478e814
+; eric: 「いくら祟でも神隠しは滅多に起こるもんではなかった。[i]３３年前に一度多発した以来は、神隠しはなかったのに。[i]今年になってまた起こり始めてる」
+eric: "No matter how many curses you curse, blindfolds rarely occur.[i]Since it happened once 33 years ago, there have been no blindfolds.[i]It's starting to happen again this year."
+
+# 8ca22197
+; me: 「３３年前ですか。[i]俺が生まれた年ですね」
+me: "33 years ago?[i]The year me was born."
+
+# 4155d32e
+; eric: 「君、３３歳だったのか。思ったよりおじさんだったな」
+eric: "You were 33 years old.He was more of an old man than I thought."
+
+# cad676f7
+; me: 「そ、そうですか」
+me: "Oh, really?"
+
+# 7ad467c
+; 俺ってそんなに童顔だったっけ。
+I Did I look so young?
+
+# 498a3b9b
+; me: 「それでその原因不明の事件が全部、エルフの祟りだと言うんですね？」
+me: "And you say that all the unexplained cases are the curse of Elf?"
+
+# cf3f83b1
+; eric: 「ああ。事故と同じような頻度で、フルドゥフォルクの目撃談も増えてるんだから、間違いない」
+eric: "Yes. There's no doubt that Huldufolk's sightings are increasing at the same frequency as accidents."
+
+# a7899846
+; me: 「目撃談？エルフを直接見たって話ですか？」
+me: "Witness accounts? Did you see Elf in person?"
+
+# 1f133e27
+; eric: 「ああ。小さな妖精を見た！とか、巨大なトロールが動いてるのを見た！とか、そんな噂も、私に聞こえててね」
+eric: "Yes, I heard rumors like, "I saw a little fairy!" or "I saw a giant Troll moving!"
+
+# 93cf75d7
+; me: 「それを見た人は、祟に会わないですか？」
+me: "Doesn't the person who saw it meet the curse?"
+
+# c36ec8cb
+; eric: 「見るだけならな。[i]彼らが嫌いな行動をしなければいいんだ」
+eric: "It's only to see.[i]You don't have to do anything they don't like."
+
+# 2aa49e8
+; me: 「彼らが嫌いな行動って……」
+me: "What they don't like is ……."
+
+# 4b56fe31
+; eric: 「エルフの住処に、触れるとかね」
+eric: "You touch where Elf lives,"
+
+# faabe169
+; 『エルフの住処に触れるな』
+Don't touch the residence of 』 『Elf
+
+# 6c2becf0
+; [br]アイスランドに来る前に、ツアー会社から聞いた注意事項。
+[br] The precautions I heard from the tour company before coming to Iceland.
+
+# 1ec524e2
+; それは俺がヒメにも話してあげた事だった。
+That was what me told Hime.
+
+# 9b94a6f1
+; [br]同じ事をまた現地の人に聞かされるとは、
+[br] To hear the same thing from the locals again,
+
+# 41574647
+; 本当に注意すべき事だなと、改めて思った。
+I realized once again that it was something to be careful about.
+
+# 3f8825bf
+; me: 「それなら知ってます。アイスランドのあちこちにある、人形の家みたいなもんだって」
+me: "Then I know.It's like a doll's house all over Iceland."
+
+# 1ac78de0
+; eric: 「ああ。日本の祠のようなもんさ」
+eric: "Yes, it's like a shrine in Japan."
+
+# 3a0f9b5b
+; 祠を知ってるとは、さすがに教授だ。
+It is a professor who knows the shrine.
+
+# a300c3a3
+; eric: 「昔は触れても問題なかったんだけど、[i]数年前から被害者の裏を調査してみると、みんな住処に触れてた事がわかってね」
+eric: "I used to have no problem touching it, but [i] I've been investigating the victim's background for a few years, and I've found out that they've all touched the place of residence."
+
+# d2036160
+; me: 「なるほど。それって、最近新しくできたルールなんですね」
+me: "I see. That's a new rule recently."
+
+# f6584d25
+; eric: 「そうだよ。エルフたちが過敏になってるのかもしれん」
+eric: "Yes, maybe the Elfs are getting too sensitive."
+
+# cf4abdbd
+; me: 「とにかく、触れなきゃいいんですね」
+me: "Anyway, I hope I don't touch it."
+
+# 29111508
+; eric: 「ああ。『触らぬ神に祟りなし』って事だ」
+eric: "Yes. 『 Don't curse a god who doesn't touch 』."
+
+# 4b69eb13
+; ……この教授、日本にも詳しいんだな。
+…… This professor knows a lot about Japan, doesn't he?
+
+# 3b25526c
+; eric: 「アイスランド人ならみんな知ってるけど、[i]外国人観光客が知らないケース多くてね。[i]最近の被害者も、大体は外国人だったよ」
+eric: "I know all Icelanders, but [i]There are many cases where foreign tourists don't know.[i]Most of the victims these days were foreigners."
+
+# 365f46b0
+; me: 「みんな、何も知らずにやったんですね」
+me: "Everyone did it without knowing anything."
+
+# 52e1d3da
+; eric: 「ああ。君はくれぐれも注意する事だ」
+eric: "Yes, you must be very careful."
+
+# b7b6b53a
+; me: 「はい。心して置きます」
+me: "Yes, I'll keep it in mind."
+
+# abd58a7e
+; 旅では、地域の掟は守らないといけない。
+When traveling, you have to abide by local rules.
+
+# a7ad3a34
+; 俺は迷信は信じる方ではないけど、
+I does not believe in superstition;
+
+# c38426c5
+; わざわざそれを破る必要もない。
+You don't have to go out of your way to break it.
+
+# 2c03adbd
+; やるなと言われた行動はやらない。
+I don't do what I'm told not to do.
+
+# ffec35a4
+; 仮にエルフが実在しなくても、
+Even if Elf doesn't exist,
+
+# 9ed17bd3
+; その行動が原因で現地人の恨みを買う事もあるんだから。
+That behavior can cause resentment from the locals.
+
+# a366389a
+; me: 「でも……妖精の姿なら、一度は見てみたいですね」
+me: "But I would like to see …… fairies at least once."
+
+# bacbaf78
+; eric: 「ほお！そうか！見てみたいか！」
+eric: "Cheek! I see! Do you want to see it?"
+
+# c145200e
+; me: 「え、ええ……」
+me: "Yes, yes ……,"
+
+# fab39b29
+; 教授は俺の話を聞いて、何故かはしゃいでた。
+The professor was excited to hear about me.
+
+# 6ef918af
+; eric: 「それじゃ、出現率高い場所を教えてやるよ。私の資料をまとめたものがあるんだ」
+eric: "Then I'll tell you where there's a high incidence.I have my data compiled."
+
+# b04bedf9
+; 教授は二段ベッドの上に置いてあった資料を、俺に見せながら言った。
+The professor showed me the documents on the bunk bed and said,
+
+# e3706dbf
+; me: 「えっ、ああ。ありがとうございます。[i]でも教授は見に行かないですか？[i]エルフ」
+me: "Oh, yes, thank you.[i]But why don't you go see the professor?[i]Elf"
+
+# ee007f11
+; eric: 「見るだけならもう何回も見たんだ。[i]私はね、[i]触れ合いたいからね。[i]もっとちゃんと準備してから会いに行くよ」
+eric: "I've seen it many times, if only I could see it.[i]I want to touch each other.[i]I'll go and see you after I've prepared better."
+
+# 694c07c4
+; me: 「触れ合い？」
+me: "Touching?"
+
+# 472e7e74
+; eric: 「フルドゥフォルクと手を握って、話したいんだ。[i]そしてトラブルを最低限に収める方法があるなら、一緒に模索したい」
+eric: "I want to hold hands with Huldufolk and talk to her.[i]And if there is a way to minimize the trouble, I want to look for it together."
+
+# c66fef68
+; me: 「アイスランドの未来のためには、早く教授が会うべきですね」
+me: "For Iceland's future, professors should meet soon."
+
+# eccd7b4d
+; eric: 「会ったとしても会話ができるかは知らんけどね。[i]祟りにあわず接触するには、調査と準備が要るんだ」
+eric: "I don't know if we can have a conversation even if we meet.[i]It takes investigation and preparation to get in touch with each other without cursing."
+
+# 9814d655
+; me: 「よくわかりませんけど、応援します」
+me: "I'm not sure, but I'll cheer for you"."
+
+# a86e2cf0
+; eric: 「最近の目撃談は、この南側に集中してる。[i]このレイキャヴィクの辺りにもあるんだ」
+eric: "Recent sightings are concentrated on the south side.[i]It's around here in Reykjavik."
+
+# e3626975
+; me: 「もしかして教授は、この調査のために北アイスランドからここに来たんですか？」
+me: "Did the professor come here from North Iceland for this investigation?"
+
+# d21e7021
+; eric: 「そうさ。観光客からの情報収集も兼ねてね。[i]君も旅行中にフルドゥフォルクを見けたら、宿に戻って私に聞かせてくれ」
+eric: "Yes, it also collects information from tourists.[i]If you see Huldufolk while traveling, go back to the inn and let me know."
+
+# 8a148469
+; me: 「わかりました。探してみますね。フルドゥフォルクを」
+me: "All right.I'll look for it.Huldufolk."
+
+# 4c619d18
+; あるわけないだろうけど、あったらいいと思った。
+I don't think so, but I thought it would be nice to have it.
+
+# 766b832c
+; 非現実的な出来事。
+an unrealistic event.
+
+# f0145aa0
+; そんなものがあるのなら、自分にも訪れたらいいと、そう思った。
+If there was such a thing, I thought it would be good to visit myself.
+
+# e7767db1
+; もちろん、危ない真似はしないと心しておきながら。
+Of course, I don't think I'll do anything dangerous.
+
+# 9abefff0
+; eric: 「話が長かったね。旅行中だろうに、すまんね」
+eric: "It's been a long time.You must be traveling, I'm sorry."
+
+# e4a7c09d
+; me: 「いえいえ。面白い話でしたよ」
+me: "No, no, it was an interesting story."
+
+# f64ea497
+; eric: 「君、オーロラアプリは持ってるかい？」
+eric: "Do you have the Northern Light app?"
+
+# 32f921e7
+; 教授はいきなり話題を変えてきた。
+The professor suddenly changed the subject.
+
+# aeeed382
+; me: 「はい。一応インストールしてありますが」
+me: "Yes, I've just Thor INS"."
+
+# 78942588
+; eric: 「今夜はオーロラが観れる日だって言うから。出かけてみるといいよ」
+eric: "Tonight is the day to see Northern Light.You may go out."
+
+# 852a2371
+; me: 「お、それはいいですね！初日からオーロラが観られるなんて」
+me: "Oh, that's great!"I can't believe I can see Northern Light from the first day."
+
+# ad5a39aa
+; 室内に誰もいなかったのは、みんなオーロラを見に行ってるのかもな。
+The reason why there was no one in the room may be that everyone went to see Northern Light.
+
+# dd15d3e2
+; eric: 「都心ではあまり見えない。お勧めスポットがあるんだ。街の外れだけど、そうだな……ほれ、貸してみ」
+eric: "I can't see much in the city center.There's a recommended spot.It's on the outskirts of the city, but …… I love you, let me borrow it."
+
+# 70f8daba
+; me: 「あっ」
+me: "Oh,"
+
+# 4a29f5a9
+; 教授は俺のスマホを勝手に持って行って、グー○ルマップを開いて、とある場所を目的地に設定した。
+The professor took Smartphont's me without permission, opened the Gogle map, and set a certain place as his destination.
+
+# b4f11f9b
+; eric: 「ほれ。ここならそんなに遠くないし、よく観れるはずだ」
+eric: "Love you. It's not that far from here, and you should be able to see it well."
+
+# ffeb643
+; me: 「あ、ありがとうございます」
+me: "Oh, thank you."
+
+# 61714c5e
+; 確認してみると、宿からそんなに遠くないところだった。
+"When I checked, it was not far from the inn."
+
+# f2f7ea64
+; こんなところでオーロラが良く観れるのなら、確かにいい情報だ。
+If you can see Northern Light well here, it's certainly good information.
+
+# 272f1e0b
+; 地元の人しか知らない穴場って事かな。
+I guess it's a hole only the locals know.
+
+# ffef1d70
+; me: 「教授は、見に行きませんか？」
+me: "Why don't you go and see the professor?"
+
+# 87fc237f
+; eric: 「私はオーロラも見慣れててね。[i]わざわざ観に行ったりしないんだ。[i]それより資料の整理が忙しくてな」
+eric: "I'm used to seeing Northern Light, too.[i]I don't go out of my way to see it.[i]But I'm busy organizing the materials."
+
+# 4f66bd42
+; me: 「そうですか。さすがに地元ですね」
+me: "I see. It's a local area."
+
+# bab717f
+; eric: 「一人で寂しかったら君、あの場所に行って、ルームメイトに話しかけてみるんだな」
+eric: "If you are lonely by yourself, you should go there and talk to Room mate."
+
+# 2266a189
+; me: 「ルームメイト？」
+me: "Is it Room mate?"
+
+# dad2b0b1
+; eric: 「ああ、この部屋の仲間さ。[i]そいつもあの場所を知っててね。[i]君が来るちょうど前に、そこへ出かけたんだ」
+eric: "Oh, my fellow-citizens of this room.[i]He knows that place, too.[i]I went out there just before you came."
+
+# d4ea629c
+; me: 「別に寂しくはありませんが、[i]ルームメイトなら挨拶はしておきたいですね」
+me: "I'm not lonely, but [i] Room mate would like to say hello."
+
+# 5cac004a
+; eric: 「おう。[i]そいつ、オーロラに詳しいからね。[i]会ったら話してみるといいさ」
+eric: "Oh. [i] He knows a lot about Northern Light.[i]You may talk to him when you see him."
+
+# bf2acd82
+; me: 「へー、[i]……そういや教授は、この部屋のルームメイト、全員知り合いですか？」
+me: "Oh, [i] Does Professor ……by the way know all the Room mate in this room?"
+
+# ebcb73fa
+; eric: 「そうさ。[i]私と{playerName}君と、オーロラを見に行ったあいつと、あともう一人いる」
+eric: "That's right. [i] There's me, {playerName}, the guy who went to see Northern Light, and one more."
+
+# 26f2717c
+; me: 「１２人室に４人か……客少ないですね。これで商売になるのですかね？」
+me: "Four or …… guests are scarce in a 12-person room.Is this going to be a business?"
+
+# 28cee055
+; eric: 「たまにはこんな時期もあるさ」
+eric: "There are times like this,"
+
+# a6856b1d
+; me: 「ま、とにかく、色々ありがとうございます。
+me: "Well, thank you for everything."
+
+# 3679196c
+; me: それじゃ、俺も出かけてきますね」
+me: "Well, me will be out, too."
+
+# 2dc196ee
+; eric: 「おう、いってらっしゃい」
+eric: "Have a nice day,"
+
+# b0d8df86
+; 教授はそう言うと、自分の二段ベッドの上に昇った。
+The professor said so and climbed onto his bunk bed.
+
+# 892233ae
+; ジャンプで。
+With a jump.
+
+# a30ca717
+; me: 「なっ……」
+me: "Oh, ……,"
+
+# 5b7191f9
+; ホント、変な人だな。
+You're such a strange person.
+
+# dbd6bb34
+; そう思いながら、俺はホステルから出て、車に乗った。
+Thinking so, me got out of hostel and got in the car.

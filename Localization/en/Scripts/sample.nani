@@ -1,0 +1,325 @@
+; Japanese <ja> to English <en> localization document for `sample` naninovel script
+
+# 9b3e44b1
+; 1
+1
+
+# e983b434
+; aa  <tip="thorsmork">test</tip>
+aa <tip="thorsmork">test</tip>
+
+# a5f1b52a
+; {pp("을")}
+{pp("을")}
+
+# 5f378ae9
+; {pp("이")}
+{pp("이")}
+
+# 7816a490
+; {pp("은")}
+{pp("은")}
+
+# 9ae635ea
+; {pp("과")}
+{pp("과")}
+
+# c2c84087
+; {pp("이랑")}
+{pp("이랑")}
+
+# 1d50e2c2
+; 3
+3
+
+# a5f1b52a
+; {pp("을")}
+{pp("을")}
+
+# 5f378ae9
+; {pp("이")}
+{pp("이")}
+
+# 7816a490
+; {pp("은")}
+{pp("은")}
+
+# 9ae635ea
+; {pp("과")}
+{pp("과")}
+
+# c2c84087
+; {pp("이랑")}
+{pp("이랑")}
+
+# fa0c7732
+; {pp("를")}
+{pp("를")}
+
+# 246d9e7b
+; {pp("가")}
+{pp("가")}
+
+# 86f14d5f
+; {pp("는")}
+{pp("는")}
+
+# 6a698232
+; {pp("와")}
+{pp("와")}
+
+# efc38808
+; {pp("랑")}
+{pp("랑")}
+
+# 2968b91e
+; 5
+5
+
+# 991c0d70
+; 6
+6
+
+# 3209205
+; 7
+7
+
+# 9354a453
+; 8
+8
+
+# c806d893
+; 9
+9
+
+# 51cfae05
+; 10
+10
+
+# d642fff1
+; 11
+11
+
+# 51c89719
+; 12
+12
+
+# 78996532
+; me: ――――me...♡☆
+me: "----me...♡☆"
+
+# 7688aee6
+; @print "111" author:hime speed:0 waitInput:false
+@ print "111" author:hime speed:0 waitInput:false
+
+# 7fd16504
+; @print "222" author:hime speed:0 waitInput:false
+@ print "222" author:hime speed:0 waitInput:false
+
+# ff80f995
+; @print "333" author:hime speed:0 waitInput:false
+@ print "333" author:hime speed:0 waitInput:false
+
+# b2a87037
+; hime: <alpha=#00>((himestamp))<alpha=#ff>
+hime: <alpha=#00>((himestamp))<alpha=#ff>
+
+# 21fa420
+; me: 333333333
+me: "333333333"
+
+# 16b501a4
+; hime: kitayo
+hime: "kitayo"
+
+# 1193372b
+; hime: <alpha=#00>((hime_self5))<alpha=#ff>
+hime: <alpha=#00>((hime_self5)))<alpha=#ff>
+
+# 332f0164
+; hime: bbb3
+hime: "bbb3"
+
+# e32a581c
+; me: ははは
+me: "Hahaha"
+
+# bce787d1
+; me: ははは1
+me: "Haha 1"
+
+# befffffb
+; me: ははははははははははははははははははははははははははははははははははははははははははははははははははは2
+me: "Haha, I'm not sure if I'm going to be able to do that, but I'm not going to be able to do that 2"
+
+# 32c45a92
+; me: ははは4
+me: "Haha 4"
+
+# fc3c53fd
+; hime: へへへ
+hime: "hehe"
+
+# 97d326df
+; hime: へへへ2
+hime: "Hehehe 2"
+
+# 41a2e03e
+; suteki: あたし
+suteki: "me"
+
+# bf5aa877
+; me: ――――me...222
+me: "---- me...222"
+
+# 3a405279
+; me: ――――me...2
+me: "---- me...2"
+
+# 8d625a9e
+; me: <s>　　　　　　　　　　</s>me...3
+me: "<s>          </s>me...3"
+
+# 19dbcbf1
+; me: ––––me...5
+me: "– – – me...5"
+
+# bdd8aaa4
+; me: ————me...4
+Interviewer: "Me..."
+
+# 2637fbc9
+; @choice "まぁ、いいか" goto:.aaa
+@choice "Well, let's see" goto:.aaa
+
+# 9c022418
+; @choice "良くない" goto:.bbb
+@choice "Not good" goto:.bbb
+
+# aafe042a
+; aaa
+aaaa Corporation
+
+# 46999340
+; bbb
+bbb
+
+# e9a6ca62
+; yule: yule
+yule: "rule"
+
+# b2c22a89
+; asfasdf
+asfasdf
+
+# 3308191f
+; 000
+000
+
+# ebd3db6
+; me: hahahah
+me: "hahahahahahahahahahahahahahahahahahahaha"
+
+# eb5553a3
+; 111
+111
+
+# 16ff649e
+; trollbig: あああ
+trollbig: "oh dear!"
+
+# 3308191f
+; 000
+000
+
+# 28e3aa5
+; me: hahahah3333333
+me: "hahahahahahahahahahahahahahahahahah"
+
+# e52c6b73
+; fff
+fff
+
+# 7c4417b1
+; ddd
+ddd
+
+# d642fff1
+; 11
+11
+
+# 5956bec9
+; yule: aaa
+yule: "aaaa Corporation"
+
+# aafe042a
+; aaa
+aaaa Corporation
+
+# 46999340
+; bbb
+bbb
+
+# 691b15a5
+; hime: bbb
+hime: "bbb"
+
+# b81cb36a
+; yule: aaaaa2
+yule: "aaaaaa2"
+
+# b208a93d
+; me: aaaaa1
+me: "aaaaaa1"
+
+# 9148687c
+; aaass
+aaass
+
+# aafe042a
+; aaa
+aaaa Corporation
+
+# 741bacc1
+; 33
+33
+
+# b84c5eb5
+; affffff
+affffffff
+
+# 5956bec9
+; yule: aaa
+yule: "aaaa Corporation"
+
+# 9677dbdb
+; sssss
+ssssssssssssssssssssssssssssssssssssss
+
+# 67bf397c
+; 554
+554
+
+# c9511a35
+; 553
+553
+
+# b97605c5
+; 552
+552
+
+# 3195ebaf
+; 551
+551
+
+# aafe042a
+; aaa
+aaaa Corporation
+
+# 46999340
+; bbb
+bbb
+
+# 8f6546da
+; ccc
+ccc

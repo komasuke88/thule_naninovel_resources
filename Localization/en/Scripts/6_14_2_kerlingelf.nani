@@ -1,0 +1,553 @@
+; Japanese <ja> to English <en> localization document for `6_14_2_kerlingelf` naninovel script
+
+# be80a579
+; unknown: 「うぅぅ……」
+unknown: "`Oh, ……,'"
+
+# 9533cc3a
+; 倒れてる小人がいた。
+There was a little man lying down.
+
+# 2a1cf1dd
+; 長い耳。
+long ears.
+
+# 6fc73d1
+; エルフだった。
+Elf It was.
+
+# 26ac1c26
+; me: 「ヒヒーン（おい、大丈夫か？）」
+me: "niegh (Hey, are you all right?)"
+
+# dcd15980
+; エルフが倒れてるのは都合がいい事で、すぐに記憶を返せと言いたかったけれど、
+It was convenient that Elf had fallen down, and I wanted to tell him to return his memory at once;
+
+# 91553727
+; いざ目の前で見ると哀れに思えて、そう声かけた。
+he said, feeling sorry to see him before his eyes.
+
+# b4974fc4
+; firstelf: 「う、馬が喋った？？な、何者？ち、近づかないで……」
+firstelf: "Oh, did the horse talk? Who is it? Stay away ……?"
+
+# 6b908cd5
+; エルフは警戒の声を出しながら、よろよろと体を起こした。
+Elf staggered to his feet with a cry of alarm.
+
+# 46f92d07
+; firstelf: 「はぁはぁ……」
+firstelf: "Yes, ……,"
+
+# aebdc28
+; me: 「ヒヒーン（あれ？お前は……）」
+me: "niegh (Huh?)You ……)"
+
+# bb157a9b
+; 見覚えがあるような……。
+familiar …….
+
+# 9abd4e40
+; firstelf: 「うん……？あ、あなたは？」
+firstelf: "Yes, ……? Oh, what about you?"
+
+# 45490668
+; そのエルフも俺を見て、何かを感じ取ったみたいだった。
+The Elf seemed to have felt something when he saw me.
+
+# 70025892
+; firstelf: 「あなた、ポリモーフされた人間かしら？」
+firstelf: "Are you polymorphed?"
+
+# cb4395d6
+; me: 「ヒィーン（まぁ、そうだけど）」
+me: "neigh (Well, yes)"
+
+# 8a3193dd
+; firstelf: 「もしかして、あの車の運転者？」
+firstelf: "Are you the driver of that car?"
+
+# e20b7fe
+; me: 「ヒヒーン（車って……？ああ！）」
+me: " niegh (Is a car ……?)Oh, my God!"
+
+# 64a1dae9
+; 思い出した。
+I remember.
+
+# 1008b804
+; アイスランド旅行、最初の夜に出会ったあのエルフだ。
+This is Elf, whom I met on the first night of my trip to Iceland.
+
+# 68d2a4c3
+; 確かに、同じ気配を感じた。
+I certainly felt the same way.
+
+# cc78f875
+; あの日、俺が壊してしまったエルフの住処の主。
+The owner of the residence of Elf, which was destroyed by me that day.
+
+# 2658e88a
+; 次の日、ユールちゃんと一緒に車に乗ってた俺を狙って、
+The next day, me and I were in the car together.
+
+# 5c630e5d
+; 魔法で、俺を車ごと空へと飛ばしてた。
+By magic, I flew me into the sky with my car.
+
+# e4872a6f
+; ユールちゃんが居なかったら、俺はあそこで死んでたよな。
+Without Yule, me would have died there.
+
+# 7a6b9f34
+; firstelf: 「生きてたんだ……あの高さから落ちたのに」
+firstelf: "I was alive …… I fell from that height."
+
+# 23157b3
+; me: 「ヒィーン（ああ、ユールちゃんのお陰でね）」
+me: "neigh (Oh, thanks to Yule.)"
+
+# 35f34b97
+; あの時は、言葉が通じる相手だとは思わなかったから、こうして会話をしてる状況は不思議だった。
+At that time, I didn't think we could communicate with each other, so it was strange that we were having such a conversation.
+
+# 946c1d15
+; firstelf: 「ユールちゃん？」
+firstelf: "Is it Yule?"
+
+# 4845f8fa
+; me: 「ヒィーン（それはね……）」
+me: " neigh,"
+
+# e579fdb0
+; 俺は今までの経緯を、エルフに説明してあげた。
+I explained to Elf what had happened so far.
+
+# 3db9c881
+; firstelf: 「ユールラッズが乗っていたとは……[i]そっか。彼女の魔法で……」
+firstelf: "I didn't know Yulelads was …… on board.…… by her magic."
+
+# 693c6bcc
+; me: 「ヒヒーン（あ、ああ。そんなところだ）」
+me: " niegh (Oh, yes.That's about it.)"
+
+# 214344f4
+; このエルフがまた魔法をかけて来るんじゃないかと、少し警戒したけど、そんな気配はなかった。
+I was a little wary that this Elf might spell again, but there was no sign of it.
+
+# 27b6077
+; むしろ、優しい気配を感じた。
+Rather, I felt a tenderness.
+
+# 54c56a38
+; firstelf: 「……そっか。そんな事があったんだね。[i]よかった。生きていて。[i]ほっとしたわ」
+firstelf: "…… I see. That's what happened.[i]I'm glad.Stay alive. [i] I'm relieved."
+
+# cfc6dfd2
+; me: 「ヒヒーン（えっ？）」
+me: "niegh (What?)"
+
+# eadbbca4
+; 意外な言葉だった。
+It was an unexpected remark.
+
+# 84b56109
+; me: 「ヒヒーン（何を言ってるんだ？）」
+me: "niegh (What are you talking about?)"
+
+# c638198
+; 俺を殺そうとしてた相手のセリフだとは思えない。
+I don't think it's the line of the person who was trying to kill me.
+
+# 6b2c1e9c
+; firstelf: 「その、あれは不本意だったの。ごめんなさい。怖い思いをさせて」
+firstelf: "Well, I didn't mean it.I'm sorry for making you feel scared."
+
+# f27074fb
+; そう言いながら、頭を下げた。
+He bowed his head as he spoke.
+
+# 9eb9c428
+; me: 「ヒヒーン（不本意ってお前……[i]家を壊されて、その仕返しで、俺を殺そうとしてたじゃないか？）」
+me: "niegh (Didn't you have your ……[i] house destroyed and you tried to kill me in return for that?'"
+
+# ab9a6fa5
+; firstelf: 「ごめんなさい。[i]でも普通なら、人間を殺すまでの事はしないわ、エルフは。[i]確かにちょっとした仕返しはするけれど、イタズラ程度だわ」
+firstelf: "I'm sorry.[i]But normally, I wouldn't do anything until I killed a man, Elf. [i] I'm sure I get a little revenge, but it's just a prank."
+
+# 5970a450
+; me: 「ヒヒーン（えっ……）」
+me: "The niegh,"
+
+# 49ca994d
+; firstelf: 「あの時ああまでやったのは、私が正気ではない状態だったからよ」
+firstelf: "I did it that far because I was insane,"
+
+# 7791861b
+; me: 「ヒィーン（正気ではなかった？エルフの祟りが？）」
+me: "neigh (Was he insane?)What is the curse of Elf?"
+
+# 9affc086
+; firstelf: 「その祟りって噂も、残念だわ。[i]みんなあんな事、やりたくなかったはずなのに、正気を失ってしまって。[i]でも記憶には残ってるから、余計に辛いわ……」
+firstelf: "I'm sorry to hear that it's a curse.[i]Everyone would not have wanted to do that, but they lost their minds.[i]But it's even more painful because it's memorable ……"
+
+# a52f7142
+; me: 「ヒィーン（わ、わけがわからないけど……とにかく何かの間違いがあったって事？）」
+me: "neigh (I don't know why, …… Anyway, did something go wrong?)"
+
+# b956859b
+; firstelf: 「ええ。人間世界で住んでるエルフはみんな平和主義者だもの。[i]だから自分たちやらかした事は、とても心痛いし、申し訳ないと思ってるわ。ごめんなさい」
+firstelf: "Yes, Elf, who lives in the human world, are all pacifists.[i]So what we've done is very heartbreaking and we feel sorry.I'm sorry."
+
+# 8a6ffe38
+; エルフはそう言いながら、また頭を下げた。
+Elf bowed again, as he spoke.
+
+# 3932a5e0
+; me: 「ヒィーン（ま、まぁ、不本意だったら、気にするな。[i]俺はちゃんと生きてるんだし。[i]そしてその、俺も悪かった。[i]家、壊してしまって）」
+me: "neigh (Well, if you don't want to, don't worry.[i]me is alive and well.[i]And, you know, me was bad.[i]The house was destroyed.)"
+
+# 3355f62b
+; firstelf: 「ううん。あれは事故だったんでしょう？許すわ」
+firstelf: "No, it was an accident, wasn't it?"I'll forgive you."
+
+# f3746731
+; me: 「ヒィーン（お、おう。ありがとうよ）」
+me: "neigh (Oh, yes.Thank you.)"
+
+# a13f22cb
+; なんだか調子狂うな。
+Don't be out of tune.
+
+# 2c079026
+; firstelf: 「多くのエルフが、正気を失ってた。[i]だから人間に様々な被害をもたらして、[i]【エルフの祟り】って噂も広まるようになったんだわね」
+firstelf: "A lot of Elf had lost their minds.[i]That's why it caused so much damage to humans, and [i] Rumors of 【Elf's curse began to spread."
+
+# db1742c
+; me: 「ヒーン？（いったい何があったんだ？）」
+me: "niegh? (What the hell happened?"
+
+# c79a6502
+; firstelf: 「邪気に、やられたんだわ」
+firstelf: "I've been beaten by Evil Force said."
+
+# 84e7761e
+; me: 「ヒーン？（邪気って……[i]【外界の神】の？）」
+me: "niegh? (Is Evil Force the god 【 of the outside world?"
+
+# e49a0a9b
+; firstelf: 「へぇ？よく知ってるんだね。[i]そうよ。あいつの邪気は人間世界にも広まってて、それに囚われていたの。[i]今になってやっと、開放されたんだけど……」
+firstelf: "Huh? You know it well.[i]Yeah. His Evil Force had spread all over the human world, and he was obsessed with it.[i]It's only now that it's released ……"
+
+# e0475717
+; me: 「ヒーン？（お前も、感染されてたのか……）」
+me: "Is it ……?"
+
+# 98d1e298
+; firstelf: 「うん。みんな感染されて、頭おかしくなってた。[i]フェージングもできなくなって、トゥーレにも帰られなくなってた」
+firstelf: "Yeah. Everyone was infected and they were crazy.[i]I couldn't do Phasing, and I couldn't go back to Thule."
+
+# 5ffa2c42
+; me: 「ヒィーン（あ……そういえば……）」
+me: "neigh (Oh, ……, so to speak ……)"
+
+# 173ce10c
+; そういえば、こいつは人間世界に居たんだよな。
+Come to think of it, he was in the human world.
+
+# 46ab790c
+; me: 「ヒィーン（でも今ここはトゥーレで、正気も取り戻したんだよな？[i]どうやって治ったんだ？）」
+me: " neigh (But it's Thule now, and you've come to your senses, haven't you?[i]How did you get better?"
+
+# 22be98ec
+; firstelf: 「女王の、魔法陣のお陰でね」
+firstelf: "Thanks to the Queen, The Magic Circle,"
+
+# a30c7617
+; me: 「ヒヒーン（それって、トゥーレ還元の？）」
+me: "Is that niegh reduction?"
+
+# 7c80a064
+; firstelf: 「それも知ってたんだね。そうよ。[i]あの魔法陣が作られてから、人間世界に居たエルフが、一人ずつトゥーレに戻されてたわ）」
+firstelf: "You knew that, too.That's right. [i]Since that The Magic Circle was created, Elf, who had been in the human world, has been returned to Thule one by one."
+
+# e3e9da3c
+; 人間は人間世界に、エルフはトゥーレに戻されるのだな。
+Man is returned to the human world, and Elf to Thule.
+
+# 9db200dc
+; me: 「ヒィーン（正気を取り戻したのも、そのおかげかな？）」
+me: "neigh (Maybe that's why I came to my senses.)"
+
+# 442397d5
+; firstelf: 「そうよ。よくわからないけど、世界を超える際に、邪気が抜けたみたいだわ」
+firstelf: "Yes, I'm not sure, but I think I lost Evil Force when I crossed the world."
+
+# bbf69def
+; ヒルドルの魔法陣が、何もかも元通りにしていたんだな。
+The Magic Circle of Hildur had everything back to normal.
+
+# b8bfd8c8
+; 女王さまさまだな。
+It's the Queen.
+
+# 4a71ad0b
+; me: 「ヒィーン（そう。そういう事だったんだな。よかったな。何もかもうまくいって）」
+me: "neigh (Yes, that's what happened.I'm glad everything went well.)"
+
+# 8880903
+; firstelf: 「……何もかもうまく……なってたらよかったのにね」
+firstelf: "I wish everything had been …… well,"
+
+# 65034a2
+; そう言ってるエルフの状態は、とても悪そうに見えた。
+Elf's condition seemed very bad.
+
+# faf0bd3c
+; me: 「ヒィーン（……そういやお前、ずっと調子悪そうだけど、大丈夫か？）」
+me: " neigh (You look like you've been in bad shape. Are you all right?"
+
+# 56a19076
+; firstelf: 「……まぁね。邪気が抜けたのはいいけれど、[i]今は魔力も生命力も、尽きてしまって」
+firstelf: " …… Well, it's good that Evil Force is gone, but [i] I've run out of Magical Power and my life force."
+
+# 19f2b37d
+; ああ、それでここで倒れてたんだな。
+Oh, that's why you fell down here.
+
+# 6139f53f
+; me: 「ヒィーン（何があったんだ？）」
+me: "neigh (What happened?)"
+
+# e4fce70a
+; firstelf: 「仲間が、魚人にやられてしまって。[i]私だけは何とか逃げたんだけど、[i]途中から力が尽きてしまったわ」
+firstelf: "My companion has been beaten by Fishman.[i]I was the only one who managed to escape, but [i] I ran out of energy halfway."
+
+# 29fe4f23
+; me: 「ヒヒーン（ぎょ、魚人。またあいつらか）」
+me: "niegh (Gee, Fishman. They are again.)"
+
+# 723d1bf9
+; firstelf: 「……このままではワタシ、もうすぐ消えてしまうわ」
+firstelf: "…… "If things go on like this, they'll be gone soon."
+
+# 5f7c867b
+; me: 「ヒヒーン（消える？？）」
+me: "niegh (disappear??)"
+
+# bee06db0
+; firstelf: 「生命力、もう残り少ないわ」
+firstelf: "There's not much life left,"
+
+# 8975357e
+; me: 「ヒヒーン（休んだら回復とか、できないのか？）」
+me: "niegh (Can't you recover after a break?)"
+
+# b094b761
+; firstelf: 「普通ならそうだけど、今はできないわ。[i]せめて、あの魔法陣が無事に完成してたら、希望はあるんだけど……」
+firstelf: "Normally so, but I can't do it now.[i]At least, if that The Magic Circle had been successfully completed, there would be hope ……."
+
+# cf190517
+; me: 「ヒヒーン（えっ？……あの魔法陣って、完成してるんじゃなかった？）」
+me: "niegh (What? ……, wasn't that The Magic Circle complete?)"
+
+# 8213a1c4
+; firstelf: 「止まってしまったみたいよ、途中で」
+firstelf: "I think it's stopped, on the way,"
+
+# d14f1aed
+; me: 「ヒィーン（止まっちゃったって、何で？）」
+me: "neigh (Why did it stop?)"
+
+# 482303b9
+; firstelf: 「わからないわ。女王の身に何かあったのか。それとも魔法陣の方に邪魔が入ったのか……」
+firstelf: "I don't know.What happened to the Queen?Or did The Magic Circle get in the way?"
+
+# 3a4e2c63
+; me: 「ヒィーン（……誰かに、乗っ取られた？）」
+me: "neigh (Did someone hijack you?)"
+
+# f2b0f3e2
+; firstelf: 「乗っ取られた？[i]……そういう可能性もあるわね。そんな話をどこで？」
+firstelf: "Have you been hijacked?"[i]…… There's a possibility.Where did you say that?"
+
+# 42da2634
+; me: 「ヒィーン（ヒルドルがぼそっとそうつぶやいたけど、詳しくは聞けなかった。なんだか彼女、変わった姿になっていて、正気ではなさそうだった）」
+me: " neigh (He murmured, but he could not hear the details.She looked strange and insane.)"
+
+# 18b2d62
+; firstelf: 「女王様が？？[i]なんてことだ。そんな事になってるとはね。[i]それに、あの魔法陣が誰かの手に……[i]トゥーレは、もう終わりなのかしら……」
+firstelf: "The Queen??[i] Oh, my God.I can't believe it's going to happen.[i]And I wonder if that The Magic Circle is over in someone's hand Thule[i] ……."
+
+# d1bfc8b8
+; me: 「ヒィーン（お、終わりって……）」
+me: "neigh (Oh, the end is ……)"
+
+# bf2ca8e1
+; firstelf: 「そう、通りで力が戻って来ないわけだわ。[i]今日はヨールで、トゥーレは魔力で溢れてるのに……」
+firstelf: "Yes, I can't get my strength back on the street.[i]It's Jol today, and …… is full of Magical Power, but Thule."
+
+# 60814050
+; me: 「ヒヒーン（ヨール？[i]……もしかして今日は１２月２４日なのか？）」
+me: "niegh (Is Jol? [i] …… December 24th by any chance?)"
+
+# 157aa401
+; firstelf: 「そうだけど」
+firstelf: "Yes,"
+
+# abd6c686
+; me: 「ヒィーン（…………そうか）」
+me: " neigh"
+
+# f57d9fd1
+; あれから、あまり時間は経ってないんだな。
+It hasn't been long since then.
+
+# defa0d44
+; だとしても、俺はトゥーレに残るしかないのは確定か。
+Even so, is it certain that me will have no choice but to remain in Thule?
+
+# 1179b132
+; しかもヒルドルの計画は失敗のようで、
+Moreover, Hildur's plan seemed to be a failure.
+
+# 55709010
+; トゥーレは救われず、終わりゆく世界。
+Thule is not saved, but the world is ending.
+
+# be4c4fb7
+; ……絶望敵な状況かな。
+…… I guess it's a desperate situation.
+
+# 9e032ff4
+; せめてヒメだけでも、人間世界に戻れてよかった。
+I'm glad I could at least return to the human world with Hime alone.
+
+# 580f8d48
+; 俺は、トゥーレで朽ち果てるのかな。
+I wonder if me will rot away from Thule?
+
+# a05fba28
+; 最後に、ユールちゃんにだけは会いたいものだな。
+Finally, I only want to see Yule.
+
+# 55abd45
+; firstelf: 「あ、そういえば」
+firstelf: "Come to think of it,"
+
+# 97a61eea
+; me: 「ヒーン？」
+me: "Is it niegh?"
+
+# f52dd78a
+; 一人で色々と考えてると、エルフが話しかけた。
+Elf spoke to him as he was thinking about various things.
+
+# 9e61a7d3
+; firstelf: 「あなたに渡すべきものがあったわ」
+firstelf: "I have something to give you,"
+
+# bfd84d5f
+; 呆けていた俺に、エルフはどこからか光の玉を持ってきて、手のひらに乗せた。
+When me was stunned, Elf brought a ball of light from somewhere and put it on the palm of her palm.
+
+# 255d2d30
+; me: 「ヒィーン（そ、それは？）」
+me: "neigh (Oh, what about that?)"
+
+# 98cc9365
+; firstelf: 「あなたの記憶のかけら、だと思うわ」
+firstelf: "I think it's a fragment of your memory,"
+
+# 3b3c7f9f
+; me: 「ヒィーン（あ）」
+me: "The neigh,"
+
+# e07a3e2d
+; そういえばそれがあったな。
+Come to think of it, it happened.
+
+# 30cc2e43
+; うっかり忘れてた。
+I forgot about it.
+
+# d6405a70
+; firstelf: 「殺された仲間が大事に持ってたものを、私がもらってきたんだ。[i]私はあまり興味なかったから、ちょうどあなたに出会ってよかったわ」
+firstelf: "I have received what my murdered companion cherished.[i]I wasn't very interested, so I'm glad I just met you."
+
+# e58d895e
+; me: 「ヒィーン（光の玉……記憶の欠片ってこんな形をしてたんだな。知らなかった）」
+me: " neigh (Ball of Light …… A fragment of memory looked like this.I didn't know.)"
+
+# 2e1bb33
+; firstelf: 「もうトゥーレは希望がないかも知れないけど、[i]その思い出を宝にして、最後まで楽しく生きていく事ね」
+firstelf: "There may be no hope for Thule anymore, but [i]Let's treasure those memories and live happily to the end."
+
+# f46bd3e
+; そういってエルフは、光の玉を俺の顔の前に差し出した。
+Then Elf held out a ball of light before me's face.
+
+# b44da098
+; me: 「ヒヒーン（これを、どうすればいい？）」
+me: "niegh (What should I do with this?)"
+
+# fa23026a
+; firstelf: 「手で受け取るだけでいいのだけれど……今は馬なんだから、食べるといいわ」
+firstelf: "All you have to do is pick it up by hand …… Now you're a horse, so eat it."
+
+# 7ba12857
+; 食べるって……これを？
+Eat it …… This?
+
+# 91db4bc5
+; me: 「ヒヒヒーん！！（ぱくっ）」
+me: "Hehehehe!"
+
+# c3c62454
+; ついうっかりと食べてしまった。
+I accidentally ate it.
+
+# e1c9f1a2
+; 馬の本能なのか。
+Is it horse instinct?
+
+# bfac9f41
+; 美味しそうにみえてた。
+It looked delicious.
+
+# 5132500e
+; me: 「ヒ—————ン！（ちょ、ちょっと……）」
+me: "Hey, ……"
+
+# 3edb58e8
+; 記憶を取り戻す心の準備もできてないのに、
+I'm not ready to recover my memory.
+
+# dfd00926
+; いきなり流れてきた。
+It came out of nowhere.
+
+# 8273a750
+; me: 「ブルルル！！」
+me: " Brrrr!"
+
+# 2bb4c991
+; 世界が、光に満ちて、
+The world is full of light.
+
+# 3a8b65c0
+; 懐かしさと、しがらみが、心に押し寄せてきた。
+The longing and the bondage came to my heart.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……

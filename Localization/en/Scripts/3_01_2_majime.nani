@@ -1,0 +1,41 @@
+; Japanese <ja> to English <en> localization document for `3_01_2_majime` naninovel script
+
+# 85883b2f
+; yule: 「えっ、本当ですか！？[i]ユールちゃんと結婚しますか！」
+yule: "Oh, really!?"[i]Are you going to marry Yule?"
+
+# 2fd033ac
+; me: 「ああ！ユールちゃんと、一生ここで暮らしたい！」
+me: "Oh! I want to live here with Yule for the rest of my life!"
+
+# af5383d1
+; yule: 「も、も、もうどうしましょう！[i]こんなにも早く夢が叶うなんて」
+yule: "Well, what shall I do now?"[i]I can't believe my dream came true so quickly."
+
+# 8c9c31d4
+; me: 「慌てることはないさ、愛ならこれからを育てていけばいい」
+me: "You don't have to panic. If it's love, you can raise it from now on."
+
+# 3836e5d8
+; yule: 「まあ！嬉しい事！！それでは[i][char yule.car_hand_dere_close_bigemi]早速夫婦のち契を……」
+yule: "[i] [char yule.car_hand_dere_close_bigemi] Let's get married soon."
+
+# 64ab175b
+; me: 「いいぜ！」
+me: "Very well!"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 31a1500f
+; その後、幸せな人生を生きたとさ。
+After that, he lived a happy life.

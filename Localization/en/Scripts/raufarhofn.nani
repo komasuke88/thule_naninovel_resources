@@ -1,0 +1,157 @@
+; Japanese <ja> to English <en> localization document for `raufarhofn` naninovel script
+
+# 91b065f8
+;  <ruby="ラウパルヘプン"> Raufarhöfn</ruby>はアイスランド東北部の小さな町だ。
+<ruby="Laupalhepung">Raufarh öfn</ruby> is a small Village in northeastern Iceland.
+
+# 38c4eeb6
+; 昔、 <ruby="ニシン"> 鰊釣</ruby>りが流行ってた時期には漁業で有名な町だったけど、
+In the past, <ruby="herring">fishing</ruby> was popular, and Village was famous for fishing.
+
+# 18225407
+; 今では鰊の漁獲量が減ってしまって、衰退した町。
+The catch of herring has now decreased and has declined Village.
+
+# a437cd42
+; それでも人は住んでるのだけれど、人口は２００名もない。
+Still, people live there, but the population is less than 200.
+
+# 701b7c33
+; [br]この町は最近になってまた観光客たちの足が増えてる。
+[br] This Village has recently attracted more tourists.
+
+# 8446b0d3
+; その理由は町自体ではなく、この町の近くのモニュメントのためだ。
+The reason is not because of Village itself, but because of a monument near Village.
+
+# 8df30e00
+; me: 「これだな」
+me: "This is it,"
+
+# 7e801ead
+; 高さ６メートルのゲート４つ、１０メートルの柱一つで構成されてる陣。
+A camp consisting of four six-meter-high gates and a 10-meter-high pillar.
+
+# 194b88f1
+;  <ruby="The　Arctic-Henge"> Heimskautsgerðið</ruby>。
+ <ruby="The Arctic-Henge">Heimskautsger ði ð</ruby>.
+
+# 1c61a9ac
+; 散文エッダの詩、 <ruby="Seeressの予言"> Völuspá</ruby>の世界を再現したモニュメントだ。
+This monument is a reproduction of the world of <ruby="The Prediction of Seresse">V ölusp á</ruby>, a prose Edda poem.
+
+# 993de06b
+; ４つのゲートは天蓋を支える４人のドワーフたちを形にしたもの。
+The four gates are shaped by four Dwarfs supporting the canopy.
+
+# a4f2b025
+; 東にAustri、北にNorðri、南にSuðri、西にVestri。
+Austri to the east, Nor ðri to the north, Su ðri to the south, and Vestri to the west.
+
+# 1d5083e5
+; ノルド神話に伝わるドワーフ枢機卿たちだ。
+These are the Dwarf cardinals handed down to Norse mythology.
+
+# 67c23c9
+; ゲートの軌跡に沿って配置されてる６８個の標識は６８人のドワーフたち。
+The 68 signs arranged along the trajectory of the gate are 68 Dwarfs.
+
+# 231679c5
+; Bjartur(Bright)、Blíður(Sweet)、Svásuður(Gengle)……
+Bjartur (Bright), Bl íður (Sweet), Sv ásu ður (Gengle) ……
+
+# d36ec88e
+; それぞれのドワーフは時を司り、５日の時間を担当してる。
+Each Dwarf is in charge of time and five days.
+
+# 2ef73529
+; ゲートと柱をあわせて７３個で、一年の時間がこの陣に結びついてる。
+The total number of gates and pillars is 73, and the year's time is tied to this camp.
+
+# 6ed8e63d
+; このアークティック・ヘンジは未だに工事中である。
+This Arctic henge is still under construction.
+
+# 9138a204
+; アイスランドのホテリアーである <ruby="エルリングル・ソロドセン"> Erlingur</ruby> Thoroddsenが発案し、
+Icelandic hotelier <ruby="Erlingur Sorodsen">Erlingur</ruby>Thoroddsen came up with the idea.
+
+# cdf3eea3
+; アーティストである <ruby="フェイクル・ハルドルソン"> Haukur</ruby> Halldórssonが工事を仕切ってるが、
+Artist <ruby="Fakele Harderson">Haukur</ruby>Hold órsson is in charge of the construction.
+
+# c87e0c1f
+; 数年間建設中のこのモニュメントは、完成までは程遠い。
+The monument, which has been under construction for several years, is far from being completed.
+
+# 305178fd
+; 彼らは何で、こんなものを作ってるのか？
+Why are they making these things?
+
+# 10b09e1b
+; 芸術作品とか、地域観光の復興のためとか、色々な説明がされてる。
+Various explanations are given, such as works of art and for the reconstruction of local tourism.
+
+# d2e255ff
+; 太陽の光を浴びて、正確な時間の位置に影を落とす故、太陽時計の役割もしてる。
+It also acts as a solar clock because it casts shadows at the correct time in the sunlight.
+
+# f166ea4a
+; アイスランドの古代宗教、 <ruby="アゥサトゥル"> Ásatrú</ruby>を称える記念物という説もある。
+Some say it is a monument honoring the ancient religion of Iceland, <ruby=" Asatru"> Ásatr ú</ruby>.
+
+# 83b85e2d
+; 実際に、彼らには聖地として扱われてると聞いた。
+In fact, I heard that they treated me as a holy place.
+
+# dcf2a4fb
+; しかし、本当は別の目的があるんじゃないかと、一部の人たちは言ってる。
+However, some people say that there is a different purpose.
+
+# f4230b0
+; このモニュメントの構図から、何か魔術的な仕掛けが見れれると言う話もある。
+Some say that some magical devices can be seen from the composition of this monument.
+
+# 78a277aa
+; me: 「不思議だな……」
+me: "Strange ……,"
+
+# 5f076adc
+; 異常高温でアイスランドの大体の地域で、雪の原が見えなくなってしまったけど、
+Because of the unusually high temperature, the snow fields have disappeared in most parts of Iceland.
+
+# a5d30744
+; ここだけは、昔から何もなかったみたいに、雪が残ってる。
+This is the only place where there's snow left, as if nothing had happened before.
+
+# ae58ded9
+; me: 「アゥサトゥルの記念物か」
+me: "Is it a monument to Asatru?"
+
+# 881311dc
+; ホステルで見かけた、変な服装の男を思い出した。
+I remembered the oddly dressed Man I saw in hostel.
+
+# 310c201b
+; me: 「彼らが作った、魔法陣だったりしてな」
+me: "They made The Magic Circle,"
+
+# e8bd8706
+; オカルト的な真実はともあれ、このモニュメントは写真作家たちに人気がある。
+Regardless of the occult truth, the monument is popular with photographers.
+
+# cd754c94
+; 何もない雪原の中で、このモニュメントと一緒にオーロラを撮ると、とても不思議な芸術写真ができるという。
+Taking Northern Light with this monument in an empty snowfield creates a very strange art photograph.
+
+# 64bb12a2
+; me: 「俺も一枚撮りたいのだが……」
+me: "I'd like to take a picture of me, too."
+
+# fd89398a
+; 今夜オーロラが出る保証もないし、それまで待つ時間もないな。
+There's no guarantee that Northern Light will come out tonight, and I don't have time to wait until then.
+
+# addbfa91
+; 写真はこれだけにして、そろそろ出発するぞ。
+Let's just leave the picture here, and we're about to leave.

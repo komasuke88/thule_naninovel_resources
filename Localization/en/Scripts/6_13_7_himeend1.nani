@@ -1,0 +1,509 @@
+; Japanese <ja> to English <en> localization document for `6_13_7_himeend1` naninovel script
+
+# 926aa320
+; hime: 「サラさん、案内してくれるんだって」
+hime: "Mr. Sara, you're going to show me around."
+
+# 48a66657
+; ヒメはまた俺の背中に乗りながら、そういった。
+said Hime, riding on me's back again.
+
+# d946f89d
+; サラは少し困った表情はしたけど、結局は案内してくれると言って、車に乗った。
+Sara looked a little troubled, but eventually he said he would show me around and got in the car.
+
+# f4b11d8d
+; hime: 「でもディムボルギルは遠そうだよ？ちょっとだけ急いで行かないとだめなんだって」
+hime: "But dimmuborgir seems to be a long way off.I've got to hurry up a little."
+
+# 98af8359
+; me: 「ヒィーン（俺の馬力が試される時が来たか……）」
+me: "neigh (Is it time to test me's horsepower? ……)"
+
+# 17fdb80
+; hime: 「うん。徐々に速度を上げるから、付いて来れるまで付いてこればいいって」
+hime: "Yeah. I'm going to speed up gradually, so you can follow me until you can."
+
+# 9c275617
+; me: 「ヒィーン（上等だ！）」
+me: "The neigh!"
+
+# c0f7759a
+; 足が鳴るな。
+Don't let your feet ring.
+
+# 7bc710f8
+; hime: 「では出発しようか？[i][char hime.sad]あ、でも途中で疲れたら言って。無理しないように、ゆっくり合わせて行……[i][char hime.e][stopBgm]……きゃっ！？」
+hime: "Shall we go now?"[i][char hime.sad] Oh, but if you're tired in the middle, tell me.Don't push yourself too hard. Go slowly ……[i][char hime.e]'stopBgm' What!?"
+
+# b9051dec
+; me: 「ヒヒーン！（ひ、ヒメ！？どうしたんだ？）」
+me: " niegh! (Hi, Hime!?)What's the matter?"
+
+# b46492f4
+; 俺の背中に乗っていたヒメが、いきなりすらりと、落ちてしまう。
+The Hime on me's back suddenly fell thin.
+
+# 78a83060
+; hime: 「あいたたたた……」
+hime: "You ……,"
+
+# 5079b447
+; ヒメは、俺の真下で転けた。
+Hime fell just below me.
+
+# 64280e8f
+; ……真下？
+…… Right below?
+
+# 3f440d2b
+; hime: 「えっ？{playerName}……？?」
+hime: "What? {playerName}……?"
+
+# fff0703a
+; me: 「ヒヒーン！？」
+me: "The niegh!"
+
+# 1f6eafa1
+; 俺の体と、重なってる！？
+It overlaps with me's body!?
+
+# 92b496cc
+; me: 「ヒヒーン（ひ、ヒメ、なんで透けて見えるだ？[i]もしかして、また幽霊に？）」
+me: " niegh (Hi, Hime, how can you see through it?[i]Are you going to Ghost again?"
+
+# aa3ca2df
+; ヒメが、まるでホログラムみたいに、半透明に見えていた。
+Hime but it looked as if it were a hologram, translucent.
+
+# 1149b785
+; hime: 「え？？わ、わたしこそ、{playerName}が、透明に見えるよ？」
+hime: "What??? I'm the one who looks transparent to {playerName}?"
+
+# 647404b5
+; me: 「ヒィーン？？（なっ！？）」
+me: "neigh? (What!?)"
+
+# 2ef998c4
+; お互いがホログラムに見えて、触れない状態。
+The state in which they can see each other in holograms and cannot touch each other.
+
+# 7c2bf53f
+; これは、前にも経験した事があった。
+I've experienced this before.
+
+# 1256b537
+; そう、リルヤの時もこうだった。
+Yes, it was like this during Lilya.
+
+# 93a25dc7
+; 一瞬だけ人間世界に行って、またトゥーレに戻って来た時に……
+I went to the human world for a moment, and when I came back to Thule, ……
+
+# df056006
+; 俺たちが慌ててると、遠くからサラの声が聞こえた。
+I They were in a panic when they heard Sara's voice from afar.
+
+# fcf28ccf
+; sara: 「ヒメカちゃん、そろそろ出発していい？」
+sara: "May I leave now, Himeka?"
+
+# 3b31af7b
+; 車の運転席から、サラの声が聞こえた。
+I heard Sara from the driver's seat.
+
+# adadbc9f
+; hime: 「え？あ、いいえ。えっと……」
+hime: "What? Oh, no. Let's see, ……."
+
+# 6866c33f
+; sara: 「うん？どうしかた？」
+sara: "Huh? Who is it?"
+
+# ccc1051f
+; サラが怪訝そうな声色で、車から降りて、こっちに近づいてきた。
+Sara got out of the car and approached me with a suspicious voice.
+
+# d5b80f33
+; sara: 「……あれ？」
+sara: "What ……?"
+
+# d7ca6a65
+; サラは何か変なものを見た時のように、周りを見回した。
+Sara looked about as if he had seen something strange.
+
+# 21c21b29
+; sara: 「馬は？」
+sara: "What about horses?"
+
+# 92e4ec58
+; hime: 「わたしも何がなんだか。いきなり透明になってて[i][char hime.e]……ってあれ？？」
+hime: "I don't know what's going on, either.It suddenly became transparent. [i][char hime.e] What is ……???"
+
+# c0d9df24
+; 二人は、すぐ隣にいる俺の姿が、まるで見えないみたいだった。
+They could hardly see me standing next to them.
+
+# 3cb93b3e
+; ぎょろぎょろと、周りを見渡してる。
+I'm gazing around.
+
+# 8c81c158
+; me: 「ヒヒーン！？（お、俺はここだ！聞こえないのか！？）」
+me: "niegh!? (Oh, me is here!)Can't you hear me!?"
+
+# 6e0888e7
+; hime: 「{playerName}！？{playerName}！？ど、どこ！？」
+hime: " {playerName}!? {playerName}!? Where?"
+
+# 82187459
+; me: 「ブルルル」
+me: "The Brrrr,"
+
+# d6fa733f
+; 走ってみた。
+I tried running.
+
+# 8a11978a
+; 二人に近づいて、そっと体をぶつかってみた。
+I approached them and bumped into them gently.
+
+# d1a2e503
+; だけど……
+But ……
+
+# 27c9ab
+; me: 「ヒィーン（す、すり抜けた……？）」
+me: "neigh (Yes, ……?)"
+
+# 50a13839
+; 触れられない。
+I can't touch it.
+
+# 7c398209
+; 目の前にヒメとサラは居るのに。
+Hime and Sara are right in front of us.
+
+# 4e3a17b4
+; まるで幻のよう。
+It's like a vision.
+
+# 35e12538
+; sara: 「ヒメカちゃんの馬、どこに行ったの？？」
+sara: "Where's Himeka's horse?"
+
+# a5e97ac9
+; hime: 「わ、わかりません。いきなり、見えなくなりました。[i]先まではうっすらとは見えてたのに、[i]もう声も、聞こえない」
+hime: "Well, I don't know.Suddenly, I can't see it.[i] I couldn't hear your voice anymore, though I could see it faintly before."
+
+# 1eafd30f
+; ヒメはえらく取り乱していた。
+Hime was very upset.
+
+# e4afb14b
+; いきなり俺が認識できなくなったようだ。
+It seems that me suddenly became unrecognizable.
+
+# d4274d8b
+; me: 「ヒヒーン？（俺、もう透明にすらも見えなくなったのか……？）」
+me: " niegh?"
+
+# 164c57d9
+; でも、俺には二人が見える。
+But me can see them.
+
+# 2523039f
+; 二人には俺が見えないのに。
+I can't see me between themselves.
+
+# 9e2b8908
+; これも、リルヤの時と同じだ。
+This is the same as in Lilya.
+
+# f41256b2
+; 突然と人間世界に現れた俺たちが、
+I suddenly appeared in the human world.
+
+# e0112316
+; 突然とまたトゥーレに戻される際に起こった現象。
+a phenomenon that occurred when suddenly returned to Thule.
+
+# d7b1dec4
+;  <ruby="トゥーレ"> こちら</ruby>からは <ruby="人間世界"> あちら</ruby>が見えてるのに、
+<ruby=" Thule">From here</ruby>, you can see <ruby="Human World">Over there</ruby>.
+
+# 2b8d68
+;  <ruby="人間世界"> あちら</ruby>からは <ruby="トゥーレ"> こちら</ruby>が見えない。
+<ruby="Human World">You can't see <ruby=" Thule">here</ruby> from over there</ruby>.
+
+# dcc31812
+; そしてそれすらも、徐々に見えなくなって、お互いの世界は隔離される。
+And even that gradually disappears, and each other's world is isolated.
+
+# f1127329
+; つまりヒメは、人間世界に戻ったのだ。
+In other words, Hime has returned to the human world.
+
+# 5bac1dc1
+; 同じ <ruby="トゥーレ"> 世界</ruby>にいたはずのヒメは、今では <ruby="人間世界"> あちら側だ</ruby>。
+Hime, who was supposed to have been in the same <ruby=" Thule">world</ruby>, is now on the other side of <ruby="human world">.
+
+# 2b4c8f7f
+; 俺だけがまた、トゥーレにいる。
+Only me is in Thule again.
+
+# d02a3896
+; sara: 「いきなり見えなくなったって？馬が？」
+sara: "`Suddenly out of sight?'The horse?"
+
+# 4e0632aa
+; hime: 「はい。最初は、幽霊みたいに半透明になっていて……その、幻のように……」
+hime: "Yes. At first, it was translucent like Ghost, and …… like a vision."
+
+# 92215004
+; sara: 「幻……？[i][char sara.close_sad2]うむ……[i]考えて見るとそうだな。[i][char sara.e]……いくら馬でも、こんな一瞬で姿をくらます事はありえない。[i][char sara.close_e]またこのアイスランドで、非現実的な出来事が……」
+sara: "Phantom ……? [i][char sara.close_sad2] Well, ……[i] Now that I think about it, yes.[i][char sara.e] …… No horse can disappear in such an instant.[i][char sara.close_e] Another unrealistic event in Iceland ……"
+
+# 621be814
+; サラは意外と落ち着いてる。
+Sara is surprisingly calm.
+
+# ff26b837
+; 理解できない、変な事が起こったというのに。
+I don't understand. Something weird happened.
+
+# d9ec94bb
+; 不思議な表情はしてるけど、そのまま受け入れてる様子だった。
+He had a strange expression on his face, but he seemed to accept it.
+
+# c1055476
+; こういう事、経験でもあるのかな。
+I wonder if it's an experience.
+
+# 7d752bf8
+; hime: 「……これって、もしかして……前回みたいな……」
+hime: "…… "Is this …… like last time?"
+
+# f9d49b97
+; ヒメはまだ混乱してるのか、独り言をつぶやいてる。
+Hime muttered to himself, perhaps still confused.
+
+# 40a01fd4
+; sara: 「何か心当たりがあるの？馬が消えた事に」
+sara: "Do you have any idea?"that the horse had disappeared."
+
+# b05656a0
+; hime: 「ちょ、ちょっとだけですけど……[i][char hime.closehm]……でもこんなにいきなり……心の準備もできてないのに……」
+hime: "Just a little bit ……[i][char hime.closehm] …… But suddenly …… I'm not ready yet ……"
+
+# ebe87e53
+; ヒメの様子を見ると、
+Hime I looked at the state of things.
+
+# 2dae76df
+; ヒメも、この現象の意味を察したみたいだった。
+Hime seemed to have guessed the meaning of this phenomenon.
+
+# 94211b2c
+; そう。ヒメはちゃんと、人間世界に戻ったんだよ。
+Right. Hime has returned to the human world.
+
+# 9325ac70
+; 俺は、トゥーレに戻されたのだよ。
+I had been returned to Thule.
+
+# eef3ae2e
+; hime: 「……せめて、さよならの言葉くらい……」
+hime: " …… At least say good-bye ……"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 6cbb3771
+; そうだな。
+That's right.
+
+# 34c517d5
+; いつかはみんな別れるとしても、突然すぎるよ。
+Even if we all break up one day, it's too sudden.
+
+# 4c3ca14b
+; hime: 「……あ、そういえば……まだあっちでは、こっちが見えるかも……」
+hime: "…… Oh, come to think of it, …… You may still see this way over there ……"
+
+# 8bd67775
+; ずっと独り言を言っていたヒメが、何かを決心した表情になった。
+Hime, who had been talking to himself for a long time, looked determined.
+
+# 8ed3740c
+; そして、サラに向き直った。
+Then he turned to Sara.
+
+# cf786c1e
+; hime: 「あの、サラさん！」
+hime: "Well, Mr. Sara!"
+
+# 57ba18a6
+; sara: 「うん？」
+sara: "Huh?"
+
+# 13c29df6
+; hime: 「え、えっと。ちょっとだけ待ってもらえませんか？わたし、まだやり残した事が……」
+hime: "Well, let's see. Would you mind waiting a moment?"I still have something left to do ……"
+
+# 81994d06
+; sara: 「……[i][char sara.close_emi]わかった。[i][char sara.ww]ボク、車で待ってるから、用が済んだら呼んでな」
+sara: "……[i][char sara.close_emi] All right.[i][char sara.ww] I'll be waiting in the car, so call me when you're done."
+
+# 267414f3
+; サラは意外と察しがよい。
+Sara It's surprisingly easy to guess.
+
+# 2bfe3358
+; わけのわからない状態だろうに、ヒメの言葉をそのまま受け入れてくれたようだ。
+He seemed to have accepted Hime's words, though he did not understand them.
+
+# a538f16d
+; hime: 「ありがとうございます！[i][char hime.e]あ、あとわたし、ちょっと変な事叫ぶかも知れませんけど、[i][char hime.hehe]あまり気にしないでくださいね」
+hime: "Thank you![i][char hime.e] Oh, and I might scream something weird, but [i] [char hime.hehe] Don't worry too much."
+
+# f9e8d52a
+; sara: 「ああ、気にしないから、気にするな！……」
+sara: "Oh, I don't care, don't worry! ……"
+
+# e95e348d
+; そういって、サラは車に戻った。
+Then Sara returned to the car.
+
+# 32b45b67
+; hime: 「ふぅ……」
+hime: "`Phew ……,'"
+
+# 8d77587f
+; ヒメは気を取り直して、大きく深呼吸すると、
+Hime regained consciousness and took a deep breath.
+
+# dc9742a8
+; hime: 「{playerName}！！近くで見てるでしょう！？聞こえるでしょう？」
+hime: "{playerName}!! You're watching closely, aren't you?You hear me, don't you?"
+
+# 20ab9d0a
+; 大声で、俺に言った。
+he cried to me.
+
+# 842c7686
+; hime: 「……聞こえないかもしれないけど、一応言うね！」
+hime: "…… "You may not hear me, but I'll tell you!"
+
+# cf22a969
+; いつの間にか、日が暮れていて、周りは暗くなっていた。
+Before I knew it, it was dark and dark around me.
+
+# b5173f56
+; でもヒメは構わすに叫んだ。
+But Hime cried carelessly.
+
+# f82d6cba
+; hime: 「ありがとう、{playerName}！[i]あなたのお陰でわたし、こうして生き返った！[i]無事に戻ったよ！[i]この恩は、忘れないから！」
+hime: "Thank you, {playerName}! [i]Thanks to you, I came back to life like this![i]I'm back safe! [i] I'll never forget this kindness!"
+
+# e281a315
+; 俺が居ないか確認するように、
+I to make sure there is no
+
+# c57ed714
+; 周りをぎょろぎょろと見渡しながら、大声で。
+with a loud voice, gazing around.
+
+# 9e64d0
+; hime: 「わたし、先に戻ってるから！[i]日本で待ってるから！[i]{playerName}も、絶対に戻って来てよ？」
+hime: "`I'm going back!'[i]I'll be waiting in Japan![i]{playerName} But be sure to come back?"
+
+# 1e70d104
+; 大きく叫びすぎて、少し涙目になって言い続けた。
+He cried out so loudly that he kept saying it with a tearful eye.
+
+# 47c5c437
+; hime: 「ラインも残して置くね！あとで確認するんだよ？そして、連絡してね！」
+hime: "I'll leave LINE behind, too! I'll check it out later."And get in touch with me!"
+
+# b27e1d4d
+; それでも名残り惜しそうに振り向いては叫び……
+Still, he turned around regretfully and screamed ……
+
+# f2414a74
+; hime: 「あと、ユールちゃんに会えたら、ありがとうって伝えてね？」
+hime: "And if you see Yule, say thank you?"
+
+# f46f6900
+; ヒメの姿は徐々に、透明になっていき、
+The figure of Hime gradually became transparent;
+
+# b36d2ae
+; hime: 「そして……色々あったけど本当は、[i]本当に、楽しかった！[i]一生モノの思い出になった！[i]わたし、忘れないよ！」
+hime: "And …… There were a lot of things, but the truth was, [i] It was really fun![i]It became a memory of things for the rest of my life![i]I'll never forget!"
+
+# e19663f6
+; 声も、だんだんと小さくなっていき、
+and his voice grew smaller and smaller;
+
+# 98184fe
+; hime: 「……そしてそして……」
+hime: "And ……,"
+
+# db9f0c34
+; やがて、ヒメは完全に透明になってしまって、
+Before long, Hime became completely transparent;
+
+# 86d94011
+; hime: 「……」
+hime: "……"
+
+# 3690a4a5
+; 声も、聞こえなくなった。
+I lost my voice.
+
+# 82187459
+; me: 「ブルルル」
+me: "The Brrrr,"
+
+# 407c41d
+; お別れだな。
+It's time to say goodbye.
+
+# 38cec2d7
+; できるならば、また人間世界で会おう。
+If possible, let's meet again in the human world.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# d384a95e
+; 少し気になって、サラの車の方を見てみたけど、
+I was a bit curious, so I looked at Sara's car.
+
+# c5d75703
+; me: 「ヒヒーン（消えたか）」
+me: "niegh (disappeared)"
+
+# 12be2ecf
+; 車も、サラの姿も、
+The car, the figure of Sara,
+
+# f0c75ccf
+; 何も見えなくなった。
+I couldn't see anything anymore.
+
+# b0c6d369
+; この場所には、もう誰の姿も見当たらなく、
+There was no one to be seen in this place.
+
+# 8230cce9
+; 俺は、一人になった。
+I was left alone.
+
+# 28f6968d
+; me: 「ヒヒーン」
+me: "The niegh,"

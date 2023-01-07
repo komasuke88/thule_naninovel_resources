@@ -1,0 +1,313 @@
+; Japanese <ja> to English <en> localization document for `6_13_2_kjolur` naninovel script
+
+# d65218a6
+; hime: 「案内標識だ。F35って書いてあるよ」
+hime: "It's a sign. It says F-35."
+
+# d4dddac
+; me: 「ヒヒーン（おう！）」
+me: "niegh (Oh!)"
+
+# 6ed19343
+; エルトギャゥから数時間、西へ北へ走って、
+Eldgja for a few hours running westward and northward;
+
+# 8a4fb501
+; ついにそれらしい案内標識を見つけた。
+At last I found such a sign.
+
+# 5feb9fa9
+; hime: 「あれ？よく見たら矢印が２つもあるよ？F35って。[i]そのキェルトリン……への道はどっちなんだろう」
+hime: "Huh? If you look closely, there are two arrows.It's called F-35. [i] Which way is it to get to the Keltrine ……"
+
+# 87f5388f
+; me: 「ヒヒーン（多分Gullfossとは逆方向だと思う。Blönduósの方だ）」
+me: "niegh (I think it's probably the opposite of Gullfoss.)Bl öndu ós)"
+
+# 5b3e862
+; hime: 「へぇ。道、知ってるんだ。流石に旅行作家さん！」
+hime: "Yes, I know the way.As expected of a travel writer!"
+
+# 8338c707
+; me: 「ヒヒーン（グトルフォスは寄った事あるからね。[i]それにうろ覚えだけど、ブリョンドゥオゥスは確か、北の方だった」
+me: " niegh (I've been to Gullfoss before.[i]and I remember vaguely that Blonduos was certainly in the north."
+
+# 6ccc0e82
+; hime: 「じゃ、こっちの道なんだね」
+hime: "Then it's this way,"
+
+# 6ecfd401
+; me: 「ヒィーん（おう、もうすぐだ。走るぞ）」
+me: "niegh (Oh, it's almost there.I'm going to run.)"
+
+# 9f16312d
+; キョルル山道。
+Kjolur a mountain path.
+
+# 26b7949
+; 中央ハイランドの南北を横切る、国道F35の別称。
+Another name for the National Highway F-35, which crosses north and south of the Central Highland.
+
+# 95f8143d
+; 砂漠のような黒い道が、果てしなく続いてる。
+A desert-like black road continues endlessly.
+
+# 1543ff56
+; でもこの道を辿っていけば、いつかは目的地に着ける。
+But if you follow this path, you will reach your destination one day.
+
+# 74aef00b
+; キェルトリンガルフィヨットルへと。
+To Kerlingarfjoll.
+
+# 33b5bcb9
+; hime: 「もうすぐ、{playerName}の記憶を全部取り戻せるんだね」
+hime: "You'll soon be able to recover all your memories of {playerName}."
+
+# 4a991e88
+; me: 「ヒヒーン（ああ。マーマンが言ってたのが本当ならな。[i]記憶を盗んだエルフは倒れてるから、簡単に見つかるって言うし）」
+me: " niegh (Yes.I hope what merman said is true.[i]Elf, who stole the memory, fell down, so it's easy to find it.)"
+
+# 32b17dcb
+; hime: 「うん。[i]その後は、ユールちゃんの家に行って、{playerName}を人間の姿に戻したら任務完了だね」
+hime: "Yeah. [i] After that, if you go to Yule's house and put {playerName} back into human form, the mission is complete."
+
+# 78ce2410
+; me: 「ヒヒーン（……ああ。[i]でも人間の姿、どうすれば戻るのだろうな）」
+me: " niegh (Yes, …… [i] But how can we get back to the human form?"
+
+# 6c1aa970
+; 記憶の欠片はなんとか探すとしても、
+Even if I managed to find a fragment of my memory,
+
+# 17543bc
+; ポリモーフの呪文は、どうしたらいいか、まだわからん。
+I still don't know what to do with the spell of polymorph.
+
+# f4ba8e75
+; 羊から戻って来た時は、エルフの住処の奪還で、魔力の源を吸収したという。
+When he returned from the sheep, he said he absorbed the source of Magical Power by recapturing the residence of Elf.
+
+# bad94b44
+; でも今回はヒルドルが解いてくれるしかないって、ユールちゃんが言ってた。
+But this time, Hildur said she had no choice but to solve it.
+
+# 133314be
+; しかしヒルドルは今、会話が通じなくなったわけだし。
+But now Hildur can't communicate.
+
+# 7b4b966a
+; ……そういや、術者が死んでも解除されるようなのだが、
+……by the way as if the operator were to die.
+
+# 2e036e78
+; 流石にそれはね……
+As expected, it is ……
+
+# 87d821a1
+; hime: 「ユールちゃんなら、何か手があるんじゃないかな？」
+hime: "If it's Yule, what can I do?"
+
+# b6afa645
+; me: 「ヒヒーン（ああ。何か方法はあるかも知れないから、それに期待はしてる）」
+me: "niegh (Yes, there might be some way, so I'm looking forward to it.)"
+
+# 283dceb8
+; hime: 「もともとは、ヒルドルさんが解いてくれるはずだったのにね」
+hime: "Mr. Hildur was supposed to solve it."
+
+# 2705604
+; me: 「ヒヒーン（そうだな。だけどヒルドルはあんな状態で、今は近づけないし……）」
+me: " niegh (Yes.But Hildur is in such a state that I can't get close to him now ……)"
+
+# 5292e09e
+; hime: 「ヒルドルさん、大丈夫なのかな？」
+hime: "Are you okay, Mr. Hildur?"
+
+# a9860c9d
+; me: 「ヒヒーン（魚人たちに襲われる気配はなかったから。とりあえず生きてはいるのだろうけど……）」
+me: "niegh (There was no sign of being attacked by Fishman. I guess he's alive, but ……)"
+
+# 6d961a35
+; hime: 「正気を失ってる感じだったし……」
+hime: "I felt like I was losing my mind, ……."
+
+# 86718780
+; me: 「ヒヒーン（ま、最後にはなんとか喋ってたし、[i]いつかは元に戻れる、と思いたい）」
+me: "niegh (Well, I managed to talk in the end, and [i] I'd like to think that I can get back to normal someday.)"
+
+# 76c554f1
+; hime: 「……そういえばヒルドルさん、気になる事を言ってたね」
+hime: "…… "Come to think of it, Mr. Hildur said something that bothered you."
+
+# f6f857bc
+; me: 「ヒヒーン（……うん？）」
+me: " niegh (Huh?)"
+
+# 1c173e13
+; hime: 「魔法陣が乗っ取られるって」
+hime: "They say The Magic Circle will be hijacked."
+
+# 1acb9d26
+; me: 「ヒヒーン（……あ）」
+me: " niegh"
+
+# 930da863
+; そういえば、そんな事を言ってたな。
+Come to think of it, you said that.
+
+# 3b0e5d2
+; あの直後に出てきた魚人たちがあまりにも強烈で忘れてた。
+The Fishman who came out right after that were so intense that I forgot.
+
+# f5f7f972
+; 確かにそんな事言ってたな。
+I'm sure you said that.
+
+# af5578df
+; 魔法陣が、乗っ取られる、なんて。
+The Magic Circle is being hijacked.
+
+# 454ccb7c
+; me: 「ヒィーん（トゥーレ還元の魔法陣が、誰かに奪われるって事かな？）」
+me: "niegh (Do you mean that The Magic Circle reduction will be taken away by someone?)"
+
+# b0ff31f8
+; hime: 「いったい誰が、そんな事をして何がしたいんだろう？」
+hime: "Who would want to do that, and what would they want to do?"
+
+# a386df05
+; me: 「ヒィーん（よくわからんけど、[i]トゥーレ還元ではなく、別の魔法を発動するのかな。[i]相当な魔力を操れる魔法陣だそうだから。自分の願いを叶えるとか）」
+me: " niegh (I'm not sure, but [i] Thule reduction, but another magic.[i]The Magic Circle can manipulate a considerable amount of Magical Power.I'll grant my wish.)"
+
+# 5aad450a
+; hime: 「願いを叶える魔法陣か。何か、ロマンチックだね」
+hime: "Is it The Magic Circle to make your wish come true?It's kind of romantic."
+
+# 1d3b066e
+; me: 「ヒヒーン（それだけ聞くと響きはいいんだけどね。[i]ヒルドルには気の毒な事だ」
+me: "niegh (It sounds good to hear that much.)[i]It's a pity for Hildur."
+
+# fdc954d5
+; hime: 「あ！[i]って事は、[i]ヒルドルさんの願いは叶えられないって事？」
+hime: "Oh! [i] Does that mean you can't grant Hildur's wish?"
+
+# 6b19a68b
+; me: 「ヒヒーン（あ。そうだな。トゥーレ還元、失敗するのかな）」
+me: "niegh (Oh, yes.Thule Will the reduction fail?)"
+
+# 17d35193
+; hime: 「た、大変じゃない？そうなると、[i]ヒルドルさんが言ってた事も全部、なかった事になるんじゃない？」
+hime: "Well, isn't it hard?If that happens, [i] I think everything Mr. Hildur said will never have happened."
+
+# 3bd11b91
+; me: 「ヒヒーン？」
+me: "Is it niegh?"
+
+# a3e64abd
+; hime: 「わたしたち、人間世界に帰れなくなるんじゃない？」
+hime: "Wouldn't we ever be able to go back to the human world?"
+
+# 6eb56f2f
+; me: 「ヒヒーン（あ、ああ。そう、なるのかな？）」
+me: "niegh (Oh, oh, oh, is that so?)"
+
+# cea593a2
+; そうかも知れない。
+That might be the case.
+
+# 8fddcdcc
+; １２月２３日に俺たちは人間世界に戻されて、
+On December 23rd, the mes were returned to the human world.
+
+# 8b3a5327
+; １２月２４日にトゥーレが救われる。
+Thule is saved on Dec. 24.
+
+# 34a0aa9f
+; でもそれはすべて、ヒルドルの魔法陣が発動する事が前提だ。
+But it all presupposes that The Magic Circle of Hildur will be activated.
+
+# dc851da5
+; 魔法陣が変質されたら、
+If The Magic Circle changes,
+
+# adbe36d7
+; ちゃんと予定通りの事が起きるって保証はない。
+There is no guarantee that things will happen as planned.
+
+# cfc0675e
+; ２日後になってみないと、わからない。
+I don't know until two days later.
+
+# 81c88b0f
+; hime: 「どうしよう。もしそうなったら……」
+hime: "Oh, my. If that happens, ……."
+
+# dc88cfa0
+; me: 「ヒィーン（ま、まだわからない事だからな。心配するな）」
+me: "neigh (Well, I don't know yet.Don't worry.)"
+
+# 2a799a24
+; hime: 「わたしたち、ずっとこのトゥーレで生きていく事になるのかな？」
+hime: "Will we live on this Thule forever?"
+
+# 6e549dbf
+; me: 「ヒヒーン（あ……そうなるかな）」
+me: "niegh (Oh, ……, I suppose.)"
+
+# e6b48d4
+; hime: 「……ど、どうしよう」
+hime: "What shall I do, ……?"
+
+# ac6d51b4
+; me: 「ヒヒーン（まぁ、あまり落ち込むな。[i]仮にそうなるとしても、別に俺たち、死ぬわけじゃないし。[i]そりゃ確かに人間世界の家族は心配だけどね）」
+me: "niegh (Well, don't be too depressed.[i]Even if that were to happen, me wouldn't die.[i]It's true that families in the human world are worried.)"
+
+# ad615355
+; hime: 「……そう、だけど」
+hime: "…… "Yes, but,"
+
+# 7882f63c
+; me: 「ヒヒーン（ここに残っても、お互い力を合わせて生きて行けばいいからさ）」
+me: "niegh (Even if we stay here, we can live together.)"
+
+# eb422f41
+; hime: 「……ここで、一緒に生きていく？」
+hime: "…… "Do you want to live with me here?"
+
+# be56e9b3
+; me: 「ヒヒーン（ああ。ユールちゃんたちも、助けてくれると思うし。気長くさ）」
+me: " niegh (Yes.Yule I think they'll help us.He's a long-"
+
+# 4badff3b
+; hime: 「……う、うん。そうだね。わたし、一人じゃないし。[i][char hime.komaru]うん。そう言われると、少しは気が楽になるよ」
+hime: "…… Yes, yes, yes.I'm not alone.[i][char hime.komaru] Yes.That makes me feel a little better."
+
+# 738aaeaa
+; me: 「ヒヒーン（ああ）」
+me: " niegh (Ah)"
+
+# 800bb07e
+; と言っても、トゥーレ還元が失敗と思うと、かなり痛い。
+However, it hurts a lot to think that Thule reduction is a failure.
+
+# 3c986af3
+; このままだと３０年後、トゥーレは滅亡だというから。
+If things go on like this, Thule will be destroyed in 30 years.
+
+# 54047e20
+; 確かに３０年は長い時間だけど、俺たちの寿命の内に起きる事だ。
+It's true that 30 years is a long time, but it happens within the lifespan of mes.
+
+# f2ccda7
+; 終わりが決まってるのは怖いし、悲しい。
+It's scary and sad that the end is fixed.
+
+# e1940201
+; でもヒメは、まだそこまでは気にしてないみたいだから、
+But Hime didn't seem to care that much.
+
+# f36134d3
+; そこはあえて言わないで置こう。
+Let's not say that.

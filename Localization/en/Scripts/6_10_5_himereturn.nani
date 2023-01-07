@@ -1,0 +1,329 @@
+; Japanese <ja> to English <en> localization document for `6_10_5_himereturn` naninovel script
+
+# 9d6e7cab
+; 温泉から少し離れた広場で、
+In the square a little far from the hot spring,
+
+# e8fd7db1
+; yule: 「よっと」
+yule: "All right,"
+
+# 3ea18b40
+; ユールちゃんは大きなスプーンで、地面に何かを書き込んだ。
+Yule was a large Spoon and wrote something on the ground.
+
+# 59cd18bf
+; yule: 「これでよしっと……」
+yule: "That's all right ……,"
+
+# 13622f0e
+; 地面には、大きな円の形ができていた。
+There was a large circle on the ground.
+
+# 7dbdee33
+; yule: 「準備は整えました。これから……」
+yule: "I'm ready.From now on, ……"
+
+# 8a1b109f
+; himeelf: 「ワシがこの円の真中に立つのだな。知ってるとも。ワシは魔法の専門家だからな」
+himeelf: "An eagle stands in the middle of this circle.I know, for an eagle is a magic expert."
+
+# 9845dd4d
+; ヒメエルフはユールちゃんの描いた大きな円の中へと歩きながら言った。
+Himeelf said as he walked into a large circle drawn by Yule.
+
+# 6c09a839
+; yule: 「そうですか……」
+yule: "Yes, ……,"
+
+# 43759a2f
+; 偉そうに出しゃばるヒメエルフが気に入らないみたいだけど、我慢したな。
+You don't seem to like Himeelf, who is bossy, but you put up with it.
+
+# 9ed07481
+; yule: 「では、ヒメさん……？」
+yule: "And Mr. Hime, ……?"
+
+# 8961e518
+; hime: 「うん？わたし？」
+hime: "Huh? Me?"
+
+# e9eebf42
+; yule: 「こっちに来て、そのエルフの体に、体を重ねていてください」
+yule: "Come here and put your body on Elf's body."
+
+# 916603a5
+; hime: 「あ、こ、こう？」
+hime: "Oh, like this?"
+
+# c5d34fa3
+; ヒメはまるで憑依するように、ヒメエルフの体を通過して止まってた。
+Hime passed through Himeelf, as if to be possessed, and stopped.
+
+# 7b3c2b05
+; yule: 「そして{playerName}は、そのエルフの隣に立っていてください」
+yule: "And {playerName}, stand next to that Elf."
+
+# 3420b797
+; me: 「ヒヒーン（俺？なんで？）」
+me: " niegh? Why?"
+
+# b36ba759
+; yule: 「ヒメさんの記憶、{playerName}が持ってるでしょう？」
+yule: "You remember Hime, don'"
+
+# aa0b71a5
+; me: 「ヒヒーン（ああ！そうだった！そっか。これでヒメは体と記憶と魂が、元に戻るってことだな）」
+me: "niegh (Oh! That's right!)I see. This means that Hime's body, memory, and soul will be restored.)"
+
+# d149ac7d
+; それを聞いて俺も、ヒメエルフの前に近づいて立ち止まった。
+When me heard this, he came close to Himeelf and stopped.
+
+# dcf63f4b
+; hime: 「これで一気に解決だね！」
+hime: "`That's all at once!'"
+
+# d1282619
+; yule: 「では、儀式を行いますねー」
+yule: "Well, I'll do the ceremony,"
+
+# 95714858
+; ユールちゃんは俺たち三人の周りを囲んでる円の端に、スプーンを当てて、さらに何かを書いてた。
+Yule put Spoon on the edge of the circle that surrounded them, and wrote something more.
+
+# 2d774383
+; まるで、魔法の文字のとうに見えた。
+It looked as if it were a magic letter.
+
+# daf84144
+; himeelf: 「おい！ここ違う。このルーンじゃない」
+himeelf: "Hey! It's not here.It's not this Rune."
+
+# 80641487
+; yule: 「あ、ほんとですね。間違いました」
+yule: "Oh, that's true.I made a mistake."
+
+# 749b3ae3
+; himeelf: 「まったくセイズの魔術をなんだと思ってる。 <ruby="ガルドラボーク"> Galdrabók</ruby>の魔術書はちゃんと読んだのか？しっかりしてくれよ」
+himeelf: "What do you think of the magic of Says? Have you read the <ruby="Galdravoke">Galdrav ók</ruby> magic book?Be firm."
+
+# 93bd912a
+; yule: 「うるさいです」
+yule: "It's noisy"."
+
+# 46038469
+; himeelf: 「あいたっ！」
+himeelf: "Oh, my God!"
+
+# db06b949
+; スプーンでヒメエルフの頭を叩いた。
+I hit Himeelf on the head with Spoon.
+
+# 2be9556
+; yule: 「でもこれで、準備は完了です。では！」
+yule: "But now I'm ready.Now!"
+
+# 19726e3f
+; 魔法陣を書き終えたユールちゃんは、スプーンを空へと高く持ち上げて、ふらふらと振った。
+Having finished writing The Magic Circle, Yule lifted him high into the sky and shook him unsteadily.
+
+# 7b41b29f
+; その後、強烈な光と共に、頭の中に風が吹いてきてる感じがした。
+Then, with a strong light, I felt the wind blowing in my head.
+
+# bb76d570
+; 「うえあっ！？」[br]「あああ！」[br]「きゃっ！？」
+"Ugh!" [br]"Ah!" [br]"What!"
+
+# fe9c064
+; そして……
+And ……
+
+# 85cc318c
+; hime: 「あいたたた……」
+hime: "I missed you ……,"
+
+# 122c3a8d
+; 目の前に、ヒメが尻もちをしていた。
+There was Hime lying in front of me.
+
+# a2aac69
+; 空中に浮いてる姿ではなく、しっかりと地面に尻もちしていた。
+It wasn't floating in the air, it was firmly on the ground.
+
+# bcaf336d
+; そしてヒメは、一人。
+And Hime is alone.
+
+# e54ac960
+; 同じ姿のもうひとりはもう存在しない。しっかりと一人の姿だった。
+There is no more of the same figure.He was clearly alone.
+
+# d25f17c7
+; hime: 「い、いた……い？」
+hime: "Yes, ……?"
+
+# f9df24bc
+; その痛さに、ヒメは驚いてるみたいだった。
+The pain seemed to surprise Hime.
+
+# 3e8a665
+; hime: 「そ、そう！痛いんだ。わたし、戻った！人間だぁ！」
+hime: "Oh, yes! It hurts.I'm back!It's a human being!"
+
+# 8f52695b
+; ヒメは、少し涙目になってそういった。
+Hime said with a little tearful eyes.
+
+# 826b343c
+; 痛さという人間の感覚から、すべてが解決したのを実感したみたいだった。
+He seemed to realize that everything had been solved from the human feeling of pain.
+
+# 2c98117
+; me: 「ヒヒーン？（よかったな！ヒメ……って、あれ？）」
+me: " niegh?"Hime…… What is that?'"
+
+# 17f0af78
+; 俺の頭から、風が吹いて来るイメージがした。
+I had an image of the wind blowing from me's head.
+
+# fcadba06
+; ヒメの過去についての色んな情報が抜けたのを感じた。
+I felt that various information about Hime's past was missing.
+
+# 80bfdac2
+; 今俺がヒメについて知ってるのは、
+What me knows about Hime now is...
+
+# 20ffc0af
+; アイスランドに来て出会ったあの頃と、幽霊のヒメの事だけだ。
+It's just the time I met him in Iceland and Hime of Ghost.
+
+# c2173d34
+; ヒメの記憶は、俺から消えた。
+The memory of Hime disappeared from me.
+
+# b06992e3
+; って事は、ヒメは記憶まですべて戻って、完全体になったんだな。
+That means Hime has gone all the way back to her memory and become a whole.
+
+# 4c79b6a5
+; yule: 「はぁはぁ……ちゃ、ちゃんと、戻ったみたいですね。よかったです」
+yule: "Ah, ……-cha, I think you're back in good shape.I'm glad to hear that."
+
+# 36180fda
+; ユールちゃんは、とても疲れてるみたいだった。
+Yule looked very tired.
+
+# 3c1a59d
+; 魔法を使うたびに、疲れがもっと大きくなるのかな。
+I wonder if my fatigue gets bigger every time I use magic.
+
+# 8027c3d4
+; それに、それだけじゃない。ユールちゃんが……
+And that's not all.Yule ……
+
+# c1c9c04e
+; me: 「ヒヒーン（あれ？ユールちゃん？）」
+me: "niegh (Huh?)Yule?"
+
+# d3a56383
+; ユールちゃんの体が、少し透明に点滅したように見えた。
+Yule's body seemed to flash a little transparent.
+
+# 8c68e397
+; yule: 「あ、あれ？……今のはもしかして……[i][char yule.n_sad_nemu_awawa]ユールちゃんてば、もうそんなに消耗してます？」
+yule: "Oh, what? …… Is that ……[i][char yule.n_sad_nemu_awawa] Yule Are you exhausted?"
+
+# 71bf97a8
+; me: 「ヒヒーン（これはいったい）」
+me: "The niegh,"
+
+# 575ef4c5
+; yule: 「ユールちゃん、あと少しで魔力切れみたいです。安全装置が発動しようとしてました」
+yule: "I think Yule is almost out.The safety device was about to be activated."
+
+# a4ae4cc4
+; me: 「ヒヒーン（た、大変じゃないか！）」
+me: "niegh (Oh, that's hard!)"
+
+# e5abbe35
+; yule: 「うぅぅ、でもまだ大丈夫みたいです。少し休んだら多少は回復して……」
+yule: "`Well, but it seems to be all right.After a short rest, you'll recover a little ……"
+
+# 712e036a
+; 俺たちがそんな話をしてる際に、後ろから謎のおっさんの声が聞こえた。
+I While they were talking about it, I heard a mysterious old man's voice from behind.
+
+# b80c0858
+; elfo: 「か、開放されたぁ！」
+elfo: "`Oh, it's open!'"
+
+# 38fb18ba
+; 体の小さなエルフが、どこからか飛び上がってきた。
+A little Elf came up from somewhere.
+
+# 34577405
+; そしてすぐに、空高くへと飛び上がった。
+and at once jumped high into the sky.
+
+# 5059b5af
+; elfo: 「と、飛んでる。ワシの魔力も戻った！やったぜ！」
+elfo: "I said, flying.The Eagle's Magical Power is back!I've done it!"
+
+# 78bdd65e
+; yule: 「そ、それはよかったですね……戻ったら、大人しく帰ってくださいな」
+yule: "Well, that's good …… When you get back, please go home quietly."
+
+# 52240e4d
+; ユールちゃんはとてもつらそうにしながら、エルフにそう言い放った。
+Yule said to Elf, looking very uncomfortable.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 16a506f1
+; elfo: 「わはははっ、ワシがトロールの命令など従うと思うか！先までの屈辱、返してもらう」
+elfo: "Oh, do you think the Eagle will obey Troll's orders?"I'll get my humiliation back."
+
+# 8c167ef4
+; yule: 「くっ……あいつ」
+yule: "Damn …… He,"
+
+# cfb8115e
+; elfo: 「おおおぉぉぉ」
+elfo: "Oh, my God,"
+
+# 1d07018f
+; 空を飛んでるエルフは何か奇妙な動きをしていた。
+Elf, flying in the sky, was making some strange movements.
+
+# 93385db0
+; あれは、ポリモーフの魔法を使う構え。
+That's a posture to use the magic of polymorph.
+
+# 94994a0c
+; yule: 「くっ！」
+yule: "Damn it!"
+
+# 48c9a971
+; ユールちゃんはスプーンを構えて、攻撃に備える準備をした。
+Yule prepared themselves for the attack.
+
+# aff9ad9f
+; しかしユールちゃん、とても疲れてるみたいだし……このままでは……
+But Yule, you must be very tired. …… At this rate, ……
+
+# d2cd5595
+; elfo: 「喰らえ！」
+elfo: "Eat it!"
+
+# b7755102
+; @choice "ユールちゃんをかばう" goto:6_10_6_draugr
+@choice "Protect Yule" goto:6_10_6_draugr
+
+# 72258099
+; @choice "一人で逃げる" goto:ed_6_10_5_yulepoly
+@choice "Run away alone" goto:ed_6_10_5_yulepoly

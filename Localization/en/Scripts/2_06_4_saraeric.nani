@@ -1,0 +1,365 @@
+; Japanese <ja> to English <en> localization document for `2_06_4_saraeric` naninovel script
+
+# 41dca26c
+; sara: 「それでそれで？一緒に行く？」
+sara: "And then?"Do you want to go with me?"
+
+# 25e18e6e
+; 昨日始めて出会った女の子と、四日間寝泊まり旅行？
+A four-day sleepover trip with Girl that we first met yesterday?
+
+# 3d85f116
+; me: 「……うむ」
+me: "…… "Yes,"
+
+# bac1d08e
+; いやいや、そんな事より、スケジュールの方が問題だ。
+No, no, the schedule is more of a problem than that.
+
+# 803b5b42
+; 四日間とはキツイ。
+Four days is hard.
+
+# 214d3eb7
+; 俺のアイスランド滞留期間は、２週間くらい。
+I will stay in Iceland for about two weeks.
+
+# f7c64c3
+; 余裕はある方がけど、だとしても、
+It's better to be relaxed.
+
+# 179a7546
+; 四日間は、決して短い期間ではない。
+Four days is by no means a short time.
+
+# ec5fd0f2
+; 俺はしばらく考えて答えを出した。
+I thought for a moment and gave an answer.
+
+# 5dab9dd4
+; me: 「いや。俺は遠慮するよ」
+me: "No, I will refrain from me."
+
+# fb3ba042
+; 断った。
+I refused.
+
+# 760b4fbb
+; sara: 「えー」
+sara: "Well,"
+
+# c3bb6927
+; me: 「リングロード一周するのが、今回の目標だったから。スケジュール的に厳しい気がする」
+me: "My goal was to go around the ring Road.I feel that my schedule is tight."
+
+# 318bfdc2
+; sara: 「ハイランドの方がいいのになー」
+sara: "I'd rather have Highland,"
+
+# 1a9e715
+; me: 「でも最初に決めた目標だし、やり遂げたいから」
+me: "But it's my first goal and I want to accomplish it."
+
+# 279ab219
+; sara: 「そっか、ま、仕方ないな」
+sara: "Well, I can't help it,"
+
+# b26a99ac
+; me: 「せっかく誘ってくれたのに、わるいな」
+me: "`I'm sorry you invited me,'"
+
+# 93230220
+; sara: 「いやいや、お気にせず。[i][char sara.rough_www]でも、後にでも気が変わったら連絡くれよな」
+sara: "No, no, don't worry.[i][char sara.rough_www] But if you change your mind later, let me know."
+
+# 369e1056
+; 後でって……
+Later ……
+
+# 10902694
+; me: 「途中で合流できんの？今から四日間行くんだろう？」
+me: "Can't you join me on the way?"Are you going for four days now?"
+
+# 328d9e6d
+; sara: 「いや、今回のではなく、その次。[i]また別の場所、中央ハイランドに行くからな。その時に」
+sara: "No, not this time, but next. [i] I'm going to another place, Central Highland.at that moment."
+
+# 6f67b2b7
+; me: 「別の場所？……また、別のハイランドに？」
+me: "Another place? ……, another Highland?"
+
+# 6c193535
+; もしかしてサラって、ずっとハイランドにだけ行くのかな。
+I wonder if Sara keeps going to Highland.
+
+# 79271bd8
+; すごい情熱だ。
+That's a lot of passion.
+
+# 29405ec6
+; sara: 「そう。今から四日間はランドマンナロイガル。その後の三日間はラングヨークトル氷河の探検だ」
+sara: "Yes, Landmannalaugar for the next four days.The next three days will be an expedition to the Lang Yorktol Glacier."
+
+# 2a21ef6c
+; me: 「氷河か……」
+me: "Glacier or ……."
+
+# b580ca99
+; sara: 「おう、だからさ」
+sara: "Oh, so,"
+
+# 84ecf8a0
+; サラは自分のスマホを取り出すと、俺に訪ねた。
+Sara took out his Smartphont and called on me.
+
+# 5a0fc1e8
+; sara: 「連絡先、教えてよ」
+sara: "Give me your contact information."
+
+# e5e488c4
+; me: 「え……」
+me: "What ……,"
+
+# fdf1eb76
+; sara: 「ボク、このホステルは今日で最後だ。あとは全て寝泊まり旅なんだから」
+sara: "Today is the last day of my hostel.The rest are all sleepovers."
+
+# 637ada82
+; me: 「あ、そうか……」
+me: "Oh, I see, ……,"
+
+# 73171309
+; サラとは、一晩だけのルームメイトだったわけだ。
+Sara was a one-night Room mate.
+
+# f7605d07
+; sara: 「{playerName}とは気が合いそうだし、機会があったらまた会ってもいいかな―って」
+sara: "I think I'll get along well with {playerName}, and I wonder if I can meet her again if I have a chance."
+
+# 4317d138
+; me: 「連絡先は、どんな……？」
+me: "What …… is your contact number?"
+
+# ea8a7286
+; sara: 「フェイスブックとかあるじゃん？」
+sara: "You know Facebook?"
+
+# a22efe29
+; me: 「フェイスブックか。あまり使わないけど、一応アカはある」
+me: "Is it Facebook?I don't use it often, but I have a red one."
+
+# 3d075fb3
+; 俺とサラはフェイスブックを交換した。
+I and Sara exchanged Facebook.
+
+# a3832e34
+; しかし、また女の子と連絡先交換なんて、
+However, exchanging contact information with Girl is also...
+
+# f138c6ee
+; この旅行で、人生で２回目まで経験した。
+I have experienced this trip up to the second time in my life.
+
+# cd5f5be9
+; sara: 「うん。もらった！[i][char sara.rough_w]では、気が向いたらいつでも連絡してくれ」
+sara: "Yes, I got it![i][char sara.rough_w] If you feel like it, please contact me anytime."
+
+# cc71777e
+; me: 「ああ、サラもな」
+me: "Oh, Sara, too,"
+
+# d21170c7
+; sara: 「うむ？」
+sara: "Well?"
+
+# eca91bb
+; その時、サラのスマホが鳴った。
+Then the Smartphont of Sara rang.
+
+# eea99c2e
+; sara: 「おっと、仲間募集の返信が来たな。[i]そろそろ打ち合わせに行かなくては……[i][char sara.rough_www]んじゃ、ボクは出かける準備するから」
+sara: "Oops, I've got a reply asking for company.[i]I have to go to the meeting soon ……[i][char sara.rough_www] Well, I'll get ready to go out."
+
+# 2a50bc8
+; me: 「うん。[i]……って！」
+me: "Yes. [i] ……!"
+
+# 383f160f
+; 自分のベッドに戻ったサラは、荷物から上着を取り出した。
+Returning to his bed, Sara took his jacket out of his luggage.
+
+# 826b188c
+; そして、シャッツを脱いだ。
+Then I took off my shirt.
+
+# 5b1e3a26
+; こ、ここで着替える気？
+Are you going to change here?
+
+# 643beb15
+; ……フリーダムすぎ！
+…… Too much Freedom!
+
+# e533ac09
+; これがアメリカンか！
+This is American!
+
+# 32a45d7b
+; me: 「お、おいおい……」
+me: "Oh, come on, ……,"
+
+# cf8333b4
+; sara: 「うん？なんか言った？」
+sara: "Huh? What did you say?"
+
+# a5de1c51
+; me: 「い、いや、その、ここで着替えは、ちょっと、胸とか見えるし」
+me: "No, no, you know, changing clothes here is a little bit like your chest."
+
+# 122d46bb
+; sara: 「何だ。別に問題ないじゃん。乳首くらい出しても」
+sara: "What? There's no problem.Even if I put out my nipple."
+
+# cec2570e
+; me: 「いや、そりゃ……問題というか……」
+me: "Well, that's ……, or rather ……,"
+
+# e6ac175
+; sara: 「そういう時代なんだよ。アイスランドでは普通だ」
+sara: "That's the age.It's normal in Iceland."
+
+# 1aa97c93
+; me: 「そ、そうなのか？」
+me: "Is that so?"
+
+# bdda6565
+; sara: 「ああ。あんま気にするな」
+sara: "Yes, don't worry too much."
+
+# 878389e4
+; と言っても、サラの方をガン見するのは気が引けたので、ずっと後ろに回っていた。
+However, I felt uncomfortable staring at Sara, so I went all the way back.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# e9275baf
+; しばらくじっとそうしてたら、誰かがドアを開ける音が聞こえた。
+I was still for a while when I heard someone open the door.
+
+# 5b7a96ce
+; eric: 「よう、{playerName}君にサラ君。おはよう」
+eric: "Yes, Mr. {playerName} and Mr. Sara.Good morning."
+
+# d1e16b3e
+; 教授が入ってきた。
+The professor came in.
+
+# 8006aaca
+; 出かけたのではなかったらしい。
+He didn't seem to have gone out.
+
+# 592e479d
+; sara: 「げっ、ヴァイキングじゃねーか」
+sara: "Oh, Viking, isn't it?"
+
+# e4f32c5d
+; eric: 「教授と言いなさい」
+eric: "Call me Professor,"
+
+# 31f485d2
+; me: 「エーリック教授、おはようございます」
+me: "Good morning, Professor Eric,"
+
+# 307b50d
+; いつの間にか着替え終えたサラが俺の隣に近づいて、教授と話した。
+Before I knew it, Sara, who had finished changing, approached me and talked to her professor.
+
+# 6a9528ea
+; ……それにしても、服を着ると、やっぱりイメージが違うな。
+…… But when I wear clothes, my image is different.
+
+# c954d0f1
+; 特に教授と並んでると、まるで父娘みたいだ。身体のサイズ的に。
+Especially when you're in line with the professor, you look like a father and a daughter.In terms of body size.
+
+# 917125cb
+; eric: 「聞いてくれ君たち。昨日、またフルドゥフォルク関係の出来事があったらしいが」
+eric: "Listen, boys.It seems that there was another incident related to Huldufolk yesterday."
+
+# f908e907
+; いきなりエルフについて語ってくる教授。
+The professor suddenly talks about Elf.
+
+# d52daf60
+; この人も本当、好きだな。
+I really like him, too.
+
+# e588b61a
+; sara: 「なんだよ、ヴァイキング！ボクの{playerName}に変な事吹き込むなよな」
+sara: "Why, Viking!Don't breathe strange things into my {playerName}."
+
+# 25befb87
+; ボクのって……俺はいつサラのになった。
+When did ……me become Sara for me?
+
+# beb95d67
+; eric: 「変な事とは失礼な……人類がまだ知らない未知の領域へとの研究だ！」
+eric: "Strange is the disrespectful …… study of unknowns that mankind does not yet know!"
+
+# 60d91b79
+; サラは怪訝な顔をして首を振った。
+Sara shook his head suspiciously.
+
+# a9c1c9a1
+; sara: 「{playerName}もあまり信じるんじゃないぞ」
+sara: "Don't trust {playerName} too much,"
+
+# 5bdd0274
+; me: 「はあ……」
+me: "Yes, ……,"
+
+# 18126eba
+; sara: 「深く関わったら、エルフ探索の旅行になっちゃうからな。時間の無駄だよ」
+sara: "If you are deeply involved, it will be a journey of Elf exploration.It's a waste of time."
+
+# 67067c61
+; eric: 「無駄ではない！」
+eric: "Not in vain!"
+
+# 8a3e35b7
+; この二人、仲悪いのな。
+These two don't get along well.
+
+# cc4eaa4b
+; sara: 「では、ボクは行くからな。[i][char sara.kira]後で連絡くれよ、{playerName}！[i][char sara.ww]そして、いい旅になれよ！」
+sara: "Well, I'll go.[i][char sara.kira] Call me later, {playerName}! [i] [char sara.ww] And have a nice trip!"
+
+# 82dd3fa6
+; me: 「うん。サラも、いい旅を」
+me: "Yes, Sara, have a nice trip."
+
+# e5d2e90d
+; そう言って、サラは部屋の外へ出ていった。
+Then Sara went out of the room.
+
+# ea37a3ec
+; 自分の荷物を全部まとめて。
+Put all your things together.
+
+# 69bfb70b
+; 去り際はあっさりしたもんだな。
+It's easy to leave.
+
+# af10574
+; 今日でこのホステルは最後なのに、名残惜しさもなく。
+Today is the last day of this hostel, but I don't regret it.
+
+# 7e71cf77
+; まるでちょっとお出かけするような感じで。
+It's like going out for a while.
+
+# 7518cd9c
+; 俺もいつか旅が仕事になると、ああいう感じになるのかな。
+I I wonder if traveling will be like that someday when it becomes a job.

@@ -1,0 +1,405 @@
+; Japanese <ja> to English <en> localization document for `3_01_3_yuleelf` naninovel script
+
+# fbbbb9c9
+; そんなこんなで、ずっとユールちゃんと漫談みたいな会話を続けてたら、
+So I kept having a comic conversation with Yule.
+
+# 31ef6a74
+; いつの間にか夜になった。
+Night came before I knew it.
+
+# 8084096c
+; 暗い夜中の道路。
+a dark midnight road.
+
+# 3c6c0be
+; 周りの風景に、既視感を覚えた。
+I felt a sense of visibility in the surrounding scenery.
+
+# 2b8e9a91
+; ナビを確認してみる。
+Check the navigation system.
+
+# d72d3f5f
+; グー○ルマップに表示だれてる地図は、
+Goggle map displayed on the map is,
+
+# 9ad4bbb8
+; ちょうど昨日のあの場所だった。
+It was just that place yesterday.
+
+# 5a5a5ab7
+; me: 「ここ、昨日事故った場所だな」
+me: "This is the place where we had an accident yesterday,"
+
+# dba3d56a
+; yule: 「ああ、昨日ここで、道路から離脱したんですね」
+yule: "Oh, you left the road here yesterday,"
+
+# 1fedb689
+; me: 「そう。今考えると大した事ないけど、昨日は怖かったな」
+me: "That's right. It's nothing special to think about now, but I was scared yesterday."
+
+# 1890d800
+; yule: 「アイスランドの夜は怖いですからね。[i][char yule.car_b_w_w]でもユールちゃんついてると、夜でも安心です！」
+yule: "It's scary at night in Iceland.[i][char yule.car_b_w_w] But with Yule, I feel safe even at night!"
+
+# bd081662
+; me: 「ああ、こんなにうるさいと、怖い暇もないよな」
+me: "Oh, there's no time to be afraid if it's so loud,"
+
+# 6e2a5987
+; yule: 「あ～！そんなんじゃなくて、本当に役に立ちま…………[i]
+yule: "Oh! That's not it. It's really helpful …………[i]
+
+# c6fde8c6
+; yule: あれ？」
+yule: "What?"
+
+# 5abbfa87
+; me: 「うん？どうした？」
+me: "Huh? What's the matter?"
+
+# 220f9425
+; いきなりユールちゃんは、窓の外をぽつんと眺めた。
+Suddenly Yule looked out of the window.
+
+# e4947a79
+; yule: 「……………………」
+yule: "……………………"
+
+# 492f06d4
+; ユールちゃんが無言になると、やけに外の風の音がうるさく聞こえた。
+When Yule became silent, the sound of the wind outside was so loud.
+
+# 6f6dec91
+; me: 「ユールちゃん？」
+me: "Is it Yule?"
+
+# eed0df5a
+; yule: 「……昨日ここで、エルフの住処を壊したりしました？」
+yule: "…… "Did you destroy Elf's residence here yesterday?"
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# 58794198
+; その言葉を聞いて、今朝、教授とのやりとりを思い出した。
+The words reminded me of my conversation with the professor this morning.
+
+# 5ec3a522
+; しかしどういう事だ？
+But what do you mean?
+
+# 9dc879ab
+; 実はユールちゃんには、詳しい話はしてない。
+Actually, I didn't tell Yule the details.
+
+# 9917aabc
+; ただ道路から外れて危なかったって事、それだけ伝えた。
+I just told them that it was dangerous to get off the road.
+
+# ea27d924
+; エルフの住処について話してないし、
+I didn't tell you where Elf lived.
+
+# 99377e5
+; 今朝のエーリック教授との会話も、詳しくは話してない。
+I didn't elaborate on my conversation with Professor Eric this morning.
+
+# fab5d704
+; どうして、エルフの住処を壊したか、なんて聞くんだ？
+Why do you ask me why I destroyed the residence of Elf?
+
+# 2f277535
+; me: 「……いや多分、壊してない、と、思うけど……」
+me: "…… "No, I don't think I broke it, but ……."
+
+# a600561d
+; yule: 「……あれ？不安ですね？[i][char yule.car_arch_ww_bigemi]<ruby="ヤーヤ">　Jæja</ruby>、昨日何があったんですか？[i][char yule.car_arch_w_w]ユールちゃんに話してみてください」
+yule: "Huh? You're nervous, aren't you?"[i][char yule.car_arch_ww_bigemi] <ruby=" Jaya"> Jæja</ruby>, what happened yesterday?[i][char yule.car_arch_w_w]Talk to Yule."
+
+# f5b8eb7b
+; me: 「……実は……」
+me: " …… Actually, ……."
+
+# 1b452bab
+; 俺はユールちゃんに、昨日の出来事を詳しく説明してあげた。
+I gave Yule a detailed account of what had happened yesterday.
+
+# c67afab6
+; そして今朝の教授との会話も、詳しく説明した。
+He also explained in detail the conversation with the professor this morning.
+
+# 4e9c5752
+; エルフの住処を壊したかも知れない、と思ったけど、
+I thought I might have destroyed the residence of Elf.
+
+# 905edc1a
+; 多分、場所が違うだろうと。
+I think it's probably a different place.
+
+# 632b2dc0
+; me: 「そういや橋が見えないな。昨日はこの辺に、確かにあったのに……」
+me: "I can't see the by the way Bridge.There was certainly one around here yesterday, ……"
+
+# 4fd8b493
+; yule: 「橋……ですか」
+yule: "Hash ……?"
+
+# d38e1da4
+; me: 「ユールちゃんは知ってるか？この辺りに橋があるの」
+me: "Do you know Yule?"There's a bridge around here."
+
+# b45c908e
+; yule: 「いいえ。[i][char yule.car_b_a_e]そんな橋は、存在しないんですよ」
+yule: "No. [i] [char yule.car_b_a_e] There's no such bridge."
+
+# 6de98a2
+; me: 「……どういう事だ？」
+me: "What do you mean ……?"
+
+# 3761ae3b
+; yule: 「昨日{playerName}が見た橋は、エルフに呪われた者にだけ見える幻。[i]うっかり渡ったら、今頃エルフのおもちゃです」
+yule: "The bridge that {playerName} saw yesterday was a vision that only those who were cursed by Elf could see.[i]If you accidentally cross it, it's Elf's toy now."
+
+# 276e156
+; me: 「……ユールちゃん、詳しそうだね？」
+me: "You seem familiar with ……Yule?"
+
+# a2604c8d
+; yule: 「はい。人間たちよりは、詳しいですよ」
+yule: "Yes, I know more than people do."
+
+# cb8780d
+; me: 「……君は……」
+me: "You ……,"
+
+# cdc16b40
+; その時、
+At that time,
+
+# 234d2932
+; me: 「なっ！！」
+me: "Oh, my God!"
+
+# cb0722bd
+; いきなり前方から、凄まじい殺気が伝わってきて、俺は車を止めた。
+Suddenly, from the front, there was a tremendous murder, and me pulled over.
+
+# ee40f875
+; me: 「な、何だ！？」
+me: "What!"
+
+# ec90463e
+; yule: 「気づきましたね。[i][char yule.car_arch_a_emi]第六感が鋭いです、{playerName}は。[i][char yule.car_arch_ww_bigemi]流石にユールちゃんの妖気に気づいただけの事はあります」
+yule: "You have noticed.[i][char yule.car_arch_a_emi] The sixth sense is sharp, {playerName}. [i][char yule.car_arch_ww_bigemi] As expected, I just noticed the charm of Yule."
+
+# 8b18b226
+; me: 「これ、もしかして……」
+me: "Is this ……?"
+
+# 376b2835
+; yule: 「はい。あいつらですね」
+yule: "Yes, they are."
+
+# 7230209c
+; me: 「……エルフ？」
+me: "Is it ……Elf?"
+
+# 205fdb12
+; yule: 「そうです。[i]あいつら最近、頭がおかしくなっててですね。[i][char yule.car_sad_close_hae]エルフの祟りとか、まったく、トロールよりもたちが悪くなって……」
+yule: "That's right. [i] They've been losing their minds lately.[i][char yule.car_sad_close_hae] The curse of Elf, and it's worse than Troll."
+
+# 3e30e44b
+; me: 「……ど、どうしたらいい？[i]俺、祟に……？」
+me: "What shall I do, ……?"[i]me and ……?"
+
+# ace63e2a
+; yule: 「大丈夫ですよ、ユールちゃんと一緒ですから。[i][char yule.car_b_a_bigemi]あいつらには手出せなどできな……[i][char yule.car_arch_o_uu]えっ！？」
+yule: "It's all right, I'm with Yule.[i][char yule.car_b_a_bigemi] I can't touch them ……[i][char yule.car_arch_o_uu] What!?"
+
+# a8fdb254
+; me: 「え！？」
+me: "What!"
+
+# 8ec376a3
+; 突然と、
+Suddenly,
+
+# d3a3b61a
+; 激しい風の音と共に、車がひっくり返された。
+The car was overturned with the sound of the strong wind.
+
+# 551e2c4c
+; me: 「うわあああああっ！」
+me: "`Oh, my God!'"
+
+# bee00602
+; yule: 「ひゃっ！？」
+yule: "What!"
+
+# 6d8f5186
+; 凄まじい力で、車が宙を舞う。
+Cars fly in the air with tremendous force.
+
+# 88587bcb
+; 道路から離脱ってもんじゃない。
+Don't get off the road.
+
+# a495841c
+; 文字通り、空へと持ち上げられてる。
+It's literally lifted into the sky.
+
+# 683679f5
+; me: 「あぁぁ！？」
+me: "Ah!?"
+
+# d6466f30
+; yule: 「っ！？」
+yule: "What!"
+
+# 18795bfd
+; どういうとこだ。
+What's going on?
+
+# e990e95d
+; 車が吹っ飛んだ。
+The car blew away.
+
+# e1a833ca
+; 何もないところで、いきなりこんな突風が来るなんて。
+I can't believe such a gust of wind came out of nowhere.
+
+# 3d2836
+; 「……」
+「……」
+
+# e58abd1e
+; [br]反転された視界の中で、
+[br] In reversed visibility,
+
+# 9287c29e
+; 遠くに見える路面の上に、誰かがいた。
+There was someone on the road in the distance.
+
+# b0cc10b6
+; こんな状況なのに、
+It's like this.
+
+# b09547e7
+; 何故か、あの姿ははっきりと捉える事ができた。
+For some reason, I could see that figure clearly.
+
+# 5458d243
+; 小さい人形みたいな影。
+A shadow like a little doll.
+
+# 61f3e60a
+; 「<s>　　　　</s>」
+<s></s>
+
+# c0cfd60c
+; [br]その人形は俺を睨んでいた。
+[br] The doll was staring at me.
+
+# a54c273e
+; この気配、間違いない。
+There's no doubt about this.
+
+# af05f06e
+; あれは昨日の夜、バックミラーで一瞬見えた、あの気配の主だ。
+That was the main sign I saw in the rear-view mirror last night.
+
+# de95a912
+; それは小さい、小さい人だった。
+It was a small, small person.
+
+# 832ccf
+; そうか、あれが <s>　　　　　　　　</s>
+I see, that's <s></s>
+
+# d7a0f06a
+; 車が、地面に落ちていく。
+The car is falling to the ground.
+
+# defa8f38
+; 自由落下。
+a free fall.
+
+# eddc2dbb
+; 昨日とは比べ物にならない危機的状況。
+a critical situation incomparable to yesterday.
+
+# 2ba73ba
+; なのに、
+Nevertheless,
+
+# d6e87c68
+; 俺は何も感じない。
+I I don't feel anything.
+
+# 75cd15a7
+; こんな非現実な事が俺に起きるなんて、想像もできなかったから。
+I never imagined such an unrealistic thing would happen to me.
+
+# 1b766b1d
+; すべての出来事が、夢のように感じられてしまう。
+Every event feels like a dream.
+
+# 88ac51e7
+; もうすぐ死ぬっていうのに。
+I'm going to die soon.
+
+# a7569ce0
+; ああ、だけどせめて。
+Oh, but at least.
+
+# 20f3909d
+; 隣のユールちゃんだけは、
+Only the Yule next door.
+
+# a1894da6
+; どうにかしてあげられないかな……
+I wonder if I can do something for you ……
+
+# 5b26f403
+; しかし、ふと隣を見たけど、彼女の姿はなかった。
+But suddenly I looked next to her, but she was not seen.
+
+# 9c2dff90
+; 車は空中なのに、いったいユールちゃんは何処に行った？
+Where on earth did Yule go when the car was in the air?
+
+# 37b25e79
+; やっぱりこれって、
+As expected, this...
+
+# da247150
+; 夢の中の出来事なのかな。
+I wonder if it happened in a dream.
+
+# b2927c24
+; そして俺はそのまま、本当に夢のように、
+And me, just like a dream,
+
+# 7227d77
+; 痛みも感じる事もなく、
+No pain, no feeling.
+
+# e74879c0
+; 落ちた車の中で、眠るように、意識を失ってしまった。
+I fell asleep in the fallen car and fainted.
+
+# 7e145781
+; ………………
+………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……

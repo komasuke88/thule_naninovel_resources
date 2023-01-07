@@ -1,0 +1,565 @@
+; Japanese <ja> to English <en> localization document for `7_2_4_interlude2` naninovel script
+
+# ed52f8b6
+; 戦況は、最悪です。
+The war situation is terrible.
+
+# 57d77d54
+; byu: 「手強いね、巨大な奴らは……」
+byu: "That's tough, they're ……,"
+
+# bd062df5
+; keruta: 「ドラウグに、ラーガルフリョゥトの蛇も、まだ消滅してません」
+keruta: "and the Lagarfljot snake has not yet disappeared."
+
+# 3a0943f2
+; 前線で戦っていた１３姉妹たちは、魔法陣の中央部まで押されて来ました。
+Thirteen sisters fighting on the front lines were pushed to the center of The Magic Circle.
+
+# f39b0e4c
+; ６人はこちらで、残りの７人は後ろの方で、守りにだけ徹しています。
+Six of us are here, and the other seven are behind us, and we're only defending ourselves.
+
+# 63c75ede
+; suteki: 「魚ども、きりがないわ。[i]倒しても倒しても、どこからか湧き上がってくるわ」
+suteki: "Fish, there's no end to it.[i]Whether you knock them down or not, they will spring up from somewhere."
+
+# 2491da95
+; glugga: 「うぅぅ。まるで、無限に召喚されてるみたい。[i]こ、これじゃあ、数で潰されてしまうよぉ」
+glugga: "`Wow, it's as if I've been summoned indefinitely.[i]You'll be crushed by the number."
+
+# 35b8416
+; 敵の殲滅どころか、こっちが負ける危機なんです。
+Far from annihilating the enemy, we are in danger of losing.
+
+# 443f999f
+; skiru: 「これ、やばいっしょ」
+skiru: "This is crazy, isn't it?"
+
+# ff6a9795
+; suteki: 「ええ。困ったわ。もうすぐ夜明けだって言うのに……」
+suteki: "Yes. I'm in trouble. It's almost dawn, ……."
+
+# df400b7
+; 時間切れも、もうすぐ。
+Time is running out soon.
+
+# ffe7fc21
+; ここまでやばい状況になりとは思いませんでした。姉妹たちに申し訳ないです。
+I didn't think the situation would be this bad.I'm sorry to my sisters.
+
+# c39e3c40
+; yule: 「ごめんなさい。アタシが戦力にならなかったから」
+yule: "I'm sorry.Because Atashi didn't become a military force."
+
+# f0fbf542
+; glugga: 「あ、え、えっと。だ、大丈夫だよ。スヴォルは……」
+glugga: "Oh, oh, oh, oh, oh, oh, oh, that's all right.Thuvor is ……."
+
+# e0472587
+; skiru: 「そーだ。スヴォルが加わったところで、戦況はあまり変わらないっしょ？」
+skiru: "Yes, with the addition of Thuvor, the war situation won't change much, will it?"
+
+# 88685f39
+; keruta: 「そうです。元々不利な戦いではあったのですよ」
+keruta: "That's right. It was originally a disadvantageous battle."
+
+# 64fee019
+; fishman: 「ギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギ」
+fishman: "Giggling Kigigigigigigigigigi"
+
+# 7d184309
+; そう言ってる間にも、目の前まで、敵が押し寄せてきました。
+In the meantime, the enemy came in front of me.
+
+# c9e37940
+; skiru: 「どうすー？やばいんだけどー？」
+skiru: "What do you do? It's crazy."
+
+# 29d264a4
+; byu: 「逃げたほうがいいかな？」
+byu: "Should I run away?"
+
+# fecf4df6
+; glugga: 「え、えっと。に、逃げても、ど、どうせ逃げたって……」
+glugga: "Well, let's see. Even if you run away, you'll run away anyway."
+
+# 5d0770c1
+; keruta: 「この魔法陣を奪われたら、トゥーレ滅亡で終わりかも知れませんよ」
+keruta: "If this The Magic Circle is taken away, it may end with the destruction of Thule."
+
+# 52b038ac
+; skiru: 「逃げても負け。時間切れでも負け。戦っても負けなわけぇー？」
+skiru: "Even if you run away, you lose.Even if time runs out, you lose.You won't lose if you fight?"
+
+# 303c76da
+; suteki: 「戦いは、まだ負けてないわ」
+suteki: "I haven't lost the fight yet,"
+
+# eb73f790
+; glugga: 「う、うん。まだ終わってはいない、かな」
+glugga: "Well, yes, it's not over yet, is it?"
+
+# cbdb8060
+; keruta: 「ですね。どうやっても負けるとしたら、もうちょっとだけ戦ってみませんか？」
+keruta: "Well, if we lose, why don't we fight a little more?"
+
+# a24553c6
+; byu: 「うん。じっとしてるよりは、それがいいかな。まだ魔法が使えるうちに」
+byu: "Yes, I think that's better than staying still.while the magic is still in use."
+
+# 2c81d4da
+; 玉砕覚悟。
+determination to crush.
+
+# b2a8d3dd
+; みんなでそう決意をして、身を捨てる戦いをしようとしてます。
+We're all determined to do so, and we're going to fight to throw ourselves away.
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# e4d6615
+; アタシはどうしたらいいんでしょう。
+What should I do with Atashi?
+
+# c2604e9b
+; アタシも一緒に戦ったら、もうちょっとだけ勝率は上がるかも知れません。
+If Atashi fights together, the winning percentage may increase a little.
+
+# 9cd05e5a
+; どうせ死ぬのなら、そこにかけてみたほうが、いいとは思うんですが。
+If you're going to die anyway, I think it's better to call there.
+
+# 17de6736
+; ここで魔力を止めたら、{playerName}はすぐ死んじゃう。
+If you stop Magical Power here, {playerName} will die soon.
+
+# 485ce2f6
+; yule: 「うぅぅ……」
+yule: "`Oh, ……,'"
+
+# 3f6a216d
+; そう、悩んでいたその時、
+Right, when I was thinking about it,
+
+# 86a80690
+; にゃー
+Moew
+
+# 19c7ee66
+; と、猫の声とともに……
+…… with the cat's voice
+
+# df4b15c4
+; unknown: 「ヵアアアアアアアアアアアアアアアアアア」
+unknown: "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh."
+
+# 9e93e43e
+; 聞き慣れた恐ろしい声。
+a familiar scary voice.
+
+# ba64bb1b
+; 巨大な人の影が現れて、地面を揺らし、魚人たちを取って食ってしまった。
+A huge figure appeared, shook the ground, and ate the Fishmans.
+
+# a394b00f
+; fishman: 「アァアァァァァァァァァァァァ」
+fishman: "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh."
+
+# 89fa6d25
+; あの姿は……
+That figure is ……
+
+# ab327c5d
+; yule: 「お、お母さん！？」
+yule: "Oh, mother!"
+
+# 81ae2075
+; keruta: 「ユールキャット！来ないと思ったらお母さんと一緒だったんですね」
+keruta: " YuleCat! I thought you weren't coming, but you were with your mom."
+
+# 53722c9e
+; byu: 「な、なんでお母さんが、ってか、お母さんの方がこいつらより危ないんじゃ……」
+byu: "Why, why is she more dangerous than these ……?"
+
+# 9e2ba65f
+; suteki: 「そ、そう。アタシたちも食われてしまうんじゃ……」
+suteki: "Oh, yes, the Atashi will be eaten too ……"
+
+# 2c6c4df5
+; glugga: 「だ、大丈夫だよぉ。こ、ここにはお母さんが好きな魚が、沢山あるから……」
+glugga: "Oh, it's okay. There are a lot of fish that my mom likes here, so ……."
+
+# 3bab2748
+; skiru: 「刺し身だよね。やばいわー」
+skiru: "It's sashimi, isn't it?Oh, my God!"
+
+# ae395a34
+; keruta: 「うちの猫の好物でもありますよ」
+keruta: "It's also my cat's favorite food,"
+
+# 40777140
+; そう言いながら、お母さんとうちの猫は魚人たちを無差別に食ってます。
+While saying that, my mom and my cat are eating Fishman indiscriminately.
+
+# a8bde2e4
+; アタシたちが食われちゃうんじゃないかっと思ったけど、そっちの方が美味いみたいです。
+I thought they might eat it, but it seems that it tastes better.
+
+# 5293bf23
+; しかし……
+but ……
+
+# ee28e814
+; draugur: 「カァァァァ！」
+draugur: "Oh, my God!"
+
+# f7036913
+; 巨大なモンスターたちが、お母さんを発見して、攻撃してきました。
+Huge monsters found their mother and attacked her.
+
+# eacf3844
+; gryla: 「むむっ！」
+gryla: "Ugh!"
+
+# 6ff22f31
+; まるで地震のように、大地が揺らぎました。
+The earth shook like an earthquake.
+
+# e375f66
+; お母さんと化け物たち。
+Mom and Monster.
+
+# 4a0c1975
+; 巨大モンスターたちの戦いが始まったのです。
+The battle of giant monsters began.
+
+# 553a3e0b
+; keruta: 「よかったです。お母さんと猫が、巨大な奴らを食い止めてくれてます」
+keruta: "I'm glad to hear that.My mother and cat are holding back the huge ones."
+
+# c86d0bb
+; yule: 「でも、何でいきなりお母さんが？」
+yule: "But why did your mother suddenly come?"
+
+# f141f3b7
+; suteki: 「魚の臭いに引かれて来たんじゃない？」
+suteki: "Didn't you come from the smell of fish?"
+
+# 1d2b72a1
+; skiru: 「きゃはは！あるあるー！」
+skiru: "Ha ha! There is!"
+
+# 7a2d1b63
+; byu: 「お母さん、飢えてたもんね。[i]……そういえば、お父さんは無事かな」
+byu: "Mother, you were starving.[i]…… Come to think of it, I wonder if your father is safe."
+
+# 7b4e8fbb
+; glugga: 「とと、とにかくお母さんが来て助かった、かな。[i]後ろの７人も、少しやりやすくなってるはずだよ」
+glugga: "Well, I'm glad my mother came.[i]It should be a little easier for the seven in the back."
+
+# afe5e79f
+; byu: 「うんうん。これで、少しは勝算が……」
+byu: "Yeah. Now the odds are a little ……."
+
+# fb43f849
+; niseasatru: 「グリーラとは、流石に厄介ですね」
+niseasatru: "What a nuisance gryla is!"
+
+# 1094da64
+; byu: 「え？あの男、生きてたんだ？」
+byu: "What? Was that Man alive?"
+
+# 4d3d2f8a
+; yule: 「くっ、あの時はぶっ飛ばしただけでして、生きてたんですね」
+yule: "Damn it, you were alive just by knocking it off."
+
+# f34d5c7a
+; niseasatru: 「でも、どうって事ない。こちらは数で押すだけです」
+niseasatru: "But it doesn't matter.You just have to press it by the number."
+
+# 5af53633
+; 偽アゥサトゥルの男は、両手を上げて、何かの呪文を唱えました。
+The fake Asatru raised his hands and uttered some spell.
+
+# e41473c6
+; niseasatru: 「さぁ！出て来い！」
+niseasatru: "Now! Come out!"
+
+# 79301308
+; fishman: 「ギギギギギギギギギギギギギギギギギギギギギギギギ」
+fishman: "Giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling, giggling."
+
+# ad7a65d5
+; また、どこからか魚人たちが湧き上がってきました。
+Also, Fishman sprang up from somewhere.
+
+# 517851de
+; この登場演出も、そろそろうんざりです。
+I'm getting tired of this production.
+
+# 5c8120ac
+; niseasatru: 「さぁ、早く魔法陣を返してもらいましょうか」
+niseasatru: "Now, shall I have my The Magic Circle returned?"
+
+# c5803c72
+; keruta: 「魚人、結構消したと思ったのに、また元通りの数ですか……」
+keruta: "I thought I'd erased …… quite a bit, but it's the same number again Fishman."
+
+# 4d778cd4
+; byu: 「あの男が新しく召喚してたの？」
+byu: "Was that Man new summoning?"
+
+# c2142a2a
+; yule: 「あんの男……あの時消しておくべきでした」
+yule: "I should have erased that Man……."
+
+# 6b395ee7
+; glugga: 「え、えっと。あ、あの男を先にやらないと、無限に召喚されるっぽい、かな？埒が明かないよぉ……」
+glugga: "Well, well, if you don't do that Man first, you'll be summoned indefinitely, will you?"There's no end to it ……"
+
+# 9dbea6f0
+; skiru: 「でもあいつ〜後ろに隠れてて〜」
+skiru: "But he's hiding behind me"."
+
+# 2c59d513
+; 男は魚人たちの後ろへと、隠れて行きました。
+Man hid behind them.
+
+# ccd03936
+; またうんざりな戦いをしないといけないかと思ってたその時、
+When I thought I had to fight again,
+
+# b13bd305
+; unknown: 「よくも我々を騙してきたな。オーディンの敵！」
+unknown: "How dare you deceive us?the enemy of Odin!"
+
+# 41f2bfc8
+; niseasatru: 「グゥアァァァァ！！」
+niseasatru: "`Oh, my God!'"
+
+# ad74b0f0
+; 魚人たちの後ろに隠れていた偽アゥサトゥルの男が、
+Fishman The fake Asatru hidden behind them,
+
+# 1201cc57
+; 血を吐きながら、倒れるのが見えました。
+I saw him fall down while exhaling blood.
+
+# 6d21c52b
+; 後ろから、誰かに刺されたんです。
+Someone stabbed me from behind.
+
+# 49215dc8
+; fishman: 「……」
+fishman: "……"
+
+# 2610b678
+; こちらに襲いかかろうとした魚人たちも、しばらく動きが止まりました。
+The Fishman who tried to attack us stopped for a while.
+
+# f1e6cf7
+; helga: 「はぁはぁ……」
+helga: "Yes, ……,"
+
+# 79df0713
+; yule: 「え、誰？」
+yule: "Who is it?"
+
+# afdddce0
+; keruta: 「この人が殺てくれたんです、あの男を」
+keruta: "He killed me, that Man,"
+
+# 94aebe7d
+; niseasatru: 「……」
+niseasatru: "……"
+
+# a16d7cad
+; いきなり現れて女は、自分が殺した男を見下ろしながらいいます。
+She suddenly appeared and said, looking down at Man, who she had killed.
+
+# 97f13f7b
+; helga: 「 <ruby="エガートソン"> Eggrtsson</ruby>教主。あなたはヴァルハラには行けない。[i]我々の信仰を、余所の神に捧げた罪は、決して許されはしない」
+helga: "「 <ruby="Egertson">Eggrtsson</ruby>Leader.You can't go to Valhalla.[i]The sin of devoting our faith to other gods will never be forgiven."
+
+# 2535aa3
+; 男の名前はエガートソンだそうです。もうどうでもいいけど。
+Man's name is Egertson.I don't care anymore.
+
+# 3b288504
+; suteki: 「この人から、独特な臭いがするんだけど……」
+suteki: "This person has a unique smell, ……."
+
+# fb4e2ca
+; byu: 「この異臭は、 <ruby="オーディン"> あの邪神のものだよ</ruby>。[i]そういえば、自分からも言ったよね今」
+byu: "This strange smell belongs to <ruby=" Odin">that evil god</ruby>.[i]Come to think of it, I told you myself now."
+
+# cb417e7b
+; yule: 「オーディン……？[i][char yule.dot]って事はあなたは……」
+yule: "Is it Odin……?"[i][char yule.dot] That means you ……"
+
+# 86802985
+; helga: 「私はオーディンに仕える者、アゥサトゥルの一員、ヘルガー。[i]この男と違って、本物の信者だが……」
+helga: "I am a servant of Odin, a member of Asatru, Helga.[i]Unlike this Man, he is a true believer, but ……."
+
+# 476b161d
+; yule: 「あれ？あなた……」
+yule: "Huh? You ……"."
+
+# f6d18ce3
+; ヘルガーと名乗った女は、様子が変でした。
+The woman who called herself Helga looked strange.
+
+# 1111ca5f
+; suteki: 「この人、消えかかってるんだけど……？」
+suteki: "He's disappearing. ……?"
+
+# 9b2b4500
+; helga: 「この身はもうすぐ滅んでしまうでしょう。[i]騙されて、異界の信仰に手を染めてたせいで」
+helga: "This body will soon perish.[i]because he was deceived and turned to the faith of another world."
+
+# 6c547ea7
+; glugga: 「そ、それって、オーディンの神気と、【外界の神】の邪気がぶつかって……消滅して……」
+glugga: "Oh, that is, …… of Odin, the god of the outside world, and 【 of 】 of Evil Force, the god of the outside world, collide and …… disappears."
+
+# 3acb19c3
+; helga: 「ええ。この汚れた体は、滅んで当然だ。[i]……だけど私は、この最後の瞬間にだけは、ちゃんとオーディンに仕える事ができたんだから……」
+helga: "Yes, this filthy body deserves to perish.[i]…… But I was able to serve Odin properly only at this last moment."
+
+# 74454965
+; 言いながらも更に透明になって、もうすぐ消えそうです。
+It's even more transparent. It's going to disappear soon.
+
+# 79705cae
+; helga: 「行けるのかしら、私。ヴァルハラへ」
+helga: "Can I go to Valhalla?"
+
+# d8735cbb
+; yule: 「……きっと行けますよ。オーディンは嫌いですが、その心は尊敬です」
+yule: "…… I'm sure I can go.Odin I hate it, but I respect it."
+
+# cf1bc450
+; helga: 「あなたたちトロールとは、本来は敵対勢力なんだけど、[i]今だけは、勝利を祈ります」
+helga: "You Troll are supposed to be hostile forces, but [i] I wish you victory for now."
+
+# c45f0e4f
+; そして、もう完全に見えなくなったアゥサトゥルの女は、
+and the woman of Asatru, who was now completely out of sight,
+
+# 65a91967
+; helga: 「この聖なるトゥーレと、祖国のアイスランドに、ヨールの祝福を……」
+helga: "This holy Thule, and the blessing of Jol to Iceland, my country,"
+
+# db06619a
+; <ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。
+<ruby=" Gledileg jol"> Gleðileg jól</ruby>.
+
+# b1db09af
+; そう言って、消えました。
+I said that and it disappeared.
+
+# a4741a6
+; yule: 「グレリヨ―ル。夜空のヴァルキリーの光が、あなたをヴァルハラへ導きますように」
+yule: "Greyol.May the light of Valkyrie in the night sky lead you to Valkyrie."
+
+# c7a7786b
+; それぞれ、自分が信じる死後の世界があるわけです。
+Each has its own afterlife.
+
+# 6a40cd9b
+; それが何であれ、みんなそれぞれの場所へ行けると思います。
+Whatever it is, I think everyone can go to their respective places.
+
+# 91ddc0e
+; ……と、彼女の最後に祈りを捧げていたら……
+…… and when she was praying at the end ……
+
+# 66e35e7a
+; fishman: 「ギギギギギギギギ……」
+fishman: "Giggling ……"."
+
+# f215363f
+; 魚人たちが、壊れた機械みたいに、少しずつ動きはじめていました。
+Fishman they were beginning to move little by little, like broken machines.
+
+# a66f4e76
+; yule: 「こいつらは、どうなるんでしょう？」
+yule: "What will happen to them?"
+
+# f9f30ab5
+; glugga: 「ええっと、そ、そろそろ暴れだす、かな。[i]召喚者が消えて、一時的に動きが止まってただけだから」
+glugga: "Well, well, I think it's about time I went on a rampage.[i]The summoner disappeared, and it was only temporarily suspended."
+
+# a866b663
+; keruta: 「あの男も、魚人たちも、結局は同じ【外界の神】の手先。[i]幹部が消えたところで、やる事は同じでしょう」
+keruta: "Those Mans, Fishmans, after all, are the hands of 】, the same god of the outside world.[i]If the executives disappear, they will do the same thing."
+
+# 236db5de
+; byu: 「でもあの男が消えたから、もう無限に増える事はないのよね？この雑魚ども」
+byu: "But now that that Man has disappeared, there's no limit to the number, is there?"You little fish."
+
+# cb9efbe7
+; glugga: 「う、うん。そ、それだけは確かだよ。アゥサトゥルの女のお陰で、助かった、かな」
+glugga: "Yes, yes, that's for sure.Asatru's woman saved me, I suppose."
+
+# 565043be
+; suteki: 「あとは、やっつけりだけでいいのわよね？」
+suteki: "All you have to do is get rid of it, don't you?"
+
+# 4c5dcfd9
+; keruta: 「そうです。巨大モンスターはお母さんたちと戦ってる最中ですので、僕たちは雑魚の処理です」
+keruta: "That's right. The giant monsters are fighting against their mothers, so we're dealing with small fish."
+
+# e6c682da
+; glugga: 「う、うん！！い、行くよ？戦いに！」
+glugga: "Uh-huh! I'm going.To fight!"
+
+# 1e6c3d8
+; yule: 「あ、えっと……」
+yule: "Oh, ……,"
+
+# 820757f1
+; suteki: 「スヴォルはここで待ってて。今ならあたしたちだけで十分だわ」
+suteki: "Wait here, Thuvor.We're enough for now."
+
+# ae1c223
+; byu: 「うん。{playerName}の治療を続けないとね。ぼくたちも後で手伝うよ」
+byu: "Yes, I must continue my treatment of {playerName}.We'll help you later."
+
+# e9a47507
+; keruta: 「はい。手先たちを片付けて、みんなで{playerName}の治療をやってみましょう」
+keruta: "Yes, let's clean up our hands and treat {playerName} together."
+
+# c0c6a903
+; そう言って、みんな戦場へと飛び出しました。
+and they all rushed out to the battlefield.
+
+# 18c4c7ca
+; yule: 「よかった……魔法陣の方は、なんとかなるかも」
+yule: "I'm glad ……The Magic Circle might be able to manage."
+
+# 37602d7b
+; 希望が見えました。
+I saw hope.
+
+# 7ae35584
+; 夜明けまで、こいつらを全部倒して、あとでみんなで{playerName}の治療をすれば……
+If we knock them all down until dawn and treat {playerName} together later, ……
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# 32a7e737
+; しかし、うまくいくのでしょうか。治療。
+But will it work?treatment.
+
+# f5ad250d
+; {playerName}が邪気にやられて結構時間が経ちましたので、少し不安を感じます。
+It's been quite a while since Evil Force hit me, so I feel a little uneasy.
+
+# 2a982997
+; yule: 「……」
+yule: "……"

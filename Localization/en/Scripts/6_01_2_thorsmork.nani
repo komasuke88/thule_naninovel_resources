@@ -1,0 +1,425 @@
+; Japanese <ja> to English <en> localization document for `6_01_2_thorsmork` naninovel script
+
+# eb8bcb37
+; 雄大な峡谷が、広がっていた。
+There was a magnificent canyon.
+
+# 821cc580
+; me: 「……ここは……」
+me: " …… This is ……."
+
+# 4e0cb6bc
+; まるで、大地の原初の風景のようだった。
+It was like the original landscape of the earth.
+
+# 7a43927a
+; 木々も生えてない谷、生き物も存在しない空間、
+A valley without trees, a space without living things,
+
+# b339531e
+; なのに生命力があふれていた。
+But it was full of vitality.
+
+# eb7b7d4d
+; そんな未知の力に当てられて、俺は数秒くらい我を忘れてしまった。
+Such an unknown force knocked me unconscious for a few seconds.
+
+# 355d2458
+; 微かな風の冷たさと、流れる水の音と共に、俺の心はこの空間に溶け込んだ。
+me's heart melted into this space with the slight coolness of the wind and the sound of the flowing water.
+
+# 3ca30a4b
+; 大自然と一体化した感覚が、気持ちよかった。
+The feeling of integration with Mother Nature made me feel good.
+
+# bcf38d25
+; yule: 「……素敵な場所ですよね？」
+yule: "…… "Isn't it a nice place?"
+
+# b0d5dc48
+; me: 「ああ、これはまた素晴らしい。今まで見たことのない景色だ」
+me: "Oh, this is wonderful again.It's a view I've never seen before."
+
+# 4883b852
+; yule: 「ここは <ruby="ソルスモルク"> Þórsmörk</ruby>。トールの森という意味の場所です」
+yule: "This is <ruby=" Thorsmork"> Þórsm örk</ruby>.It means Thor Forest."
+
+# 8772daba
+; me: 「トールとは、ノルド神話の？」
+me: "What is Thor?"
+
+# 3f6112bc
+; yule: 「流石に知られてますね。有名ですから。あの邪神は」
+yule: "It is well known.He's famous. He's the devil."
+
+# 85212667
+; me: 「ここにトールがいるとか？」
+me: "Is there Thor here?"
+
+# cf5e1a51
+; yule: 「いいえ。トールはもうここには居ません」
+yule: "No, Thor is no longer here."
+
+# ea993fe8
+; me: 「なら、この地名は……」
+me: "Then this place name is ……,"
+
+# 9eacd4c2
+; yule: 「昔、トールが大勢のご先祖様と戦ってる時、彼の武器であるミョルニルでここを打ちやがって、大地が割れて、この峡谷ができまして」
+yule: "Once upon a time, when Thor was fighting against many of his ancestors, he struck here with his weapon, Myronil, and the earth broke, and this canyon was formed."
+
+# 240444d0
+; me: 「トールって、敵だったんだね」
+me: "You were the enemy of Thor,"
+
+# a333fe46
+; yule: 「はい。まぁでもユールちゃんたちが生まれる前の話ですから。あまり気にしてませんよ」
+yule: "Yes, but it was before the birth of Yule.I don't really care."
+
+# e20cb64
+; me: 「ところでトールの”森”という割には、木々はないのな」
+me: "By the way, for Thor's "forest," there are no trees."
+
+# 1f58377c
+; yule: 「もっと下へ行けば木々もありますよ。ソルスモルクは長い谷で、色んな景色が見れますよ」
+yule: "If you go further down, you'll find some trees.Thorsmork is a long valley, and you can see many kinds of scenery."
+
+# 159de07
+; me: 「へぇー、そこも行ってみたいな」
+me: "`Oh, I'd like to go there,'"
+
+# 8bad39b9
+; そしてしばらくの間、峡谷の景色を眺めていた。
+and for some time he looked at the view of the canyon.
+
+# e0126b8d
+; me: 「……ここの自然は、まるでファンタジーの世界だ」
+me: "…… Nature here is like a fantasy world."
+
+# cb6ad3f7
+; yule: 「ま、{playerName}にとっては本当に異世界ですよ」
+yule: "Well, it's a different world for {playerName},"
+
+# 4efdd02f
+; me: 「そういや昔やってたネトゲの中の世界も、こんな景色だった気がする」
+me: "by the way "I think the world I used to live in was like this."
+
+# 490e384d
+; yule: 「ネトゲって、先のエルフがパソコンでやってたあれですかね」
+yule: "I guess the nettle is the one that Elf used to do on the other than that."
+
+# b407713a
+; me: 「うん。その世界にもこんな大自然があって、エルフとかトロールとかもいて……楽しかったな」
+me: "Yeah. I enjoyed …… and Troll because there was such a great nature in that world."
+
+# 2a315acb
+; yule: 「くすくす、そんなの、楽しかったですか？」
+yule: "Did you enjoy giggle?"
+
+# cfbb57ce
+; me: 「人はみんな、こんな世界への憧れがあるのかも知れん」
+me: "I don't know if everyone has a dream for this kind of world."
+
+# 4b9c1211
+; yule: 「{playerName}にもあったんですか？そんな憧れ」
+yule: "Did you have it in {playerName}, too.That's what I long for."
+
+# e15ac555
+; me: 「どうかな。多分、あったと思う」
+me: "I don't know. I think there was one."
+
+# d555e057
+; yule: 「なら、ずっとここに住めばいいじゃないですか」
+yule: "Then why don't you live here forever?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 87f21cfa
+; yule: 「このトゥーレで、ユールちゃんと、ずっと一緒に暮らすんです！」
+yule: "I'm going to live with Yule forever!"
+
+# 5c5e4dd8
+; me: 「それって……」
+me: "That's ……,"
+
+# cec069ef
+; yule: 「もらってくださいよ！」
+yule: "`Take it!'"
+
+# c6b64c8c
+; me: 「……も、もらう？」
+me: "Do you want ……?"
+
+# 5df5dfde
+; yule: 「一生、あなたのスプーンを舐めさせて！」
+yule: "Let me lick your Spoon for the rest of my life!"
+
+# 78c52314
+; me: 「……なんだそりゃ」
+me: "What is ……?"
+
+# 4e2c59e
+; yule: 「ユールちゃんをお嫁にもらってくださいって事ですよ」
+yule: "I'm asking you to marry Yule."
+
+# abc98d15
+; me: 「いやいや、そんな事、そう軽く言われてもね……」
+me: "No, no, even if you say so lightly ……"
+
+# c94f00f1
+; yule: 「冗談じゃありませんからね。[i]この話は{playerName}が記憶を取り戻した後に言おうと思ってましたけど、[i]本気です」
+yule: "I'm not kidding.[i]I was going to tell you this story after {playerName} regained her memory, but [i] I'm serious."
+
+# 4f945720
+; me: 「でもそんな事いきなり言われてもな……」
+me: "But even if you say that all of a sudden, ……"
+
+# 1e401cce
+; yule: 「いきなりじゃないっすよ。前にも言ったじゃないですか。[i]ユールちゃん、婿探し中なのです」
+yule: "Not out of the blue.I told you before.[i]Yule I'm looking for my son-in-law."
+
+# 19e30b4
+; me: 「そういや、この前も話してたっけ」
+me: "Did we talk about by the way last time?"
+
+# 77fb6eaa
+; yule: 「ユールちゃんと結ばれる事で、{playerName}にも魔力が宿って、完全なフルドゥフォルクになりますから！憧れの異世界生活なのです！」
+yule: "By being connected to {playerName}, Magical Power will also reside in Huldufolk, making it a complete Yule! It's a life in a different world that I long for!"
+
+# 10a629ed
+; me: 「しかし結婚はちょっとな……」
+me: "But marriage is a little ……,"
+
+# 7b6a0635
+; yule: 「もう、ユールちゃんの何がそんなに不満なんですか？」
+yule: "Why are you so dissatisfied with Yule?"
+
+# c9d775c7
+; me: 「特に不満はないが、大事な事だし、急いで決める事でもないしな……」
+me: "I'm not particularly dissatisfied, but it's important, and it's not a matter of hasty decision ……"
+
+# 70062fbc
+; yule: 「……もうこんなのじれったいから、[i][char yule.kusukusu]魔法でこう、強引に虜にしたいところですね、くすくす」
+yule: "…… "[i][char yule.kusukusu] I want to use magic to capture you, giggle."
+
+# a689f0c2
+; me: 「ひっ！」
+me: "Hush!"
+
+# 6c466706
+; yule: 「しかしこういう事は、人間の意志も尊重するって掟がありまして」
+yule: "But there is a rule that we respect the will of man,"
+
+# 769885c8
+; me: 「そ、そりゃ常識的でよかった」
+me: "Well, I'm glad it's common sense,"
+
+# f5fe6210
+; yule: 「昔はそんな掟など、なかったんですよ。[i]ただ人間世界に下りで男を攫って来たらよかったのに……」
+yule: "There used to be no such rule.[i]I wish I had gone down to the human world and kidnapped Man."
+
+# b89e070a
+; me: 「さ、さらうって……」
+me: "Now, take it away ……,"
+
+# bbc5b68b
+; yule: 「『トロールの女は町に降りて人間の男を攫って行く』[i]……これって、アイスランドでは昔から有名な話ですよ。知りませんでした？」
+yule: "The woman of 『Troll goes down to Village and kidnaps the human Man ……[i] This has always been a famous story in Iceland.Didn't you know?"
+
+# 8cc61572
+; me: 「知らん。怖い国だったな、アイスランドは……」
+me: "I don't know. Iceland was a scary country, ……."
+
+# 312334d
+; yule: 「でも今は煩わしい掟ができてしまい、[i]ユールちゃん、誘いはするけど逆レープはできません、残念な事に」
+yule: "But now there are annoying rules, and [i] Yule, I invite you, but I can't reverse the rape, I'm afraid."
+
+# 1fc205f
+; me: 「逆レープって、また物騒な言葉を……」
+me: "Rape backwards, and …… dangerous words again."
+
+# bd335575
+; yule: 「で、まずは{playerName}がちゃんと自分の意志を言えるようになってから、[i]改めてプロポーズしようと思ってました」
+yule: "So, first of all, after {playerName} was able to express her will properly, [i] I thought I'd propose again."
+
+# f67ddd1f
+; me: 「それって、俺の記憶が完全に戻る時の事か」
+me: "Is that when me's memory is completely restored?"
+
+# fe4a3207
+; yule: 「はい。それまでは保留でいいですよ」
+yule: "Yes, you can put it on hold until then."
+
+# 2aa1ef95
+; @choice "ああ、まずは記憶探し" goto:.warakanai
+@choice "Oh, first of all, look for memories" goto:.warakanai
+
+# a6ba49a2
+; @choice "いや、今直ぐでもいい" goto:ed_6_01_2_thorsmork_yuleed
+@choice "No, I don't mind right now" goto:ed_6_01_2_thorsmork_yuleed
+
+# cfaf40c6
+; me: 「そうだな。まずは自分がどんな人間だったのか知らないと、決められない」
+me: "Well, you have to know who you were before you can decide."
+
+# 7cce7205
+; yule: 「はい。[i]記憶を取り戻した後には、前向きに考えてくださいな」
+yule: "Yes. [i]Please think positively after you regain your memory."
+
+# 1f167642
+; me: 「まぁ、考えとく」
+me: "Well, I'll think about it,"
+
+# 3a46a41a
+; yule: 「あ～なんだか煮え切らない態度！前向きじゃない！」
+yule: "Oh, I'm kind of nervous! I'm not positive!"
+
+# 1117f809
+; me: 「今はまだ何もわからないからな」
+me: "`I don't know anything yet,'"
+
+# 7cacf21e
+; yule: 「そこで{playerName}が考えるべき事が、もうひとつあります」
+yule: "And there's one more thing that {playerName} should think about."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 7c153c3c
+; yule: 「{playerName}がどうしても人間世界に戻れない可能性も考えるべきですよ」
+yule: "We should also consider the possibility that {playerName} will never be able to return to the human world."
+
+# aa0a8119
+; me: 「くっ……それは…………」
+me: "Damn …… That's …………,"
+
+# acd9dd9f
+; yule: 「その場合、{playerName}一人でこのトゥーレで生きていくしかないのですが……[i][char yule.l-kusu]それは少々、心細くありませんか？」
+yule: "In that case, {playerName} has no choice but to live on this Thule alone. ……[i][char yule.l-kusu] Isn't that a bit lonely?"
+
+# 2c331b03
+; me: 「……それは、そうだな」
+me: "…… "That's true,"
+
+# a0bc7236
+; yule: 「そんな時はユールちゃんが色々と面倒をみてあげますから、[i][char yule.l-w]どうか前向きに考えてくださいな、くすくす」
+yule: "In that case, Yule will take care of you in many ways. [i][char yule.l-w] Please think positively, giggle."
+
+# 7cf901e7
+; me: 「わ、わかった」
+me: "Well, I see,"
+
+# a0d8b768
+; 少し脅迫に似てる気がするが、まぁ悪いようにはならないだろうな。
+I think it's a bit like a threat, but I don't think it's going to be bad.
+
+# be4c11fd
+; それからも俺はユールちゃんと、とりとめのない話しをしながら、山の高くへと歩き続いた。
+Then me went on, talking incoherently with Yule, up the mountain.
+
+# 43c29e35
+; yule: 「着きました。この近くです」
+yule: "Here we are. It's near here."
+
+# e43f2f51
+; me: 「え、何が？」
+me: "What?"
+
+# caa7a444
+; yule: 「そりゃ、ご先祖様ですよ」
+yule: "That's your ancestor,"
+
+# a626d0a7
+; me: 「レイニスドランガルみたいな石柱は、まだ見えないが……」
+me: "I can't see a stone pillar like Reynisdrangar yet, but ……."
+
+# f24a5324
+; yule: 「えっと、向こうの崖におられますから、{playerName}が近くで拝めるのは難しいかな。[i][char yule.default]ここで少しだけ待って下さい」
+yule: "Well, you're on the cliff over there, and it's hard to see {playerName} up close.[i][char yule.default]Please wait here for a moment."
+
+# 9eb1cb54
+; ユールちゃんは風のように、どこかに消えてしまった。
+Yule vanished somewhere, like the wind.
+
+# e8359786
+; me: 「……あいつ、早いな」
+me: "…… "He's so fast."
+
+# 26034b21
+; そして俺はこの美しい風景を味わいながら、ユールちゃんの帰りを待っていた。
+and me, enjoying the beautiful scenery, waited for Yule to return.
+
+# b9f0f216
+; ……………………
+……………………
+
+# a9b96685
+; しばらく待っていたら、ユールちゃんが戻ってきた。
+I waited for a while before Yule came back.
+
+# de5e440e
+; yule: 「ど、どうしましょう。ご先祖様の気配がありません。やられたみたいです」
+yule: "Well, what shall I do?There is no sign of your ancestors.I think I've been beaten."
+
+# 48a3dbbf
+; me: 「やられたって？どういう意味？」
+me: "Did you do that?"What do you mean?"
+
+# 87e4a523
+; yule: 「この辺りは最近、エルフとのテリトリー争いが激しくて。[i]敗北したらこうなります。[i]くそ……ヒルドルめ」
+yule: "Recently, there has been a lot of territorial disputes between Elf.[i]This is what happens when you lose.[i]Damn ……Hildur!"
+
+# 9199b46d
+; me: 「な、なんかよくわからんけど、大丈夫か？」
+me: "Well, I'm not quite sure, are you all right?"
+
+# 2e355862
+; yule: 「ご先祖様なら別に大丈夫です。[i]元々死んでましたから。霊力がなくなっただけで。[i]それにしても……うーん」
+yule: "I don't mind if you're an ancestor.[i]He was dead. Just because he lost his spiritual power.[i]and yet …… hmmm."
+
+# f21b434
+; ユールちゃんは何やら悩んでるみたいだった。
+Yule seemed to be worried about something.
+
+# 5d6db1f6
+; yule: 「ここまで本格的だったとは……ハイランドの魔力をすべて吸い取る気ですかね？いったいヒルドルは何を……」
+yule: "Did you mean to suck up all Magical Power of ……Highland so serious?"What on earth Hildur ……?"
+
+# 1ac72d0d
+; 独り言の意味はわからなかったけど、困ってる様子が気になった。
+I didn't understand the meaning of talking to myself, but I was worried about how troubled he was.
+
+# 69d2ae47
+; me: 「な、なにか問題ができたのかな？」
+me: "What's the problem?"
+
+# 712c353f
+; yule: 「いいえ、別に問題ってほどではないです。ユールちゃんたちにとっては。[i][char yule.l-nayami]しかし少し面倒になりました。[i]こうなったら海のご先祖様を頼るしかないですが……」
+yule: "No, it's not much of a problem.Yule For them.[i][char yule.l-nayami] But it's a bit troublesome.[i]If this happens, we have no choice but to rely on the ancestors of the sea, ……."
+
+# 2f5a4d9d
+; me: 「海のご先祖様？[i]ああ、レイニスドランガルみたいに、海に突っ立ってるご先祖様の事か？」
+me: "An ancestor of the sea?"[i]Oh, are you talking about ancestors standing in the sea like Reynisdrangar?"
+
+# e6c3bb0b
+; yule: 「はい。[i]海はトロールのテリトリーなので。こんなことにはなってないはずですから。[i][char yule.l-nayami]……でも、みんなここからは遠いですので」
+yule: "Yes. [i] The sea is the territory of Troll.It should not have happened like this way.[i][char yule.l-nayami] …… But everyone is far from here."
+
+# b9a067fa
+; me: 「まぁ大体わかった。遠いけど、また海の方へ行くしかないって事だな。[i]で、どこに向かえばいいんだ？」
+me: "Well, I understand more or less.It's far, but we have to go to the ocean again.[i]And where am I going?"
+
+# 8dac80b1
+; yule: 「ずっと西へ進みます。少し遠いのですが、行ってみるしかありませんね」
+yule: "I'll go all the way west.It's a little far, but I have no choice but to go there."
+
+# 10d042
+; me: 「ああ、わかった。では一旦車に戻るか」
+me: "Oh, I see.So let's go back to the car."
+
+# 7e87eb92
+; yule: 「はい！」
+yule: "Yes!"

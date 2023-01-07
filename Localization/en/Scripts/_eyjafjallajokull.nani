@@ -1,0 +1,337 @@
+; Japanese <ja> to English <en> localization document for `_eyjafjallajokull` naninovel script
+
+# fbb7f2e9
+; 町の後ろの山に、まるで布団のように、雪に覆われれる。
+The mountain behind Village is covered with snow like a futon.
+
+# aae36c11
+; yule: 「氷帽ですね」
+yule: "It's an ice cap,"
+
+# 82fd11e0
+; me: 「氷帽か、なるほどね」
+me: "`I see, an ice cap,"
+
+# d9c4dd47
+; 確かに、山が雪の帽子をかぶってるようにも見える。
+It certainly looks like the mountain is wearing a snow hat.
+
+# 1db2bce
+; yule: 「あの氷帽は、 <ruby="エイヤフィヤトラヨークトル"> Eyjafjallajökull</ruby>氷河といいます」
+yule: "That ice cap is called <ruby=" Eyjafjallajokull">Eyjafjallaj ökull</ruby> Glacier."
+
+# 3532defb
+; me: 「エイヤ……えっと……」
+me: "Aya ……, let's see ……."
+
+# 88b60592
+; いつも思う事だけど、この国の地名はどれも難しい。
+As I always think, the names of places in this country are all difficult.
+
+# cbbff248
+; yule: 「登ってみますか？」
+yule: "Do you want to climb up?"
+
+# f7339817
+; me: 「登る？あの雪山に……いや、流石に無理そうだが」
+me: "Do you want to go up? …… on that snowy mountain. No, I don't think so."
+
+# b41f1b88
+; yule: 「ユールちゃんと一緒なら簡単なんです。[i][char yule.spoon-doya]では！」
+yule: "It's easy with Yule.[i][char yule.spoon-doya] See you later!"
+
+# e9bf813
+; me: 「えっ？！ちょっと、う、うわぁぁぁ！」
+me: "What?! Wait, wait, wait, wait, wait, wait, wait!"
+
+# d87c8e0c
+; yule: 「あそこに見えるのが、エイヤフィヤトラヨークトル氷河です！」
+yule: "You see the Eyjafjallajokull Glacier over there!"
+
+# 59167361
+; me: 「すごい眺めだ……」
+me: "What a view ……,"
+
+# 52c40472
+;  <ruby="エイヤフィヤトラヨークトル"> Eyjafjallajökull</ruby>。
+<ruby=" Eyjafjallajokull">Eyjafjallaj ökull</ruby>.
+
+# e2cb80f8
+; 長い名前のため、E18との呼ばれてる。
+It is called E18 because of its long name.
+
+# f559c768
+; 島の山の氷河という意味だ。
+It means the glacier of an island mountain.
+
+# 43c583fb
+; あの氷河の万年雪は火山の噴火口の上に厚く積もっていて、
+The perennial snow of that glacier lay thick on the crater of the volcano;
+
+# e705f21b
+; 普段は火山の爆発を抑えてくれるが、
+Usually, it suppresses volcanic eruptions.
+
+# 233ba8ff
+; 一度大きく噴火したら、大災害が起きる。
+Once a big eruption occurs, a major disaster occurs.
+
+# 9a271356
+; マグマで氷河が溶けて、洪水が発生するからだ。
+This is because magma melts glaciers and floods occur.
+
+# 3d4d998c
+; 下にある町など、一瞬で埋没される。
+The Village below is buried in an instant.
+
+# 96a77167
+; ２０１０年４月。
+April 2010.
+
+# 422cd942
+; このE18の火山が爆発し、大きな火山灰を噴出した。
+The E18 volcano exploded and erupted large volcanic ash.
+
+# 9d760cbe
+; それは一部の地域で、太陽が完全の遮られるほどの灰の雲を作った。
+It created clouds of ash in some areas that completely blocked the sun.
+
+# 63bd7432
+; そしてそれはヨーロッパ全域の飛行便を麻痺させた。
+And it paralyzed flights across Europe.
+
+# 7fcf9bb6
+; 現地のアイスランドの人々は大きな洪水による被害を心配したけど、
+The local Icelanders were worried about the damage caused by the big flood.
+
+# e5592835
+; 幸い、洪水の大体の水が川の方に流て、町は無事だった。
+Fortunately, most of the flood water flowed towards the river, and Village was safe.
+
+# 159e99b4
+; me: 「この山頂からの景色が、特に素晴らしいな」
+me: "The view from the top of this mountain is especially wonderful."
+
+# d9156bb0
+; yule: 「くすくす、ユールちゃんも、お気に入りの場所です」
+yule: "The giggle and Yule are also my favorite places."
+
+# 3733b650
+; me: 「あそこに見える峡谷の緑と、氷河の白のコントラストがなんとも絶景だな」
+me: "The contrast between the green of the canyon over there and the white of the glacier is very spectacular."
+
+# 2eccc77c
+; yule: 「そこの峡谷は、ソルズモルク峡谷の上流です」
+yule: "The canyon is upstream of the Solskjaer Valley."
+
+# a29a3904
+; me: 「ソルスモルクって、俺たちの記憶探しも目的地だったっけ？」
+me: "Was Thorsmork their destination to find memories?"
+
+# e6d27913
+; yule: 「そうです。ここから下に降りるとすぐですよ。行きますか？」
+yule: "Yes, as soon as you get down from here.Are you going?"
+
+# e41a20aa
+; me: 「いや、もうちょっと、色々と回ってみたい」
+me: "No, I want to go around a bit more"."
+
+# bfbcc7c6
+; yule: 「くすくす、好きなようにしてください」
+yule: "Do as you please, giggle."
+
+# abbbc0b
+; yule: 「ここは <ruby="ギリトロット"> Gilitrutt</ruby>さんの家がある場所ですが、今はお留守みたいですね」
+yule: "This is where <ruby="Gillitrutt">Gilitrutt</ruby>'s house is located, but it looks like he's not at home right now."
+
+# 12eb4f9b
+; me: 「家？？こんなところに？」
+me: "House? In this place like this?"
+
+# 1f473650
+; yule: 「おばさんですよ。トロールの」
+yule: "She's my aunt.of Troll."
+
+# d15362b9
+; me: 「ああ、なるほど、トロールね」
+me: "Oh, I see, Troll,"
+
+# bb0352a1
+; どうも人間が住めそうな場所ではない。
+It's not a place where people can live.
+
+# 44386f8e
+; 昔、この氷河の下の農家に夫婦が住んでいた。
+Once upon a time, a couple lived in a farmhouse under this glacier.
+
+# 66085eea
+; 妻は怠け者で、農家の仕事の手伝いをまるでしなかった。
+My wife was too lazy to help farmers at all.
+
+# 18fa9d1f
+; 夫は妻に『せめてこの羊毛で、子供の服でも編んでくれよ』とお願いした。
+The husband asked his wife to 『 at least knit the children's clothes with this wool.
+
+# d806cd1
+; しかし妻はそのような作業も面倒くさがって、しなかった。
+But my wife was too lazy to do such work.
+
+# 59848a53
+; 農夫は怒って妻を攻めたけど、それでも妻は何もしなく、
+The Farmer got angry and attacked his wife, but she did nothing.
+
+# dc8c270b
+; 夫婦の仲が悪くなるだけだった。
+The couple only got on bad terms.
+
+# 8d2d2090
+; そんな冬のある日、一人の大きな女性が農夫の妻に訪れて言った。
+Then one winter day a big Woman came to the farmer's wife and said,
+
+# 5e019fd1
+; 『わたしがあなたの仕事をやって上げましょう』と。
+『 I'll do your job 』.
+
+# dfab878a
+; 妻はその仕事の対価について聞いたんだけど、女性は、
+My wife asked me about the cost of the job, and Woman said,
+
+# 65249762
+; 『わたしの名前を3回以内で当てられるのなら、対価は要りません』と答えた。
+『 he answered, "If you can guess my name within three times, I don't need to pay you 』."
+
+# 366723a1
+; 女性は次の夏までに、この服を全部編んでくると言った。
+Woman said that he would be knitting all these clothes by next summer.
+
+# 75ae01a1
+; その後のある日、農夫は偶然、山で大きな女性が踊ってるのを見た。
+Then one day the Farmer happened to see a big Woman dancing in the mountains.
+
+# 669da1e6
+; その大きな女性は妖気を纏っていて、どうも人間の気配がしなかった。
+The great Woman was so enchanted that there was no sign of a human being.
+
+# eee9419a
+; 彼女は、トロールだった。
+She had Troll.
+
+# ac0e443e
+; 農夫は怖くなり、すぐに山から降りたけど、その途中、女性の歌声を聞いた。
+The Farmer got frightened and got off the mountain at once, when he heard Woman singing.
+
+# 7bb9e461
+; 『わたしの名は <ruby="ギリトロット"> Gilitrutt</ruby>、でも誰も知らないだろう』
+『 My name is <ruby="Gillitrutt">Gilitrutt</ruby>, but no one will know 』
+
+# 54c13b93
+; 農夫は何かを思いついたのか、その名前をメモして家にかった。
+The Farmer went home, taking note of his name, to see if he had come up with an idea.
+
+# 220b18f9
+; 時がすぎて、夏が近づいてた。
+It's past time is up.
+
+# 8301e4b2
+; 農夫の妻は女性の名前を当てられる自身がなく、震えていた。
+The Farmer's wife was shaking, unable to name Woman.
+
+# e4ec3d45
+; あとで町の聞いた噂話では、その女性はトロールで、
+Later, Village heard a rumor that Woman was Troll;
+
+# 24a4a588
+; 名前を間違えると食われると聞いたからだ。
+I heard that if you make a mistake in your name, you will be eaten.
+
+# 2b796786
+; 震えてる妻に、農夫は訳を聞いて、あの時書いたメモを妻にあげた。
+The farmer asked his trembling wife why, and gave her the note he had written.
+
+# ac2c46be
+; 妻は半信半疑しながらそのメモを受け取って持っていた。
+My wife received the note with half a doubt.
+
+# 2bfa1ba1
+; やがて約束の日が来た。
+Then came the appointed day.
+
+# 6218d374
+; トロールの女性はたくさんの服を持って、妻のところに訪れた。
+Woman of Troll visited his wife with many clothes.
+
+# a63ff76b
+; 『わたしの名前はなぁに？わたしの名前はなぁに？」
+『 What's my name?What's my name?"
+
+# ebb3875d
+; 『シ、シグニー？』
+『i, Signy? 』
+
+# 51e0fdc4
+; 『間違った間違った。さて、二回目』
+『 Wrong. Wrong.Now, the second 』
+
+# 8b4e238b
+; 『アーサ？』
+『 Arthur? 』
+
+# b1aff59
+; 『間違った間違った。さて、三回目』
+『 Wrong. Wrong.Now, the third 』
+
+# 84717527
+; 2回間違えて、ようやく妻は夫がくれたメモを思い出した。
+After making two mistakes, the wife finally remembered the memo her husband had given her.
+
+# 87cbe6c7
+; 『な、ならば、 <ruby="ギリトロット"> Gilitrutt</ruby>、というのは……』
+『, so <ruby="Gillitrutt">Gilitrutt</ruby> means ……』
+
+# e45ea1d8
+; 『あああああああああああああああああああああああああああ』
+『 Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh 』
+
+# 4ad94d8b
+; トロールの女性は衝撃で倒れて、農夫の妻はその場から逃げた。
+Woman's Troll collapsed in shock, and the farmer's wife ran away.
+
+# 75ca0731
+; その後、農夫の妻はとても勤勉な人になったという。
+After that, the farmer's wife became a very diligent person.
+
+# 5f8249f5
+; yule: 「その後 <ruby="ギリトロット"> Gilitrutt</ruby>は、アイスランドスタイルの服を作りための、ウールの糸の名前にも使われてます」
+yule: "After that, <ruby="Gillitrutt">Gilitrutt</ruby> is also used in the name of woolen thread that makes Icelandic clothes."
+
+# 17af1aaf
+; me: 「どうだったんだ。でもそのトロールさん、倒れたと言ったけど死んでないんだな」
+me: "How was it?But Mr. Troll said he had fallen, but he was not dead."
+
+# f7746d1d
+; yule: 「当たり前です。ショック死するトロールなどいるわけありませんよ」
+yule: "Of course.There's no way there's a Troll who'll die of shock."
+
+# b7553f0f
+; me: 「で、この山に住んでると」
+me: "And living in this mountain,"
+
+# 32deff9
+; yule: 「はい。でも今はお留守みたいですから、あとでまた来ましょう」
+yule: "Yes, but he seems to be out now, so I'll come back later."
+
+# 601510f7
+; me: 「いや、わざわざ来なくても」
+me: "No, you don't have to come all the way,"
+
+# ba5f6d33
+; yule: 「新しい服を、編んでくれたりしますよ。ユールちゃんが人間世界に来てた服も、ギリトロットさんが作ってくれました」
+yule: "They will knit you new clothes.Gillitrott also made clothes that Yule had come to the human world."
+
+# 8a1f056
+; me: 「ああ、あの時の……」
+me: "Oh, then ……,"
+
+# da6079a3
+; この山のトロールって、服作り職人だったんだな。
+The Troll in this mountain was a dressmaker, wasn't he?

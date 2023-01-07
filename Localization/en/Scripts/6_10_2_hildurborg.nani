@@ -1,0 +1,621 @@
+; Japanese <ja> to English <en> localization document for `6_10_2_hildurborg` naninovel script
+
+# d225c37c
+; 少し前、ヒルドル家の裏。
+A little while ago, behind the Hildur family.
+
+# 387b115d
+; hildur: 「では、行くわぁ」
+hildur: "Then I'll go."
+
+# 45c04950
+; そう言ってヒルドルは、奇怪な動きをし始めた。
+Then Hildur began to make strange moves.
+
+# a0af1ae3
+; 魔法の準備動作だろうか。この前のエルフの同じだ。
+I wonder if it's a magic preparation?It's the same as the last Elf.
+
+# 6ddce90f
+; ……しかし、この人がやると妙にエロいな。
+…… But it's strangely erotic when he does it.
+
+# 8da02311
+; hildur: 「ポリモーフ！」
+hildur: " polymorph!"
+
+# 1bbb9079
+; yule: 「えっ？ポリモーフ？？」
+yule: "What? polymorph?"
+
+# 39bb314
+; me: 「あぁぁぁ！？」
+me: "Ah!?"
+
+# ad127e50
+; yule: 「こら！ヒルドル！何をやらかしたんだ！」
+yule: "Hey! Hildur! What have you done?"
+
+# 4daba792
+; hildur: 「うん？
+hildur: "Huh?"
+
+# 293a9010
+; hildur: きゃっ♡」
+hildur: "Oh my gosh ♡"
+
+# be8362d
+; ユールちゃんはまたヒルドルを叩きながら怒った。
+Yule got angry again, hitting Hildur.
+
+# 9ac36009
+; yule: 「{playerName}が……
+yule: "{playerName} is ……"
+
+# 400626a5
+; yule: 馬になったじゃない！」
+yule: "You've become a horse!"
+
+# fcae84b5
+; me: 「ヒヒーン（う、馬？ど、どういうことだ？）」
+me: "niegh (Horse? What do you mean?)"
+
+# c14194a
+; 馬か。なるほど。
+Horses? I see.
+
+# d4b5d67b
+; 自分の姿は見えないが、感覚でわかった。
+I could not see myself, but I could tell by my senses.
+
+# b0c49329
+; 俺は、また四つ足なってしまった。
+I had four legs again.
+
+# 63c01a10
+; me: 「ヒヒーン（うむ）」
+me: " niegh,"
+
+# 3e56ea5
+; 軽く歩いてみた。
+I walked lightly.
+
+# 4e026984
+; ちゃんと歩ける。
+I can walk properly.
+
+# 6c0f22f0
+; 俺は四足歩行が上手だ。
+I is good at walking on four legs.
+
+# c8c741ec
+; ポリモーフを食らったのは二回目で、最初の時よりはなれるのが早い。
+It was the second time I had polymorph, and I got used to it faster than the first time.
+
+# cad8dab6
+; ……いや、こんな事考えてる場合ではなくて……
+…… No, it's not the time to think about this. ……
+
+# 16e0187b
+; hildur: 「これが、悪霊化を遅らせる方法なのよぉ？」
+hildur: "Is this the way to delay demonization?"
+
+# ddf74493
+; yule: 「そんなバカな……」
+yule: "That stupid ……,"
+
+# 9064413a
+; hime: 「あれ？わたし……何を？」
+hime: "Huh? What did I ……?"
+
+# 3223f5b9
+; me: 「ヒヒーン（ヒメ！目が覚めたか）」
+me: "niegh ( Hime! Are you awake?)"
+
+# 67c77ce2
+; yule: 「えっ！？ヒメさん？治った？」
+yule: "What!? Mr. Hime?"Are you cured?"
+
+# 4fb73166
+; hildur: 「ほらねぇ」
+hildur: "You see,"
+
+# f35e5fe9
+; 悪霊化していたヒメが、また正気に戻った。
+The demonized Hime came to his senses again.
+
+# e1b351be
+; hime: 「あ、わ、わたし。またあの状態になってたんだ」
+hime: "Oh, wow, me.It was in that state again."
+
+# bc43ce7e
+; yule: 「そうですよ。危ない状態でしたけど、助かりました」
+yule: "That's right. It was a dangerous situation, but it was helpful."
+
+# d591fd0f
+; hime: 「ごめんね。また心配かけちゃって……[i][char hime.hm]……ところで{playerName}は？」
+hime: "I'm sorry. I'm worried about you again ……[i][char hime.hm]……and {playerName}?"
+
+# 87bf2f62
+; me: 「ヒヒーン（俺はこっちだ）」
+me: "niegh (This is me.)"
+
+# 76961cf7
+; hime: 「ええっ！？」
+hime: "What!"
+
+# e1f37828
+; me: 「ヒヒーン（俺の話、わかるの？）」
+me: "Do you understand niegh?"
+
+# a56f9402
+; hime: 「えっ？うん。わかるけど……[i]って、この馬から{playerName}の声が聞こえるけど、えっ？」
+hime: "Huh? Yeah. I understand, but ……[i] I can hear {playerName}'s voice from this horse."
+
+# ef043d7
+; 馬の鳴き声なのに、意味は伝わるみたいだな。
+It's a horse's cry, but I guess the meaning is conveyed.
+
+# 176fe3b4
+; それはよかった。
+That's good.
+
+# 4afe71e5
+; me: 「ヒヒーン（俺、馬になっちゃったんだ）」
+me: "niegh (I've become a horse me)"
+
+# cb906d96
+; hime: 「えええ？ど、どういう事？」
+hime: "What? What do you mean?"
+
+# caf8fe89
+; hildur: 「{playerName}が馬に変身したんだわぁ。妾が魔法をかけたの」
+hildur: "{playerName} turned into a horse.My concubine cast a spell."
+
+# ca656185
+; hime: 「えっ？なんで？」
+hime: "What? Why?"
+
+# 5fb72ac2
+; yule: 「あなたの悪霊化を遅らせるためだって。まったくわけが……[i][char yule.l-nayami]あ、なるほど、どういうわけですね」
+yule: "to delay your demonization.……[i][char yule.l-nayami] Oh, I see, what's the reason?"
+
+# 2fa26124
+; ユールちゃんは何かを悟ったように言った。
+Yule said as if he had realized something.
+
+# b73ddbd
+; hildur: 「そう。悪霊化は【人間】に取り憑いた状態でなきゃ、進まないから」
+hildur: "Yes, demonization cannot proceed unless it is possessed by 【 human 】."
+
+# c267faa8
+; me: 「ヒヒーン（なるほど。俺が人間じゃなくなったから、ヒメはもう悪霊になる事もないわけか）」
+me: "niegh (I see. Now that me is no longer a human being, Hime will no longer be an evil spirit.)"
+
+# 1d889b5
+; hildur: 「でも所詮は誤魔化し。いつかは悪霊になるわぁ。[i]少し遅らせただけだから。[i]あなたに取り憑けてる状態は相変わらずだしぃ」
+hildur: "But, after all, it's a trick.I'll be a demon someday.[i]I just delayed it a little bit.[i]I'm still obsessed with you."
+
+# ad238a3d
+; yule: 「ま、でも今はそれで十分です。もうすぐあのエルフを捕まえるし」
+yule: "Well, but that's enough for now.I'll catch that Elf soon."
+
+# 28fe606f
+; me: 「ヒヒーン（そうだな）」
+me: "The niegh,"
+
+# b7869fb5
+; hime: 「えっと、よくわからないけど、{playerName}が馬になったのは、[i]わたしの悪霊化を遅らせるためなんだね」
+hime: "Well, I'm not sure, but {playerName} became a horse to slow down my demonization."
+
+# 6cc9fe98
+; yule: 「ま、そういう事です」
+yule: "Well, that's it,"
+
+# a573664a
+; hime: 「ありがとう、わたしのために。[i][char hime.hae]……あ、でもそれじゃ、{playerName}はいつ人間に戻れるの？」
+hime: "Thank you, for my sake.[i][char hime.hae] …… Oh, but when will {playerName} be able to return to being human?"
+
+# b74e45d
+; me: 「ヒヒーン（ヒメの体を取り戻した後かな？[i]……って、どうやって元に戻るんだ？）」
+me: "niegh (Is it after Hime's recovery?)[i]…… and how do you get back together?"
+
+# e40f4837
+; yule: 「そうですね。前回のように、エルフの住処を奪還する事もできないし。[i]こうなったら術者が解いてくれるしか……」
+yule: "Well, we can't take back the residence of Elf like we did last time.[i]If this happens, the operator will solve it ……"
+
+# d1222348
+; hildur: 「ええ。後で妾が解いてあげるわぁ。[i]すべてが終わったら、 <ruby="ラーカギーガル"> Lakagigar</ruby>に来て。[i]妾は多分そこに居るわぁ」
+hildur: "Yes. My mistress will let you go later.[i]When you're done, come to <ruby=" Lakagigar">Lakagigar</ruby>. [i] My concubine is probably there."
+
+# fa0fcbc
+; yule: 「ラーカギーガル？なんでそんなところに？」
+yule: " Lakagigar? Why are you there?"
+
+# 5e18b14f
+; hildur: 「魔法陣の下準備のためよ。ハイランドを回ってるわぁ。もうすぐ完成よぉ」
+hildur: "for preparation for The Magic Circle.It's going around Highland. It's almost finished."
+
+# 1f140253
+; yule: 「あ、もしかしてこの前、ソルスモルクのご先祖様をやったの、アンタでしょう？」
+yule: "Oh, by any chance, you were the ancestor of Thorsmork the other day, Anta?"
+
+# bb8cf9e5
+; hildur: 「えっ？それを、どうして？」
+hildur: "What? Why?"
+
+# 35a69247
+; yule: 「やっぱりですね。ご先祖様をやったの、ハイランドの魔力を集めるためだったんですね」
+yule: "That's true.You did your ancestors to collect Magical Power of Highland."
+
+# f380602c
+; hildur: 「……あなたたちには悪いと思ってるけど、これも全部トゥーレのためだから……」
+hildur: "…… "I think it's bad for you guys, but it's all for Thule, so ……."
+
+# 1a06c818
+; yule: 「ま、トゥーレを救うためなら仕方ありませんね。ご先祖様もきっと理解してくれます」
+yule: "Well, there's nothing we can do to save Thule.I'm sure your ancestors will understand."
+
+# cd682d1e
+; hildur: 「ええ。そうしてもらうと助かるわぁ」
+hildur: "Yes. That would be a relief."
+
+# b68a4fea
+; yule: 「ま、わかりました。[i]とにかく、後でラーカギーガルへ訪ねますね」
+yule: "Well, I see.[i]Anyway, I'll visit Lakagigar later."
+
+# d70741a3
+; hildur: 「ええ。そうすればいいわ。[i]……さて、妖精の道は開いておいたから。手前の海の方よ」
+hildur: "Yes, that's all I have to do.[i]…… Now that the fairies' path has been opened,It's near the sea."
+
+# b4f594ba
+; yule: 「はい。見えてます。お世話になりました」
+yule: "Yes, I can see it.Thank you very much."
+
+# 3a527938
+; そしてユールちゃんは、俺のすぐ隣まで歩いてきて、
+and Yule walked right next to me,
+
+# 6946f2f9
+; yule: 「……それでは{playerName}！行きますか！」
+yule: " …… Then {playerName}! Shall we go?"
+
+# 4cd04b9d
+; そういいながらユールちゃんは、俺の背中へと乗りかかった。
+As he spoke, Yule stepped on me's back.
+
+# 5538ca64
+; yule: 「よっと！」
+yule: "All right!"
+
+# c0b4f9ba
+; me: 「ヒヒーン！（なっ！なにしてるんだ）」
+me: "niegh! (What are you doing?"
+
+# 5dda326e
+; yule: 「いいじゃないですか！せっかく馬になったんだし、くすくす」
+yule: "`That's all right!'I've become a horse, giggle."
+
+# e295c912
+; me: 「ヒヒーン（まぁ、構わないが……）」
+me: "niegh (Well, I don't mind, ……)"
+
+# c6c3920c
+; yule: 「ここ、座り心地もいいですね」
+yule: "It's comfortable to sit here."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# a87c391f
+; ユールちゃんがお尻を動かしながら、座り心地を味わってる。
+Yule is sitting comfortably, moving her hips.
+
+# 610ad426
+; 背中に、ユールちゃんのお尻の感触が暖かくて……あ、ああ。いかん。
+The feeling of Yule's butt on my back is so warm …… Ahhhhhhhhhhhhhhh.
+
+# a99d2594
+; hime: 「いいな。[i][char hime.nico]後でわたしも乗せて！」
+hime: "Good. [i] [char hime.nico] Give me a ride later!"
+
+# 1cc7f98b
+; me: 「ヒヒーン（あ、ああ。……しかし、なんで馬なんだ？色んな動物の中で……）」
+me: " niegh (Oh, yes. …… But why a horse?…… among various animals)"
+
+# c2678f0c
+; 馬になったせいで、この子たちみんな乗ろうとしてるじゃないか。
+They're all trying to ride because they're horses.
+
+# 5a8a46cc
+; ま、悪くはないけど。
+Well, it's not bad.
+
+# 1e01ac03
+; でも、ポリモーフは色んなものに形を変えられる魔法なのに、なんでその中で馬なのか。
+But polymorph is a magic that can be transformed into many things, so why is it a horse?
+
+# 4562fb8c
+; hildur: 「アイスランディックホースよ。[i]昔、妾が人間世界に降りてた時に乗ってた愛馬だわぁ」
+hildur: "Icelandic Horse. [i] It's my beloved horse that I used to ride when my concubine went down into the human world."
+
+# da134be4
+; hime: 「それなりに理由があったんだ」
+hime: "There was a good reason,"
+
+# 953d453b
+; hildur: 「あとで妾も一回乗らせて、ふふふ」
+hildur: "`I'll have a concubine ride later, hahhhhhhhhhhhhhhhh,'"
+
+# cdce2419
+; yule: 「だめですよ。{playerName}に乗れるのはユールちゃんだけです！」
+yule: "No, only Yule can ride {playerName}!"
+
+# 83533267
+; ユールちゃんはさらに、俺の首に手を回し、抱きついてきた。
+Yule then wrapped his hand around me's neck and hugged him.
+
+# 94187219
+; yule: 「それにしても{playerName}の背中はホント、心地いいですね。このままなら、どこまでも行けそうです」
+yule: "But {playerName}'s back is really comfortable.At this rate, I think I can go all the way."
+
+# d20d5f38
+; 自分の体を、スリスリと俺の体に擦りつけてるユールちゃん。
+Yule rubbing her body against me's.
+
+# cb4d42b1
+; me: 「ヒィーん（お、おい……）」
+me: " niegh (Oh, hey ……)"
+
+# a684f2df
+; yule: 「ふかふかで気持ちいいですぅ」
+yule: "`It's soft and comfortable,'"
+
+# c8242f9f
+; 可愛くて柔らかい感触が、改めて全身から感じられて、俺は……
+I could feel the cute and soft feeling from all over my body, and me ……
+
+# b5cd43ca
+; me: 「ヒーヒー（はぁはぁ）」
+me: "Hahahahahaha."
+
+# d54a87ce
+; な、何だ。馬になったせいか。動物的になった。
+What? Maybe it's because I became a horse.I became animal.
+
+# c24607f3
+; こんな事に興奮するなんて。
+I can't believe I'm excited about this.
+
+# 971ffd9b
+; me: 「ヒヒヒ———ん」
+me: "Hehehehehehe,"
+
+# 2c394893
+; yule: 「え、えっ？！なんでいきなり暴れるんですか」
+yule: "What?! Why are you going on a rampage all of a sudden?"
+
+# 23ced950
+; 股間に、すごいパワーを感じて、居ても立っても居られなかった。
+I felt so powerful in my crotch that I couldn't stand there.
+
+# 593ab34c
+; 人間だった頃には一度も感じなかったこれは……
+When I was a human being, I never felt this …….
+
+# 1d1ea535
+; hildur: 「さ、流石にアイスランデックホースね。素晴らしいわぁ」
+hildur: "Well, that's an ice landeck hose. That's wonderful."
+
+# 5e066542
+; ヒルドルが、俺の腹のあたりを見ながらそういった。
+said Hildur, looking round me's belly.
+
+# eac0bf0b
+; hildur: 「他の馬より背は小さいけど、こっちは、劣らないもの」
+hildur: "He's shorter than the other horses, but he's no better than the other horses."
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 87b241e2
+; hime: 「きゃっ！{playerName}ってば、な、何よこれ。[i]馬って皆こうなの？[i]……足が５本いるみたいじゃない！」
+hime: "Oh! {playerName}, what is this?[i]Are all horses like this?[i]…… It's like five legs!"
+
+# 2cd482c4
+; ヒメが俺の下をぐるぐると飛び回るながら、そんな事を言った。
+said Hime, flying round and round under me.
+
+# f331c17d
+; me: 「ヒィーン」
+me: "The neigh,"
+
+# 796f8c51
+; ちん○んの話だ。
+It's about ○.
+
+# cbd77780
+; 俺のモノって、今は馬のあれなんだな。
+The me thing is the horse thing now.
+
+# 38b3cae9
+; しかし俺のモノって、そんなに凄いか？馬だからか？
+But is me's stuff that amazing?Is it because it's a horse?
+
+# c8c7ee4f
+; ……思わずドヤ顔になるな。
+…… Don't let your face get ugly.
+
+# e48786a5
+; yule: 「えっ？それって、もしかして、
+yule: "What? Is that, by any chance,"
+
+# 54defa0a
+; yule: えええっ？」
+yule: "What?"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 24514795
+; 俺の背中に乗ってるユールちゃんには下の状態は見えないが、俺たちの話を聞いて気づいたみたいだ。
+Yule, on me's back, could not see the state below, but he seemed to have noticed what they had said.
+
+# 4a5dabf2
+; yule: 「も、もう、なんですか？[i][char yule.l-kusu]ユールちゃんが抱きついたからって、興奮してしまったんですか？くすくす」
+yule: "Well, what is it now?[i][char yule.l-kusu]Did you get excited just because Yule hugged you?giggle"
+
+# 4aa8362a
+; me: 「ヒヒーン（い、いや、こ、これはちが……）」
+me: "niegh (No, no, this is ……)"
+
+# d8e147de
+; からかわれてる。
+They're teasing me.
+
+# 1a55d6de
+; yule: 「まあまあ、[i][char yule.nii]後で人間に戻ったら、いっぱいしてあげますからね」
+yule: "Well, [i][char yule.nii] I'll give you a lot when you get back to being human."
+
+# 95657201
+; そういってユールちゃんは、俺の腹の辺りを、自分の手で撫でた。
+Then Yule stroked me's belly with his own hand.
+
+# c934502b
+; yule: 「よしよし！」
+yule: "All right!"
+
+# a41b39db
+; こ、これは……心地いいけど、からかわれてるよな。
+This is …… comfortable, but they're making fun of me.
+
+# 6210783e
+; 童貞をからかうんじゃないっていつもいってるのに！
+I always say you shouldn't make fun of her!
+
+# ef9dd6d5
+; こんな挑発されては、黙ってはいられない。
+I can't stand this provocation.
+
+# 3ca38dbd
+; ビシッと言ってやる。
+I'll give you a good scolding.
+
+# d1e31341
+; @choice "やめるんだ" goto:.wakatta
+@choice "Stop" goto:.wakatta
+
+# a1a5a7c1
+; @choice "からかうな" goto:.wakatta
+@choice "Don't make fun of me" goto:.wakatta
+
+# 71040956
+; me: 「ヒーン（うおおお！やりてぇ！後でやらせろよな！絶対に！）」
+me: " niegh (Oh! Do it!)Let me do it later!Never!"
+
+# 12f26502
+; えっ？
+What?
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# c78107b8
+; 俺はなにを言った？
+What did me say?
+
+# 41449e55
+; あとでいっぱいしてあげるって、ユールちゃんの言葉に。
+I'll do it for you later, Yule said.
+
+# 2dd6145f
+; 否定の言葉を出したかったのに、
+I wanted to say something negative.
+
+# 21c17645
+; 俺の意思とはまったく関係なく、しかも自分のお尻をふりながら、こんな返事が出てきた。
+It had nothing to do with me's intentions, and, shaking his butt, he replied,
+
+# 4b107cc1
+; hime: 「も、もう{playerName}って何言ってるの、やらし！」
+hime: "`But what are you talking about {playerName} now,"
+
+# c1228e60
+; yule: 「くすくす、もう{playerName}ってば、そんなに期待しちゃって」
+yule: "I expect so much giggle, {playerName}."
+
+# 44314fe0
+; 動物になったせいで、童貞力が上がったのか？
+Did becoming an animal improve your child's fidelity?
+
+# 72089279
+; なんてちょろい男なんだ、馬の俺は。
+What a little Man, the horse's me.
+
+# f180d56c
+; yule: 「そこまで言うのなら、はい。約束しますね！お楽しみですね」
+yule: "If you're going to go that far, yes, I promise!"I'm looking forward to it."
+
+# e2f8043a
+; me: 「ヒー？（い、いや……）」
+me: "Hee?" (No, ……)"
+
+# 2d804865
+; yule: 「よし！[i]ユールちゃん、やる気が出ました！[i][char yule.l-w]それじゃ……[i]
+yule: "Good! [i] Yule, I'm motivated![i][char yule.l-w] Then …… [i]
+
+# d8c6a09c
+; yule: ハイヤー！」
+yule: "Hi Ja!"
+
+# c14ef9aa
+; me: 「ヒ—————ン！！！」
+me: "Heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
+
+# 86917137
+; ユールちゃんが俺の横を足で蹴ると、俺はなぜか走り出した。
+When Yule kicked me in the side with his foot, me began to run for some reason.
+
+# ba8aee41
+; 自分の意思とは関係なく、体が勝手に、地面を蹴って。
+Regardless of your will, your body kicks the ground.
+
+# 7df26fff
+; 完全に馬の俺。
+A complete me of a horse.
+
+# 74dd1942
+; すごく自然にこうしてる。
+It's so natural.
+
+# e66658cf
+; 羊だった経験もあったせいか、四足歩行もすっかり慣れてる。
+Perhaps because I've been a sheep, I'm quite used to walking on four legs.
+
+# 1149896e
+; hime: 「ま、待って。わたしもつれっててー」
+hime: "Wait a minute. I'll take you with me."
+
+# b7098c10
+; と、ヒメも後ろの空からついて来た。
+Hime followed from the sky behind him.
+
+# 629a22f5
+; hildur: 「それじゃね、いい旅を。[i]あとでラーカギーガルでまた会いましょう」
+hildur: "Well, have a good journey.[i]I'll see you again in Lakagigar"
+
+# 7a440ea1
+; yule: 「さ、行きましょうー！ランドマンナロイガル、ハイランドの真ん中へ！」
+yule: "Well, let's go!Landmannalaugar, in the middle of Highland!"
+
+# 5a830cd3
+; 俺たちは目の前の、白く光ってる輪の中へと飛び込んだ。
+I and jumped into the white shining ring before them.

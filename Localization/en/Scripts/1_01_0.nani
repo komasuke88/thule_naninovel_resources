@@ -1,0 +1,5 @@
+; Japanese <ja> to English <en> localization document for `1_01_0` naninovel script
+
+# f0b9792e
+; <ruby="まだ火が残っているうちに、パンを焼け">Baka þig, meðan eldurinn brennur</ruby>
+<ruby="Bake while the fire burns"> Baka þig, meðan eldurinn brennur</ruby>

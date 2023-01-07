@@ -1,0 +1,193 @@
+; Japanese <ja> to English <en> localization document for `7_2_7_dream4` naninovel script
+
+# ac62019d
+; 心地よい夢の世界の中。
+In a world of pleasant dreams.
+
+# 6d5196fc
+; いくつもの死を迎えたのか。
+How many deaths did he face?
+
+# 47caf50
+; 思い出せないほどの、たくさんの輪廻を過ごした。
+I spent so many revolutions that I couldn't remember.
+
+# 121bea93
+; 自分がどんな存在なのか、俺は俺のか、確信を持たなくなってきた。
+I began to lose confidence in what I was like and whether me was me.
+
+# b9dd80a3
+; でもそれが、悪くない気分だった。
+But that wasn't a bad feeling.
+
+# ee640a2d
+; 記憶を探す旅をしてた。
+I was on a trip to find memories.
+
+# 1e609e5
+; 自分が何者か、そんな事を知るために。
+To know who you are.
+
+# 79ac1f3c
+; だけどここでは、そんなことは、どうでもよかった。
+But here it did not matter.
+
+# 9be55e80
+; 自分が何者かなんて、”知る”必要はない。
+You don't have to "know" who you are.
+
+# 5dc9d883
+; ”なる”だけだ。
+It's just "I see."
+
+# 7f5fb156
+; 死を繰り返し、生まれ変わりを繰り返す。
+Repeat death and reincarnation.
+
+# d302d7f2
+; この夢の世界でなら、俺は何者にでもなれる。
+In this dream world, me can be anyone.
+
+# 45b13fed
+; だから俺は、何者でもない。
+So me is nothing.
+
+# a043c05c
+; 「<s>　　　　　　　　　　</s>{playerName}！」
+"<s></s> {playerName}!"
+
+# 24aa9513
+; どこからか声が聞こえた。
+I heard a voice from somewhere.
+
+# b87d95fb
+; きっとそこは、外の声。
+I'm sure that's the voice outside.
+
+# bc3ff94
+; 俺を夢の世界から、引っ張り出すための声。
+A voice to pull me out of the dream world.
+
+# 6ee69ac7
+; その声に、応える価値はあるか？
+Is the voice worth responding to?
+
+# 7357ba17
+; ここは気持ち良い場所だ。
+This is a pleasant place.
+
+# 7c0fb8d2
+; 永遠な明晰夢の中。
+In eternal lucid dreams.
+
+# b5255cf7
+; どんな事でも、俺が思うがまま。
+Whatever you do, me will do as you please.
+
+# 18584b70
+; やりたいこと、なりたいもの。なんでも。
+Anything you want to do or want to be.
+
+# 88f9ea31
+; 何の制約もない、何のしがらみもない。
+There are no restrictions, no restrictions.
+
+# eca6e73b
+; 「<s>　　　　</s>{playerName}！」
+"<s></s> {playerName}!"
+
+# f2dfd71e
+; 狂死。
+a mad death.
+
+# fa3061df
+; 自分がそうなるはずだと、誰かが言ってた。
+Someone told me that I was supposed to be like that.
+
+# 5b733dfd
+; 最初は怖いとか痛いとか、そんなものを想像したけれど、
+At first I imagined things like fear and pain;
+
+# eea7eac6
+; 実際にそんな事はなさそうだ。
+I don't think that's going to happen.
+
+# bcf10f10
+; 覚めない夢を見ていて、徐々に深い眠りに落ちていくだけだ。
+I'm dreaming that I won't wake up, and I'm just falling into a deep sleep.
+
+# 38a8f44d
+; その夢ってのは案外、甘くて、楽しくて、
+The dream was surprisingly sweet and fun.
+
+# 44be078e
+; 狂って死んでいくってのは、心地よいと思った。
+I thought it was pleasant to die crazy.
+
+# 9b7d636c
+; 自由。
+freedom.
+
+# aff6df2
+; 様々な柵から解き放たれた状態。
+the state of being released from various fences.
+
+# 89813575
+; 狂うってのは自分の世界に閉じこもる事だけど、
+To be crazy is to shut yourself up in your own world.
+
+# a9fe4093
+; この閉じた世界の中にこそ自由があった。
+There was freedom in this closed world.
+
+# bed178f9
+; 覚めない夢の世界で。
+In a world of dreams that you never wake up.
+
+# d7274e4
+; どこにでも行ける自由、何にでもなれる自由。
+Freedom to go anywhere, freedom to be anything.
+
+# bf4f4095
+; これこそが、究極の旅ではないか。
+This is the ultimate journey, isn't it?
+
+# cbccc2e4
+; ずっと俺は、何者でもない俺で居られる。
+I can always be nothing but me.
+
+# 3660adb6
+; いつまでも旅を続けられる。
+You can continue your journey forever.
+
+# 3be9eabd
+; これが俺が追求する、一番の場所じゃないか。
+This is the best place for me to pursue.
+
+# eca6e73b
+; 「<s>　　　　</s>{playerName}！」
+"<s></s> {playerName}!"
+
+# 7431c058
+; ずっと、このまま、
+For a long time, like this...
+
+# d199ba52
+; 夢を見ていたいのに……
+I wanted to dream, but ……
+
+# a043c05c
+; 「<s>　　　　　　　　　　</s>{playerName}！」
+"<s></s> {playerName}!"
+
+# fffb8836
+; その声に、応えるべきか？
+Should I respond to that voice?
+
+# 1bc5fde6
+; @choice "応える" goto:7_2_8_dreamend
+@choice "Reply" goto:7_2_8_dreamend
+
+# 27e1267
+; @choice "応えない" goto:ed_7_2_6_dream
+@choice "No response" goto:ed_7_2_6_dream

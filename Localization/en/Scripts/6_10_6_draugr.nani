@@ -1,0 +1,273 @@
+; Japanese <ja> to English <en> localization document for `6_10_6_draugr` naninovel script
+
+# fc3bcb21
+; me: 「ヒヒーン（させない！）」
+me: "I won't let you niegh!"
+
+# dbc9d8f7
+; 俺は、またポリモーフを食らった。
+I had polymorph again.
+
+# 1caff83e
+; me: 「……（俺は……）」
+me: "…… (where me is ……)"
+
+# a69fff0b
+; 俺は、魚になっていた。
+I had become a fish.
+
+# 5b7cdb94
+; 魚種は、 <ruby="ニシン"> 鰊</ruby>か。
+Is the fish species <ruby="herring">herring</ruby>?
+
+# 950401b8
+; yule: 「……あ、美味そう」
+yule: "…… "Oh, it looks delicious."
+
+# 394bb1c4
+; me: 「……（かばってあげたのに、ひどいな）」
+me: "…… (I've covered you, but you're so mean.)"
+
+# c77b2e1c
+; yule: 「って、{playerName}ですよね？？もしかしてユールちゃんを庇って……」
+yule: "`It's {playerName}, isn't it?'…… protecting Yule by any chance."
+
+# 87a20524
+; hime: 「えっ！？{playerName}、魚になってしまった？？」
+hime: "What!? {playerName}, have you become a fish?"
+
+# 46a1342e
+; yule: 「そ、そうですよ、ユールちゃんの代わりにポリモーフを食らって」
+yule: "Oh, yes, I had Yule instead of polymorph."
+
+# 6b2cbfa2
+; hime: 「ど、どうしたらいいの？」
+hime: "What shall I do?"
+
+# 240d132d
+; ヒメもとても慌ててる。
+Hime I'm also very flustered.
+
+# e31ca825
+; me: 「……（ホント、どうしたらいいんだ）」
+me: "What should I do, ……?"
+
+# 2f1086c1
+; 魚になって、地上では身動きも取れないし、鳴き声さえ出せない。
+He became a fish, and could neither move nor cry on the ground.
+
+# cda1d04b
+; elfo: 「くっ、おのれ……庇いやがって」
+elfo: "Damn it, I protect ……,"
+
+# b885586c
+; 狙いが失敗して放心状態だったエルフが気をつけたようだ。
+It seems that Elf, who had been absent-minded after his aim failed, was careful.
+
+# 6cd2bc61
+; yule: 「あ、あいつ！」
+yule: "Oh, he!"
+
+# 7e41558a
+; me: 「……（どうにか最初の攻撃は庇ってあげたけど……）」
+me: "…… (I managed to protect him from the first attack, but ……)"
+
+# ce30ca45
+; elfo: 「こうなった以上、全員魚にして串焼きにしてやるわ！わはははは」
+elfo: "Now that this has happened, I'll make them all fish and skewers! Hahaha!"
+
+# 4ef676a1
+; また魔法を使おうと、エルフは空を飛び回って、あの準備動作をしたのだが……
+In an attempt to use magic again, Elf flew about in the sky, and made that preparation motion ……
+
+# c0b7322a
+; yule: 「もう、やられてたまりますか！叩きのめして、{playerName}を元に戻してもら……」
+yule: "`Are you going to do it now?'I'll knock him down, and put {playerName} back together, ……."
+
+# d37daede
+; ユールちゃんがスプーンを手にして、エルフの動作が終わる前に攻撃しようとした。
+Yule took Spoon in hand and tried to attack Elf before it was finished.
+
+# 7737dd7e
+; だけど、その瞬間……
+But at that moment, ……
+
+# 2ced871e
+; elfo: 「げぶぇっっ？？？」
+elfo: "What???"
+
+# 14c7948d
+; 突然と、血の噴水。
+Suddenly, a fountain of blood.
+
+# b20940eb
+; エルフは赤い肉の塊になって、地面に落下して消えた。
+Elf became a mass of red meat, and fell to the ground and disappeared
+
+# 2e24d9e4
+; 一瞬、何かに貫通されたように見えたけど、
+It looked like I was being penetrated for a moment.
+
+# cec61603
+; その痕跡も、エルフも姿も、見えなくなっていた。
+There were no traces, no Elf, no figure, in sight.
+
+# ec9b03fb
+; まるで蜃気楼のように、エルフは消えてしまった。
+Elf vanished like a mirage.
+
+# 228ff4e5
+; hime: 「な、なに今の？何だったの？消えた？」
+hime: "What was that? What was it?"Is it gone?"
+
+# 6679aac
+; me: 「ヒィーン！？（な、なっ……！？何だ？ユールちゃんが何かやったのか？）」
+me: "neigh!? (What ……!? What is it?)What did Yule do?"
+
+# f4ca6bcd
+; yule: 「い、いいえ。まだ何も仕掛けてませんが……[i][char yule.dot]っていうか、{playerName}？」
+yule: "No, no. I haven't started anything yet. ……[i][char yule.dot] Or {playerName}?"
+
+# feeb94e0
+; me: 「ヒヒーン（うん？）」
+me: " niegh (Huh?)"
+
+# 6f973a50
+; yule: 「馬に戻りましたね」
+yule: "You're back on your horse,"
+
+# 7a6783e9
+; me: 「ヒヒーン！（あ、本当だ）」
+me: "niegh! (Oh, that's true.)"
+
+# bcdb6799
+; hime: 「あ！{playerName}、戻ったんだね！よかった！」
+hime: "Oh! {playerName}, you're back! I'm glad!"
+
+# 9e269c65
+; っていうか、俺は元々人間なんだから、戻ってはないのだが。
+I mean, me was originally a human being, so he didn't come back.
+
+# 8ef4c440
+; ま、たしかに魚よりはましだ。
+Well, it's certainly better than fish.
+
+# 40a675c2
+; me: 「ヒヒーン？（戻ったのはいいけど、これは、どういうこと？？）」
+me: "niegh? (It's good to be back, but what does this mean?)"
+
+# 662b355
+; yule: 「ポリモーフの魔法が解除されたんですね。[i][char yule.l-nayami]……って事は、術者が死んだ？」
+yule: "The magic of polymorph has been lifted.[i][char yule.l-nayami] …… means the operator is dead?"
+
+# 88df5a6
+; me: 「ヒヒヒーん（あのエルフ、死んだのか？なんでいきなり？）」
+me: "HeheheheheheheheheheheheheheheheheheheheheheheheheheWhy all of a sudden?)"
+
+# 9510f9c0
+; yule: 「そう、みたいですけど……[i]でもエルフって不死身に近いはずなのに、いったい何が？」
+yule: "Yes, but ……[i] but Elf is supposed to be close to immortality, what on earth?"
+
+# 91631f19
+; そういや、体が何かに貫通されたような……
+by the way, …… as if the body had been penetrated by something
+
+# 63b14809
+; hime: 「いったい何が起こってるの？」
+hime: "What the hell is going on?"
+
+# df56f75c
+; yule: 「そういえば、あそこから何か飛んできた気が……[i][char yule.awawa]あっ！？」
+yule: "Come to think of it, I feel like something flew from there ……[i][char yule.awawa] Oh!?"
+
+# 3bd11b91
+; me: 「ヒヒーン？」
+me: "Is it niegh?"
+
+# 112065d4
+; ユールちゃんが指差す方向を見てみると……
+If you look at the direction …… points, Yule
+
+# e12c563
+; unknown: 「<s>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</s>」
+unknown: "<s></s>"
+
+# f2b76cbe
+; とても恐ろしい、巨大な化け物の姿があった。
+There was a very frightening figure of a giant Monster.
+
+# d4d18846
+; 俺たちが立ってる丘と同じような高さに、その頭が見えるくらいデカかった。
+I It was so big that I could see their heads on the hill where they stood.
+
+# 55bdd80b
+; 全身が海草に覆われていて、大きな目と口だけが、浮かび上がってる。
+His whole body was covered with seaweed, and only his big eyes and mouth were visible.
+
+# 879b6958
+; 黒く膨らんだ皮膚が、海草の中で凸凹に突出してる。
+The black, swollen skin projects unevenly in the seaweed.
+
+# e6049a59
+; そして死体が腐るような悪臭が、ここまで漂ってきた。
+and the stench of rotting bodies drifted to this point.
+
+# 93038236
+; まるで巨大なゾンビみたいだった。
+It was like a giant zombie.
+
+# 5903a5cd
+; グロい。
+It's gross.
+
+# bfe215d9
+; hime: 「きゃぁぁぁぁぁぁ！」
+hime: "`Oh, my God!'"
+
+# 6034ec01
+; ヒメは恐怖に捕らわれて、悲鳴をあげた。
+Hime, seized with fear, screamed.
+
+# dd43b553
+; yule: 「あ、あれは、ドラウグ（afturganga）？」
+yule: "Oh, is that Draugur?"
+
+# c5c5fd17
+; me: 「ヒヒーン？（ドラウグ？あの化け物の名前か？）」
+me: "niegh?Is that Monster's name?"
+
+# 3aca0d21
+; yule: 「そ、そうです。あれは本来、陸地には上がれない、海の <ruby="化け物"> スクリムスリ</ruby>のはずですが……」
+yule: "Yes, sir.It should be <ruby=" Monster"> Skrimsli</ruby> of the sea, but it cannot go up to land. ……"
+
+# 6fbf366f
+; me: 「ヒィーン（あ、あの化け物が、エルフをやったんのだな……）」
+me: "neigh (Oh, that Monster did Elf)"
+
+# d4ac2a07
+; 俺たちが騒がしくしてると、あの恐ろしい顔が、こっちに向けられた気がした。
+I As they were making a noise, I felt that the dreadful face had been turned to me.
+
+# 5b545fcf
+; unknown: 「ギギギギギギギギギギギギギギギギギ」
+unknown: "Giggling, giggling. giggling, giggling, giggling, giggling, giggling, giggling, giggling."
+
+# 4abc493f
+; おぞましい鳴き声。
+a terrible cry.
+
+# a82de493
+; これは動物のものではない。
+This is not an animal's.
+
+# 1709237
+; 凄まじい恐怖と、危険を感じた。
+I felt tremendous fear and danger.
+
+# 23409ccb
+; @choice "逃げる" goto:6_10_7_nigeru
+@choice "Run away" goto:6_10_7_nigeru
+
+# a88da2c3
+; @choice "戦う" goto:ed_6_10_6_draugr
+@choice "Fight" goto:ed_6_10_6_draugr

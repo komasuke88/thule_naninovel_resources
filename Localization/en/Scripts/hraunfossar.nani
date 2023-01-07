@@ -1,0 +1,125 @@
+; Japanese <ja> to English <en> localization document for `hraunfossar` naninovel script
+
+# 940e8bda
+; me: 「美しい滝だな」
+me: "It's a beautiful waterfall,"
+
+# 25a32ac7
+; 規模が大きい滝ではないが、自然が生きてる感じがする。
+It's not a big waterfall, but it feels like nature is alive.
+
+# 4149e5b7
+; 滝の上に、少ないながらも木々が生えていて、ちょっとだけ故郷の風景を思い出した。
+There were few trees growing on the waterfall, and I remembered the scenery of my hometown for a moment.
+
+# 687c8ca8
+;  <ruby="フロインフォッサル"> hraunfossar</ruby>。
+ <ruby="floinfossal">hraunfossar</ruby>.
+
+# f71228cf
+; 溶岩を意味するHraunと、滝のFossを合わせてそう名付けられた。
+Hraun, which means lava, and Foss, the waterfall, were named so together.
+
+# d727098a
+; アイスランドで二番目に大きい氷河、 <ruby="ラングヨークトル"> Langjökull</ruby>氷河。
+The second largest glacier in Iceland is the <ruby="Langj ökull</ruby> glacier.
+
+# 9b5e758
+; その地下の火山の爆発によって形成されたと思われる。
+It is believed to have been formed by the explosion of the underground volcano.
+
+# 6b7c692a
+; この滝の辺りには <ruby="ヴィドゲルミル"> Víðgelmir</ruby>という大きな溶岩洞窟もある。
+There is also a large lava cave called <ruby="Vidgelmir">V íðgelmir</ruby> around this waterfall.
+
+# a783c958
+; 昔からその洞窟は、トロールが住んでいたという。
+It is said that Troll lived in the cave from ancient times.
+
+# 4465952b
+; また中世では、その洞窟は盗賊の巣でもあったそうだ。
+In the Middle Ages, the cave was also said to have been a nest of thieves.
+
+# 9f1987de
+; me: 「この美しい風景の裏で、トロールや盗賊が群がってたってか」
+me: "There were Trolls and bandits behind this beautiful landscape,"
+
+# 205f3afe
+; 少しだけ上流まで歩いてきたら、もうひとつの別の滝が見えた。
+I walked a little upstream and saw another waterfall.
+
+# 7a8e0520
+;  <ruby="バルナフォス"> Barnafoss</ruby>
+ <ruby="Barnafoss">Barnafoss</ruby>
+
+# 821aa9b9
+; 『子どもたちの滝』という意味の滝だ。
+『 Children's Falls 』.
+
+# 56f7ff4f
+; 二人の少年が、この滝の落ちで死んだ以降、そう名付けられた。
+It was named after the two boys died in the fall of the waterfall.
+
+# 3772fe32
+; 近くの村に、二人の少年と母が住んでいた。
+Two boys and their mother lived in a nearby village.
+
+# f5a292d9
+; 母親が教会に行ってる間に、少年たちは家で大人しく待つように言われてた。
+While his mother was at church, the boys were told to wait quietly at home.
+
+# d638c858
+; しかし退屈になった少年たちは、家を出で母親を追ってみた。
+But the bored boys left the house and followed their mother.
+
+# f10bb557
+; 少年たちはバルナフォスの上の自然石アーチを橋だと思って、
+The boys thought of the natural stone arch above Barnaphos as a bridge;
+
+# 1f283117
+; その上を歩いて滝を渡ろうとしたんだけど、
+I was going to walk over the waterfall.
+
+# 4ce0730d
+; 途中、原因不明の目眩がきて、そのまま滝の下に落ちて死んでしまった。
+On the way, an unknown cause of dizziness occurred, and he fell directly under the waterfall and died.
+
+# 3e9635c0
+; あとで母親が戻り、その事実を知った時、
+Later, when his mother came back and found out,
+
+# f0ee4d7b
+; 悲しみに塗れた母親は、バルナフォスの自然石アーチに呪いを掛けた。
+The grieving mother put a curse on the natural stone arch of Barnaphos.
+
+# 55847953
+; 『溺死しないと、誰もこの橋を渡れないと知れ』というルーンの魔術を。
+『 the magic of Rune, knowing that no one could cross this bridge without drowning.
+
+# b173fdb0
+; その後間もなく、バルナフォスの自然石のアーチは地震よって壊れてしまった。
+Shortly thereafter, the natural stone arch of Barnaphos was destroyed by the earthquake.
+
+# 3b88ff40
+; me: 「悲しい物語がある滝だったな」
+me: "It was a waterfall with a sad story,"
+
+# 64c22a38
+; それにしてもルーンの魔術か。
+and yet the magic of Rune?
+
+# 55e6b25c
+; あの子供たちの母は、魔術師だったのかな。
+I wonder if those children's mothers were Magician.
+
+# 476f0b32
+; しかしいくら悲しいとはいえ、その橋を渡る誰も不幸にするようなその呪いはよくないじゃないか？
+But isn't that a curse that, however sad it may be, would make anyone unhappy across the bridge?
+
+# 61136d57
+; ……或いは、この橋は危険だと周りに知らせるために、わざとやってたかも知れないな。
+…… Or maybe I did it on purpose to let people know that this bridge is dangerous.
+
+# 933adcaa
+; どのみち、あの橋は壊れてしまって、その呪いも消えたという話だけど。
+Anyway, that bridge broke down and the curse disappeared.

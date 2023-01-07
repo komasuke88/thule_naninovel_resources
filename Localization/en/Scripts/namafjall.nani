@@ -1,0 +1,93 @@
+; Japanese <ja> to English <en> localization document for `namafjall` naninovel script
+
+# cecb1bb1
+;  <ruby="ナウマフィヤットル"> Námafjall</ruby> Geothermal Area。
+<ruby="Naumafjall">Geothermal Area.
+
+# f5adec1e
+;  <ruby="クベリル"> Hverir</ruby>とも呼ばれてる地熱地帯。
+The geothermal region is also called <ruby="Kuberir">Hverir</ruby>.
+
+# 4f7029c6
+; 今の異常高温のアイスランドの中でも、更に熱い場所だ。
+It is even hotter in Iceland, where it is unusually hot today.
+
+# d4a9e411
+; me: 「くっ」
+me: "Damn it,"
+
+# 5ee82d4c
+; 硫黄の匂いが濃くて、鼻に刺激が強い。
+The smell of sulfur is strong and irritating to the nose.
+
+# 6d4288a0
+; その強い火山ガスのせいで、この地域には生物が生きられない。
+The strong volcanic gas prevents living things from living in this area.
+
+# 64637ff1
+; だから、このような砂漠のような、外界の惑星のような光景をしてる。
+That's why we have this desert-like, extraterrestrial planet-like scene.
+
+# 148440cc
+; me: 「このガスか」
+me: "This gas?"
+
+# 4919d158
+; ここの火山ガスは毒性が強くて、ほっておいたら観光客の生命が危ない場合もある。
+Volcanic gases here are highly toxic, and if left alone, the lives of tourists may be in danger.
+
+# 5281c4e0
+; だからガスが横に広がらないように、このような煙筒を作ったという。
+That's why the smoke cylinder was built to prevent the gas from spreading sideways.
+
+# dc25485a
+; me: 「暑い」
+me: "It's hot"."
+
+# 126350cc
+; 沸いてるドロ。
+It's boiling.
+
+# 499e07a6
+; こちらの泥の温度は、２００°cくらいになるという。
+The temperature of the mud here is said to be about 200 degrees Celsius.
+
+# 584e9d22
+; あちらこちらの、fumarolesと呼ばれる蒸気の泉が見える。
+Here and there, you can see the steam springs called fumaroles.
+
+# d96d9896
+; そこからしっと、音を立てながら湯けむりが上がっていて、まるで広い窯の中にいる気分だ。
+From there, the steam was rising, making a noise, and I felt as if I were in a wide kiln.
+
+# c3f8bf43
+; me: 「苦しいけど、来てよかったな」
+me: "It's painful, but I'm glad I came."
+
+# 2b095702
+; こういった地熱地帯は日本でも行った事がある。
+I have been to such geothermal areas in Japan.
+
+# ee885d29
+; 確か北海道と別府でもこんな景色があった気がする。
+"If I remember correctly, I think there was such a view in Hokkaido and Beppu."
+
+# 1a463dc5
+; ただ日本に比べて規模も大きく、周りには広く砂漠のような風景だけが広がっていて、もっと異世界感がある。
+However, it is larger than Japan, and it has a wider desert-like landscape around it, making it even more different from the world.
+
+# e2a93706
+; me: 「しかし、ちょっと……クラクラするな」
+me: "But don't be a little dizzy ……,"
+
+# db6f9905
+; 硫黄のガスの匂いが強すぎて、頭がクラクラして、目眩がした。
+The smell of sulfur gas was so strong that I felt dizzy and dizzy.
+
+# 10392d2d
+; ここに長居するのはあまりよくない気がした。
+I don't think it's very good to stay here long.
+
+# 5cea1fed
+; me: 「……移動しよう」
+me: "Let's move ……."

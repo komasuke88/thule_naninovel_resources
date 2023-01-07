@@ -1,0 +1,553 @@
+; Japanese <ja> to English <en> localization document for `_myrdalsjokull` naninovel script
+
+# acdde051
+; 氷河の景色はいつみても圧倒的で、その雄大さに大きな力を感じる。
+The view of the glacier is always overwhelming, and I feel the power of its grandeur.
+
+# 4fa09983
+; この景色を観てると、ここが『アイス』ランドって事を改めて実感できる。
+Looking at this view, I can feel that this is 『 Ice 』land.
+
+# 50f8b113
+; me: 「あの氷河の上には、何があるんだろう……」
+me: "What's on that glacier ……?"
+
+# 70da2c4c
+; yule: 「気になりますか？」
+yule: "Are you curious?"
+
+# 9cb28812
+; me: 「……えっ？」
+me: "What ……?"
+
+# 11fcffbd
+; yule: 「それでは、行ってみましょう！」
+yule: "Well, let's go!"
+
+# a7347ff6
+; me: 「……えっ、ちょ、ちょっと、うわぁああ！」
+me: "…… `Oh, wait, wait, wait, wait, wait!'"
+
+# c00e6353
+; me: 「こ、ここはどこだ……？俺たち、氷河の上に来たん、だよね？」
+me: "Where are we, ……?"me They're on the glacier, aren't they?"
+
+# 19e46288
+; いきなり一面と広がる黒の景色に、気圧された。
+I was suddenly overwhelmed by the black landscape.
+
+# e782082a
+; ユールちゃんの魔法でいきなり空を飛んできたから、今の場所がどこなのか、まるで把握できなかった。
+The magic of Yule suddenly flew into the sky, so I couldn't figure out where I was now.
+
+# 923dda
+; yule: 「ここがあの氷河、 <ruby="ソゥルヘイマヨークトル"> Sólheimajökull</ruby>の上、 <ruby="ミールダルスヨークトル"> Mýrdalsjökull</ruby>の上ですよ」
+yule: "This is the glacier, <ruby="Solheimaj ökull</ruby> and <ruby="Mildals Yorktol">M ýrdalsj ökull</ruby>."
+
+# 9f1c1ecb
+; me: 「こ、ここが……」
+me: "Here's ……."
+
+# ee4ee310
+; 氷河の上だから、雪の景色が広がってると思ったのに、この黒つくしの景色。
+I thought there was a snow scene on the glacier, but this black tsukushi view.
+
+# 1d02f70d
+; yule: 「火山灰の上に雪が積もって、またその上に火山灰が積もって、このような景色になってしまったのです」
+yule: "Snow piled up on top of volcanic ash, and volcanic ash piled up on top of it, which made the scenery look like this."
+
+# f67c4c5
+; me: 「火山灰？」
+me: "Volcanic ash?"
+
+# 82c4d436
+; yule: 「この氷河は、火山の上にできたんですもの」
+yule: "This glacier was built on a volcano,"
+
+# 22f13fc
+; me: 「火山の噴火口を、雪が覆ってるって事？」
+me: "The snow covers the crater of the volcano?"
+
+# e8da1f58
+; yule: 「そうです。今ユールちゃんたちの足の下は、火山の噴火口ですよ」
+yule: "Yes, under Yule's feet is the crater of the volcano."
+
+# ad0c892
+; me: 「それって、大昔の休火山だとか？」
+me: "Is that a long time ago dormant volcano?"
+
+# c2df75dd
+; yule: 「だといいんですが、活火山ですよ。アイスランドで最も危険な『魔女の火山』、 <ruby="カトラ"> Katla</ruby>火山の上です」
+yule: "I hope so, but it's an active volcano.』, Iceland's most dangerous volcano of the Katla Witch, on the <ruby=" 『">Katla</ruby> volcano."
+
+# e7627700
+; 『魔女の火山』と名付けられた事件があった以来、
+『 Since there was an incident named the Witch's Volcano 』,
+
+# 8bdd41e
+; この火山は２０度以上の噴火をして、
+This volcano erupts more than 20 degrees.
+
+# 829ed055
+; カトラは約８０年周期に、持続的に噴火してる。
+Katla erupts continuously every 80 years.
+
+# 4afacc7d
+; カトラの最後の噴出は１９１８年で、そろそろ大爆発の時期は近づいてるという。
+The last eruption of Katla was in 1918, and the time for a major explosion is approaching.
+
+# fb1907e1
+; 氷河の下に埋もれていて、一見脅威的ではないと思うかも知れないが、
+You may think that it is not threatening at first glance because it is buried under a glacier.
+
+# f96cb84f
+; 今のアイスランドで最も危険性が高い火山だと言われてる。
+It is said to be the most dangerous volcano in Iceland today.
+
+# b6c81471
+; この火山が爆発すると、噴火口の上にある氷河が溶け落ちて、
+When this volcano explodes, the glaciers on the crater melt away.
+
+# dd34d23c
+; 南アイスランドでは大きな洪水が発生し、町は全滅だ。
+In southern Iceland, a major flood has occurred and Village has been wiped out.
+
+# f3d6a86c
+; ２０１０年、隣の <ruby="エイヤフィヤトラヨークトル"> Eyjafjallajökull</ruby>が噴火し、
+In 2010, the neighboring <ruby=" Eyjafjallajokull">Eyjafjallaj ökull</ruby> erupted.
+
+# 9928b60d
+; その火山灰はヨーロッパ全域の飛行便を麻痺させた。
+The volcanic ash paralyzed flights across Europe.
+
+# b57f5343
+; カトラはその火山と同じ火山システムである故、その爆発で触発され、
+Katla is inspired by the explosion because it is the same volcanic system as the volcano.
+
+# 7bf7fbe
+; それ以来、カトラは爆発寸前な状態で、持続的な地震を起こしてる。
+Since then, Katla has been on the verge of exploding and has caused continuous earthquakes.
+
+# fe27d8
+; 幸い、未だに爆発はしてないけど、専門家たちはずっと危険性を警告してる。
+Fortunately, it hasn't exploded yet, but experts have been warning of the danger.
+
+# f9b9b08e
+; カトラはエイヤフィヤトラヨークトル火山よりも、更に大きな火山だ。
+Katla is a larger volcano than Eyjafjallajokull.
+
+# c429859
+; これが爆発すると、世界的な災難が起こりかねない。
+If this explodes, a global disaster could occur.
+
+# d18da14f
+; me: 「魔女の火山か……」
+me: "The Witch's Volcano or ……."
+
+# e572856c
+; yule: 「実際に、魔女カトラさんが住んでるんですよ、ここには」
+yule: "Actually, the Witch Katla lives here,"
+
+# 831ed834
+; me: 「えっ？魔女が住んでる？どこに？」
+me: "What? Is there a witch living there?Where?"
+
+# 9382dfd1
+; yule: 「この氷河の、クレバスの下です」
+yule: "It's under the crevasse of this glacier,"
+
+# 1a8b22c8
+; me: 「クレバス……氷河の亀裂の下に？」
+me: "Under the cracks in the crevasse…… glacier?"
+
+# 94e1e71b
+; yule: 「ちょっと呼んでみましょうか？」
+yule: "Shall I call you?"
+
+# f3875b00
+; me: 「呼ぶ？」
+me: "Do you want me to call you?"
+
+# 6b4a82b1
+; yule: 「同じトロール同士ですし、呼んだら答えてくれますよ。[i][char yule.dot]場所は……こっちがいいか」
+yule: "They are the same Troll, and if you call them, they will answer.[i][char yule.dot] …… This is the best place."
+
+# 1d99977f
+; ユールちゃんは、巨大な氷河の亀裂のホールの前に立って、声をだした。
+Yule stood before the hall of the great glacier's rift and uttered a voice.
+
+# 59a3049d
+; yule: 「カトラさん、居ますか？」
+yule: "Mr. Katla, are you there?"
+
+# 11049b4f
+; katla_witch: 「あら、ユールラッズの……どうしたの？」
+katla_witch: "Oh, what's wrong with …… of Yulelads?"
+
+# f56d93a5
+; me: 「で、出たああぁ！」
+me: "`And here it is!'"
+
+# ea68488a
+; katla_witch: 「うんっ！に、人間が何でここに！？[i]こ、このっ……！」
+katla_witch: "Huh! Why are people here?"[i]Here, here, ……!"
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# f87076ff
+; 魔女は俺を見た途端、魔法の杖を俺の方へ突き出した。
+As soon as she saw me, she thrust her magic wand towards me.
+
+# 18931d3
+; な、何だ！？
+What is it?
+
+# d7574afd
+; yule: 「あっ、カトラさん、ちょっとちょっと！彼はユールちゃんの夫なんで」
+yule: "Oh, Mr. Katla, wait a minute!He is Yule's husband."
+
+# f5d1e1fd
+; katla_witch: 「あらそうなの？それは失礼したわね。[i]いつの間にかさらってきたの？」
+katla_witch: "Do you think so?"I'm sorry about that.[i]Did you steal it before you knew it?"
+
+# 78baa42c
+; yule: 「いや、男をされってくるのは昔の習慣でして、今は普通に誘ってますよ」
+yule: "No, it was an old custom to have Man, and now I'm inviting her normally."
+
+# 7d397a27
+; katla_witch: 「そうなの。今どきのトロールたちは違うわね」
+katla_witch: "I see. Troll are different these days."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 7490c3d1
+; 夫ではないけど、黙っておく事にした。
+I'm not my husband, but I decided to keep quiet.
+
+# 4ec8664e
+; yule: 「あ、カトラさんは人間嫌いでして」
+yule: "Oh, Katla doesn't like people."
+
+# e5d2cc60
+; ユールちゃんは俺に説明しようとそう言った。
+Yule said so to explain to me.
+
+# 2c38ca2d
+; katla_witch: 「パンツの恨みは、忘れないわよ」
+katla_witch: "I won't forget panties's grudge,"
+
+# 1526f4a
+; me: 「パンツの恨み？？」
+me: "A grudge against panties?"
+
+# e7417ee5
+; いきなり緊張感がなくなった。
+I suddenly lost my tension.
+
+# d15b0001
+; 昔、Vikの近くの修道院に、 <ruby="カトラ"> Katla</ruby>という名のメイドがいた。
+Once upon a time there was a maid named <ruby=" Katla">Katla</ruby> in a monastery near Vik.
+
+# a17f0e6b
+; 彼女は力が強くて魔法も使える、トロールの魔女だという噂があった。
+There was a rumor that she was a powerful witch of Troll who could use magic.
+
+# b35643fe
+; 彼女が作った魔道具の中で、特に噂になったのは『魔法のパンツ』だった。
+Among the magical tools she made, the 『 magical panties』 became the talk of the town.
+
+# 4d5ef60b
+; そのパンツを穿く者は疲れを知れず、風のようなスピードで走れると。
+that he who wears the panties can run at wind speed without showing fatigue.
+
+# 843718e0
+; 同じ修道院に <ruby="バルディ"> Barði</ruby>という羊飼いの男がいた。
+In the same monastery there was a shepherd Man named <ruby=" ð">Bar Bardii</ruby>.
+
+# 9179ea78
+; ある日、バルディはうっかりと数匹の羊を逃してしまった。
+One day, Bardi inadvertently missed a few sheep.
+
+# 17ee687b
+; 早く羊を牧場に戻さないと大変な目にあうと、バルディは恐れていた。
+Bardi was afraid that he would have a hard time if he had not returned the sheep to the pasture soon.
+
+# d4ea2eab
+; 苦悩のすえに、バルディは妙案を思い出した。
+After suffering, Bardi remembered a good idea.
+
+# abd49be9
+; カトラの『魔法のパンツ』を盗み穿く事だった。
+It was to steal 『's magic panties』 from Katla.
+
+# e5fd57a7
+; 魔法のパンツを穿いたバルディは、風のようなスピードで羊を探し、
+Wearing a magical panties, Bardi looked for the sheep at the speed of the wind;
+
+# 15706feb
+; あっという間に逃した羊を牧場に戻す事に成功した。
+I succeeded in returning the sheep I had missed in no time.
+
+# 520c37d9
+; しかし、その事実を知ったカトラは激怒し、
+But when Katla learned the fact, he was furious;
+
+# fc3cd980
+; バルディを片手で持ち上げて、大きなワイン <ruby="たる"> 樽の中に彼を入れ込んだ</ruby>。
+Lift Bardi with one hand and put him in a large wine <ruby="taru"> barrel</ruby>.
+
+# 1715309a
+; バルディはワインの中で溺死し、ワイン倉庫の中で誰にも発見されず、
+Bardi drowned in the wine, and no one found him in the wine-house;
+
+# 945da6d2
+; 修道院では、バルディは突然と失踪したって事になった。
+In the monastery, Bardi suddenly disappeared.
+
+# 7e3ca6b3
+; 数ヶ月後の夏、修道院のワイン樽が多く持ち出される行事があった。
+A few months later, in the summer, there was an event where many wine barrels from the monastery were taken out.
+
+# 9c35ede0
+; 次々と持ち出され、人にワインが出される状況を見て、カトラはつぶやいた。
+Katla murmured, seeing the situation in which wine was served one after another.
+
+# e820cef
+; 『もうすぐ、バルディが戻るのでしょう』
+『 Bardi will be back soon 』
+
+# 249245e2
+; そう言って彼女は、自分の魔法のパンツを穿いて北の山へと逃げた。
+Then she put on her magic panties and fled to the mountains of the north.
+
+# b6cbfeea
+;  <ruby="ミールダルスヨークトル"> Mýrdalsjökull</ruby>の上に来たカトラは、
+<ruby="Mildals yoke">M ýrdalsj ökull</ruby> is,
+
+# aad64b38
+; 『カトラの峡谷』で自らの身を投げ落とした。
+He threw himself down in 』's canyon.
+
+# a3816ef7
+; それから間もなく、火山が噴出し氷河が溶け、洪水が発生した。
+Shortly afterwards, volcanoes erupted, glaciers melted and floods broke out.
+
+# b3bac4eb
+; その水  は南の海岸を覆い尽く、修道院がある町は壊滅した。
+The water covered the southern coast and destroyed Village, where the monastery was located.
+
+# 1fab7a1
+; その事件のあと、
+After the incident,
+
+# 96aa17b5
+; 氷河のフタに隠れてるこの恐ろしい火山には、『カトラ』という名が付いた。
+The terrible volcano hidden in the lid of the glacier was named 『Katla』.
+
+# 1e00acea
+; あれから人々はミールダル氷河の洪水が発生するたびに
+And since then, people have been thinking about every time there's a Mirdal glacier flood.
+
+# 683b5159
+; 『邪悪な魔女の怒り』だと、そう信じるようになった。
+『 I came to believe that it was 』 the wrath of the Wicked Witch.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 89374015
+; パンツを盗んだ人を殺すのも驚愕だけど、それはギリギリ理解の範囲だとして、
+It was astonishing to kill the person who stole panties, but it was within the bounds of my understanding.
+
+# f4b16c12
+; 修道院の人たちに怒るのは逆ギレじゃないか。しかも洪水で全滅させたって？
+It's maddening to be angry with the people of the monastery.What's more, the flood wiped it out?
+
+# 8a61f6d
+; 流石は魔女と呼ばれる事だけはあるな。うん、邪悪だ。
+She is sometimes called a witch.Yes, it's evil.
+
+# ddd927cc
+; ……と思ったけど、あえて言わなかった。
+…… I thought so, but I didn't dare say that.
+
+# 8d22ab62
+; me: 「今もこの火山の爆発は、あなたが起こしてるって事ですね」
+me: "You are still responsible for the eruption of this volcano."
+
+# 8c482a78
+; katla_witch: 「ま、半分あってるけど、半分は違うわ」
+katla_witch: "Well, it's half right, but half wrong,"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 9eb4d79c
+; katla_witch: 「火山の下に眠ってるワタシの体が、この火山の噴火を起こしてるの」
+katla_witch: "The body of a viper sleeping under a volcano is causing this volcano to erupt."
+
+# dfc2f4f7
+; me: 「それはどういう……」
+me: "What …… is that?"
+
+# bb19dc80
+; yule: 「ここにいるカトラさんは霊体なんですよ。石化したご先祖様のような状態です」
+yule: "Mr. Katla here is a spirit.It's like a petrified ancestor."
+
+# d151d781
+; katla_witch: 「ええ。ワタシの体はもうカトラ火山と一体化し、どうにもならない状態」
+katla_witch: "Yes. Watashi's body is now integrated with the Katla volcano, and nothing can be done about it."
+
+# 4241c1
+; yule: 「彼女の体を媒介にして、彼女の怒りが自然現象と化したって事です」
+yule: "Her anger became a natural phenomenon through her body."
+
+# e6543fae
+; me: 「……そうなんだ。なら、火山の爆発を止める事はできないのかな」
+me: "…… I see.Then can't we stop the volcano from exploding?"
+
+# 8dc00ce0
+; katla_witch: 「ワタシの体を取り戻したらできるかもね。[i]火山の噴火口の奥深く、マグマの中にいるけど……」
+katla_witch: "Maybe I can do it when I get my body back.[i]Deep inside the crater of the volcano, in the magma, ……."
+
+# 445cf580
+; me: 「それは……」
+me: "That's ……,"
+
+# 17f9807b
+; yule: 「あの体と対面するのは無理ですよ。もはやカトラさんの個人の人格とは切り離された、マグマの化け物ですから」
+yule: "It's impossible to face that body.It is the Monster of magma, no longer separated from Mr. Katla's personal character."
+
+# 85ed448c
+; katla_witch: 「ええ。ワタシ自身も諦めたわ。[i]別にワタシは今のままでも特に不便なものもないし、いいわ」
+katla_witch: "Yes. Watashi himself gave up.[i]There's nothing particularly inconvenient about Watashi as it is now, and that's fine."
+
+# 147a55e0
+; me: 「幽霊のような状態でいいと？」
+me: "You want me to be like Ghost?"
+
+# 198afcad
+; katla_witch: 「幽霊のような状態って？……そうかしら、ふふふ」
+katla_witch: "What's the state of Ghost? …… I wonder, huff."
+
+# 68ae2247
+; me: 「ななっ！？」
+me: "What!"
+
+# 26d8734f
+; 魔女カトラは、いきなり俺に抱きついてきた！
+The Witch Katla suddenly embraced me!
+
+# 7505746b
+; me: 「ちょ、ちょっと何を……[i]って、肌の感触がある。まるで生身の人間と同じ……」
+me: "Hey, what ……[i] does it feel like?…… just like a living person."
+
+# 32948f01
+; yule: 「ああっ！カトラさん、人の旦那に手出しちゃ駄目でしょう！」
+yule: "Ah! Mr. Katla, don't interfere with your husband!"
+
+# 478b0714
+; katla_witch: 「ふふふ、ごめんね。ちょっとこの男にわからせただけだから」
+katla_witch: "I'm sorry.I've only made this Man understand a little."
+
+# 2d19db26
+; yule: 「カトラさんはすごい魔女ですから、霊体でもこのように仮の体を持つのは可能ですよ」
+yule: "Mr. Katla is such a witch that it is possible for a spirit to have such a temporary body."
+
+# adff5303
+; me: 「そ、そうなんだ」
+me: "I see,"
+
+# ba15a7b3
+; katla_witch: 「それはそうと、このカトラ火山にはなんか用でもあった？」
+katla_witch: "By the way, did you have any business with this Katla volcano?"
+
+# 6ffc96ab
+; yule: 「あ、いいえ。ちょっと旅をしてただけです。旦那様が見てみたいって」
+yule: "Oh, no, I was just traveling a little.My husband wants to see it."
+
+# 68c681fe
+; katla_witch: 「そうなの。特に何もない場所だけど、存分に楽しんで行きなさい」
+katla_witch: "I see. There's nothing in particular, but enjoy yourself to the fullest."
+
+# 64ef34d5
+; me: 「はあ」
+me: "Yes,"
+
+# fa2b9be1
+; katla_witch: 「あ、そういえば」
+katla_witch: "Come to think of it,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# fd06ab56
+; katla_witch: 「最近、大洪水の予知がしたわ。ここ数日、毎日夢に出てくる」
+katla_witch: "Recently, I have foreseen a great flood.I've been dreaming every day for the past few days."
+
+# adf1e091
+; yule: 「えっ、カトラ火山、また爆発しますか？」
+yule: "Oh, Katla volcano, will it explode again?"
+
+# 99113f27
+; katla_witch: 「違うわ。そんなちっぽけな地域規模ではない。全地球級の大洪水よ」
+katla_witch: "No, it's not such a small area.It's one of the world'"
+
+# 58ab4223
+; yule: 「えっ、それは……」
+yule: "Oh, that's ……,"
+
+# 1c0768bd
+; katla_witch: 「そのような事が起こる原因は……わかるわね」
+katla_witch: "You know why it happened ……,"
+
+# 9aee0b89
+; yule: 「全地球の氷河の消失、……そしてそんな事が起これば……」
+yule: "The disappearance of glaciers around the world, ……, and if that happens, ……."
+
+# e34d63af
+; katla_witch: 「うん。ワタシたちフルドゥフォルクは、消えるんだから」
+katla_witch: "Yes, the Watashi Huldufolk will disappear."
+
+# de320cf
+; yule: 「そんな予知……当たらないといいですね」
+yule: "I hope you don't get that prediction ……."
+
+# 1ebbc65
+; katla_witch: 「ええ。ワタシの予知は、人々の行動によって変わる事もあるから、そうならない事を願うわ」
+katla_witch: "Yes. I hope that Watashi's prediction doesn't change depending on people's behavior."
+
+# 33a33d9f
+; me: 「どういう事だ？」
+me: "What do you mean?"
+
+# c5c45063
+; yule: 「ああ、えっと、どこから説明したらいいのか……」
+yule: "Oh, well, I don't know where to begin ……."
+
+# 8fea6435
+; katla_witch: 「ま、今はあまり深入りしない方がいいわ人間。旅行中でしょう？」
+katla_witch: "Well, you'd better not go too far now. You're traveling, aren't you?"
+
+# 69a9797a
+; me: 「あ……そうですね」
+me: "Oh, …… I see,"
+
+# c781cede
+; yule: 「そう、ですね。あとで旅を十分楽しんだあと、余裕がある時に説明しますんで」
+yule: "Yes, sir.I'll explain it to you later when I have time after enjoying my trip enough."
+
+# ef0c0fdf
+; me: 「ああ。そうするか」
+me: "Yes, I will."
+
+# d3f1f425
+; そのあと俺たちは氷河の舌に滑り落ちて、車に戻った。
+Then the mes slipped on the tongue of the glacier and returned to the car.

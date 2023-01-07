@@ -1,0 +1,97 @@
+; Japanese <ja> to English <en> localization document for `ed_3_03_1_hime` naninovel script
+
+# 19bd3e8
+; 彼女に会ったら、この寂しい気持ちも全部吹き飛ぶ気がした。
+When I met her, I felt that all this loneliness would go away.
+
+# 80c92a9e
+; 俺はそのまま、あのホテルへ向かった
+I headed straight to that hotel
+
+# e9e36f89
+; hime: 「……えっ！？{playerName}！？」
+hime: "What ……? {playerName}!"
+
+# 73b1a905
+; me: 「……ひ、ヒメ」
+me: "Hi, Hime"."
+
+# 39032675
+; ホテルの正門の前で、ばったり出くわした。
+I bumped into him in front of the main gate of the hotel.
+
+# 9d30ae11
+; ちょうど出掛けるところだったらしい。
+He was just about to leave.
+
+# ca92115f
+; hime: 「{playerName}の方から直接尋ねてくれるとは思わなかったよ！嬉しい」
+hime: "I didn't expect {playerName} to ask me directly!"I'm glad."
+
+# 8a6bfdf8
+; me: 「う、うん……」
+me: "Yes, yes, ……,"
+
+# 63e172ce
+; こんなに歓迎されて、何か安心して、涙が出た。
+I was so relieved to be welcomed that I cried.
+
+# 4a4e5f5c
+; hime: 「あれ？どうしたの？涙なんかして」
+hime: "Huh? What's the matter?"and tears."
+
+# eab83464
+; me: 「い、いや、ちょっと……」
+me: "No, no, just a little ……,"
+
+# eab6d77a
+; hime: 「……何か、あったんだね」
+hime: "Something happened ……,"
+
+# 90fb7b88
+; me: 「うん……」
+me: "Yes, ……,"
+
+# e28483ab
+; hime: 「……わたし、今からブルーラグーンに行こうとしてるんだけど」
+hime: "…… "I'm going to Bluelagoon now."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 3c810633
+; hime: 「一緒に行かない？バスに乗ったら直ぐなんだって」
+hime: "Would you like to come with me?"As soon as I got on the bus."
+
+# 1753490c
+; me: 「……それは、温泉じゃないか？」
+me: "…… "Isn't that a hot spring?"
+
+# f3529201
+; hime: 「そうよ。[i][char hime.up_w]そこで、何があったのか話してみて。[i][char hime.up_emidere2]ゆっくりと湯船に浸りながらね」
+hime: "Yes. [i] [char hime.up_w] Tell me what happened there.[i]'Charhime.up_emidere 2' Slowly soak in the bathtub."
+
+# ed1e505
+; me: 「……うん。それは……いいね」
+me: "Yes, that's …… good ……."
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 83ec57ed
+; そのあと、色々あったけど、
+After that, there were a lot of things.
+
+# ffbf629a
+; 俺とヒメには無事に旅を終えて、仲良く日本に戻ったのだった。
+I and Hime had safely finished their journey and returned to Japan in good company.

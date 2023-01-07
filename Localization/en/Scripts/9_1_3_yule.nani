@@ -1,0 +1,641 @@
+; Japanese <ja> to English <en> localization document for `9_1_3_yule` naninovel script
+
+# ffe07c2f
+; 国道1号。
+National Highway No. 1.
+
+# 89c55578
+; 通称、リングロードと呼ばれる、アイスランドを巡る道路。
+A road around Iceland, commonly known as Ring Road.
+
+# adc3bf59
+; ここをまっすぐに走るだけで、北アイスランドまで行ける。
+Just run straight here and you'll get to Northern Iceland.
+
+# 665938ad
+; 昔だったら、１２月には道路が閉鎖されて、リングロードでは北アイスランドへ行けなかった。
+In the past, roads were closed in December and Ring Road could not go to Northern Iceland.
+
+# 5f3cf707
+; でも今のアイスランドは、冬でもそんなに危なくない。
+But Iceland today is not so dangerous even in winter.
+
+# 8ca07aa6
+; 冬でも、雪はあまり積もらない。
+Even in winter, there is not much snow.
+
+# 3dd767b2
+; 南リングロードに入った。
+I entered the South Ring Road.
+
+# a1093b80
+; 周りは、どれもが見覚えがある風景だった。
+The surroundings were familiar landscapes.
+
+# e80f8a41
+; セリャラントスフォスの滝。
+Seljalandsfoss Waterfall.
+
+# 82fb9d6c
+; レイニスドランガルのトロール。
+Troll in Reynisdrangar.
+
+# e01afba1
+; そして、
+And...
+
+# 6ae1c59
+; me: 「……国道２０４号」
+me: "…… National Highway 204"
+
+# 2d342238
+; 苔だらけの原野、エルドフロインへの道。
+The road to Eldhraun, a mossy wilderness.
+
+# bb3753e6
+; me: 「ちょっとだけ、回り道するか」
+me: "Let's go around a little bit,"
+
+# 35152f3d
+; 回り道になるんだけど、あえてこの道路に入った。
+It's going to be a detour, but I dared to get into this road.
+
+# 50e74020
+; 急いでいたはずなのに、なぜかここだけは見てみたかった。
+I should have been in a hurry, but for some reason I wanted to take a look here.
+
+# 88594e49
+; 暗緑色の奇怪なデコボコに覆われた大地。
+the earth covered with dark green and strange bumps.
+
+# 649b3fd4
+; 苔の原野、 <ruby="エルドフロイン"> Eldhraun</ruby>。
+Moss field, <ruby=" Eldhraun">Eldhraun</ruby>.
+
+# 6987871a
+; 夢の中で、最初に浮かんだ風景。
+The first scene that came to my mind in my dream.
+
+# 15346a58
+; 彼女と、最初に出会った場所。
+The place where I first met her.
+
+# d2a44f31
+; そう。
+so。
+
+# 82706f20
+; ここで、出会ったんだよな。
+I met him here.
+
+# 5948e3a8
+; me: （え？）
+me: "(What?)"
+
+# 30a3cf5
+; 真っ直ぐに伸びてる道路の先、その端っこに、人影が見えた。
+I saw a figure at the end of the straight road.
+
+# f41bec09
+; 目を疑って改めて見たけど、確かに女の子が居た。
+I looked at it again, suspicious of my eyes, but there was certainly Girl.
+
+# 9256e244
+; me: 「……あ……」
+me: " ……, ……."
+
+# 7e02b862
+; 女の子は道端で立ち止まり、こっちを向いていた。
+Girl stopped at the side of the road and turned to this side.
+
+# 7ed7c44e
+; あのサインを、俺に送ってる。
+I'm sending that sign to me.
+
+# aee6b951
+; 腕をまっすぐ伸ばし、親指を立てて。
+Straighten your arms and raise your thumb.
+
+# 7226bdd
+; me: 「……ヒッチハイク」
+me: "The ……Hitchhiking,"
+
+# 370e4e38
+; あの時と変わらない笑顔で、
+With the same smile as before,
+
+# 9418767e
+; あの時と変わらない姿で、
+I'm going to look the same as before.
+
+# e62ade5d
+; 「<ruby="グレリヨール">　Gleðileg jól</ruby>！」
+"<ruby=" Glediyol"> Gleðileg jól</ruby>!"
+
+# f3449b91
+; と、 <ruby="クリスマス"> ヨールを祝う</ruby>、あの特別な挨拶の言葉を送りながら……
+and <ruby="Christmas">Celebrating Jol</ruby>, sending those special greetings ……
+
+# b8aaaf2b
+; yule: 「langt síðan við höfum sést. Elskulegur eiginmaður minn」
+yule: "langts íðanvi ðh öfums ést. Elskulegureiginma ðurminn"
+
+# 1121fc5f
+; アイスランド語。『久しぶりです。愛おしい旦那様』
+Icelandic. 『 Long time no see.My dear husband 』
+
+# b4ebc4fd
+; 俺を旦那様と呼ぶのは、あいつしかいない。
+I He is the only one who calls her husband.
+
+# 717f4431
+; me: 「お、お前、どうやって……」
+me: "Oh, how do you ……?"
+
+# 369508d8
+; yule: 「今日は１２月１５日、スヴォルスレイキルが人里に降りる日ですよ」
+yule: "Today is December 15th, the day Thvorusleikir gets off at the village."
+
+# 93fbdd19
+; me: 「そ、そ、そんな話ではなくて……お前は……」
+me: "Oh, no, that's not what I'm talking about. ……, you ……."
+
+# 277229a7
+; yule: 「{playerName}、来るかな？と、ずっと期待してました。[i]それが本当に来るとは！……ユールちゃん感激です！」
+yule: "I've been looking forward to {playerName} coming.[i]I can't believe it's coming! ……Yule I'm impressed!"
+
+# fce16917
+; ユールちゃんが抱きついてきた。
+Yule came hugging me.
+
+# 8549fa03
+; me: 「うわっっ！」
+me: "Whoa!"
+
+# 7944f39
+; ドンと、俺の胸に小さな重さが乗ってきた。
+A little weight came upon me's breast.
+
+# 27b2ef3b
+; yule: 「おかえりなさいませ、旦那様」
+yule: "Welcome back, sir,"
+
+# 60c249b5
+; 少し涙目になったユールちゃんが、俺に甘えた。
+Yule, a little tearful, spoiled me.
+
+# 3c1cdee0
+; me: 「ほ、本当に、ユールちゃんなのか？」
+me: "Oh, really, Yule?"
+
+# 59adf94e
+; yule: 「もう……他に誰が居ますか？」
+yule: "Who else is ……?"
+
+# 23f67fb
+; me: 「ま、幻とか、ではないんだよな？」
+me: "Well, it's not a vision, is it?"
+
+# 71ace297
+; yule: 「くすくす、そう思うなら、体で感じてみてくださいな」
+yule: "giggle "If you think so, feel it with your body."
+
+# dd77c622
+; 久しぶりに感じる、柔らかい女の子の体。
+It's been a while since I felt the soft Girl body.
+
+# 8e23b880
+; ゆるふわの髪から漂う、甘くて清涼な香り。
+A sweet and refreshing scent from loose, fluffy hair.
+
+# f1f60c6
+; 胸の中で感じられる、小さな吐息の暖かさ。
+You can feel the warmth of a small breath in your chest.
+
+# 131c5005
+; ああ、ユールちゃんだ。
+Oh, it's Yule.
+
+# 72d7f784
+; me: 「うっ……」
+me: "Ugh ……,"
+
+# 7bd2cca6
+; 言葉の代わりに、涙が流れてきた。
+Instead of words, tears began to flow.
+
+# f4e0d0b2
+; この歳になるとどうにも涙もろくなって仕方がない。
+I can't help but cry at this age.
+
+# 2487422c
+; 何を言えばいいのかもわらないまま、こうして立ち尽くした。
+He stood there, not knowing what to say.
+
+# 28a1766f
+; yule: 「くすくす、どうですか？なんとかなったんでしょう？」
+yule: "What do you think, giggle?"What a success!"
+
+# 11e34ec4
+; 『<ruby="セッタ・レッダスト">　Þetta reddast</ruby>』
+『 <ruby=" Thetta reddast"> Thetta reddast</ruby> 』
+
+# 91265cb
+; me: 「ああ、ああ。本当に、なんとかなったな」
+me: "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, my God."
+
+# 3c9a7a60
+; 俺は涙を拭いながら言った。
+I said, wiping away his tears.
+
+# 9d79f8
+; me: 「でもお前、どうやって？」
+me: "But how are you?"
+
+# bc7c7b2
+; yule: 「話せば長くなりますが、簡単に言いますと、姉妹たちが頑張ってくれました」
+yule: "It takes a long time to talk about it, but to put it simply, my sisters worked hard."
+
+# f6a5d7be
+; me: 「え？」
+me: "What?"
+
+# 87443d49
+; yule: 「今年は、ヨールまで持たなくても、もう石化と解けるくらいの魔法陣は、使えます」
+yule: "This year, even if you don't have Jol, you can use The Magic Circle that can be petrified and melted."
+
+# 7e9431b1
+; me: 「そ、そうだったのか」
+me: "Oh, I see,"
+
+# d3ac4861
+; 想定外の状況で、俺はどうしたらいいかわからずにいた。
+Under unexpected circumstances, me did not know what to do.
+
+# 64714d0a
+; 俺があの姉妹たちを呼んでやろうとした事だったけど、もうやったのか。
+I was going to call the sisters, but have you done it yet?
+
+# 67060327
+; でもまあ、いいや。
+But I don't mind.
+
+# a14648c
+; 無駄足ではない。
+It's not a waste of time.
+
+# 316cfef5
+; むしろよかった。
+It was better.
+
+# d84fddab
+; もっと早く、ユールちゃんに会えたから。
+I met Yule earlier.
+
+# e9574361
+; me: 「それにしてもお前……」
+me: "But you ……,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# c2290dfb
+; me: 「全然変わってないな」
+me: "It hasn't changed at all,"
+
+# 4677c78c
+; 俺は少しだけ離れて、ユールちゃんの姿を、もう一度確認してみた。
+I separated a little and checked Yule again.
+
+# d38eea76
+; ３３年前とまったく同じ、少女のような姿だった。
+She looked exactly like a girl 33 years ago.
+
+# 6c6b7bcc
+; me: 「流石に、トロールは長生きだな」
+me: "As expected, Troll lives long,"
+
+# 5715f3d1
+; yule: 「くすくす、{playerName}は、すごく変わりましたね」
+yule: "You've changed a lot between giggle and {playerName}."
+
+# cb1648a2
+; それに比べて俺の姿は、
+In comparison, me's appearance...
+
+# 8e8ac13a
+; 白けた髪と、よせたシワ、痩せた体。
+White hair, thin wrinkles, thin body.
+
+# 1ac78309
+; あの時とは、なにもかも違う。
+Everything is different from that time.
+
+# 79cdee8c
+; me: 「俺だって、どうしてわかったの？」
+me: "How did you know me?"
+
+# 5205edab
+; yule: 「いや、旦那様を見間違うはずがないじゃないですか」
+yule: "No, you can't mistake your husband,"
+
+# 98d42b67
+; me: 「そうか。それは嬉しい。しかしこんな老人が旦那でいいのか？お前」
+me: "Well, I'm glad to hear that.But is it OK for an old man like this to be his husband?You."
+
+# 438b2f6e
+; yule: 「くすくす、大丈夫ですよ。どんな姿でも、契を結んだ夫婦は永遠なのです」
+yule: "It's all right, giggle.No matter what you look like, the couple who make the contract will last forever."
+
+# 9668fb30
+; me: 「ありがたいや」
+me: "Thank you,"
+
+# 38cb545b
+; yule: 「ところで、久しぶりにあったのに、ユールちゃんにお土産とかはないですか？」
+yule: "By the way, it's been a long time since I saw you. Do you have any souvenirs for Yule?"
+
+# 337622a5
+; me: 「ああ、お土産じゃないけど、渡すものがあった」
+me: "Oh, it's not a souvenir, but I had something to give you."
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 5d9e90fa
+; 俺はカバンからあれを取り出し、ユールちゃんに投げた。
+I took it out of his bag and threw it at Yule.
+
+# 355345c1
+; yule: 「うわっ！汚いっ、捨てて下さいよ、こんなの」
+yule: "Wow! It's dirty. Throw it away, like this."
+
+# 82a8a049
+; ビニール袋。
+a plastic bag.
+
+# 80424021
+; 中身は腐ったイモだ。
+It's rotten potatoes inside.
+
+# bf465c39
+; もう、イモの形さえ保ててない、白いモコモコだけだけど。
+I can't even keep the shape of the potatoes anymore, just the white fluffy ones.
+
+# 2fe558dc
+; me: 「ヨールのプレゼントみたいだったから、捨てるわけには行かなくて」
+me: "It was like gift in Jol, so I can't throw it away."
+
+# 501a3ff
+; yule: 「ヨールのプレゼントだから、返してどうするんですか？」
+yule: "It's gift from Jol, so what are you going to do with it?"
+
+# 958e3215
+; me: 「それってやっぱり、ユールちゃんが？」
+me: "Is that true of Yule?"
+
+# ad542270
+; yule: 「いいえ。でも確かにユールラッズの贈り物ではありますね。姉妹たちが贈りましたよ」
+yule: "No, but it's certainly a gift from Yulelads.My sisters gave it to me."
+
+# 9e9d0137
+; me: 「これ、悪い子に送るものだろう？」
+me: "Isn't this for a bad boy?"
+
+# ca137c51
+; yule: 「悪い子ですもの。妻を捨てて故郷に戻ろうとしたんだから」
+yule: "He's a bad boy.I was going to leave my wife and go back to my hometown."
+
+# 18df7f89
+; me: 「仕方がないよ。忘れてたんだし」
+me: "It can't be helped.I forgot."
+
+# 30d59c7f
+; yule: 「くすくす、知ってます。[i]だから実は、どうにか思い出すように、ユールちゃんの姉妹たちが頑張ってくれました」
+yule: "I know giggle.[i]So, in fact, the sisters of Yule did their best to remember."
+
+# 56f6b97d
+; me: 「え、そうだったか」
+me: "Well, I see,"
+
+# e8fd7db1
+; yule: 「よっと」
+yule: "All right,"
+
+# a0b3b008
+; ユールちゃんがどこからかスプーンを取り出して、軽く降った。
+Yule took Spoon from somewhere and it rained lightly.
+
+# 1b0e9195
+; そしたら、ビニール袋はどこかに消えてしまった。
+Then the plastic bag disappeared somewhere.
+
+# eb081b00
+; トロールの魔法。久しぶりに見た。
+The magic of Troll.It's been a while since I saw it.
+
+# aa60e093
+; me: 「ユールちゃんの魔法、あとどれくらい使えるのかな？」
+me: "How much longer can I use the magic of Yule?"
+
+# 88ffd9d8
+; yule: 「あと３年は使えそうですよ。みんな頑張ってくれたお陰ですね」
+yule: "I think I can use it for another three years.Thanks to everyone's hard work."
+
+# fb76aa30
+; me: 「そうか」
+me: "I see,"
+
+# aa8d040f
+; 氷河が溶けていくのを完全に止める事は、できない。
+We cannot completely stop the glaciers from melting.
+
+# 3189b233
+; だけど遅らせる事はできた。
+But I could delay it.
+
+# 415d3f58
+; それだけで十分だ。
+That's enough.
+
+# e6f8de94
+; 俺が妻と過ごせる時間が、少しだけはできたんだから。
+I had a little time to spend with his wife.
+
+# 1a9d1e0
+; yule: 「でも３年だけじゃなく、永遠にするのです。[i]そのために、みんな今年を待ってました」
+yule: "But not just three years, but forever.[i]That's why everyone has been waiting for this year."
+
+# e6dc55af
+; ユールちゃんはくすくすと笑った後、俺に手を伸ばした。
+Yule laughed giggle and then reached for me.
+
+# 154cde21
+; そうだ。
+That's it。
+
+# 2e97a451
+; 今年はまた、３３年ぶりの、サムスティラ。
+This year, for the first time in 33 years, Samstilla.
+
+# dd6e896e
+; 奇跡を起こせる年。
+A year when you can do miracles.
+
+# bde8ecc6
+; yule: 「さて、行きましょうか？」
+yule: "Well, shall we go?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 56aa04ae
+; yule: 「新婚旅行、まだですもの」
+yule: "I haven't had my honeymoon yet."
+
+# a91f2c76
+; me: 「そういや、そうだったな」
+me: "Yes, by the way,"
+
+# 467b5688
+; 俺はユールちゃんの手を取った。
+I took Yule by the hand.
+
+# fc75825c
+; me: 「どこに行くんだ？」
+me: "Where are you going?"
+
+# b0a5bee7
+; yule: 「まずは国道２０８号に向かい、ランドマンナロイガルですね」
+yule: "First, head for National Highway 208, Landmannalaugar."
+
+# 13cb7376
+; me: 「アイスランドの秘宝だな。あそこの景色は世界一だ。そして、温泉もあったんだな」
+me: "It's a treasure of Iceland.The view over there is the best in the world.And there was a hot spring, too."
+
+# bd0b3e95
+; yule: 「はい！あの時は色々あって、湯船には入れなかったんですから」
+yule: "Yes! I couldn't take a bath because there were many things at that time."
+
+# edcd2a87
+; me: 「ああ。今度こそ、ユールちゃんの大好きな温泉を楽しむとするか」
+me: "Yes. Let's enjoy Yule's favorite hot spring this time."
+
+# 965c1f87
+; yule: 「はい。そしてそこからもトレイルを続けて、ずっと北へ向きます、そして……」
+yule: "Yes, and from there we continue the trail, and head all the way north, and ……."
+
+# e2dcfaa6
+; me: 「アークティックヘンジまで、行くのだな」
+me: "You're going all the way to the Arcichenge,"
+
+# 7ee6aef7
+; yule: 「くすくす、流石に気づきましたね。はい。[i]それでは最後の行き先も、知ってるでしょう？」
+yule: "You've noticed giggle, haven't you? Yes. [i] Then you know the last destination, don't you?"
+
+# 789d9fad
+; me: 「ああ。【地の果てのトゥーレ】だよな」
+me: "Yes, Thule】 at the end of the 【 earth."
+
+# 8d6cd963
+; yule: 「くすくす、そうです。地球からは遠い、遥かに遠い星になるのです」
+yule: "Yes, giggle.It's a star that's a long way from Earth."
+
+# 75823fa4
+; me: 「しかしそこまで行くと俺、もうこの <ruby="地球"> 故郷</ruby>には帰れないんじゃないか？」
+me: "But if you go that far, me, you won't be able to go back to your <ruby="Earth">home</ruby"
+
+# d1fae836
+; yule: 「そうです。だけどユールちゃん、もう離したくありませんから」
+yule: "Yes, but I don't want to let go of Yule anymore."
+
+# 3264f24c
+; そういって俺の手を握る力を強めるユールちゃん。
+Yule thus strengthening me's grip on the hand.
+
+# fc5c4931
+; me: 「ま、いいけどね。どのみち、地球はそろそろ限界だ」
+me: "Well, that's all right.In any case, the earth is almost at its limit."
+
+# b8b789fe
+; yule: 「そうですよ。それにあなたは歳を取りすぎたのです。[i]こんな終わっていく星でずっと生きていくには、辛いでしょう」
+yule: "Yes, and you're too old.[i]It must be hard to live on such an ending star."
+
+# adeab008
+; me: 「まあ、そうだな」
+me: "Well, yes,"
+
+# afbd50d8
+; もったいぶったけど、実は最初からそのつもりだったりする。
+I put on airs, but in fact, that's what I'm going to do from the beginning.
+
+# bdbf528f
+; もう結構な歳だ。
+I'm old enough.
+
+# d74f6d6f
+; ずっと追いかけていた最後の夢も叶ったし、
+The last dream I've been chasing has come true.
+
+# 1913897a
+; この世でやり残した事は、もうない。
+There is nothing left to do in this world.
+
+# bdfa520c
+; みんなには、お別れの挨拶も済ませたしな。
+I've finished saying goodbye to them.
+
+# daa0bbc4
+; yule: 「夫婦ですもんね。永遠に一緒ですよ」
+yule: "They are married, aren't they?We'll be together forever."
+
+# 17054d55
+; me: 「ああ。これからはずっと一緒だ」
+me: "Yes, we'll be together forever from now on."
+
+# 2020fb5d
+; 俺はユールちゃんの手を取って、歩き出した。
+I took Yule by the hand and began to walk.
+
+# c34f40dd
+; yule: 「それでは行きましょう！トゥーレへの続く、新婚旅行を」
+yule: "Well, let's go! Thule On our honeymoon to"
+
+# 4ad13167
+; me: 「ああ、ちょっと待って。挨拶がまだだったから」
+me: "Oh, wait a minute. I haven't said hello yet."
+
+# 4fb1ef2f
+; yule: 「挨拶？」
+yule: "Greetings?"
+
+# f5e3063c
+; me: 「<ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>、ユールちゃん」
+me: "<ruby=" Gledileg jol"> Gleðileg jól</ruby>, Yule"
+
+# bae6de58
+; yule: 「くすくす、はい！グレリヨールです！」
+yule: "Yes, giggle! Glediyol!"
+
+# a6aeead8
+; me: 「そしてこの星には、お別れの挨拶をしなくちゃな」
+me: "And I must say good-bye to this star,"
+
+# e05dcc30
+; お互いには再会の挨拶を、
+Say hello to each other.
+
+# a9274b62
+; 人類にはお別れの挨拶を、
+Say goodbye to mankind.
+
+# 6494cfd1
+; <s>　　　　　　　　　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。
+<s>            </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>.
+
+# 1e761cd1
+; 終わっていく <ruby="地球"> この星</ruby>で生きていける強さを、あなたたちに。
+The strength to live on the ending <ruby="Earth">this star</ruby>.

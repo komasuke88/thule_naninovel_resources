@@ -1,0 +1,409 @@
+; Japanese <ja> to English <en> localization document for `6_12_2_lakagigar` naninovel script
+
+# fcf88d31
+; yule: 「着きました。ここがラーカギーガルです」
+yule: "Here we are. This is Lakagigar."
+
+# e37b1f59
+; hime: 「なんだか、恐ろしい感じ」
+hime: "It's kind of scary,"
+
+# d96929df
+; ラーカギーガル。
+Lakagigar.
+
+# c81a961f
+; ラキ火山の噴火口で、反芻する火口って意味だ。
+It is the crater of Rocky Volcano and means the crater that ruminates.
+
+# 99999b4a
+; 地面はまるで爆撃でもされたように亀裂が入ってて、
+The ground was cracked as if it had been bombed.
+
+# 72448936
+; 自然の暴力を感じてしまう。
+I feel the violence of nature.
+
+# f84799c7
+; １７８３年６月８日。
+June 8, 1783.
+
+# 75608d11
+; ハイランドの地下水がマグマに触れて水蒸気爆発を起こし、
+The groundwater of Highland touched the magma and caused a steam explosion;
+
+# cf543ecd
+; 長さ２６ｋｍに渡り、１３０もの火口が誕生した。
+Over 26 kilometers in length, 130 crater were born.
+
+# f9b4e953
+; それから始まった大規模の噴火は【スカフタ川の炎】と呼ばれ、
+The large-scale eruption that started there was called the flame 】 of the 【 Skafta River.
+
+# 52d3eba5
+; 人類史上において最大級の噴火だと言われてる。
+It is said to be one of the largest eruptions in human history.
+
+# 809b5c89
+; 噴火による火山灰がヨーロッパ全域の空を覆い尽くし、
+Volcanic ash from the eruption covered the skies all over Europe;
+
+# e5458eb8
+; １７８３年の夏は <ruby="砂の夏"> sand-summer</ruby>と呼ばれた。
+The summer of 1783 was called <ruby="sand-summer">sand-summer</ruby>.
+
+# b56b94c6
+; 噴火は４２０億トンの溶岩を流しながら数ヶ月も続いて、
+The eruption lasted for several months with 42 billion tons of lava flowing.
+
+# 93b761d5
+; アイスランドに壊滅的な被害をもたらした。
+It caused devastating damage to Iceland.
+
+# 54ae3cf9
+; 南アイスランドの半分が溶岩で覆われて、
+Half of South Iceland is covered with lava.
+
+# bbb44fda
+; 氷河が溶け出して洪水のような水が下流域の集落に流れ込み、
+Glaciers melt and flood-like water flows into downstream settlements.
+
+# bc3939ed
+; 21の村が破壊され、241人が亡くなった。
+Twenty-one villages were destroyed and 241 people died.
+
+# 64e6602e
+; また噴火後の飢饉で２１%の住民が死亡し、
+The famine after the eruption also killed 21 percent of the population.
+
+# f3765ad2
+; ５０％以上の家畜が死んだ。
+More than 50 percent of livestock died.
+
+# 93a63292
+; 被害はアイスランドのみならず、全世界に広がった。
+The damage spread not only to Iceland but also all over the world.
+
+# bc7e8b86
+; 1億2000万トンの火山ガスは【毒の雲】になり、
+120 million tons of volcanic gas became 】 poison cloud 【.
+
+# fac033cd
+; ヨーロッパの大気に広まり、数万人の命を奪った。
+It spread to the European atmosphere and claimed tens of thousands of lives.
+
+# dbac31d3
+; 噴煙の粒子と火山灰のせいで、北半球全体の気温が下がり、
+Because of the smoke particles and volcanic ash, the temperature of the entire northern hemisphere dropped.
+
+# 55463005
+; 異常気象による連載的な食糧不足が始まった。
+A series of food shortages have begun due to abnormal weather conditions.
+
+# 649a452
+; そのせいでヨーロッパでは、数年間も貧困と飢饉が続いた。
+This led to years of poverty and famine in Europe.
+
+# 57786fbc
+; またアフリカとインドでは雨期が変わって川の水量が減ったり、
+Also, in Africa and India, the rainy season has changed, and the amount of water in the river has decreased.
+
+# 7ea1b73d
+; アメリカでは大雪と、長い酷寒が続いた。
+Heavy snow and long, bitter cold continued in America.
+
+# d6719f0f
+; 日本にまでもその影響が届き、
+The influence reached Japan, too.
+
+# 46a6d39f
+; 同じ時期に発生した浅間山の大噴火と重ねて、
+It coincided with the eruption of Mount Asama at the same time.
+
+# 395f5208
+; 【天明の大飢饉】と原因になった可能性もあると言われてる。
+【 It is said that it may have been caused by 】 the Great Famine of Tenmei.
+
+# c4373c34
+; me: 「ヒヒーン（大変な事があった場所なんだな）」
+me: "niegh (It's a place where something terrible happened.)"
+
+# 2038c2aa
+; この殺伐した風景には、それに見合うほどの歴史があったわけだ。
+This savage landscape had a history worthy of it.
+
+# 5b91399a
+; yule: 「そうですね。あの時はユールちゃんもまだ幼かったんですけど、[i]人間世界に盗めるもののなくて、餓死しそうでしたよ」
+yule: "That's right. Yule was still young at that time, but [i] I almost starved to death because there was nothing in the human world to steal."
+
+# 40150867
+; hime: 「えっ？あれって１７８３の話じゃない？」
+hime: "What? Isn't that about 1783?"
+
+# 1845a5af
+; yule: 「まぁ、フルドゥフォルクは長生きですからね」
+yule: "Well, Huldufolk lives long,"
+
+# bd3c289c
+; hime: 「すごーい！ユールちゃんって、こう見えてすごくお姉さんだったんだね。じゃあ、ユールねぇと呼んでいい？」
+hime: "Wow! Yule looked like this and she was so big. Then can I call her Yule Hey?"
+
+# 855393af
+; yule: 「ユールちゃんでお願いします」
+yule: "I'd like Yule, please."
+
+# f950ddc6
+; ユールちゃんたちのやりとりを横耳しながら、俺は風景を眺めてた。
+me, listening to their conversation, looked at the landscape.
+
+# d96929df
+; ラーカギーガル。
+Lakagigar.
+
+# 71449e41
+; 昔の噴火は、大自然の怒りとも読み取れたんだろう。
+Old eruptions could be read as the anger of Mother Nature.
+
+# eb94b04e
+; でも今は、”もう怒ってないよ”と言わんばかりに、落ちついてる。
+But now I'm as calm as saying, "I'm not angry anymore."
+
+# 143586f3
+; 地面に大きな傷跡だけを残して、眠ってる。
+I'm sleeping with only a big scar on the ground.
+
+# b9e4536d
+; この荒涼さの下に、世界を覆すほどの激情を潜めて。
+In this desolate place, with such passion as to subvert the world.
+
+# 74860dac
+; いつかまた、その激情をさらけ出す日が来るのだろうか。
+I wonder if the day will come when the passion will be revealed again.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 4a4f6cdc
+; そうやって一人で感想にうつっていたときに、ユールちゃんが話しかけてきた。
+While I was alone in my thoughts, Yule spoke to me.
+
+# a9b4931
+; yule: 「ささ、ヒルドルを探しますか。この一帯のどこかに居るはずです」
+yule: "Sasa, are you looking for Hildur?He must be somewhere in this neighborhood."
+
+# 4e89d04c
+; me: 「ひぃーん（あ、ああ。そうだな）」
+me: "Heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+
+# 3a4c3e26
+; hime: 「でもヒルドルさんは、こんな険しい場所で何をしてるんだろう？）」
+hime: "But what is Mr. Hildur doing in such a steep place?"
+
+# f6e7f72d
+; yule: 「魔法陣の下準備です。[i][char yule.doya]ハイランドの火山帯は地球の霊脈で、噴火口はその脈のポイントです。[i]そこから霊力を取り上げて魔力に変換してですね」
+yule: "Preparation for The Magic Circle.[i][char yule.doya] The volcanic zone of Highland is the pulse of the earth, and the crater is the point of the pulse.[i]Then we took the psychic powers and converted them into Magical Power."
+
+# 3a5f55d1
+; hime: 「へぇー」
+hime: "Yes,"
+
+# 9f1992cf
+; へぇーとか言ったけど、多分わかってないよな。
+I said yes, but you probably don't understand.
+
+# 216c189d
+; 俺もよくわからない。
+I I don't understand either.
+
+# f0d7fa28
+; yule: 「ま、厳密には魔力と霊力を混ざり合う感じです。それで、霊脈の流れを変えて魔法陣へ……[i][char yule.ee]……って、あれ？」
+yule: "Well, strictly speaking, it's a mixture of Magical Power and psychic powers.So I changed the pulse and went to The Magic Circle[i][char yule.ee] ……...what?"
+
+# 46c9d860
+; me: 「ヒヒーン（どうした？）」
+me: "niegh (What's the matter?)"
+
+# add0e076
+; 俺の背中で、ユールちゃんはヒメの方を振り向きながら言った。
+On me's back, Yule turned to Hime and said,
+
+# e8906df1
+; yule: 「あ、あなた、ちゃんと後ろに乗ってましたね？」
+yule: "Oh, honey, did you ride right behind you?"
+
+# 8961e518
+; hime: 「うん？わたし？」
+hime: "Huh? Me?"
+
+# 7de0aa72
+; me: 「ヒヒーン（なにを言ってるんだ？）」
+me: "niegh (What are you talking about?)"
+
+# d763c88a
+; yule: 「えっと、一瞬、姿が見えなかったような……」
+yule: "Well, for a moment, …… I felt as if I hadn't been seen."
+
+# f62a2af1
+; hime: 「え？ずっとユールちゃんを捕まえてたんだけど……」
+hime: "What? I've been catching Yule. ……"."
+
+# cd936cda
+; yule: 「ですよね。うーん……[i][char yule.ee]あれ？」
+yule: "Right, ……[i][char yule.ee] Huh?"
+
+# 52d90c97
+; ユールちゃんがまたヒメの方を見ながら疑問を浮かべた。
+Yule looked at Hime again and raised a question.
+
+# 5194a1b9
+; yule: 「あ、あなた……ちょっと、降りてみて……？」
+yule: "Oh, you ……, come down, ……?"
+
+# ca4095aa
+; hime: 「うん？わ、わかった」
+hime: "Huh? I see,"
+
+# f9cbbb1e
+; 二人は俺の背中から降りて、地面にたち、向き合った。
+They got down from me's back, stood on the ground, and faced each other.
+
+# 5226e7f
+; yule: 「あ、あなた？……う、腕が？」
+yule: "Oh, you? …… Oh, my arm?"
+
+# 371a3e2e
+; hime: 「腕？」
+hime: "Arms?"
+
+# 12c8efe0
+; ヒメは自分の左腕の方を見下ろして……
+Hime looked down at his left arm and ……
+
+# 13e4c434
+; hime: 「ええええっ！？」
+hime: "`What!'"
+
+# c335345a
+; me: 「ひひーん？（な、なんだ？）」
+me: "niegh? (What?)"
+
+# 58251516
+; hime: 「わ、わたし、左腕が消えたよ？？」
+hime: "Oh, my left arm is gone?"
+
+# 91cf5678
+; yule: 「消えたっていうより、透明になった？」
+yule: "It's more transparent than gone?"
+
+# 9b6bcff6
+; me: 「ひひーん？（ど、どういう事だ？また幽霊に戻ったのか？）」
+me: "niegh? (What do you mean?Are you back in Ghost again?"
+
+# 93e736c6
+; yule: 「いやでも……」
+yule: "But ……,"
+
+# 9a7d49fb
+; hime: 「きゃっ！」
+hime: "Oh, my God!"
+
+# c784d043
+; me: 「ヒヒーン？？（な、なにを？）」
+me: "What, niegh?"
+
+# e53882f
+; いきなりおっぱいを揉むから何事かと思った。
+I was wondering what was going on because I suddenly rubbed the milk.
+
+# 2ce5ac34
+; yule: 「このいやらしいおっぱいの感触、[i][char yule.hm]幽霊に戻ったのではないですが……」
+yule: "What a breief[i][char yule.hm] Ghost I'm not going back to being a ghost ……..."
+
+# 8f8940e0
+; hime: 「も、もう、ユールちゃんってば……[i][char hime.e]……って、あれ？」
+hime: "Well, Yule is ……[i][char hime.e] ……?"
+
+# e8530757
+; そう心配したヒメの透明な左腕が、いきなり点滅しはじめ……
+So worried, Hime's transparent left arm suddenly began to blink ……
+
+# 49f056ec
+; yule: 「腕、戻りましたね」
+yule: "Your arm is back."
+
+# 8d2a86e3
+; また、見えるようになった。
+I can see it again.
+
+# d064ec46
+; hime: 「よ、よかった。[i]腕がなくなってるのかと思ってびっくりしたよ」
+hime: "Well, I'm glad to hear that.[i]I was surprised to think that my arm was gone."
+
+# 155f46be
+; me: 「ヒヒーン（これはいったい……）」
+me: "niegh (This is ……."
+
+# cb98fd65
+; yule: 「そういえば、トゥーレに来た人間が元の世界に戻る時、こんな風に透明化してたんですが……」
+yule: "Come to think of it, when people who came to Thule returned to their original world, they made it transparent like this. ……."
+
+# 399f5099
+; me: 「ヒヒーン（そういや、リルヤもの時もそうだったな。透明になって）」
+me: " niegh (and so did Lilya.Be transparent.)"
+
+# f2fc5a8a
+; hime: 「えっ？わたし、もう人間世界に戻るの？」
+hime: "What? Am I going back to the human world now?"
+
+# 57aefda0
+; yule: 「うーん。[i]でもあれは”全身”の透明化で、こういった部分的な透明化は見たことないですね」
+yule: "Hmm. [i] But that's the transparency of the whole body, and I've never seen such a partial transparency."
+
+# 9393c8a5
+; me: 「ヒヒーン（そうだな。あと、まだ２３日にもなってないし）」
+me: " niegh (Yes.It's only been a couple of days.)"
+
+# 189490b6
+; hime: 「うぅぅ。なんだろう。なんか不安……」
+hime: "`Well, what is it?I feel uneasy ……."
+
+# 2e9cba8
+; me: 「ヒィーン（ま、まぁ、とりあえず、何事もなくてよかった）」
+me: "neigh (Well, for now, I'm glad nothing happened.)"
+
+# 177ea45
+; hime: 「うん。戻ったのはいいけど……」
+hime: "Yes, I'm glad I'm back, but ……."
+
+# fdf7f91e
+; yule: 「もうすぐヒルドルに会うんだから、ちょこっと聞いてみましょう？」
+yule: "I'm going to see Hildur soon, so shall we ask her a question?"
+
+# e2b1bba2
+; hime: 「あ、そうだね。ヒルドルさんならなにか知ってるかも」
+hime: "Oh, yes.Mr. Hildur might know something."
+
+# 7c56ad79
+; me: 「ヒヒーン（ヒルドルに聞く事が多いな）」
+me: "niegh (I have a lot to ask Hildur)"
+
+# 45cf275e
+; yule: 「そうと決まったら早速探しに……[i][char yule.ee]……おお？」
+yule: "As soon as it's decided, I'll look for it ……[i][char yule.ee]……...oh?"
+
+# 53ffb9bc
+; me: 「ヒヒーン？（ど、どうした……って、あれ、ヒルドルじゃね！？）」
+me: "niegh? (What's wrong with ……, isn't it Hildur?)"
+
+# 7f1ed75c
+; ユールちゃんの視線の先をたどってみると、遠くで、あの後ろ姿が見えてきた。
+I followed Yule's gaze and saw her back in the distance.
+
+# 6114f4ff
+; hime: 「あ、本当だ！彼女だよ」
+hime: "Oh, really! It's her!"
+
+# c315c479
+; me: 「ヒヒーン？（よし、みんな行くぞ！）」
+me: "niegh? (All right, let's go!"

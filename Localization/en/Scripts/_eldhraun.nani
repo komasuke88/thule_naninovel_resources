@@ -1,0 +1,33 @@
+; Japanese <ja> to English <en> localization document for `_eldhraun` naninovel script
+
+# 88594e49
+; 暗緑色の奇怪なデコボコに覆われた大地。
+the earth covered with dark green and strange bumps.
+
+# 649b3fd4
+; 苔の原野、 <ruby="エルドフロイン"> Eldhraun</ruby>。
+Moss field, <ruby=" Eldhraun">Eldhraun</ruby>.
+
+# 70a84f6f
+; その中を横切ってる、この国道204号には誰の影も見当たらなく、
+No one was seen on National Highway 204, crossing it.
+
+# 2d76cf53
+; 俺の車だけが強風で揺られてる。
+Only me's car is shaken by the strong wind.
+
+# c646a71b
+; yule: 「ユールちゃんが、{playerName}と最初に出会った思い出の場所です」
+yule: " Yule is the place where I first met {playerName}."
+
+# f6fd56d0
+; me: 「ま、思い出ってほどのもんじゃないだろうけど」
+me: "Well, I don't think it's a good memory,"
+
+# f22bab9a
+; yule: 「もう、ユールちゃんにとっては思い出ですから！」
+yule: "It's a memory for Yule!"
+
+# 836763fb
+; me: 「まぁ、うん。わかったよ」
+me: "Well, yes, I see,"

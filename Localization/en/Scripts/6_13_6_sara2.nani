@@ -1,0 +1,581 @@
+; Japanese <ja> to English <en> localization document for `6_13_6_sara2` naninovel script
+
+# 4516cc5d
+; 前回、リルヤが現れた時のように、一瞬だけ人間世界に戻ってる状況なら、
+If you're back in the human world for a moment like the last time Lilya appeared,
+
+# d7aac859
+; 俺たちは間もなく、またトゥーレに戻されるのだろう。
+I will soon be returned to Thule.
+
+# 5176b6cf
+; [br]でもあの時、世界を移動する際に、いきなり２日が過ぎてしまったのを思い出す。
+[br] But when I was traveling around the world, I suddenly remembered that two days had passed.
+
+# fabe2f5c
+; またあの時のように、時間が過ぎてしまったのなら、
+If the time had passed again, as it was then,
+
+# 858153a9
+; 人間世界に戻ったまま、２３日になってしまったのなら、
+If it had been two or three days since I had returned to the human world,
+
+# 15af4614
+; 俺たちはもう完全に、人間世界に帰還したと思っていいのだろう。
+I It is safe to think that they are now completely back in the human world.
+
+# 41797eab
+; しかし、実は逆のケースかもしれない。
+In fact, however, it may be the opposite.
+
+# 134a7aa1
+; サラには自覚がないだけで、実はここはトゥーレなのかも知れない。
+Sara is not aware of it, but in fact, it may be Thule.
+
+# e91f69aa
+; 俺やヒメみたいに、
+Like me and Hime,
+
+# afceae39
+; サラの方から、トゥーレに来たのかも知れない。
+Sara may have come to Thule.
+
+# 2a78b239
+; 人間が突然とトゥーレに現れる事、最近多いと聞いたし。
+I heard that people suddenly appear in Thule these days.
+
+# 7a333a77
+; どっちなんだ？
+Which one?
+
+# 919b809e
+; サラがトゥーレに現れたのか、
+whether Sara appeared in Thule,
+
+# 2ae5b756
+; それとも俺たちが人間世界に来たのか、
+Or did me come into the human world?
+
+# a72fa584
+; それを見極めなければ、どう動くか決められない。
+If we don't see that, we can't decide how to move.
+
+# fcf179b3
+; hime: 「そうだね。サラさんが逆に、トゥーレに来ちまった可能性もあるのね」
+hime: "Yes, there is a possibility that Mr. Sara, on the contrary, has come to Thule."
+
+# ed7be270
+; me: 「ヒヒーン（うん。今のところは何もわからない）」
+me: "niegh (Yes, I don't know anything at the moment.)"
+
+# c987c184
+; アイスランドって、元々人間が少ない国なんだから。
+Iceland is originally a country with few people.
+
+# 1185f93b
+; 人間世界に帰ったとしても、その確認が難しい。
+Even if you return to the human world, it is difficult to confirm.
+
+# 6041df83
+; 今俺たちがいる世界がどっちなのか、区別がつかない。
+I can't tell which world me are in right now.
+
+# f58276cb
+; 周りにもっと人が多かったのなら、少しは確信ができたかも知れないが……
+If there were more people around, I might have been a little sure, but ……
+
+# 7639791e
+; sara: 「どう？馬は、[i]少し落ち着いた？」
+sara: "What do you think? [i] Has the horse calmed down a little?"
+
+# 384db614
+; 俺たちがヒソヒソと話してた時に、サラが話を割ってきた。
+I While they were whispering, Sara interrupted.
+
+# 1dc2368f
+; hime: 「あ、いいえ。まだちょっと……」
+hime: "Oh, no. Not yet ……."
+
+# 18bb893b
+; sara: 「うーん。でもちょっといいか？[i]そろそろ連絡しようかと思ったから」
+sara: "Well, but can I have a moment?"[i]I was thinking about getting in touch with you soon."
+
+# e6320a5e
+; hime: 「連絡？」
+hime: "Contact me?"
+
+# ff1b283f
+; sara: 「警察にだよ。行方不明になった観光客が見つかったって」
+sara: "The police said they found a missing tourist."
+
+# c1f21a47
+; そう言いながら、サラはポケットからスマホを取り出した。
+As he spoke, Sara took Smartphont out of his pocket.
+
+# 9ce20c02
+; hime: 「あ、スマホ！？」
+hime: "Oh, Smartphont!"
+
+# dada226f
+; me: 「ヒヒーン（電話、できるのか！？）」
+me: "niegh (Can you make a phone call?)"
+
+# c91402f0
+; sara: 「うん？そりゃ、スマホだよ。[i]ヒメカちゃんは持ってないの？」
+sara: "Huh? That's Smartphont.[i]Himeka Don't you have it?"
+
+# df7bafa2
+; hime: 「はい。わたし今、何も、持ってなくて」
+hime: "Yes, I don't have anything right now."
+
+# 405d373c
+; sara: 「そうか。荷物もなくしてるのかな。[i][char sara.hm]なら尚更、早く警察に頼った方がいいと思うけど、[i][char sara.hae]あ、でもその前に確認だ」
+sara: "I see. I wonder if I've lost my luggage.[i]'sara.hm' I think you should rely on the police as soon as possible. [i] [char sara.hae] Oh, but before that, let's check."
+
+# 3208e1cd
+; hime: 「はい？」
+hime: "What?"
+
+# 67c09233
+; sara: 「警察に行ったら困るような事情とか、ないよね？」
+sara: "You don't have any trouble going to the police, do you?"
+
+# 84f8f889
+; hime: 「えっ？」
+hime: "What?"
+
+# bb927db6
+; sara: 「ヒメカちゃん、とても事故で行方不明って感じには見えなかったからさ。[i][char sara.w]何か個人的な理由があって姿をくらませたのなら、連絡は保留しておくよ。[i][char sara.close_emi]それぞれに事情はあるはずだからね」
+sara: "Because, Himeka-chan, it didn't look like she was missing in the accident.[i][char sara.w] If you disappeared for some personal reason, I'll put off contacting you.[i][char sara.close_emi] There must be circumstances for each."
+
+# c02fae58
+; hime: 「事故は、まぁ、事故ですけど、別に警察に行って困るような事はないですよ」
+hime: "The accident, well, it's an accident, but you don't have to go to the police."
+
+# fd714f91
+; sara: 「そっか！それでは早速……」
+sara: "I see! Then …… at once."
+
+# 76547e01
+; hime: 「あ、その前に、一つだけ聞いていいですか？」
+hime: "Can I ask you one question before that?"
+
+# d183fafc
+; sara: 「うん？なんだ？」
+sara: "Huh? What is it?"
+
+# 461044a2
+; hime: 「ええっと、今、何月何日ですか？」
+hime: "Well, what month is it now?"
+
+# ccf8864c
+; sara: 「あ、そっか。知らないんだね。[i][char sara.w][stopBgm]今は１２月２３日だよ。２０２５年の」
+sara: "Oh, I see. You don't know.[i][char sara.w] 'stopBgm' It's December 23rd.in 2025."
+
+# e4c6e88
+; hime: 「えええっ！？」
+hime: "`What!'"
+
+# 2c95dfdb
+; me: 「ブルルルル！」
+me: " Brrrral!"
+
+# 7e03107c
+; そう言ってサラはすぐにスマホのボタンを押して、どこかにつなげた。
+Then Sara immediately pressed the Smartphont button and connected it somewhere.
+
+# e4a21c2c
+; ヒメは俺の耳元でヒソヒソと、だけど普段よりちょっとだけ早口で話しかけた。
+Hime whispered in me's ear, but spoke a little faster than usual.
+
+# 6407dff6
+; hime: 「本当に、２３日だって？[i]ならわたしたち、人間世界、戻ったんだよね？？」
+hime: "Really, on the 23rd?"[i]Then we're back in the human world, aren't we?"
+
+# 616056d
+; me: 「ヒヒーン！（あ、ああ。また２日過ぎてしまったんだな）」
+me: "niegh! (Oh, yes, it's been two days.)"
+
+# 8d2fe159
+; hime: 「よかったね！」
+hime: "Good job!"
+
+# 5fbb9845
+; me: 「ヒヒーン！（ああ、しかし……）」
+me: " niegh!"
+
+# aa75f95e
+; hime: 「え、な、何か気になる事とか？」
+hime: "What, is there anything you're curious about?"
+
+# fdf0c013
+; me: 「ヒヒーン（あの電話……ちゃんと繋がれたら安心なんだけど……）」
+me: "niegh (I'd be relieved if I could connect with …… on that phone ……)"
+
+# e7862ad9
+; hime: 「あ……」
+hime: "Oh, ……,"
+
+# ad40dd23
+; 俺たちが話してる間も、サラの電話が繋がらないようだった。
+While me were talking, Sara's phone didn't seem to be working.
+
+# 266fe5ae
+; sara: 「……あれ？信号が聞こえないな？[i][char sara.e]電波が悪いのかな。[i][char sara.close_sad]おかしいな、つい先まではグー○ルマップも使えたんだけど……」
+sara: "…… Huh? You can't hear the signal?[i][char sara.e] Is the connection bad?[i][char sara.close_sad] That's strange. I could use the Goggle map just now, ……."
+
+# cef34cb0
+; サラは改めてスマホの画面を確認して、掛け直した。
+Sara checked the Smartphont screen again and called back.
+
+# e4dd0860
+; sara: 「ここは電波届かないか。車の近くなら届くかな？」
+sara: "Can't you get a signal here?Will it reach you near the car?"
+
+# 518aed9c
+; hime: 「えっ……そ、そうか。[i]ここがトゥーレだったら……」
+hime: "Oh, ……, I see.[i]If this is Thule, ……."
+
+# e73e82bf
+; サラは車の方へと移動しながら電話をかけ直した。
+Sara called back as he moved toward the car.
+
+# febdc173
+; me: 「ヒヒーン（繋がらないか……）」
+me: "niegh (Can't you connect or ……)"
+
+# cf5edaf8
+; hime: 「電話が繋がらないって事は、ここ、人間世界ではない？」
+hime: "Isn't it the human world that we can't get through?"
+
+# 19132cbd
+; me: 「ヒヒーン（そう、みたいだな。サラからトゥーレに来てしまったか。[i]さて、サラにはどう説明したら……）」
+me: " niegh (Yes, I suppose.Have you come to Thule from Sara?[i]Now, how can I explain to Sara ……?"
+
+# 8c89ea5e
+; と、二人で落胆してたその時、
+said the two of us, when we were both disappointed.
+
+# d9c58041
+; sara: 「あ、もしもし、警察ですか！」
+sara: "Oh, hello, police!"
+
+# d1732069
+; hime: 「えっ！？」
+hime: "What!"
+
+# cbff8ace
+; me: 「ヒヒーン（繋がった！？）」
+me: "niegh (Connected!?)"
+
+# 24306a5d
+; sara: 「はい！ここ、クヴェラヴェトリルですが、あ、はいはい。失踪者を見つけてですね……」
+sara: "Yes! This is Kverabetril, but oh, yes, yes.Find the missing person, ……"
+
+# 42b73d8d
+; 電話がつながるって事は……
+The phone connection means ……
+
+# 95da4017
+; hime: 「人間世界、ちゃんと戻ったんだよね！」
+hime: "The human world is back!"
+
+# 5e82916
+; me: 「ヒヒーン（ああ！そうみたいだ！）」
+me: "niegh (Oh! I guess so!)"
+
+# b7512014
+; hime: 「本当に戻ったんだね！わたしたち！」
+hime: "You're really back!We!"
+
+# 3de564a5
+; me: 「ヒヒーン（……あ、し、しかし……）」
+me: "niegh ( …… Ah, but ……)"
+
+# 85504467
+; hime: 「え、また何か？」
+hime: "What else?"
+
+# 522be819
+; me: 「ヒヒーン（俺、この姿のまま戻られると、困るんだけど）」
+me: " niegh (I'd be in trouble if I could go back like this.)"
+
+# 5e9c83e4
+; hime: 「あ……そうだった。[i][char hime.sad]{playerName}は馬のままだったね。[i][char hime.uu]ど、どうしよう」
+hime: "Oh, …… I did.[i][char hime.sad] {playerName} remained a horse.[i][char hime.uu] What should I do?"
+
+# ff9398e2
+; me: 「ヒヒーン（このままずっと、アイスランドで馬として生きるのも、悪くはないかも知れないが……）」
+me: "niegh (It may not be bad to continue living as a horse in Iceland, but ……)"
+
+# 6e745eb6
+; hime: 「ううん。それは困るよ。何か方法を……[i][char hime.e]……あ」
+hime: "No, that's a problem.……[i][char hime.e] …… ah."
+
+# e47b5407
+; me: 「ヒヒーン（？）」
+me: "The niegh?"
+
+# 19b47261
+; hime: 「そういえばわたしも、このままでは困るものがあった！」
+hime: "`Now that you mention it, I had a problem!'"
+
+# 7f0e4e61
+; ヒメは腕を上げて、自分の手の甲を見た。
+Hime raised his arm and looked at the back of his hand.
+
+# 8535799b
+; me: 「ヒヒーン（そ、そうだね。あの鱗……）」
+me: " niegh (Yes, sir.That scales ……)"
+
+# 83a7bf01
+; ……だけど。
+…… But...
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# 18565228
+; me: 「ヒヒーン（あ、そうだな……えっ？）」
+me: "niegh (Oh, yes, …… Huh?)"
+
+# 5395029c
+; 見えない。
+I can't see it.
+
+# b8cc19f5
+; ヒメは手の甲の鱗は。
+Hime is the scale of the back of the hand.
+
+# 968efae4
+; me: 「ヒヒーン（ヒメ、その鱗、右手、だったのか？）」
+me: "Is it Hime, the scales, the right hand?"
+
+# 8606279e
+; hime: 「う、うん。確かにそうだったけど……？」
+hime: "Yes, yes, indeed, but ……?"
+
+# a9e6397d
+; ヒメは自分の両手を色々と回しながら確認したけど、鱗は見えなかった。
+Hime turned his hands round and round, but saw no scales.
+
+# de66fb3
+; hime: 「どっちの手にも、ないな」
+hime: "I can't get it in either hand,"
+
+# 872a4057
+; ヒメの手の甲は、正常に戻っていた。
+The back of Hime's hand was back to normal.
+
+# 86713cab
+; ちゃんと、人の肌に。
+Make sure to put it on people's skin.
+
+# 53c2caa3
+; me: 「ヒヒーン（治った、のか？）」
+me: "niegh (Are you cured?"
+
+# 96075c6e
+; hime: 「う、うん。どこにも見えないよ？鱗。[i][char hime.komaru]で、でもどういう事だろう。何でまた、いきなり？」
+hime: "Well, yes, I can't see it anywhere. Scales. [i] [char hime.komaru] But what do you mean?Why, all of a sudden?"
+
+# 354ab7d2
+; me: 「ヒヒーン（そういや、ヒルドルが言ってたな。[i]人間世界に戻る際には、トゥーレでやられた傷とかは、治るんだって）」
+me: "niegh ( by the way, Hildur said.[i]When you return to the human world, the wounds of Thule can be cured.)"
+
+# acdf12fa
+; hime: 「ああ！人間世界に戻ったから、わたしの手の甲も治ったんだね？」
+hime: "Ah! Now that you're back in the human world, you've healed the back of my hand, haven't you?"
+
+# a305390f
+; me: 「ヒヒーン（そういう事になるかな？よかったじゃないか！）」
+me: "niegh (Will that be the case?)I'm glad to hear that!'"
+
+# 75409157
+; hime: 「う、うん！よ、よかった。よかったよ本当に……」
+hime: "Yes, yes! Good.I'm glad to hear that, ……."
+
+# dfec64d3
+; ヒメは安堵のため息をついた。
+Hime let out a sigh of relief.
+
+# 95e683e2
+; 何もかもいきなり過ぎて、まだ少し受け入れがたいんだけど、
+Everything went by so suddenly that it was still a little hard to accept.
+
+# c566788f
+; でも、何もかもが戻ったのだ、ヒメは。
+But everything went back, Hime.
+
+# c8fce96d
+; hime: 「あ、でも{playerName}は……」
+hime: "Oh, but {playerName} is ……."
+
+# fd6af0f7
+; sara: 「ヒメカちゃん！」
+sara: "Mr. Himeka!"
+
+# e7bfa1d0
+; ちょうどその時、サラが電話を終えて、こちらに駆けつけてきた。
+Just then, Sara finished the call and came running to me.
+
+# f000952d
+; hime: 「はい！連絡がつきましたか？」
+hime: "Yes! Did you get in touch?"
+
+# b1c13713
+; ヒメは落ち着いたみたいだった。表情には余裕が戻った。
+Hime seemed to have settled down.His expression relaxed.
+
+# 6535026d
+; sara: 「ああ。[i]警察と色々と相談したよ。[i]とりあえず、街へ戻ろう？」
+sara: "Yeah. [i] I had a lot of discussions with the police.[i]Shall we go back to town for now?"
+
+# fba1ded
+; hime: 「街って、レイキャヴィクにですか？」
+hime: "Is the city Reykjavik?"
+
+# b9bfe20e
+; sara: 「いいや。ここから近いブリョンドゥオゥスの署に行くよ。[i]ヒメカちゃんはそこから明日、レイキャヴィクへ行く事で」
+sara: "No, I'll go to the Blonduos station near here.[i]Himeka to-morrow from there to Reykjavik."
+
+# c9c4661c
+; hime: 「ブリョンドゥオゥス？」
+hime: "Is it Blonduos?"
+
+# dfbd76c9
+; sara: 「ああ。そこまではボクが案内してあげるから。[i]馬に乗ったままでいいんだ。ゆっくり付いてきて」
+sara: "Yes, I'll show you there.[i]You can stay on the horse.Follow me slowly."
+
+# 5a74db89
+; そう言いながら、サラは車へ向かおうとしていた。
+As he spoke, Sara was about to head for the car.
+
+# e36faaf0
+; hime: 「あ、えっと、今すぐにですか？」
+hime: "Oh, now?"
+
+# 90b4c42c
+; sara: 「そうだよ。[i]今から行くと、今日中には着きそうだ」
+sara: "That's right. [i] If I go now, I think I'll be there by the end of the day."
+
+# 1e85ffad
+; hime: 「うーん。どうしよう……」
+hime: "Well, what should I do ……?"
+
+# b765ceee
+; sara: 「うん？[i][char sara.default]あ、何かやり残した事でもあるのかな？」
+sara: "Huh? [i] [char sara.default] Oh, is there anything left to do?"
+
+# 98f5c99b
+; hime: 「えっと、はい。[i][char hime.hehe]ちょ、ちょっとだけ待っててくださいませんか？」
+hime: "Well, yes. [i] [char hime.hehe] Can you wait a minute?"
+
+# 3f195c26
+; sara: 「わかった。[i][char sara.ww]ま、なんだったら、この空き家で一緒に泊まって、明日でもいいや」
+sara: "All right. [i] [char sara.ww] Well, if you like, I'll stay with you in this empty house, and I don't mind."
+
+# 57437990
+; hime: 「あ、ありがとうございます」
+hime: "Oh, thank you."
+
+# f55a258b
+; ヒメはまた俺に近づいて、耳元でヒソヒソと話した。
+Hime approached me again and whispered in her ear.
+
+# 368a4050
+; hime: 「とりあえず戻る？ブリョンドゥオゥスって街に」
+hime: "Are you going back for now?"Blonduos and into the city."
+
+# c57976a4
+; @choice "いや" goto:.iiya
+@choice "No" goto:.iiya
+
+# e6cce8a2
+; @choice "ああ" goto:ed_6_13_6_horse
+@choice "Ah" goto:ed_6_13_6_horse
+
+# c57da4f1
+; 俺は、まだトゥーレに用がある。
+I is still in business with Thule.
+
+# adea0eb3
+; 俺が抱えてる問題もそうだけど、何よりも、ユールちゃんともう一度会わなければ。
+Like the problems me has, most of all, I have to see Yule again.
+
+# a98f545f
+; me: 「ヒヒーン（ヒメは街に戻りなよ。[i]俺は街には戻らない。姿を取り戻さないと行けないからな）」
+me: " niegh (Go back to town, Hime.[i]me will not return to the city.I'll have to get back in shape.)"
+
+# b91a2db3
+; hime: 「で、でも。一緒に街に戻ったら、何かいい方法があるんじゃないの？人間に戻れる方法が見つかるかも」
+hime: "Well, but isn't there a good way to get back to town together?"Maybe we can find a way back to being human."
+
+# 7236ca1b
+; me: 「ヒヒーン（いいや。それは無理だと思う。[i]むしろ野生の馬だと思われて、保護されるかもな）」
+me: "niegh (No, I don't think so.[i]It may be considered a wild horse and protected.)"
+
+# 840b6514
+; hime: 「そ、そうかな……うーん。どうしよう」
+hime: "Oh, is that so? …… Hmm. What should I do?"
+
+# 56b55545
+; me: 「ヒヒーン（俺は、ディムボルギルに向かってみようと思う）」
+me: "niegh (I think me will go towards dimmuborgir)"
+
+# 69a7f13d
+; hime: 「ディムボルギル？」
+hime: "Is it dimmuborgir?"
+
+# 5e66ab59
+; me: 「ヒヒーン（ユールちゃんが住んでる場所だ。[i]俺はそこで、人間世界からトゥーレに迷い込んだから、何かあるかも知れないからな）」
+me: " niegh (where Yule lives.[i]me then wandered from the human world into Thule, and there might be something about it."
+
+# 5232beb1
+; hime: 「あ、それはいいね。[i][char hime.w]じゃあ、ディムボルギルに行こう！」
+hime: "Oh, that's good.[i][char hime.w] Then let's go to dimmuborgir!"
+
+# 11f3abb
+; me: 「ヒヒーン（いや、そこには一人で行くよ。[i]ヒメは一刻でも早く、日本に戻った方がいい。家族も待ってるし）」
+me: "niegh (No, I'll go there by myself.[i]Hime It would be better for them to return to Japan as soon as possible.My family is waiting for me.)"
+
+# f5b809ba
+; hime: 「うーん。[i][char hime.hehe]でも{playerName}一人で行ける？[i]道、わかる？」
+hime: "Hmm. [i] [char hime.hehe] But {playerName} can you go alone?[i]Do you know the way?"
+
+# 138f0b3
+; me: 「ヒヒーン（う……）」
+me: "niegh (U ……)"
+
+# 6cbb3771
+; そうだな。
+That's right.
+
+# ceaf2e49
+; ナビもないし、ディムボルギルまでの道がわらかないのは困る。
+There's no navigation system, and it's a problem that there's no road to dimmuborgir.
+
+# 1faf54d4
+; hime: 「せめてディムボルギルまで案内してもらうってのはどう？サラさんに」
+hime: "Why don't you at least take me to dimmuborgir?"Dear Sara,"
+
+# 4f6c1c29
+; me: 「ヒヒーン（お？それはいいな）」
+me: "niegh (Oh? That's good.)"
+
+# 65946a5a
+; hime: 「うんうん。そうしよう！わたしがサラさんにお願いしてみるよ」
+hime: "Yes, yes, let's do that!"I'll ask Mr. Sara."
+
+# 60d9cb0c
+; me: 「ヒヒーン（悪いな、俺が直接話せればいいのに……）」
+me: "niegh (I'm sorry, I wish me could speak in person ……)"
+
+# ab196509
+; そう言ってヒメはサラの方へ掛けつけて、声をかけた。
+said Hime, calling to Sara,
+
+# 7410cf1d
+; hime: 「あの……」
+hime: "That ……,"

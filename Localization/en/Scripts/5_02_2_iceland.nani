@@ -1,0 +1,233 @@
+; Japanese <ja> to English <en> localization document for `5_02_2_iceland` naninovel script
+
+# 37c52311
+; girl: 「そうですか。まずはここがどこなのか、知りたいわけですね」
+girl: "I see. You want to know where we are first."
+
+# 85428f27
+; とても落ち着いてるこの子の雰囲気に、少しの違和感を感じたけど、
+I felt a little uncomfortable with her calm atmosphere.
+
+# 9ad506cb
+; とりあえず今は情報が先だ。
+First of all, information comes first.
+
+# 6b42e119
+; me: 「そうだよ。ここはどの国なんだ？」
+me: "Right. Which country is this?"
+
+# 91300481
+; girl: 「…………天国……[i][char yule.r-kusu]……だったりして？」
+girl: "………… Heaven ……[i][char yule.r-kusu] Or ……?"
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# 8ded9213
+; girl: 「クスクス、冗談です」
+girl: "I'm kidding, giggle."
+
+# 465447c2
+; me: 「じょ、冗談を言ってる場合じゃないんだ。知ってる事があるなら真面目に答えてくれ」
+me: "Well, it's no time to joke.Answer me seriously if you know anything."
+
+# 214e5edb
+; 俺はまたもその子の肩を掴み揺らしながら言った。
+I said again, grasping the child by the shoulder.
+
+# 7d8007b3
+; girl: 「あわわ、わ、わかりました」
+girl: "Ah, oh, I see,"
+
+# 1b4005bb
+; 俺は女の子を離した。
+I separated Girl.
+
+# 6e3d4f76
+; girl: 「では真面目に答えますと、ここはですね…」
+girl: "Well, to be honest with you, here is..."
+
+# 20d6385b
+; 女の子は、ワンテンポ休んで、グルリと回ると、こう言った。
+Girl took a rest and turned round, and said,
+
+# 44811dc8
+; girl: 「妖精の国、地の果ての <ruby="トゥーレ"> Θούλη</ruby>なのです！」
+girl: "It's <ruby=" Thule"> /ύοη ''/ruby' at the end of the earth!"
+
+# 726b9db4
+; ドヤ顔でそうっ言った。
+he said, with a grimace.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# c4a5967
+; 無言で見つめる。
+stare silently at.
+
+# 211c95b0
+; girl: 「えっと」
+girl: "Well,"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 74bc3e16
+; girl: 「こ、今度は嘘じゃないですよ！」
+girl: "`I'm not lying this time!'"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# dcf9ff26
+; girl: 「そ、そうですね。[i][char yule.nayami]嘘ではないけど、最初からトゥーレついて話しても、受け入れがたいでしょう……[i][char yule.default]では、アイスランド、って言ったらわかりますか？」
+girl: "Yes, sir.[i][char yule.nayami] I'm not lying, but even if you talk about Thule from the beginning, it's hard to accept ……[i][char yule.default] Then, do you know if I say Iceland?"
+
+# 307eebf4
+; me: 「アイスランド？」
+me: "Is it Iceland?"
+
+# 8a8bf943
+; あれは確か、北極圏の島国……
+That's probably ……, an Arctic island country, if I remember correctly.
+
+# 13eec5a0
+; ここだったな。
+It was here.
+
+# b44c93a4
+; me: 「ああ、知ってるよ、アイスランド！」
+me: "Oh, I know, Iceland!"
+
+# 6c2fc699
+; 知ってる地名が出てきて、俺は少し安心した。
+I was a little relieved to find a place name she knew.
+
+# 5186125b
+; me: 「そっか！よかった……変なところではなくて」
+me: "I see! I'm glad …… It's not a strange place."
+
+# 7e4f4678
+; とりあえず危険な地域ではないみたいだ。
+For the time being, it's not a dangerous area.
+
+# a2ae5e08
+; 人も住んでるし、旅行もできるような国だ。
+It's a country where people can live and travel.
+
+# 65bf72b0
+; girl: 「……ま、同じ位相であるのは間違いありませんし」
+girl: "I'm sure …… is in the same phase,"
+
+# ccd2f1ec
+; me: 「……うん？[i]……アイスランドって、北ヨーロッパの島国で、あってるのな？」
+me: " …… Huh? [i] …… Iceland is an island country in northern Europe, isn't it?"
+
+# b200a0a7
+; girl: 「はい。あってます」
+girl: "Yes, that's right."
+
+# 44bb291a
+; me: 「うん。俺が知ってる知識のうちだ。[i]よかったよ。なんとか無事に帰れそうだ」
+me: "Yes, of all the knowledge that me knows.[i]I'm glad to hear that.I think I can get home safely."
+
+# dacc3d09
+; girl: 「えっ……[i]どこに、帰るんですか？」
+girl: "What ……[i] Where are you going?"
+
+# 46d0ccce
+; me: 「どこって、[i]そりゃ………家に……」
+me: "Where? [i] Well, ……... …… at home."
+
+# 810fca0
+; 家？
+Home?
+
+# 4e900d4
+; 俺の家って、どこだ。
+Where is me's house?
+
+# 60a5c85e
+; 少なくともこのアイスランドではない。
+At least it is not Iceland of Tomoko.
+
+# 42288baa
+; 他のどこかから来たんだ。
+It's from somewhere else.
+
+# a0d56335
+; @choice "思い出せない" goto:.dokokara
+@choice "I can't remember" goto:.dokokara
+
+# fb2375d6
+; @choice "海" goto:ed_5_02_2_dokokara
+@choice "Sea" goto:ed_5_02_2_dokokara
+
+# 388d79a2
+; me: 「俺は、どこから来たんだ……」
+me: "Where did me come from?"
+
+# 69316fb3
+; 思い出せない。
+I can't remember.
+
+# e0670a73
+; どこから来て、どこに向かおうとして、こんなとこで気を失ったのか。
+Where did you come from, where did you go, and where did you faint?
+
+# b0d8c623
+; 何もかも思い出せない。
+I can't remember everything.
+
+# 1e2b9f8c
+; girl: 「忘れたんですよね？」
+girl: "You forgot, didn't you?"
+
+# ff1f9868
+; me: 「ああ……記憶が曖昧だ。墜落する時に、頭を打っちゃったかな」
+me: "Oh, …… I have a vague memory.I think I hit my head when it crashed."
+
+# 83e83bff
+; girl: 「覚えてる事は、何かないんですか？」
+girl: "Do you remember anything?"
+
+# 549457fb
+; me: 「わからん。色んな事を、忘れてる」
+me: "I don't know. I forgot a lot of things."
+
+# ea592721
+; girl: 「……自分の名前も、思い出せないですか？」
+girl: "Don't you remember your name?"
+
+# cc81a416
+; me: 「俺の名前……？」
+me: "Is me's name ……?"
+
+# ac641b4a
+; ……思い出せない。
+…… I can't remember.
+
+# 6a84d2b9
+; me: 「俺は……自分の、名前すら……」
+me: " me is …… his own, even his name ……."
+
+# 2dfa5ebe
+; girl: 「……」
+girl: "……"
+
+# 49a7c50b
+; me: 「うぅぅ……」
+me: "`Oh, ……,'"
+
+# 1e1f7689
+; @choice "俺は……" goto:5_02_3_yourname
+@choice " me is ……" goto:5_02_3_yourname
+
+# 5f850292
+; @choice "　" goto:ed_5_02_2_noname
+@choice "　" goto:ed_5_02_2_noname

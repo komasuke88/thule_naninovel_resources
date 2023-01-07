@@ -1,0 +1,509 @@
+; Japanese <ja> to English <en> localization document for `1_02_1_yule` naninovel script
+
+# 3fdeed0
+; me: 「……いやいや……」
+me: "No, ……,"
+
+# 260099a3
+; 変な妄想はやめようぜ。
+Let's stop the weird delusion.
+
+# 4075bdd1
+; 頭は冷静に、心は暖かく。
+Keep your head calm and your heart warm.
+
+# 64d969e7
+; 女の子は居なかった、と思ったのはきっと俺の錯覚だ。
+It must have been the illusion of me that there was no Girl.
+
+# f45dc2a2
+; 最初からこの近くに居たけど、俺が見落としたのだろう。
+He had been near here from the start, but me must have overlooked it.
+
+# 769b5106
+; 非現実的な存在なんて居ない。
+There is no such thing as unrealistic.
+
+# b0d0543d
+; 現実的に考えたら、ただの困ってる人の可能性が高い。
+Realistically speaking, there is a high possibility that you are just in trouble.
+
+# a28d8841
+; だったら大変じゃないか。
+It would be hard if
+
+# a1a92b7b
+; 俺がここで拾わなかったら、次の車なんていつ通るか分からない。
+If me doesn't pick it up here, I don't know when the next car will pass.
+
+# f07b986c
+; こんな寒くて何もないところで、ずっと誰かを待ってるなんて、可哀想だ。
+It's pathetic to be waiting for someone in such a cold and empty place.
+
+# 77c0172d
+; もう日も暮れてるし。
+It's already dark.
+
+# 789685fe
+; me: 「よし！」
+me: "All right!"
+
+# 32c7d3e0
+; 腹をくくって、乗せてあげる事にした。
+I was hungry and decided to give him a ride.
+
+# 808f0cd5
+; 車を進めて、女の子の隣まで行き、車を止めた。
+I drove ahead, went next to Girl, and pulled over.
+
+# 802bff68
+; 乗っていいよって、手でサインした。
+I signed it with my hand.
+
+# 6afdc9ab
+; すぐに、女の子が駆け寄って来た。
+Soon Girl came running up to him.
+
+# 95f335a9
+; そのドタバタな姿が可愛くて、心が和らぐ。
+The slapstick figure is cute and makes me feel at ease.
+
+# d3ebd3c
+; ドアロックを解除し、乗車をすすめた。
+I unlocked the door and recommended getting on.
+
+# fa152564
+; ドカッと、ドアが開けられて、
+The door was opened with a bang.
+
+# 725d53a9
+; <s>　　　　　　　　</s>「<ruby="グレリヨール">　Gleðileg jól</ruby>！」
+<s>        </s> "<ruby=" Glediyol"> Gleðileg jól</ruby>!"
+
+# 98f1d339
+; と、柔らかな女の子の声が入ってきた。
+said the soft voice of Girl.
+
+# 6ffd14f
+; その声を聞いた瞬間、先までの警戒心は消えてしまい、
+The moment he heard his voice, his previous vigilance disappeared;
+
+# e57e9b37
+; 俺は穏やかな気持ちになった。
+I felt calm.
+
+# 48e166d4
+; なんて嬉しそうな顔。
+What a happy face!
+
+# 8ca4ef5b
+; 乗せた甲斐があったな。
+It was worth the ride.
+
+# 91b49b4c
+; 人でならざるモノなんて、居るわけない。
+There's no way there's anything that's not human.
+
+# e6224560
+; やっぱり普通の少女だった。
+She was just an ordinary girl.
+
+# 8f235f4
+; ……しかし【グレリヨール！】って、どういう意味だ？
+…… But 【Glediyol! What does 】 mean?
+
+# 20deaaee
+; 俺が知ってるアイスランドの挨拶でもない。
+It's not Icelandic greeting that me knows.
+
+# 9df1d16f
+; ローカル挨拶かな？
+Is it a local greeting?
+
+# bdcc35a6
+; girl: 「よっと」
+girl: "All right,"
+
+# b8c98f6b
+; と、思ってる間に、女の子は助手席に座り上がった。
+while Girl sat up in the passenger seat.
+
+# 4df1c3b8
+; パタンと、ドアが閉められて、
+The door slammed shut.
+
+# 75fa351
+; 冷たい空気と、女の子の匂いが、車内に混ぜてきた。
+The cold air and the smell of Girl mixed into the car.
+
+# b1b3f286
+; me: 「ぐ、グレリヨール……」
+me: "Goo, Glediyol……,"
+
+# ce9ab7a9
+; とりあえず真似して、同じ言葉を返してみる。
+I'll copy it and try to say the same thing.
+
+# 9d37cf4c
+; girl: 「くすくす」
+girl: "The giggle,"
+
+# c5dae10f
+; と、女の子は微笑みながらペコリと会釈してきた。
+said Girl, smiling and nodding.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 249b7d64
+; 緊張する。
+I'm nervous.
+
+# 84dc489b
+; 色々と聞きたいこともあるけど、まずは、目的地の確認からかな。
+I have a lot to ask, but I guess it's because I have to check the destination first.
+
+# 1269b678
+; どこに行く？[i]……って、どうやって聞けばいいんだっけ？
+Where are we going? [i] How can I ask ……?
+
+# 87a1c928
+; とりあえず英語で……いや、ローカルな人なら、英語も通じないかも。
+First of all, …… in English. If you're a local person, you might not be able to understand English.
+
+# bebf605e
+; アイスランド語は知らないし、とりあえずボディーランゲージかな。
+I don't know Icelandic, so I guess it's body language.
+
+# f623dd
+; 俺は指先で前方を差した。
+I pointed his finger forward.
+
+# e01afba1
+; そして、
+And...
+
+# 243693bd
+; me: 「……れ、れいかぶぃっっ？」
+me: "Are you …… pretty?"
+
+# 52842206
+; 噛んだ。
+I bit it.
+
+# 1e9981f1
+; レイキャヴィク、をそれっぽい発音で言ってみたかったけど、滑った。
+Reykjavik I wanted to say that, but I slipped.
+
+# 2e433762
+; ここの地名は本当、難しいな。
+The name of the place here is really hard.
+
+# 607a62
+; そんな俺を見て、女の子は微笑みながら、こう言った。
+Seeing such me, Girl smiled and said,
+
+# 70ed142a
+; girl: 「乗せてくれて、ありがとうございます」
+girl: "Thank you for the ride."
+
+# e027b4fb
+; 日本語で。
+In Japanese.
+
+# ecde61e6
+; me: 「ええええっ！？」
+me: "`What!'"
+
+# f0f9a844
+; 改めて女の子の顔を見てみた。
+I looked at Girl's face again.
+
+# 14f58d9f
+; 金髪で、青い瞳。
+Blonde hair, blue eyes.
+
+# f77c54b0
+; どう見ても外国人。[i]なのに、なんて滑らかな日本語だ。
+He's obviously a foreigner. [i] But what a smooth Japanese!
+
+# bfb2ae32
+; me: 「き、君、日本語わかるか？」
+me: "Do you understand Japanese?"
+
+# d0e6a9e5
+; girl: 「はい。アタシ、色んな国の言葉を知ってますよ」
+girl: "Yes, Atashi, I know many languages."
+
+# 42debd5f
+; びっくりした。
+I was surprised。
+
+# f5ac803
+; なんて賢い子なんだ。
+What a smart boy!
+
+# 4c075a45
+; 英語でもなく日本語ができるとは……
+I can't believe I can speak Japanese, not English ……
+
+# 8b7dcf3d
+; とにかく会話の不安点がなくなった。一安心。
+Anyway, I'm not worried about the conversation anymore.Peace of mind.
+
+# d040fb9
+; me: 「すごいな」
+me: "That's great,"
+
+# 7a7f203d
+; しかし不思議だな。
+But it's fascinating.
+
+# 94f156c0
+; 俺の出身がわかるような物は、ここに置いてないけど。
+I don't have anything here to tell you where me comes from.
+
+# 2f6735b4
+; me: 「……俺が日本人ってことは、どうやってわかったの？」
+me: "How did you know that ……me was Japanese?"
+
+# a2149121
+; girl: 「魔法で」
+girl: "By magic,"
+
+# ecde61e6
+; me: 「ええええっ！？」
+me: "`What!'"
+
+# ca1d48fb
+; girl: 「あ、いえいえ、なんとなく分かっちゃったって事です。[i][char yule.car_arch_a_bigemi]くすくす」
+girl: "Oh, no, I understood it somehow.[i]' char yule.car_arch_a_bigemi' giggle"
+
+# 29078b14
+; me: 「そ、そう」
+me: "Yes, yes,"
+
+# 37586dba
+; 冗談だったんだな。
+It was a joke.
+
+# 27f7845e
+; ……考えてみたら、ありえなくもない。
+…… Now that I think about it, it's impossible.
+
+# d079e82a
+; 東洋人旅行者の出身国って数が多くないから、適当に当てたかも知れない。
+Since there are not many Asian tourists from the country of origin, they may have guessed right.
+
+# af86416e
+; この子って不思議な雰囲気してるから、[br]一瞬、マジで魔法かと思ってしまった。
+She has a strange atmosphere, so for a moment I thought [br] was really magical.
+
+# 77daba6b
+; 意外とお茶目な子だったな。
+He was a playful boy.
+
+# 5e4ea1c1
+; girl: 「……ところで」
+girl: "By the way ……,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 5879544b
+; 女の子は謎めいた瞳で身を乗り出して、俺の目をじっと見つめた。
+Girl leaned forward with mysterious eyes and stared him in the eye.
+
+# 92632978
+; me: 「な、なんだ？」
+me: "What is it?"
+
+# 2dfa5ebe
+; girl: 「……」
+girl: "……"
+
+# 632cd3d0
+; 人形みたいな顔でじっと見つめられると、可愛いけど少し怖くもある。
+It's cute but a little scary when you stare at me like a doll.
+
+# 71643654
+; girl: 「あなた、エルフに狙われてますね？」
+girl: "Honey, are you being targeted by Elf?"
+
+# 28f6d562
+; me: 「はあ？」
+me: "What?"
+
+# 7df5be38
+; 突拍子もない事を言われて、ぼけっとしてしまった。
+I was stunned when I was told something out of the blue.
+
+# d0b5131
+; エルフ？
+Elf?
+
+# 93abd893
+; ……アイスランドの民間伝承に伝わるエルフの事だ。
+…… It refers to Elf, which is handed down in Icelandic folklore.
+
+# 200e22fc
+; 旅に出る前、ツアー会社からの注意事項にも書いてあった。
+Before going on a trip, it was also written in the precautions of the tour company.
+
+# a09c55b3
+; 実は今朝、ホステルのルームメイトからも気をつけるようにと言われた。
+Actually, Room mate of hostel told me to be careful this morning.
+
+# efcc743
+; 怖い話だった。
+It was a scary story.
+
+# e651a3c8
+; だから先も、変な疑いが湧き上がったのだ。
+That's why strange suspicions arose in the future.
+
+# 476d6c5c
+; [br]しかしいくら怖い話でも、所詮はその土地にまつわる言い伝え。
+[br] But no matter how scary the story is, after all, it's a legend about the place.
+
+# bcb7cf15
+; つまり迷信だ。
+In other words, it's superstition.
+
+# 6fbc809f
+; 俺が狙われてるってのは……意味がわからない。
+I don't understand why …… is being targeted.
+
+# f5cc125d
+; 正直に、現実味がない。
+Honestly, it's unrealistic.
+
+# f2b9efca
+; girl: 「あいつらの呪いの匂いがします。[i][char yule.car_b_a_hm]こりゃ、危険な旅になるかも知れませんね」
+girl: "I smell their curse.[i][char yule.car_b_a_hm] This could be a dangerous journey."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# f80295a0
+; @choice "考える" goto:.kiku
+@choice "Think" goto:.kiku
+
+# 357cc933
+; @choice "追い出す" goto:1_02_1_oriro
+@choice "Excuse me" goto:1_02_1_oriro
+
+# a8e0f4fd
+; ……あ、もしかしてこれって、あれかな？
+…… Oh, by any chance, is this that?
+
+# 2d2316d
+; 怪しい宗教の勧誘。もしくは怪しい商売……
+an invitation to a suspicious religion.Or a suspicious business ……
+
+# 9554b927
+; この脅かし方、確かに似てる。
+This way of threatening is similar.
+
+# 1e649601
+; アイスランドにもあるんだな。こんなの。
+There's one in Iceland, too.Something like this.
+
+# bad16a9c
+; girl: 「でもご安心を！あなたはもうアタシのモノだから。クスクス」
+girl: "But don't worry! You're already Atsushi's.giggle"
+
+# 1867f756
+; me: 「……はい？」
+me: "What ……?"
+
+# 13677242
+; また、突拍子もない事を言われた。
+I was also told something out of the blue.
+
+# 432e84c6
+; me: 「君のモノ？」
+me: "Is it yours?"
+
+# 3bc0efc7
+; girl: 「<ruby="ヤーヤ">　Jæja</ruby>！[i]ここでアタシを乗せてくれた人を、旦那にしようと決めてたんですから」
+girl: "<ruby=" Jaya"> Jæja</ruby>! [i] I've decided to make the person who gave me a ride here my husband."
+
+# 5c0b5552
+; me: 「旦那？？」
+me: "Husband?"
+
+# e54de965
+; 俺と結婚するって？
+I You're going to marry me?
+
+# 3a889b9e
+; じょ、冗談だよな。にしてもセンスが変だ。
+Jeez, you're kidding. But you have a strange sense.
+
+# 4539891a
+; 最初は怪しい勧誘だと思ったけど、もうそんなものでもないように思える。
+At first I thought it was a suspicious invitation, but it doesn't seem like it anymore.
+
+# edd99f25
+; ますます訳がわからない。
+I'm getting more and more confused.
+
+# 92d57716
+; あ……もしかして日本語、実は未熟だったとか？
+…… Is your Japanese actually immature?
+
+# 93bd2389
+; girl: 「好みの人でよかったです。くすくす」
+girl: "I'm glad I'm someone I like. giggle."
+
+# cbed5b23
+; me: 「まぁ……その、とりあえず感謝の言葉として受け取るよ」
+me: "Well, …… Well, I'll take it as a token of my gratitude."
+
+# dbeec928
+; girl: 「あら」
+girl: "Oh, my God,"
+
+# d5806732
+; 結婚したいくらいに感謝！的な意味で受け取る事にしよう。
+Let's take it in a way that makes us so grateful that we want to get married.
+
+# 99745ef6
+; 日本語が未熟なのかも知れないから、とりあえず適当に流そう。
+Your Japanese may be immature, so let's just play it properly.
+
+# 4cb8cbf1
+; girl: 「信じてないんですね。[i][char yule.car_b_a_bigemi]ま、いいんです。[i][char yule.car_arch_w_w]これからゆっくりと、愛情を育くめばいいだけですし、くすくす」
+girl: "You don't believe me.[i][char yule.car_b_a_bigemi] It's okay.[i][char yule.car_arch_w_w] All you have to do is slowly develop your love, giggle"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 455a0d3d
+; 日本語が未熟なわけではなさそうだ。
+It doesn't seem like my Japanese is inexperienced.
+
+# bd519f17
+; これはあれだ。[i]変わった子だ。
+This is that. [i] He's a strange kid.
+
+# c84b4d78
+; 見た目は可愛いのに、頭が残念なタイプ。
+The type that looks cute but has a bad head.
+
+# 447964a2
+; 乗せて大丈夫だったのかな。
+I wonder if it was okay to ride it.
+
+# 263d4081
+; @choice "まぁ、いいか" goto:1_02_2_name
+@choice "Well, let's see" goto:1_02_2_name
+
+# 5199a28d
+; @choice "良くない" goto:1_02_1_oriro
+@choice "Not good" goto:1_02_1_oriro

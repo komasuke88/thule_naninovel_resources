@@ -1,0 +1,99 @@
+; Japanese <ja> to English <en> localization document for `credit` naninovel script
+
+# 9127514c
+; @choice "【画像素材】" goto:.photores handler:ButtonList
+@choice " 【 Image Material 】" goto:.photores handler:ButtonList
+
+# dfaf0090
+; @choice "【サウンド素材】" goto:.soundres handler:ButtonList
+@choice " 【 Sound Material 】" goto:.soundres handler:ButtonList
+
+# 7584f42c
+; @choice "【参考文献】" goto:.textres handler:ButtonList
+@choice " 【 Reference 】" goto:.textres handler:ButtonList
+
+# 2fa3142a
+; @choice "【その他】" goto:.etcres handler:ButtonList
+@choice " 【 Other 】" goto:.etcres handler:ButtonList
+
+# 66ab2e33
+; @choice "タイトルに戻る" goto:.returntitle handler:ButtonList
+@choice "Back to Title" goto:.returntitle handler:ButtonList
+
+# 835d5ef
+; @print "下記のところからフリー素材を借りました。" speed:0 waitInput:false fadeTime:0
+@print "I borrowed a free material from the following." speed:0 waitInput:false fadeTime:0
+
+# 351eb746
+; @choice "【Wikimedia Commons】" goto:.wikicommons handler:ButtonList
+@choice " 【 Wikipedia Commons 】" goto:.wikicommons handler:ButtonList
+
+# 1ceeef7e
+; @choice "【Open street map】" goto:.openstreet handler:ButtonList
+@choice " 【 Open street map 】" goto:.openstreet handler:ButtonList
+
+# 12df6aac
+; @choice "【Unsplash】" goto:.upsplash handler:ButtonList
+@choice " 【Unsplash 】" goto:.upsplash handler:ButtonList
+
+# 3206c0f9
+; @choice "【Depositphoto】" goto:.depositphotos handler:ButtonList
+@choice " 【 Depositphoto 】" goto:.depositphotos handler:ButtonList
+
+# 9be4dc51
+; @choice "戻る" goto:.top handler:ButtonList
+@choice "Back" goto:.top handler:ButtonList
+
+# 835d5ef
+; @print "下記のところからフリー素材を借りました。" speed:0 waitInput:false fadeTime:0
+@print "I borrowed a free material from the following." speed:0 waitInput:false fadeTime:0
+
+# d7ccb6d0
+; @choice "【効果音ラボ】" goto:.sfxlabo handler:ButtonList
+@choice " 【 Sound Effects Lab 】" goto:.sfxlabo handler:ButtonList
+
+# bb9020b0
+; @choice "【Unity asset store】" goto:.unityasset handler:ButtonList
+@choice " 【 Unity asset store 】" goto:.unityasset handler:ButtonList
+
+# 9be4dc51
+; @choice "戻る" goto:.top handler:ButtonList
+@choice "Back" goto:.top handler:ButtonList
+
+# 332c98bf
+; @print "下記のところから数々の情報を参考しました。" speed:0 waitInput:false fadeTime:0
+@print "We have reviewed a number of information below." speed:0 waitInput:false fadeTime:0
+
+# 35e19323
+; @choice "【Wikipedia】" goto:.wikipedia handler:ButtonList
+@choice " 【 Wikipedia 】" goto:.wikipedia handler:ButtonList
+
+# 8851e0e5
+; @choice "【Guide to iceland】" goto:.guidetoiceland handler:ButtonList
+@choice " 【 Guide to Iceland 】" goto:.guidetoiceland handler:ButtonList
+
+# 9be4dc51
+; @choice "戻る" goto:.top handler:ButtonList
+@choice "Back" goto:.top handler:ButtonList
+
+# 1a01bdea
+; @print "下記のところから有料素材を買って使用しています。" speed:0 waitInput:false fadeTime:0
+@print "I bought paid materials from the following places and used them." speed:0 waitInput:false fadeTime:0
+
+# 8b4eb3a
+; @print "【Humble bundle】" speed:0 waitInput:false fadeTime:0
+
+# d3b0132e
+; @print "【Depositphoto】" speed:0 waitInput:false fadeTime:0
+
+# fcd552c5
+; @print "【Adobe Stock】" speed:0 waitInput:false fadeTime:0
+
+# 172beafe
+; @print "【Shutterstock】" speed:0 waitInput:false fadeTime:0
+
+# 445ea022
+; @print "【Unity asset store】" speed:0 waitInput:false fadeTime:0
+
+# 2fbcfd99
+; @print "【BOOTH】" speed:0 waitInput:false fadeTime:0

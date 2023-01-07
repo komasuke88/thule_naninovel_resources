@@ -1,0 +1,237 @@
+; Japanese <ja> to English <en> localization document for `6_13_3_f35dawn` naninovel script
+
+# d875a25
+; ヒメと色んな話をしながらひたすらに北へ走った。
+Hime I ran north with all my might, talking about various things.
+
+# 1dc7411c
+; 何もない荒野のような道は、風が強くて厳しかったけど、
+It was windy and hard on the empty wilderness road;
+
+# 5bd620f3
+; お互いの体温で温めながら、なんとか耐えながら走った。
+We managed to keep each other's temperatures warm and run.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 6ff1f7c1
+; F35道路はまるで果てしなく続くかのように、
+The F-35 road seemed endless.
+
+# ed1eebd2
+; ずっと同じ景色だけが繰り返されてる。
+Only the same scenery is repeated.
+
+# 640a7665
+; キェルトリンガルフィヨットルってのは、まだ見えない。
+Kerlingarfjoll I can't see it yet.
+
+# b5b61a26
+; 近づいてはいるんだろか。
+I wonder if they're getting closer.
+
+# 209d5013
+; そもそも、ここがどの辺なのかもわからない。
+In the first place, I don't even know where this is.
+
+# 74e44f07
+; 今は <ruby="ユールちゃん">詳しい現地人</ruby>もいないし、ナビもない。
+Now there are no <ruby=" Yule">local people familiar with it</ruby> and no navigation systems.
+
+# 2342cdbd
+; 俺たちが位置を把握できる手段は、案内標識だけだ。
+I The only way they can locate themselves is through a sign.
+
+# 908c7b31
+; だけど、先からそれすらも見えない。
+But I can't even see it from the beginning.
+
+# c91882c9
+; そろそろ日が暮れそうなのに。
+It's getting dark.
+
+# ef330935
+; 焦りが募ってきた。
+I'm getting impatient.
+
+# f7cd876d
+; ちゃんと、無事にたどり着けられるんだろうか。
+I wonder if I can get there safely.
+
+# 947c05ab
+; me: 「ヒヒーン（……ここって、どこあたりなんだろう？）」
+me: "niegh (Where is this place?)"
+
+# 573d0d01
+; hime: 「そ、そうだね。どこを見ても同じように見えるし、[i]わたしたち以外には、誰もいないし……」
+hime: "Yes, sir.It looks the same everywhere, and [i] There is no one but us ……"
+
+# 27491aad
+; me: 「ヒィーん（参ったな。もうすぐ日が落ちそうなのに）」
+me: " niegh (I'm at a loss.The sun is about to set.)"
+
+# e7a7f7fd
+; hime: 「ど、どうしよう」
+hime: "What shall I do?"
+
+# 61b74ce1
+; me: 「ヒィーん（真っ暗になる前に、今日は野宿しようか）」
+me: "niegh (Let's sleep in the open air today before it gets dark)"
+
+# 9bf619de
+; hime: 「の、野宿？」
+hime: "No, sleeping in the open air?"
+
+# 85dab619
+; me: 「ヒィーん（今から適当に、この辺で寝て、明るくなってから動いた方がいいと思うんだ）」
+me: "niegh (I think it's better to sleep around here and move after it gets brighter.)"
+
+# b9bcdade
+; hime: 「あ、えっと、その……外で寝るなんて、大丈夫なの？」
+hime: "Oh, well, is it all right to sleep outside that ……?"
+
+# 9f4a9299
+; me: 「ヒィーん（うん？[i]今までもずっと……あ）」
+me: "niegh (Huh? [i] I've been ……)"
+
+# 3b7019f6
+; そっか。今はユールちゃんが居ない。
+I see. Yule isn't here right now.
+
+# 4b4edbcc
+; 夜になると、いつもユールちゃんが、魔法で仮の宿を用意してくれてた。
+At night, Yule always magically prepared a temporary inn.
+
+# 1a8a8a04
+; いつの間にか当たり前になっていて、気づかなかった。
+Before I knew it, it became a matter of course and I didn't notice it.
+
+# 7eef69c8
+; 俺たちだけでは、こんな場所で、野宿なんてできない。
+I We can't sleep in a place like this alone.
+
+# 1ec03c79
+; それに、ヒメは今までずっと幽霊だったから。
+Besides, Hime has always been Ghost.
+
+# c37472e1
+; 夜の宿の心配なんてしなかったのだろう。
+He did not worry about the inn at night.
+
+# c12eb0ca
+; しかし今は肉体がある。
+But now there is a body.
+
+# ce845990
+; 異常高温といえど、ここの夜は寒い。
+It's unusually hot, but it's cold here at night.
+
+# f4a150ee
+; 幸い、俺は馬になってから人間ほどの寒さは感じなくなったけど、
+Fortunately, me did not feel as cold as a human being after she became a horse.
+
+# 7be80258
+; ヒメはこんなところで野宿したら、すぐに低体温症だ。
+Hime has hypothermia as soon as she sleeps in the open air here.
+
+# 9a948c4a
+; グ————————
+Goo-kkkkkkkkkkkkkkk.
+
+# 936bc852
+; me: 「ヒヒーン？？（な、なんだ？今の音？）」
+me: " niegh?? (What is it?)The sound now?)"
+
+# c035f2ca
+; hime: 「ご、ごめんね。[i][char hime.hehedere]は、恥ずかしいな」
+hime: "Oh, I'm sorry.[i][char hime.hehedere] is embarrassing."
+
+# aea3ee70
+; me: 「ヒヒーン（あ……）」
+me: "A niegh,"
+
+# 7be2ad85
+; 腹が減ってきたのか。
+Are you getting hungry?
+
+# 9d9662d
+; そうか。
+Really。
+
+# 77cc865d
+; ヒメは人間になってから、水しか飲んでない。
+Hime has only been drinking water since he became a human being.
+
+# b0cd304c
+; 俺はずっと道端の草を食ってきたんだけど、ヒメは違う。
+I has been grazing by the roadside, but Hime is different.
+
+# ab3548a8
+; ユールちゃんが居たら、食べ物もなんとかしてくれたけど、
+Yule If there was someone, they would have done something about the food.
+
+# c853ebc2
+; 今は自力で食べ物を用意しないといけない。
+Now I have to prepare food on my own.
+
+# de88200b
+; しかし、今俺たちが居るこのF３５ロードは、砂漠に等しい。
+However, this F-35 Road, where mes are now, is equivalent to a desert.
+
+# 6623f436
+; 何もない。
+Nothing.
+
+# 95021c17
+; hime: 「幽霊だった頃が、色々と便利ではあったんだね」
+hime: "When you were Ghost, there were many conveniences."
+
+# f71faf87
+; me: 「ヒヒーン（うむ……そうだな。今は、宿も食べ物も、考えなくてはいけないな）」
+me: "niegh (Well, ……)Now I have to think about accommodation and food.)"
+
+# 6ebf6c94
+; hime: 「ご飯は、一日くらい食べなくても平気だから。[i][char hime.eto]でも寝所は、わたし、ここはちょっと無理だと思う」
+hime: "I don't care if I don't eat for about a day.[i][char hime.eto] But I don't think I can sleep here."
+
+# 92b1ca1d
+; me: 「ヒヒーン（うん。あと少し、できるだけ走ってみて、[i]ここよりは暖かく、マシな場所を見つけよう）」
+me: "niegh (Yes, try running a little more, and [i] find a warmer and better place than here.)"
+
+# 1592f795
+; hime: 「もう少し行ったら見つかりそう？」
+hime: "Do you think you'll find it in a little while?"
+
+# 8a482380
+; me: 「ヒヒーン（ハイランドは険しいけど、一晩できるような場所はあるはずさ。[i]山小屋みたいなところもあるって聞いたし）」
+me: " niegh (The Highland is grim, but there must be a place to stay overnight.[i]I've heard that there are places like mountain houses.)"
+
+# af939511
+; hime: 「山小屋か、それはいいね」
+hime: "A mountain hut, that's good,"
+
+# cc41ff2d
+; me: 「ヒヒーン（ああ。それではもうひと頑張りするか！）」
+me: "niegh (Oh, then I'll try harder!)"
+
+# e1539f36
+; hime: 「ご、ごめんね。無理させて」
+hime: "Oh, I'm sorry.I'll force you to do it."
+
+# 82d094dd
+; me: 「ヒヒーン（いやいや、俺は馬なんだから、別に無理じゃないさ）」
+me: "niegh (No, me is a horse, so it's not impossible.)"
+
+# 577a41a9
+; hime: 「この世界では、人間って不便だね」
+hime: "Human beings are inconvenient in this world."
+
+# e3d71cfb
+; me: 「ヒヒーン（そうだな。今だけは、人間に戻らなくてよかったと思ってる）」
+me: " niegh (Yes.I'm glad I didn't go back to being human for now.)"
+
+# d0a3661e
+; そもそも人間だったら、ここまで逃げ切ってもいなかったのだろうな。
+If I had been a human being, I wouldn't have escaped this far.

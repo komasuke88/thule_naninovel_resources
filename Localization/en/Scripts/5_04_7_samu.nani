@@ -1,0 +1,237 @@
+; Japanese <ja> to English <en> localization document for `5_04_7_samu` naninovel script
+
+# 97c33be9
+; me: 「よくわからんが……[i]つまりその【サムスティラ】で、俺は元の世界に戻れるって事？」
+me: "I'm not sure, but ……[i] I mean, with that 【Samstilla】, me can go back to the world?"
+
+# 8755b497
+; yule: 「でもトゥーレから人間世界に戻ったケースは、今まではなかったのですが……」
+yule: "But Thule has never returned to the human world before."
+
+# edf96ee6
+; me: 「そ、それでは無意味ではないか！」
+me: "Well, that's meaningless!"
+
+# b27e19b1
+; yule: 「いや、でも……今年は、[i]ちょっと異変が起こってまして、[i][char yule.l-nayami]今までとは違う現象が起こってて、もしかしたらって」
+yule: "No, but …… this year, [i] Something unusual has happened. [i] [char yule.l-nayami] Something different has happened. Maybe."
+
+# 6195d1c9
+; me: 「異変？」
+me: "What's the matter?"
+
+# b169862
+; yule: 「普通、サムスティラはヨールに起こる現象ですが……」
+yule: "Usually, Samstilla is a phenomenon that occurs in Jol, but ……."
+
+# 64f97c2a
+; me: 「ヨールって、１２月２４日、クリスマス・イブの事だな」
+me: "You mean Christmas Eve, December 24th,"
+
+# c1ae934e
+; yule: 「はい。サムスティラはヨールの夜に現れるんです。巨大なオーロラと共に」
+yule: "Yes, Samstilla appears on the night of Jol.with the great Northern Light."
+
+# 9262046c
+; me: 「……今日は……[i]何月何日だっけ？」
+me: "…… "Today is ……[i] What date is it?"
+
+# 753ba7b7
+; yule: 「トゥーレは時間の流れがあやふやで、日付の概念はないのですが、[i][char yule.doya]人間世界だと今は、１２月１６日になりますね」
+yule: "The time in Thule is uncertain and there is no concept of date, but [i][char yule.doya] In the human world, it is now December 16th."
+
+# 4f1fc0b4
+; me: 「って事は、８日だけ待っていれば、サムスティラが来るって事かな」
+me: "That means Samstilla will come if we wait for eight days."
+
+# aff2dd11
+; yule: 「それがもう起こってますよ、ヨールもまだなのに」
+yule: "It's already happening, Jol hasn't done it yet,"
+
+# 65121d21
+; me: 「え、そう？」
+me: "Oh, really?"
+
+# 4888d86f
+; yule: 「しかもトゥーレに現れた人間が、また戻ったりしてます」
+yule: "And the people who appeared in Thule are returning again."
+
+# 4c23067
+; me: 「元の世界に、戻った人間がいる？」
+me: "Is there anyone back in the world?"
+
+# 4bc90448
+; yule: 「はい。突然と現れれて、突然と消えました」
+yule: "Yes, it suddenly appeared and suddenly disappeared."
+
+# 14c3d4c3
+; me: 「突然と？」
+me: "Suddenly?"
+
+# f1138ace
+; yule: 「目の前で消えてました。ユールちゃんが目撃した事もありますし、姉妹たちの目撃談も多いです」
+yule: "It disappeared in front of me.Yule has witnessed it, and there are many sightings of her sisters."
+
+# 82f233ab
+; トゥーレに人間が迷い込んでる。
+Thule There's a human being wandering around.
+
+# 7617cad1
+; ヨールでもないのに、サムスティラのような現象が起こってる。
+Jol But there is a phenomenon like Samstilla.
+
+# d6b6d667
+; 変なのはそれだけじゃない。
+That's not all that's weird.
+
+# 72bb921c
+; 突然と現れては、突然と人間世界に戻ってる。
+He suddenly appeared and suddenly returned to the human world.
+
+# 34bb5fb9
+; 今まではトゥーレに来る事はあっても、逆に戻る事はなかったのだ。
+Up until now he had come to Thule, but never to the contrary.
+
+# 90a246e5
+; それにもうひとつ、今までと違う現象がある。
+There is another phenomenon that is different from the past.
+
+# 857a9c68
+; 人間がトゥーレに移動するのが、普通のサムスティラだ。
+The normal Samstilla is for humans to move to Thule.
+
+# 28a168dd
+; トゥーレの住民が人間世界に移動するケースはなかった。
+There were no cases in which Thule residents moved into the human world.
+
+# 1054d434
+; なのに今、それが起こってる。
+But it's happening now.
+
+# 3dc9dd39
+; 魔力を持たないフルドゥフォルクが、人間世界に現れた。
+Huldufolk, who does not have Magical Power, appeared in the human world.
+
+# a9fb00e3
+; グリーラはそのデカさ故に、今は魔力を失ってる。
+gryla lost Magical Power because of her bigness.
+
+# 4204c42c
+; 魔力を持たないフルドゥフォルクは、人間同様、フェージングできない。
+A Huldufolk without Magical Power cannot Phasing like a human being.
+
+# 80266179
+; だからグリーラは、人間世界には行けなかった。
+Therefore, gryla could not go into the human world.
+
+# 783793c4
+; だけどあの時、人間世界に現れた。
+But then he appeared in the human world.
+
+# a7cda3f0
+; ディムボルギルで、俺を取って食ったんだ。
+dimmuborgir So I took me and ate it.
+
+# b71d01ab
+; そしてまたトゥーレに戻って、姿をくらましたという。
+Then he went back to Thule and disappeared.
+
+# 911de31c
+; ヨールでもないのに、人間がトゥーレに現れては戻ったり、
+Jol But a man appeared and returned to Thule;
+
+# 21879529
+; グリーラが人間世界に現れたり。
+gryla appears in the human world.
+
+# 3c6f346
+; これは、今まで一度もなかった事だ。
+This has never happened before.
+
+# 9cb1e6bc
+; 普通のサムスティラではない。
+It's not a normal Samstilla.
+
+# 3a402b0
+; このトゥーレの何千年の歴史で、これは初めての異変だという。
+This is the first unusual event in the thousands of years of Thule's history.
+
+# 68a0936a
+; me: 「なんだか複雑な話しになって来たのだが……」
+me: "It's getting complicated, ……,"
+
+# 7a515d58
+; トゥーレ、サムスティラ、異変。
+Thule, Samstilla, abnormal.
+
+# 644c1ded
+; 情報が一遍に溢れすぎて、整理するのが難しかった。
+The information was so overflowing all at once that it was difficult to organize.
+
+# 4b59ee3
+; me: 「それで結局、俺は戻れるの？戻れないの？」
+me: "And in the end, can me go back?"Can't you go back?"
+
+# f1041ddb
+; yule: 「わかりません。[i]こんな異変が起こってますから、可能性ならあるって話しです」
+yule: "I don't know.[i]It is said that there is a possibility because such an unusual situation has occurred."
+
+# 15db52f1
+; me: 「彼らは、どうやって戻ったんだろう？」
+me: "How did they get back?"
+
+# 8ebb7cdf
+; yule: 「彼らも訳が分からないみたいでしたし、特別なやり方があるわけではなさそうです」
+yule: "They didn't seem to understand why, and they don't seem to have any particular way of doing things."
+
+# 8b3dfbdb
+; me: 「……そういや、突然と消えたって言ったな。[i]……ランダムって事か」
+me: "I told you that ……by the way suddenly disappeared.[i]…… It's random."
+
+# 63ceb035
+; yule: 「ですね」
+yule: "Well,"
+
+# 4d4941c9
+; me: 「困ったな……[i]そんな不確実性に頼るわけにはいかないが……」
+me: "I'm in trouble ……[i] I can't rely on that uncertainty, but ……."
+
+# d9d325ad
+; yule: 「えっと……」
+yule: "Well, ……,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 29627ba6
+; yule: 「そんなに、戻りたいんですか？元の世界……」
+yule: "Do you really want to go back?"Original World ……"
+
+# 6935f728
+; me: 「そりゃそうだ。俺にはやるべき事があったんだから」
+me: "That's true.me had something to do."
+
+# 9c110ea4
+; yule: 「それって、旅行記を書く事ですか？」
+yule: "Is that about writing a travel journal?"
+
+# b20a8273
+; me: 「そうだよ」
+me: "Yes,"
+
+# 88e9f633
+; yule: 「そんなに大切な夢だったのですね」
+yule: "It was such an important dream,"
+
+# 821728c7
+; me: 「大切っていうか、約束だったからな」
+me: "It was a promise, I said."
+
+# b9e78604
+; yule: 「約束？」
+yule: "Promise?"
+
+# 11cb4b8
+; me: 「それは……[i]うっ！？」
+me: "That's ……[i] Huh!"

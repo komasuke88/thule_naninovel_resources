@@ -1,0 +1,397 @@
+; Japanese <ja> to English <en> localization document for `7_2_6_interlude3` naninovel script
+
+# 390e4be7
+; 戦いは終わりました。
+The battle is over.
+
+# 1c4d71eb
+; 我々の勝利です。
+It's our victory.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 7f9cd260
+; keruta: 「{playerName}の完治は、難しそうです……」
+keruta: "It seems difficult to cure {playerName} completely."
+
+# 710e5abb
+; １３姉妹たちみんなで、治療の魔法を手伝ってくれてますが、状況は悪いです。
+All 13 sisters help me with the magic of treatment, but the situation is bad.
+
+# 97e40a2e
+; byu: 「うん。ボクたちの力では、回復が遅すぎるよ」
+byu: "Yeah. We're recovering too slowly."
+
+# f2f8a4db
+; suteki: 「そうね。もうすぐ時間切れだから」
+suteki: "Yes, time is running out soon."
+
+# df0bd756
+; yule: 「そ、そんな……」
+yule: "Oh, that ……,"
+
+# c49f533e
+; 姉妹たち全員で、頑張ってはみたものの、{playerName}の邪気を完全に消すのは不可能でした。
+All the sisters tried hard, but it was impossible to completely erase Evil Force of {playerName}.
+
+# 97ca83
+; yule: 「旦那様……」
+yule: "Sir ……,"
+
+# dbeb822f
+; 泣きそうになります。
+I feel like crying.
+
+# c65f91e7
+; ここまで来たのに、駄目だなんて……
+I've come this far, but I can't believe it's no good ……
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# 3fe019b1
+; そうやって、絶望に埋れてしまう時でした。
+It was a time when I was filled with despair.
+
+# c8d7e7b0
+; hildur: 「一つだけ、手はあるわぁ」
+hildur: "There's only one hand."
+
+# b23a2de1
+; yule: 「えっ？偽ヒルドル！？」
+yule: "What? Fake Hildur!"
+
+# bfd52e7a
+; byu: 「うわっ！こいつ、まだ動いて……！」
+byu: "Wow! He's still moving ……!"
+
+# 1b02e036
+; skiru: 「倒したはずなんだけど？」
+skiru: "I should have knocked him down."
+
+# 77b4f503
+; keruta: 「あ、待って。この人……」
+keruta: "Oh, wait, this guy ……."
+
+# b69fe0d5
+; yule: 「あ……こいつ、もしかして……？」
+yule: "Oh …… Is he ……?"
+
+# 8a61eb00
+; byu: 「あ……偽、じゃない？本人？」
+byu: "Oh, ……, isn't it?"Is it him?"
+
+# a321934e
+; hildur: 「妾だわ」
+hildur: "She is a concubine,"
+
+# ba373b2c
+; suteki: 「元に、戻った？」
+suteki: "Are you back?"
+
+# f09907f4
+; hildur: 「いいえ。戻ったわけでもないわぁ。[i]消える前に、仮初の魂が一瞬、宿っただけ。[i]これもヨールの奇跡なのかしら……」
+hildur: "No, I'm not back.[i]"Before it disappeared, a temporary soul was only there for a moment."[i]I wonder if this is also a miracle of Jol."
+
+# 1dc5ed6e
+; yule: 「あ……」
+yule: "Oh, ……,"
+
+# c2cf702f
+; suteki: 「うん。よくみたら、消えかかってるわ」
+suteki: "Yes. If you look closely, it's disappearing."
+
+# cd012fa7
+; byu: 「もうすぐ、消えるんだね」
+byu: "It's going to disappear soon."
+
+# 3a04bca0
+; hildur: 「……不甲斐ないにも、海の奴らにやられたせいで、[i]こんな始末を迎えたわぁ。ごめんなさい」
+hildur: "[i] What a terrible thing to do because of the sea-men!I'm sorry."
+
+# c6d9f02c
+; skiru: 「いやまぁ、別にやられたのはアンタのせいじゃないっしょ。[i]ま、気の毒なだけ」
+skiru: "Well, it wasn't Anta's fault that he did it.[i]Well, I'm sorry."
+
+# 62573744
+; hildur: 「でも消える前に、せめてもののお詫びをしたいわぁ。[i]あなたたちがやってる治療に、役に立つ情報を共有するわぁ」
+hildur: "But before it disappears, I should at least apologize.[i]I share useful information about the treatment you guys are doing."
+
+# e238570c
+; yule: 「あ！[i][char yule.awawa]そ、それって、その……[i][char yule.hm]{playerName}を生き返らせる手があるって事？」
+yule: "Oh! [i] [char yule.awawa] Does that mean there's a way to revive that …… [i][char yule.hm]{playerName}?"
+
+# 121dd5bd
+; hildur: 「そうよぉ。[i]{playerName}とは縁もあるし、死んで欲しくはないもの」
+hildur: "Yes. [i] I have a connection with {playerName}, and I don't want her to die."
+
+# 5afb2b57
+; yule: 「何ですか！？はやく教えて頂戴！」
+yule: "What!? Tell me quickly!"
+
+# b4fd0c17
+; hildur: 「これよぉ」
+hildur: "This is it,"
+
+# ce499111
+; ヒルドルは、後ろの壊れかけた魔法陣を指しながら言いました。
+said Hildur, pointing to the broken The Magic Circle behind him.
+
+# 7d47e638
+; hildur: 「この魔法陣を使えばいいわぁ」
+hildur: "You can use this The Magic Circle."
+
+# 7231d1f1
+; yule: 「……でも、今の魔法陣は、{playerName}の治療を早めるほどの魔力は……」
+yule: "But …… today is …… that can speed up the treatment of {playerName}."
+
+# 9c6f4c78
+; hildur: 「この魔法陣は、人間世界とも繋がってる。[i]だから普段なら不可能に近い【フェージング】の発動も、難しくない」
+hildur: "This The Magic Circle is also connected to the human world.[i]Therefore, it is not difficult to activate 【Phasing】, which is usually almost impossible."
+
+# abedd90
+; byu: 「フェージング？人間世界に？」
+byu: "Is it Phasing?"In the human world?"
+
+# 9b2f5a01
+; yule: 「……{playerName}を、人間世界に送るって事？」
+yule: "Do you mean to send ……{playerName} to the human world?"
+
+# fc4e04ae
+; hildur: 「そうよぉ。[i]トゥーレでやられた邪気は、世界を越える際に、直されるんだから」
+hildur: "Yes. [i] Evil Force will be fixed when you cross the world."
+
+# 32aa0a74
+; yule: 「……ああ！！」
+yule: " …… Oh!"
+
+# 6e493ce1
+; keruta: 「その手があったんですね！」
+keruta: "`That's the trick!'"
+
+# a50b2ff4
+; そういったヒルドルは、また一段と、姿が薄れてきました。
+These Hildurs have faded even further.
+
+# 18675c9b
+; hildur: 「しかし転送の完遂には、少し時間がかかるからぁ……」
+hildur: "But it will take some time to complete the transfer ……"
+
+# 1dc5ed6e
+; yule: 「あ……」
+yule: "Oh, ……,"
+
+# fe71c67d
+; glugga: 「そ、そう、かな。今すぐ転送を実行したって……」
+glugga: "Oh, yes, I suppose.Transfer Now ……"
+
+# ca98a828
+; suteki: 「朝になるわね。[i]{playerName}が、完全に人間世界に戻る前に」
+suteki: "It's morning, isn't it?[i]{playerName} But before I completely return to the human world."
+
+# 71ec7465
+; keruta: 「発動は問題ないですが、完遂までは……[i]見届ける事は難しいです」
+keruta: "There is no problem with activation, but it is difficult to see ……[i] until it is completed."
+
+# b577e0c2
+; hildur: 「でも僅かな間だし。うまく{playerName}が耐えてくれるかも知れないから」
+hildur: "But for a little while.{playerName} might endure it well."
+
+# 8968c36d
+; byu: 「暁の間は、運任せって事？」
+byu: "Do you mean to leave it to chance during the dawn?"
+
+# bd72e63b
+; hildur: 「でも今みたいな治療よりは可能性があるから、試してみる価値はあるわぁ」
+hildur: "But it's more possible than the current treatment, so it's worth a try."
+
+# d9b0302
+; yule: 「……確かにそうですね。今までの治療よりは……」
+yule: "…… That's true.More …… than previous treatments."
+
+# 1ac90aee
+; 少し考えましたけど、たしかにそれなら可能性があります。
+I thought about it for a while, but there is a possibility.
+
+# 1fcfe87b
+; そしてアタシなら、それをもっと確実にできる方法も……
+And with Atashi, there is also a way to make it more certain ……
+
+# 659d434d
+; hildur: 「……時間がないだろうけど、あと、最後にもうひとつだけ聞いて欲しいわぁ」
+hildur: "…… "You won't have time, but I want you to ask me one last question."
+
+# 98fd7c9e
+; yule: 「はい？なんでしょう」
+yule: "What? What is it?"
+
+# df9ad9c1
+; hildur: 「……叶えなかった妾の願い、託したいわぁ」
+hildur: "…… "I want to entrust my concubine's wish that didn't come true."
+
+# 653fafcd
+; yule: 「願い？」
+yule: "Wish?"
+
+# abd7df87
+; hildur: 「今年の【トゥーレ還元】は失敗だけど、チャンスはまだあるわぁ。[i]３３年後に」
+hildur: "This year's 【Thule reduction 】 is a failure, but we still have a chance.[i]33 years later."
+
+# e50d19cc
+; keruta: 「……サムスティラの事ですね。しかし……」
+keruta: "You mean ……Samstilla.But ……"
+
+# da2fd7fe
+; hildur: 「ええ。[i]その時にまだトゥーレが残ってるのなら、の話しだけど……」
+hildur: "Yes. [i] If you still have Thule at that time, ……."
+
+# e280f822
+; byu: 「３０年って予測値が外れた場合、だよね」
+byu: "Thirty years is when you miss your prediction."
+
+# 780d5cd8
+; suteki: 「それも、運任せだわ」
+suteki: "It's up to luck, too,"
+
+# 6f5a65e5
+; hildur: 「そう、確かな事ではないわぁ。[i]でも、希望だけは持っていきたいから……」
+hildur: "Yes, it's not certain.[i]But I only want to bring hope ……."
+
+# 72c8b97d
+; yule: 「……任せてください。[i]ユールちゃんたちが、なんとかしてみせますから」
+yule: "Leave …… to me.[i]Yule for they will do something about it."
+
+# d53b06ee
+; 確かな事ではないけど、元々思ってた事だったし、前向きに答えてあげました。
+I'm not sure, but it was what I thought, so I answered positively.
+
+# c3c16cdd
+; hildur: 「ありがとう。任せたわぁ。[i]これで心残りなく、妾は行けるってもの」
+hildur: "Thank you. I left it to you.[i]This is enough for a concubine to go."
+
+# 7e881077
+; keruta: 「あ、ヒルドル、もう殆ど見えなくなりました」
+keruta: "Oh, Hildur, I'm almost out of sight now."
+
+# 9a8900e9
+; hildur: 「…………ええ、そろそろね。元々とっくの前に死んだ身だからぁ。[i]一瞬の奇跡で、これだけの言葉を残しただけでも幸いだわぁ」
+hildur: "………… "Yes, it's about time.for he had long since died.[i]It's a miracle, and I'm glad I left so many words."
+
+# 1c445529
+; yule: 「えっ……」
+yule: "What ……,"
+
+# a4d04dac
+; そう言った途端、もうヒルドルの姿は見えなくなりました。
+As soon as he said so, Hildur was no longer seen.
+
+# 8ee766c9
+; 本当に時間がなかったようで、お別れも突然です。
+It seems like we didn't have much time, and we suddenly said goodbye.
+
+# d82bd0be
+; hildur: 「……さようなら、そして……」
+hildur: "Good-bye ……, and ……,"
+
+# 1dc5ed6e
+; yule: 「あ……」
+yule: "Oh, ……,"
+
+# 8781de64
+; でも彼女の声だけは、ちゃんとアタシたちに届きました。
+But only her voice reached them properly.
+
+# db06619a
+; <ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。
+<ruby=" Gledileg jol"> Gleðileg jól</ruby>.
+
+# dc7df851
+; 妾が愛したこのトゥーレに、ヨールの祝福がありますように……
+May the blessing of Jol be with this Thule that the concubine loved. ……
+
+# a308ef38
+; と、ヨールを祝うあの特別な言葉だけを残して、彼女は消えてしまいました。
+She disappeared, leaving only those special words to celebrate Jol.
+
+# c96bca26
+; yule: 「さよなら、ヒルドル。種族は違えど、あなたはトゥーレの女王でした」
+yule: "Good-bye, Hildur. You were the queen of Thule, though of different races."
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 266ff71b
+; ヒルドルとお別れをしたあと、すぐにそれを実行する事にしました。
+After parting with Hildur, I decided to carry it out immediately.
+
+# 3c34653f
+; yule: 「よし」
+yule: "All right,"
+
+# 40652d59
+; アタシは姉妹たちを見回しながら、改めて言いました。
+Atashi said again, looking around at his sisters.
+
+# 7eb4b786
+; yule: 「みんな、手伝ってくれますか？」
+yule: "Will you all help me?"
+
+# 4b66e4c8
+; byu: 「もちろんだよ！方法がないよりはマシだもん」
+byu: "Of course! It's better than no way."
+
+# 688e5b5b
+; keruta: 「はい。みんなで{playerName}を人間世界に送りましょう！」
+keruta: "Yes, let's all send {playerName} to the human world!"
+
+# ec32c48b
+; suteki: 「ええ。手伝うわ。姉妹だし」
+suteki: "Yes. I'll help you.They're sisters."
+
+# 29564ebe
+; glugga: 「う、うん！と、当然だよ。それが義理だもの」
+glugga: "Yes, yes! Of course.That's my duty."
+
+# 98d4c9e2
+; 他の１３姉妹もみんな、好意的でした。
+The other 13 sisters were all friendly.
+
+# c38bf33f
+; 完全とは言えませんが、可能性にかけてみようと言ってました。
+I can't say it's perfect, but he said he'd try the possibility.
+
+# 1e365ef
+; yule: 「みんな、ありがとう！それでは早速始めましょう！」
+yule: "Thank you, boys! Let's get started!"
+
+# b4feeda0
+; 「Já！」
+"J á!"
+
+# 9c217b11
+; そしてアタシたちは、この魔法陣を使って、転送魔法の準備をはじめました。
+Then, using this The Magic Circle, the Atashi and others started preparing for the transfer magic.
+
+# 16ffc21c
+; yule: 「ありがとう、アタシの大切な姉妹たち。[i]最後まで、忘れませんよ」
+yule: "Thank you, Atsushi's precious sisters.[i]I won't forget it till the end."
+
+# e98a1403
+; そしてアタシは、{playerName}が生き残る可能性を更に高めるための、別の準備もはじめました。
+Atashi then began other preparations to further increase {playerName}'s chances of survival.
+
+# feb3f5ff
+; どうか、うまくいきますように……
+I hope everything goes well ……

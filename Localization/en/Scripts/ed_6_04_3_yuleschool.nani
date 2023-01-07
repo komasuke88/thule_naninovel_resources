@@ -1,0 +1,81 @@
+; Japanese <ja> to English <en> localization document for `ed_6_04_3_yuleschool` naninovel script
+
+# 8cb0e112
+; me: 「……ああ。お前、可愛いな。そそるぞ」
+me: "…… Oh, you're so cute.I'm going to seduce you."
+
+# c2a8b5d3
+; 「なななななっ！」
+"Oh, my dear fellow!
+
+# ea231d8d
+; me: 「似合うじゃないか、制服」
+me: "You look good in school uniform"."
+
+# 5ed5f2cb
+; 「そ、そ、そんな。ユールちゃんを口説いてるんですか？」
+"Oh, oh, oh, oh, oh, oh, oh, oh, oh.Are you wooing Yule?"
+
+# 447f94ef
+; 「そんなこと言ったら、襲って下さいと言ってるようなもので……」
+"If you say such a thing, it's like asking for an attack ……"
+
+# 4a971eb1
+; 「いやアタシ何言ってるんだろう……」
+"No, I don't know what you're talking about ……."
+
+# d82ea385
+; me: 「本当、かわいいぞ。抱きしめていいか？」
+me: "You're so cute.Can I give you a hug?"
+
+# b4329879
+; 「えっ！？あ、あっ！は、はい……[i][char yule.seihuku-dere4]ど、どうぞ」
+"What!? Oh, oh! Yes, ……[i][char yule.seihuku-dere4] Here you go."
+
+# 7bec79f9
+; そう言ってユールちゃんは俺に身を寄ってきた。
+said Yule, leaning over to me.
+
+# c9b54052
+; そして俺はそのまま……
+And me just like that ……
+
+# 3c14ab2
+; yule: 「あっ、だ、だめぇぇぇぇ♥」
+yule: "Oh, no, no, no, no ♥"
+
+# 3ea899f
+; ……
+……
+
+# becbf37e
+; <s>　　　　</s>一年後
+<s>    </s>One year later
+
+# 140fd6f7
+; yule: 「くすくす、ついにユールちゃん念願の、ハーフトロルが生まれる訳ですね」
+yule: "So giggle finally, Yule's long-cherished half-trol is born."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 68f30eb8
+; yule: 「しかしあれは予想外でした。{playerName}って、制服フェッチだったのですね」
+yule: "But that was unexpected. {playerName} was a uniform fetch, wasn't it?"
+
+# 84126731
+; me: 「まあ、そうかな」
+me: "Well, I suppose,"
+
+# 70d270a5
+; yule: 「くすくす。{playerName}って、ドスケベですね」
+yule: " giggle. {playerName} is a dope."
+
+# a42e055c
+; me: 「わるいか」
+me: "I'm sorry,"
+
+# 1233fbb
+; yule: 「いいえ。好きです。これからも制服で色んなプレイをしながら永遠を生きましょうね」
+yule: "No, I like it.Let's continue to play in school uniforms and live forever."

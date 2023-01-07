@@ -1,0 +1,353 @@
+; Japanese <ja> to English <en> localization document for `6_10_7_nigeru` naninovel script
+
+# 8628a848
+; me: 「ヒヒヒン！（ふ、二人とも、俺の背中に乗れ！）」
+me: "Both of you, get on me's back!"
+
+# 3e925f35
+; 俺は二人に背を向けて、乗れってサインした。
+I turned his back on them and signed them to get on.
+
+# dadbb6d9
+; hime: 「う、うん！」
+hime: "Yes, yes!"
+
+# 7545330b
+; yule: 「わ、わかりました。よっと……」
+yule: "Well, I see.More ……"
+
+# db3de2a0
+; ユールちゃんは素早く俺の背中に乗り、
+Yule quickly got on me's back;
+
+# 8383809c
+; 続いて、ヒメもぎこちない動きで乗りかかったが、
+Then Hime got on with an awkward movement.
+
+# 1ef0cfb3
+; hime: 「きゃっ」
+hime: "Oh, my God!"
+
+# 770e600d
+; 乗りかかろうして、転けた。
+I tried to get on and fell.
+
+# edf5d1e1
+; 人間の体に戻ったのがまだ慣れてないのか、体の動きがぎこちない。
+Perhaps he is not used to returning to the human body yet, but his body movements are awkward.
+
+# 891f9992
+; unknown: 「<s>　　　　　　　　　　　　　　　　　　　　</s>」
+unknown: "<s></s>"
+
+# 8d3e0be7
+; こうしてる間にも、あのグロい化け物は近づいてくる。
+In the meantime, the grotesque Monster approached.
+
+# a38e1333
+; me: 「ヒィー！（ヒメ！？）」
+me: "Hey! ( Hime?"
+
+# 842500a7
+; yule: 「くっ！何やってるんですか！早く！」
+yule: "Damn it! What are you doing?"Come on!"
+
+# ff1948b7
+; ユールちゃんが直ぐに降りて、ヒメの手を取って、後ろに乗せてあげた。
+Yule came down at once, took Hime by the hand, and put her on the back.
+
+# 5ae2f4db
+; hime: 「あっ……」
+hime: "Oh, ……,"
+
+# 43ed17e9
+; me: 「ヒヒン！（よし！走るぞ）」
+me: "Hee-hee-hee-hee-hee-hee-hee-hee-hee-hee-hee!"
+
+# 383ef4ff
+; 二人が乗った事を確認して、俺は素早く、化け物の反対側へと走りだした。
+Having confirmed that they had been on board, me quickly began to run to the other side of Monster.
+
+# 5b1ca598
+; ランドマンナロイガルの丘は険しく、馬が走るのに不向きな地形だったけど、頑張った。
+The hills of Landmannalaugar were steep and unsuitable for horses to run on, but I tried my best.
+
+# 104de2ca
+; …………
+…………
+
+# 4820c914
+; 数秒後、恐る恐る後ろを確認してみると……
+A few seconds later, I looked back nervously and found ……
+
+# d1964ffd
+; me: 「ヒーン？（な、なんだ）」
+me: "What niegh?"
+
+# 4c4ed666
+; 先まで俺たちが居た温泉のあたりが、見たことのない黒い物質で覆われていた。
+The area around the hot spring, where me had been, was covered with a black substance that had never been seen before.
+
+# f65d285e
+; まるで地面から触手が咲いているみたいに見えた。
+It looked as if tentacles were blooming from the ground.
+
+# 3c50711a
+; 化け物の周りは、腐食してる。
+The area around Monster is corroded.
+
+# 6efcb5de
+; yule: 「危ないところでした。あれに当たったらどうなったか……」
+yule: "It was a close call.…… what would have happened if I had been hit by that."
+
+# 5f4a7df2
+; hime: 「あ、あの化け物は一体なんなの？」
+hime: "Oh, what on earth is that Monster?"
+
+# ce979d21
+; yule: 「あれは……」
+yule: "That's ……,"
+
+# bd759d89
+; ノルド神話で『再び歩く者』って意味の化け物、ドラウグ。
+『 in Norse mythology, 』, meaning Monster who walks again Draugur, 。.
+
+# 830a1692
+; アイスランドではアフトガング（afturganga）とも言う。
+In Iceland, it is also called afterganga.
+
+# 3bcbac7b
+; 海のトロールと呼ばれてるけど、ユールちゃんたちトロールとは違う種族。
+It's called the Troll of the sea, but it's a different race from Yule of the Troll.
+
+# 7e63949e
+; 死んでも蘇る、アンデッドの一種だ。
+It is a kind of undead that comes back to life.
+
+# d6270093
+; 人智を越する力を持って、魔法まで使える。
+It has the power to transcend human intelligence and can even use magic.
+
+# 19ce392f
+; ドラウグが眠ってる墓の周りを飛ぶ鳥は、狂って落ちる事もある。
+A bird that flies around the grave where Draugur sleeps can fall madly.
+
+# bb6068f
+; アイスランドの民話で、ドラウグは色んな方法で人間を殺したという。
+In Icelandic folklore, Draugur killed humans in many ways.
+
+# f13d19a8
+; 叩き殺したり、吸血して殺したり、食い千切ったり、狂死させる事もある。
+They can be beaten to death, blood-sucked to death, eaten to death, or killed by madness.
+
+# ec3de0b0
+; 特に目的もなく、海の近くを彷徨いながら殺人をしてる。
+Without any particular purpose, he was wandering near the sea and killing people.
+
+# 69dab9a7
+; 幸い、昼間の陸地ではあまり危険はなかった。
+Fortunately, there was not much danger on land during the day.
+
+# f871eef8
+; 普段は海の底で生きていて、日の光を浴びると岩になってしまうからだ。
+They usually live at the bottom of the sea and become rocks when exposed to sunlight.
+
+# d739fb0f
+; 今までは、そうだった。
+Until now, it has been like that.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 2122ac73
+; me: 「ヒヒーン（今、昼間だよな？しかも海の近くでもない）」
+me: "niegh (It's daytime, isn't it?)and not near the sea."
+
+# 7c2bf7b9
+; yule: 「はい。……なのに、あんなに堂々と歩いていられるのが理解できません……」
+yule: "Yes, I don't understand …… being able to walk so confidently."
+
+# eea36acd
+; hime: 「ユールちゃんにもわからないんだ……」
+hime: "I don't know ……,"
+
+# 6404d362
+; yule: 「はい。それに、いくらドラウグでも、エルフが殺される事は普通、ありえないはずですが……」
+yule: "Yes, and Draugur, however Elf may not normally be killed, ……."
+
+# 3717dc18
+; me: 「ヒヒーン（あのエルフが消えたのも、また想定外の出来事って事か）」
+me: "niegh (That Elf disappeared again, which means it happened unexpectedly.)"
+
+# 36a68256
+; yule: 「そうです。想定外の事だらけです。[i]本当に、今のトゥーレには何が起こってるんですかね」
+yule: "Yes, there are many unexpected things.[i]What is really going on with Thule now?"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 86d94011
+; hime: 「……」
+hime: "……"
+
+# ea3555c
+; しばし沈黙があった。
+There was silence for a moment.
+
+# a94d73bc
+; 全員、頭の中で色んな事が思い浮かんでるのだろう。
+Everyone must be thinking about a lot of things.
+
+# 14c11a7c
+; そこで、ユールちゃんが話を切り出した。
+Then Yule began.
+
+# 82950897
+; yule: 「……それはそうと……」
+yule: " …… But ……,"
+
+# 34a38c94
+; ユールちゃんは、自分の体を後ろから掴んでるヒメに、何か言いたげだった。
+Yule seemed to want to say something to Hime, who was holding his body from behind.
+
+# 6186c43
+; yule: 「あなたですね……」
+yule: "It's you, ……,"
+
+# d77b010e
+; 不機嫌そうな表情で、何かが気に入らないご様子。
+He looked displeased and didn't like something.
+
+# ffb548be
+; hime: 「うん？何？」
+hime: "Huh? What?"
+
+# 111256dc
+; yule: 「おっぱい、押し付け過ぎです」
+yule: "You're pushing me too hard."
+
+# beb3623
+; ……どうでもいい話だった。
+…… It didn't matter.
+
+# 94d40c9
+; ま、馬の背中に二人乗りだから、体が触れ合うのは仕方ない事なのだが……
+Well, since we're two-seater on the back of a horse, it can't be helped that our bodies touch each other ……
+
+# 509b039
+; hime: 「えっ？[i][char hime.hehedere]も、もう……[i][char hime.komaru]これくらい、いいじゃない？女同士だしー」
+hime: "What? [i] [char hime.hehedere] is already …… [i] [char hime.komaru] Isn't this good?They're women."
+
+# 44300d01
+; yule: 「いや。見せつけるようで気分が悪いですね」
+yule: "No, I don't feel good because I look like I'm showing off."
+
+# 30f664eb
+; hime: 「ひ、ひどいー」
+hime: "Oh, that's too much."
+
+# 16eeeb16
+; me: 「ヒヒーン（ははは、いいな……）」
+me: "niegh (Ha, that's nice ……)"
+
+# 1fcd4d26
+; hime: 「うん？なに？わたしのおっぱいが？」
+hime: "Huh? What? My milk?"
+
+# 728e71fa
+; me: 「い、いや、そうじゃなくて！！あるんだろう？感触が」
+me: "`No, no, not so!'Is there one? It feels like it."
+
+# 5676d547
+; yule: 「くっ……そりゃ、これだけでかけりゃ、感触があるんですけどね！」
+yule: "`Damn it …… Well, if you put it on this alone, it'll feel good!'"
+
+# 10a0be68
+; hime: 「も、もう、{playerName}ってば……そんなに気になってたの？わたしの……」
+hime: "Well, {playerName} was …… so curious?"My ……."
+
+# 6ec156a4
+; me: 「そ、そうじゃなくて！！ちゃんとヒメの感触があるって事は、今までと違うから）」
+me: "`No, not so!'It's different that there's a proper feeling of Hime.)"
+
+# fddb9b62
+; hime: 「あ……
+hime: "Oh, ……,"
+
+# df02afba
+; hime: うん……そうだね。もう幽霊ではないもの」
+hime: "Yeah …… That's right.It's no longer Ghost."
+
+# a9a8fe6a
+; me: 「ヒヒーン（ああ、ちゃんと人間に戻ったって事だから、いいなーと思ったよ）」
+me: "niegh (Oh, I'm glad you're back to being human.)"
+
+# 80644b99
+; hime: 「うんうん。そうだよ。へへへ」
+hime: "Yes, yes, hehe."
+
+# 1d992d93
+; yule: 「ま、そうですね。ミッション成功ってわけです。[i][char yule.default]悪霊化を含めて、この女の問題は、すべて解決されました」
+yule: "Well, yes.The mission was successful.[i][char yule.default]All her problems, including demonization, have been solved."
+
+# 471e3530
+; hime: 「みんな、ありがとう」
+hime: "Thank you, ladies and gentlemen,"
+
+# d861ab46
+; me: 「ヒヒーン（よかったな）」
+me: "I'm glad niegh,"
+
+# b6e3fa83
+; yule: 「後はラーカギーガルで{playerName}の体を戻して、記憶を取り戻すだけですね」
+yule: "All we have to do is restore {playerName}'s body and recover his memory."
+
+# 3e7590aa
+; hime: 「うん。{playerName}の問題も、もうすぐ解決だね！」
+hime: "Yes. The {playerName} problem will be solved soon!"
+
+# 8048d6e0
+; me: 「ヒヒーン（ああ、３日以内には、すべて決着をつけないとな）」
+me: "niegh (Oh, we must settle everything within three days.)"
+
+# 6630069
+; yule: 「急がないとですね。[i]体はもうすぐ取り戻すんでしょうが、記憶の欠片は、またご先祖様に尋ねないといけませんから」
+yule: "We must hurry.[i]Your body will be recovered soon, but you must ask your ancestors again for the fragments of your memory."
+
+# 5ef9b8c3
+; me: 「ヒヒーン（ま、俺が頑張って走ったらいいだけだろう？）」
+me: "niegh (Well, it's all right if me runs hard, right?)"
+
+# 89bde85b
+; すっかり一人前の馬になったな、俺。
+You've become a full-fledged horse, me.
+
+# bd513701
+; でも人間だった頃よりも役に立ってるようで、悪くない。
+But it seems to be more useful than when I was a human being, and it's not bad.
+
+# 4c69d4a5
+; yule: 「くすくす、そうですね」
+yule: "Yes, giggle,"
+
+# ebe37480
+; me: 「ヒーン（で、 <ruby="ラーカギーガル"> Lakagígar</ruby>ってのは、どっちだ？）」
+me: "niegh (And which one is <ruby=" Lakagigar">Lakag ígar</ruby>?)"
+
+# 80d3988e
+; yule: 「あ、はい。そこなら……こっちです」
+yule: "Oh, yes, that's …… this way."
+
+# 6a172da8
+; me: 「ヒヒーン（おう）」
+me: " niegh,"
+
+# 6a005e55
+; hime: 「また走るのね！それでは、しっかり掴まえないと」
+hime: "You're going to run again! Then you have to hold on to it."
+
+# fd4e4eff
+; yule: 「あ、アンタ、くっつきすぎだって！」
+yule: "Oh, Anta, you're sticking too close!"

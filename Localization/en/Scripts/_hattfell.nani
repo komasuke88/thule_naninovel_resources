@@ -1,0 +1,57 @@
+; Japanese <ja> to English <en> localization document for `_hattfell` naninovel script
+
+# 2172b56e
+; yule: 「 <ruby="ハットフェル"> Hattfell</ruby>の山が見えてますね。ここから、南ハイランドの景色が続くんです」
+yule: "「 You can see the mountain of <ruby="Hatfell">Hatfell</ruby>.From here, the view of South Highland continues."
+
+# ac8c011e
+; me: 「ハイランド、ここがハイランドか……」
+me: "Is this Highland or ……?"
+
+# c258b363
+; 何もない荒野、火山、苔の風景だけが視界いっぱいに広がる場所だった。
+Only the empty wilderness, volcanoes, and mossy landscapes were visible.
+
+# 9a034c1
+; HattfellとはHat、つまり帽子だ。
+Hattfell is Hat, or hat.
+
+# 5b6ea799
+; 帽子のような形で、そう名付けられた。
+It was named in the form of a hat.
+
+# 813e716d
+; 山に近づくと、峡谷が見えた。
+As I approached the mountain, I saw a canyon.
+
+# 70e7a82d
+; yule: 「ハットフェル山の古い峡谷、Hattfellsgljúfurです」
+yule: "It's the old canyon of Mount Hutfellsglj úfur."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 829e259
+; 火山の前、割れてる大地。
+The ground is broken in front of the volcano.
+
+# 62533bcb
+; 大自然が、最初から作り直されてるような風景だ。
+It's like nature has been remade from the beginning.
+
+# 77c2db29
+; yule: 「ハイランドの景色は、大体こんなんです。でもそれが魅力でもありますよ」
+yule: "The view of Highland is roughly like this.But that's also the charm."
+
+# 1159e56c
+; me: 「……ああ、わかる気がする」
+me: "…… "Oh, I think I understand."
+
+# 19310222
+; yule: 「ささ、もっとハイランドの奥へ行ってみましょうか？」
+yule: "Sasa, shall we go further into Highland?"
+
+# 34371436
+; me: 「おう。ゆっくりと進みながら、この何もない険しさを楽しみたい」
+me: "Oh, I want to enjoy this empty steepness while moving slowly."

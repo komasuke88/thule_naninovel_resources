@@ -1,0 +1,321 @@
+; Japanese <ja> to English <en> localization document for `hekla` naninovel script
+
+# 893d1676
+; HEKLAという標識が設置されてる。
+There is a sign called HEKLA.
+
+# f7eef498
+; ここからが、ヘクラ火山の一帯だ。
+This is the area of the Hekra volcano.
+
+# 39cea78b
+; me: 「火山に登る事はできないけど、ここでならいい写真が撮れそうだ」
+me: "I can't climb a volcano, but I think I can take good pictures here."
+
+# d65a27ae
+; アイスランド語で【頭巾】を意味する <ruby="ヘクラ"> Hekla</ruby>火山。
+A volcano <ruby="hekla">Hekla</ruby> which means 【 hood 】 in Icelandic.
+
+# 31b8d1a4
+; アイスランドで最も活動的な火山である。
+It is the most active volcano in Iceland.
+
+# 1f655c6c
+; 874年以来、火山とその周辺で20回以上の噴火が発生してる。
+Since 874, more than 20 eruptions have occurred in and around the volcano.
+
+# 1e49b1ab
+; 特に1104年には非常に大規模な噴火があって、
+Especially in 1104, there was a very large eruption.
+
+# cbaca3b1
+; 中世の間、ヨーロッパの人々はこの火山を【地獄の門】と呼んでいた。
+During the Middle Ages, Europeans called the volcano 】 the Gate of Hell 【.
+
+# 58499330
+; me: 「昔のヨーロッパ人は、この火山をとても恐れていたんだよな」
+me: "In the old days, Europeans were very afraid of this volcano."
+
+# 30c4a5a
+; 中世のヨーロッパの様々な記録が、ヘクラ火山の恐ろしさについて語っている。
+Various records of medieval Europe describe the horrors of the Hecla volcano.
+
+# 49fcebff
+; シトー修道会の修道士、クレアヴォーのハーバートは、
+Herbert of Clarevo, a Cito monk,
+
+# 3047afff
+; 彼の著書、Liber De Miraculisで、ヘクラ火山をこう描写した。
+In his book, Liber De Miraculis, he described the Hecla volcano as follows,
+
+# 480207cd
+; 「人々が地獄の煙突と呼ぶシチリア島の有名な燃えるような大釜。
+"The famous burning cauldron of Sicily, which people call the chimney of hell.
+
+# 2b118334
+; しかしその大釜は、この巨大な地獄と比べれば小さな炉のようなものだ」
+But the cauldron is like a small furnace compared to this great hell."
+
+# bd934017
+; [br]16世紀、カスパー・ポイサーは、
+[br] In the 16th century, the Caspur Poiser was a very important person.
+
+# 32a4c2ed
+; 「地獄の門はヘクラ・フェルの底なしの深淵にある」と書いてる。
+"The gates of hell are in the bottomless abyss of Hekla Fell," he wrote.
+
+# ef206266
+; [br]1120年頃の僧侶ベネデイトは、【聖ブランダン航海譚】で、
+[br]Benedate, a monk from around 1120, was 【 St. Brandan's Voyage 】.
+
+# ebc5454a
+; ヘクラを「ユダの刑務所」として言及してる。
+He refers to Hecla as "Judas Prison."
+
+# 53f96f6a
+; このように、ヘクラが地獄への門であるという信念は、19世紀まで続いた。
+Thus, the belief that Hecla was the gateway to hell continued until the 19th century.
+
+# 8a5c7392
+; また、このヘクラには、イースターの間に魔女たちが集まるという伝説もある。
+There is also a legend that the Hekra gathers witches during Easter.
+
+# df525ff5
+; me: 「魔女か……」
+me: "Witch or ……,"
+
+# 7cd1631e
+; ヘクラ火山の魔女といえば、あのケプラーを思い出す。
+The Witch of the Hekra Volcano reminds me of Kepler.
+
+# 2a76b5
+; 少しだけ悲しい話だ。
+It's just a sad story.
+
+# 2a7752ff
+; ドイツの数学者、ヨハネス・ケプラー。
+Johannes Kepler is a German mathematician.
+
+# 3a39f622
+; 【ケプラーの法則】で有名な彼は、数学者にして、自然哲学者、占星術師でもある。
+【 Known for Kepler's Law 】, he is a mathematician, natural philosopher and astrologer.
+
+# d72fb39c
+; 彼の著書の中で、<tip="somnium">Somnium</tip>という小説がある。
+Among his books is a novel called <tip="somnium">Somnium</tip>.
+
+# 645f5e06
+;  <ruby="ソムニウム"> Somnium</ruby>はラテン語で「夢」を意味する。
+<ruby="somnium">Somnium</ruby> means "dream" in Latin.
+
+# e88df9df
+; それはケプラーが見た夢、レヴァニアと呼ばれる月の世界へと旅する物語だ。
+It is a story about Kepler's dream of traveling to the moon world called Levania.
+
+# e3434e9
+; [br]夢の中で、ケプラーは <ruby="ドゥラコトゥス"> Duracotus</ruby>という、14歳のアイスランド人少年になる
+[br] In his dream, Kepler becomes a 14-year-old Icelandic boy named <ruby="Duracotus">Duracotus</ruby>
+
+# 6f3452b3
+; 彼はデンマークの天文学者・占星術師・錬金術師である <ruby="ティコ・ブラーエ"> Tycho</ruby> Braheの弟子だった。
+He was a disciple of Danish astronomer, astrologer and alchemist <ruby="Tico Brae">Tycho</ruby> Brahe.
+
+# 1abba20d
+; ５年間も学びの末、休暇をもらった彼は、故郷のアイスランドへと帰り、
+After five years of study, he took a vacation and went back to his hometown of Iceland.
+
+# f8e678f6
+; 母の <ruby="フィオルクヒルデ"> Fiolxhilde</ruby>と再会する。
+Reunite your mother <ruby="Fiorchilde">Filxhilde</ruby>.
+
+# 2e246791
+; 彼は母に、自分が学んだ天空の知識について話してあげた。
+He told his mother about the knowledge of the sky he had learned.
+
+# fcd8745c
+; だけどそのすべての知識を、何故か母は既に知っていたのだ。
+But for some reason my mother had already known all that knowledge.
+
+# c59b57f4
+; そこで、彼は母の秘密を知る事になる。
+There, he learns his mother's secret.
+
+# 321bad13
+; 彼の母、 <ruby="フィオルクヒルデ"> Fiolxhilde</ruby>は、魔女だった。
+His mother, <ruby="Fiorchilde">Filxhilde</ruby>, was a witch.
+
+# 7e69b837
+; 彼女は精霊を召喚し、様々な宇宙の知識を教えられていたという。
+She reportedly summoned spirits and was taught various knowledge of the universe.
+
+# d499c573
+; [br]秘密を打ち明けた後、彼女は息子の前で実際に精霊を召喚してみせて、
+[br] After revealing her secret, she actually summoned the Spirit in front of her son.
+
+# b3da361b
+; その後、精霊を魔法で、その母子は一緒に天空へと旅立つのだった。
+Then, by magic of the Spirit, the mother and child set off together into the sky.
+
+# c4b00918
+; レヴァニアと呼ばれる、月の世界。
+The moon's world is called Levania.
+
+# 38d8f055
+; そこから見た地球は、とてもキレイで、自転していたという。
+From there, the earth was very beautiful and spinning.
+
+# 1f887938
+; me: 「この不思議な架空の物語が、現実にまで浸透してしまったんだよな」
+me: "This strange fictional story has penetrated into reality,"
+
+# be87d1f3
+; この小説、ソムニウムが書かれた数年後、
+A few years after Somnium was written,
+
+# 6fd12ab1
+; 現実のケプラーの母、カタリーナ・ケプラーが魔女の疑いを受けて逮捕された。
+Katarina Kepler, the real Kepler's mother, was arrested on suspicion of witchhood.
+
+# be2d02ef
+; その疑惑の原因が小説の内容と関係あるかどうかはわからないが、
+I don't know if the cause of the suspicion is related to the content of the novel.
+
+# e46eb923
+; 実際に、ケプラーが書いた小説と同じく、彼の母は魔女になってしまったのだ。
+In fact, just like Kepler's novels, his mother became a witch.
+
+# 8b752bce
+; [br]魔女裁判にかけられた母の自由を勝ち取るために、ケプラーは5年間を費やした。
+[br] Kepler spent five years trying to win her mother's freedom in a witch trial.
+
+# e90014a5
+; やがて母は釈放されたんだけど、
+Soon my mother was released;
+
+# fed951dc
+; 長い投獄で衰弱してしまった母は、その後の半年で死んでしまったのだった。
+My mother, weakened by her long imprisonment, died in the next six months.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# bf801924
+; 空想が現実にまで影響をもたらし、悲しい歴史を作ってしまった。
+Fantasy had an impact on reality and made a sad history.
+
+# d3462f49
+; 今考えてみるととてもありえない話なんだけど、あの時代には実際にそんな事が起こっていたのだ。
+Now that I think about it, it's impossible, but it actually happened in those days.
+
+# 7a9e81a2
+; 魔女裁判とかな。
+Like a witch trial.
+
+# df2a3c1
+; me: 「暗黒の中世ってのは、あながち間違ってない表現だ」
+me: "The Dark Middle Ages is a perfectly correct expression."
+
+# 45a510e2
+; 母の死後、ケプラーは彼の物語を説明するために、本文よりも長い注釈を書いたという。
+After his mother's death, Kepler reportedly wrote longer notes to explain his story than the text.
+
+# de1f95af
+; 注釈の中で、ソムニウムの背景としてアイスランドを選んだ理由が書いてあった。
+In the commentary, the reason why Iceland was chosen as the background of somnium was written.
+
+# db6750a8
+; ケプラーが活動してた時期は１７世紀。
+Kepler was active in the 17th century.
+
+# 1a5d4bd2
+; まだアイスランドのヘクラ火山が「地獄の門」だと信じられてた頃だ。
+It was still believed that Iceland's Hecla volcano was the "gate of hell."
+
+# c48380ce
+; 小説の中で、月の世界と繋がってる主人公の母のフィオルクヒルデは、
+In the novel, Duke Master's mother, Fiorkhilde, is connected to the moon world.
+
+# d3b2572e
+; このヘクラ火山の斜面で、魔法の薬草を集めていたのだった。
+and on the slope of the Hecla volcano he was collecting magical herbs.
+
+# 4b28493a
+; [br]地獄という別の世界と繋がってるヘクラ火山。
+[br] The Hekura volcano is connected to another world called Hell.
+
+# fddcb2de
+; 実はヘクラだけでなく、昔からヨーロッパではこんな説があった。
+In fact, there has always been this theory in Europe, as well as in Hekra.
+
+# 1d505424
+; 「アイスランドは、他の世界への旅行を可能にするゲートウェイ」だと。
+"Iceland is a gateway that allows people to travel to other worlds."
+
+# 4d93e681
+; だから月の世界へと旅立つ物語の舞台として、アイスランドが選ばれたんだ。
+That's why Iceland was chosen as the setting for the story of our journey to the moon.
+
+# 7a277e48
+; me: 「異世界への旅か……」
+me: "Traveling to another world ……"
+
+# 35671711
+; 確かに、このアイスランドの風光は異世界と呼ばれるに相応しい。
+Indeed, this Icelandic landscape deserves to be called a different world.
+
+# d81918cd
+; 地球の外を背景とする数々のSF映画なども、このアイスランドを舞台に撮影されたのが多い。
+Many science fiction movies set in Iceland have also been filmed.
+
+# a67eef2a
+; me: 「異世界みたいな風景……いや、それだけじゃない」
+me: "A different world of scenery …… No, that's not all."
+
+# 3ba3edd5
+; 単純にそれだけじゃない。
+It's not just that.
+
+# 22f2e7b1
+; 景色の凄さだけなら写真を見てもわかる。
+You can tell by looking at the pictures if it's just the scenery.
+
+# d8e79e4c
+; しかし、実際にこの地を歩いてると、写真だけではわからない、霊的な何かを感じてしまう。
+However, when I actually walk around here, I feel something spiritual that cannot be understood only by photographs.
+
+# 35703ebd
+; 現実に異面に存在する、何かを……
+…… something that is out of touch with reality
+
+# 4a01090f
+; me: 「……うっ！」
+me: " …… Ugh!"
+
+# 89517d00
+; 一瞬、脳裏に彼女の姿が過ぎった。
+For a moment she passed through my mind.
+
+# 9d44a46
+; me: 「……ユールちゃん」
+me: "The ……Yule,"
+
+# 1356e4da
+; 俺の隣で、突然と姿を消した彼女。
+She suddenly disappeared next to me.
+
+# dc02e127
+; 彼女こそもしかして、その異世界の住民なのではないだろうか？
+Isn't she by any chance a resident of that other world?
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 8f0efe4e
+; また、彼女に出会って話をしてみたい。
+I want to meet her again and talk to her.
+
+# 10dfab7e
+; そんな事を考えながら、俺はヘクラ地域を去っていった。
+With that in mind, me left the Hekra region.

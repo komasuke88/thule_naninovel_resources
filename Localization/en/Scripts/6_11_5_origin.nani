@@ -1,0 +1,609 @@
+; Japanese <ja> to English <en> localization document for `6_11_5_origin` naninovel script
+
+# 3ce4635d
+; マーマンは【外界の神】の話を、長々と喋り続けた。
+merman went on and on talking about 】, the god of the outer world.
+
+# e70bfb74
+; 最初は支離滅裂な言葉の列べでしかないと思ったけど、
+At first, I thought it was just an incoherent line of words.
+
+# a10cd512
+; それだけではなかった。
+It wasn't just that.
+
+# c57e8ea0
+; hime: 「い、今の話、本当？？」
+hime: "Really?"
+
+# 4e7e171f
+; yule: 「そ、そんなはずないと思いますが、[i][char yule.l-nayami]そもそもこのマーマン、正気ではないみたいですが、[i][char yule.l-nayami2]いや、仮に本当だとしたら……？」
+yule: "Well, I don't think so. [i] [char yule.l-nayami] This merman seems insane in the first place. [i] 'charuyule.l-nayami 2' No, if it were true, ……?"
+
+# 6e3246b8
+; me: 「ヒヒーン！！（そ、それで？その話の続きは？？）」
+me: " niegh!! (So?What's the continuation of the story?)"
+
+# 753ba343
+; 俺はそのあとの話が気になって仕方がなく、マーマンに問い詰めた。
+me, anxious about the rest of the story, questioned merman.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 753d72fb
+; merman: 「…………」
+merman: "…………"
+
+# 79b566a4
+; me: 「ヒヒーン！（いや、そこで黙らないで、早く続きを……）」
+me: " niegh!" (No, don't shut up there, ……)"
+
+# 3249a0cd
+; yule: 「そうですね。肝心なところでだんまりなんて……[i][char yule.dot]あれ？」
+yule: "Yes, ……[i][char yule.dot] What?"
+
+# 753d72fb
+; merman: 「…………」
+merman: "…………"
+
+# bf6fe834
+; me: 「ヒヒーン？（……止まった？）」
+me: "niegh? (Has …… stopped?)"
+
+# 70291028
+; yule: 「動きが完全に停止しましたね。壊れたのかな……もしもし？」
+yule: "The movement has stopped completely.Is it broken …… Hello?"
+
+# 8ae463ea
+; ユールちゃんはマーマンをスプーンでポンポンと軽く叩いたけど、反応がなかった。
+Yule patted merman with Spoon, but there was no response.
+
+# f6a16e90
+; 本当に、壊れた機械みたいだ。
+It's like a broken machine.
+
+# a5892b8f
+; hime: 「な、なんだか少し不気味だね」
+hime: "Well, it's kind of creepy,"
+
+# bda96086
+; me: 「ヒィーン（そうだな。先の話といい、この様子といい、不気味としか言えない……）」
+me: " neigh (Yes.It's called the future, and it's like this, and I can only say it's creepy ……)"
+
+# 3967101
+; こんな話が、本当にあっていいのだろうか。
+Is it really good to have such a story?
+
+# eb277dc8
+; 今年のヨールに【外界の神】が降臨し、
+This year, Jol, the god of the outside world, 】, descended on 【.
+
+# af813f7e
+; トゥーレは滅亡、人類は絶滅する。
+Thule is destroyed, and mankind is extinct.
+
+# 3eb72c80
+; 今年の異例的な異常気象こそ、その前兆現象だ。
+This year's unusual abnormal weather is a sign of this.
+
+# c8777bfc
+; 本来なら地球は、温暖化と寒冷化が交代に来るようになっていて、
+Originally, global warming and cold weather are taking turns.
+
+# 37c427a5
+; 温暖化だけが続く事はなく、バランスを保てられるはずだった。
+Global warming was not the only thing that would have continued, and we could have kept our balance.
+
+# 6ea5b36f
+; 極端に至る前に、落ち着く。
+Calm down before you go to extremes.
+
+# 63ae70c1
+; だから地球上のすべての氷河が消える事は、ありえないはずだった。
+Therefore, it was impossible for all the glaciers on Earth to disappear.
+
+# 3fc767b0
+; だけど今はそれが進行してる。
+But now it's going on.
+
+# 9fb7f10f
+; 自然現象ではなく、人為的な仕掛けによって。
+It's not a natural phenomenon, it's an artificial device.
+
+# acda05bd
+; 南極の永久凍土の下で眠ってるという【古代ウイルス】
+【 ancient virus 】 sleeping under permafrost in Antarctica
+
+# 8153578b
+; 遥か昔、氷河時代に、宇宙からやってきたそのウイルスは、
+Long ago, in the Ice Age, the virus came from outer space.
+
+# 3761aa2e
+; 地球中に広がる前に、南極の雪の下で凍りついていた。
+It was frozen under the snow of Antarctica before it spread all over the earth.
+
+# 5f6ba774
+; だから今までの人類の歴史で、それが表に出る事はなかった。
+Therefore, it has never been revealed in the history of mankind.
+
+# 8e9b0cb1
+; でも永久凍土が、溶け始めた。
+But the permafrost began to melt.
+
+# 13afde61
+; 封印されてた【ウイルス】の一部が流出し、深海へと流れた。
+Part of the sealed 【 virus, 】, flowed into the deep sea.
+
+# a7988801
+; ウイルスは深海の生物に浸透した。
+The virus penetrated deep-sea creatures.
+
+# 69b179da
+; そして宿主を【外界】の性質を持つ【何か】へと変えた。
+and transformed the host into something 【, 】 of the extraterrestrial 】.
+
+# c211e9bf
+; 【何か】は自分の意思とは関係なく、ウイルスの意思で動くようになった。
+【 Something 】 started to move on the will of the virus regardless of their own will.
+
+# 793bafd5
+; 独自の意思を持つ【宇宙ウイルス】
+uniquely-intended 】 space virus 【
+
+# bf2458aa
+; そのウイルスこそ【外界の神】そのものであった。
+The virus was 】 itself, the god of the outside world.
+
+# bfc63de9
+; 感染されたその【何か】は、邪気を放てるようになった。
+The infected 【, some 】, can release Evil Force.
+
+# 1a75f460
+; 微弱なウイルスの欠片だ。
+It's a weak piece of the virus.
+
+# 651411b9
+; 深海の中で、そのウイルスをずっと流し続けた。
+The virus continued to flow through the deep sea.
+
+# b15f8fbb
+; ウイルスは海流に乗って、全世界へと広まった。
+The virus spread throughout the world by sea currents.
+
+# 79213242
+; 微弱なウイルスは致命的ではなかったものの、影響はあった。
+The weak virus was not fatal, but it had an effect.
+
+# d6f60534
+; 人々が夢の中で、【神】と接触できるようになった。
+People have come into contact with 【 God 】 in their dreams.
+
+# 4c5ad3a7
+; 【神】の領域への扉が夢の中にできて、人はそこに足を入れる事ができた。
+【 A door to the realm of God 】 was built in a dream, and a man could put his foot in it.
+
+# 10e1911
+; 一部の人間が、そこに足を踏み入れた。
+Some people stepped into it.
+
+# c6fda57
+; しかし、この夢の世界は、人が訪問してはいけない場所だった。
+However, this dream world was a place where people should not visit.
+
+# 5fb873f
+; 夢の中の扉を、開いてはいけなかった。
+I shouldn't have opened the door in my dream.
+
+# 1af9a64c
+; 訪問者は、みんな狂ってしまった。
+All the visitors went mad.
+
+# 3c14ede1
+; 【神】に精神を侵食されてしまった。
+【 My mind was eroded by God 】.
+
+# 958aec53
+; 侵食された人々は狂気に満ちた【信徒】になった。
+The eroded people became 】 mad 【.
+
+# 152a6fdd
+; 信徒たちは【神】が支配する未来の夢を見るようになった。
+The believers began to dream of the future under the control of 【 God 】.
+
+# ede93e05
+; 神を地上に降臨させる。
+bring God down to earth.
+
+# 992cc035
+; その事で人類は消えて、地球は【神】だけの、単一生命体の星となる。
+This causes mankind to disappear, and the earth becomes a single life star only 】, the god 【.
+
+# 67ca55d2
+; 今の【外界の神】は完全体じゃない。
+The present 】 god of the outside world 【 is not a whole.
+
+# 213712d
+; ウイルスの、ごく一部だけで構成されてるからだ。
+It's because it consists of only a small part of the smallest part of the virus.
+
+# 1b66a6f4
+; 完全体の【神】を降臨されるためには、
+In order to descend from the complete 【 God 】,
+
+# 2db11c46
+; 永久凍土の下の【ウイルス】すべて表に出す必要がある。
+All 【 virus 】 under permafrost should be exposed.
+
+# 87c446be
+; 地球上のすべての氷河が溶けさせる必要がある。
+All the glaciers on the earth need to melt.
+
+# 10898c3d
+; やがて信徒たちは、それを可能とする力を発見した。
+Eventually the congregation discovered the power to make it possible.
+
+# 7e14cdf6
+; トゥーレ。
+Thule.
+
+# 535680a7
+; 別の星からやってきた世界。
+the world that came from another star.
+
+# 1bd664a8
+; そこから生み出された【魔力】なら、
+The 【Magical Power】 produced from it,
+
+# 52f3efe1
+; 【神】の降臨を実現させる事ができる。
+【 The descent of God 】 can be realized.
+
+# 4faf8d70
+; それから信徒たちは、魔術の研究をするようになった。
+Then the congregation began to study magic.
+
+# 4b4c1f3b
+; 最初の仕掛けは成功した。
+The first device was successful.
+
+# f65b42e
+; 異常気象を起こす事ができた。
+We were able to cause abnormal weather.
+
+# 5cc867fe
+; もはや地球に寒冷化が来る事はない。
+The earth will no longer be cold.
+
+# d837638e
+; 温暖化だけが、ずっと続く事になった。
+Only global warming will continue.
+
+# 853c4fec
+; だけど、まだ足りない。
+But it's still not enough.
+
+# aed7623
+; 今のままでは遅い。
+It's too late as it is now.
+
+# 451eaca1
+; 温暖化が続いても、すべての氷河が溶けるには百年以上かかる。
+Even if global warming continues, it will take more than 100 years for all glaciers to melt.
+
+# 8fcaa79a
+; 信徒たちの寿命のうちに、【神】を拝めるためには、
+To be able to worship 】 God 【 during the lifetime of the congregation,
+
+# 61692a9a
+; より早く、一瞬で、すべての氷河を溶けさせる必要がある。
+We need to melt all the glaciers faster and faster.
+
+# 60a1eb6
+; それも、不可能ではない。
+That's not impossible either.
+
+# f0b8ee11
+; ２０２５年は、特別だから。
+2025 is special.
+
+# 3db28798
+; トゥーレ、ヨール、フルドゥフォルク、サムスティラ、北の大魔法陣
+Thule, Jol, Huldufolk, Samstilla, Great The Magic Circle to the north
+
+# c3965026
+; 条件は整えた。
+The conditions have been met.
+
+# 6b02b8a3
+; あとは最後の仕掛け。
+The rest is the last trick.
+
+# 1e11443a
+; あれを乗っ取って、奇跡を起こすのだ。
+Take over that and make a miracle.
+
+# ffce93a7
+; merman: 「ぐぅぅぅぅぅぅぅ」
+merman: "`Gooooooooooooooooooooooooooooooooooooooooooooooo,'"
+
+# 482f1338
+; me: 「ヒヒーン？（うん？今、喋った？）」
+me: "niegh? (Huh? Did you just talk?)"
+
+# f562f18a
+; しばらく先の話しを思い返していた時に、再びマーマンが動いた。
+After a moment's reflection, merman moved again.
+
+# e3d61a75
+; yule: 「直ったんですかね？」
+yule: "Is it fixed?"
+
+# 54f3b66d
+; hime: 「で、でも、少し様子がおかしいよ？」
+hime: "But you look a little strange?"
+
+# a39a389f
+; merman: 「Eeeeeeeeeeeeeeeeeeeeeeeee」
+merman: "Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+
+# 659dc9e5
+; yule: 「え？？」
+yule: "What?"
+
+# 39cc6fae
+; 止まってた時よりも不気味に、様子がおかしくなってる。
+It's creepy and weird than it was when it stopped.
+
+# b81b63a3
+; まるで狂い始めたみたいだ。
+I feel like I'm starting to go crazy.
+
+# d56caf3b
+; merman: 「いいいいいいぃぃぃあああああああああああああ」
+merman: "Good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good."
+
+# 5b2ca76
+; マーマンは体をくねくねしながら、奇怪な悲鳴をあげた。
+merman wriggled and let out a strange scream.
+
+# b39c68f1
+; とても見苦しく、恐ろしく。
+It's so ugly and scary.
+
+# f660d991
+; me: 「ヒヒーン？？」
+me: " niegh???"
+
+# 2fed8db5
+; いきなりマーマンの目が赤く染まって、また全身の形が、変わり始めた。
+Suddenly merman's eyes turned red, and his whole body began to change.
+
+# 6055ec3f
+; me: 「ヒヒーン？（えっ……？）」
+me: "Is it ……?"
+
+# e52444a7
+; マーマンの姿が、またも変わってしまった。
+merman's appearance has changed again.
+
+# 7b5e256c
+; yule: 「これは……タコの足？」
+yule: "Is this the leg of a …… octopus?"
+
+# 478cc94f
+; hime: 「また変身を？」
+hime: "Transformation again?"
+
+# 1e606c53
+; 下半身が、魚から、タコみたいな触手へと変わった。
+His lower body changed from a fish to an octopus-like tentacle.
+
+# 2d98c4b8
+; me: 「ヒヒーン（しょ、触手とは……賢者様も奥が深い）」
+me: "niegh (Tactile hands are deep in the heart of …… wise man)"
+
+# c2eb5da9
+; 気持ち悪い触手がまた数本生えて、段々と、その体まで大きくなってる。
+A few disgusting tentacles grew again, and gradually they grew to their bodies grew larger and bigger and bigger and bigger and bigger and bigger and bigger and bigger and bigger and bigger.
+
+# 4a6ed5db
+; そして体のあちこちに凸凹の突起が出てきる。
+And uneven projections appear all over the body.
+
+# 17c22fe5
+; 化け物になってる。
+It's Monster.
+
+# f599a3cf
+; でも、まだ先のおっさんよりはマシな気がする。
+But I still feel better than my old man.
+
+# b6f05614
+; merman: 「これは、だめだな」
+merman: "I can't do this,"
+
+# 3f3bff1a
+; me: 「ヒヒーン？（え？なにが？）」
+me: "niegh? (What?"
+
+# b6f05614
+; merman: 「これは、だめだな」
+merman: "I can't do this,"
+
+# 85383a7e
+; yule: 「同じことを言ってますね」
+yule: "You're saying the same thing,"
+
+# b6f05614
+; merman: 「これは、だめだな」
+merman: "I can't do this,"
+
+# 8f45d21b
+; 先からマーマンはまったく会話をしてない。
+merman had not spoken at all.
+
+# 996b3440
+; ただ独り言をずっと言ってる状態だ。
+I'm just talking to myself.
+
+# 59945935
+; merman: 「これは……だめ……だ……依代には……使えない……」
+merman: "This is ……-no ……-no ……-no ……-no ……-no-Yoshiro."
+
+# e35c74dd
+; また、姿が変わろうとしてる。
+He's trying to change his appearance again.
+
+# 4534325a
+; 三段階変身？
+A three-step transformation?
+
+# 19b0b66
+; yule: 「え、えっと……これは」
+yule: "Well, ……,"
+
+# e30ee347
+; me: 「ヒヒーン！？！？」
+me: " niegh?!?"
+
+# ac1f3037
+; yule: 「な、なにこれ？」
+yule: "What is this?"
+
+# 892c8e48
+; hime: 「い、いやああぁ！」
+hime: "`Oh, my God!'"
+
+# a49dfd46
+; そのエグい姿に、ヒメは悲鳴をあげた。
+Hime shrieked at the ugly appearance.
+
+# e2dcb81e
+; me: 「ヒーン（グロくなってる！）」
+me: "niegh (It's getting groggy!)"
+
+# 8ff5c4f2
+; もう人魚ともタコ言えない、奇怪な姿になった。
+It is no longer considered a mermaid, and it has become a strange figure.
+
+# 2b861042
+; 気持ち悪くてしょうがない。
+It's disgusting.
+
+# 3ce699ac
+; もはや先のおっさんがマシなレベル。
+The older man is better now.
+
+# 9d4236f
+; ごめんなさい、賢者様。
+I'm sorry, wise man.
+
+# 960f20b0
+; 触手美少女までは許容範囲だったけど、これは無理。
+It was acceptable to a beautiful tentacles girl, but I can't do you can't do this.
+
+# d4cadbaa
+; merman: 「グゥゥゥゥゥゥ」
+merman: "Whoooooooooooooooooooooooooooooooooo"
+
+# e0b679de
+; me: 「ヒヒーン！！」
+me: " niegh!"
+
+# 35a24ac4
+; 触手で跳ねられた首が、こっちを睨みながら、苦しそうに唸ってる。
+The neck, which had been splashed by the tentacles, glared at me and groaned painfully.
+
+# f18a8121
+; 怖い。
+scared。
+
+# b984a4a9
+; me: 「ヒヒーン？（な、なんだかこれ、やばくない？）」
+me: " niegh?"
+
+# 8cf93878
+; 見た目から危険を感じて、そういった。
+I felt a danger in my appearance, and I said so.
+
+# 1349483c
+; yule: 「そ、そうですね。気持ち悪いし、とにかく離れた方がいいかも」
+yule: "Yes, sir.It's disgusting, and it might be better to leave anyway."
+
+# 8cc51577
+; merman: 「ギャ———」
+merman: "Ga-ga-ga-ga-ga-ga-ga-ga-ga."
+
+# 6e454759
+; そう言った途端、
+As soon as I said that,
+
+# 95e42a97
+; マーマンが、いきなりその奇怪な手足で、俺たちを襲ってきた。
+merman suddenly attacked them with his strange limbs.
+
+# 83772244
+; すごい殺気だった。
+It was very murderous.
+
+# ad22b7bb
+; yule: 「くっ！！こ、この！」
+yule: "Damn it! This one!"
+
+# 16ae2aa3
+; でもユールちゃんは慌てずに、巨大なスプーンを振って、マーマンの攻撃を交わして、反撃した。
+But without panic, Yule waved a great Spoon, exchanged merman's attack, and fought back.
+
+# 55608d45
+; merman: 「ゲェ—————」
+merman: "Oh, my God."
+
+# 6b95aaa7
+; 反撃をくらったマーマンは、目の前の小さな川まで飛ばされた。
+merman, who had been hit back, was flown to the small river in front of him.
+
+# 18cda79c
+; yule: 「あ、危ないですね！」
+yule: "Oh, that's dangerous!"
+
+# d37a9b80
+; 幸いに、見た目ほどには戦闘能力が高いわけではなかったようだ。
+Fortunately, the combat capability was not as high as it seemed.
+
+# a6c292f9
+; merman: 「ぐあああああ」
+merman: "`Oh, my God,'"
+
+# 238de6aa
+; しかしすぐに、恐ろしい声が聞こえた。
+But soon a terrible voice was heard.
+
+# a6bf4b32
+; どこから音が出るのだろう。
+I wonder where the sound comes from.
+
+# 2d848682
+; merman: 「ギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギ」
+merman: "Giggling KigigigigigigigigigiKigigigigigigigigigi"
+
+# 265e815f
+; 水面から、這い上がってくる！
+Crawling up from the water!
+
+# b53d4941
+; me: 「ヒヒーン！（ふ、二人とも、早く俺に乗れ！）」
+me: "niegh! (Hurry up and get on the me!"
+
+# fa0d2cf7
+; yule: 「そ、そうですね！流石にこれは……今のうちに逃げましょう！」
+yule: "Well, yes!As expected, this is …… Let's run away before long!"
+
+# c5aae2f0
+; hime: 「う、うん。わ、わかった」
+hime: "Yes, yes. I see,"
+
+# 70e4ee4f
+; そして俺は、全力で振り絞って、馬の四本足を走らせた。
+and me, with all his might, ran the horse's four legs.

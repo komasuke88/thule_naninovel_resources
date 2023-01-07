@@ -1,0 +1,49 @@
+; Japanese <ja> to English <en> localization document for `grabrokarfell` naninovel script
+
+# 7db95a62
+; me: 「噴火口が見えてきたな」
+me: "I see the crater,"
+
+# 6c270889
+; この景色を見るために、ここまで登ってきたんだよな。
+I came all the way up here to see this view.
+
+# 6977d1b9
+;  <ruby="グラブロカルフェル"> Grábrókarfell</ruby>。
+ <ruby="gravocalfell">Gr ábr ókarfell</ruby>.
+
+# 68b448e7
+; スナイフェルスネス半島の一番長い火山システムの上にある噴火口。
+Snaefellsnes the crater above the longest volcanic system on the peninsula.
+
+# 3755d594
+; この地帯は約３０００年前に形成されたと思われてる。
+The area is thought to have been formed about 3,000 years ago.
+
+# 9a0e2181
+; me: 「こんなところまで、ちゃんと道がよく作られてるな」
+me: "The road is well made up to this point,"
+
+# 4a33d9aa
+; 噴火口の直ぐ隣まで、観光客のための階段が続いてる。
+There are stairs for tourists right next to the crater.
+
+# df698108
+; この道ができたのは観光客のためだけではない。
+This road was built not only for tourists.
+
+# 214589a
+; 観光客たちが噴火口周辺の苔を踏みにじらないように、
+To prevent tourists from trampling on moss around the crater,
+
+# 5e52e52d
+; ここだけ歩いてくださいという提案でもある。
+It is also a suggestion to walk only here.
+
+# 35b126ca
+; me: 「アイスランドの自然を尊重しなくてはな」
+me: "We have to respect the nature of Iceland."
+
+# 44225438
+; 人は多かったけど、俺は道を外さない注意しながら噴火口の写真を撮っていった。
+There were many people, but me took pictures of the crater carefully.

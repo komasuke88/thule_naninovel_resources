@@ -1,0 +1,157 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_a_aruku` naninovel script
+
+# 8fe22af
+; じっとしてると退屈になった。
+I got bored when I stayed still.
+
+# d15b5610
+; そろそろ歩いてみるか。
+Shall we walk now?
+
+# f99a86b7
+; そうだ。あそこに見える家の近くまで。
+Right, close to the house you can see over there.
+
+# 47bdfe2b
+; me: 「うおぉぉ」
+me: "Wow,"
+
+# 789996c9
+; 足ができた。
+I got a leg.
+
+# 5deb71e8
+; 足？
+Feet?
+
+# 2fbd08ef
+; いや、これは根だ。
+No, this is the root.
+
+# 3027672b
+; 俺は木になって、土に根を張って立ってるのだ。
+I had become a tree, and stood rooted in the earth.
+
+# 534a9b15
+; でも……
+But ……
+
+# d993efad
+; me: 「歩けるのよね」
+me: "You can walk,"
+
+# 5434b90b
+; 歩けた！
+I walked!
+
+# 785da58a
+; 木なのに。
+It's a tree.
+
+# 8c7bc842
+; 俺は、歩く木。
+I is a walking tree.
+
+# 5024a6ec
+; me: 「あい・えむ・ツリー」
+me: "Ai, Em, "Aim Tree"."
+
+# a89afb9a
+; 言葉まで喋れる。
+I can even speak.
+
+# 91f9995c
+; 俺って、すごい木だ。
+I What a tree!
+
+# dfb5c0e7
+; unknown: 「やだぁ！トレントだわ！」
+unknown: "No! It's Trent said."
+
+# c5b2b03c
+; unknown: 「ば、化け物よ！？」
+unknown: "Oh, Monster!"
+
+# 371abe54
+; なっ！？
+What!?
+
+# 4bb8d971
+; unknown: 「邪悪なモンスターよ。滅びよ」
+unknown: "You evil monster, perish."
+
+# ad0ababe
+; me: 「ぐぁっ！」
+me: "Oops!"
+
+# e73f7fb8
+; 燃えてる！
+It's burning!
+
+# 9dde1670
+; me: 「熱いわ！」
+me: "It's hot!"
+
+# 7e85297c
+; 全身が燃えたのだった。
+He was burning all over.
+
+# f6118ceb
+; unknown: 「やっぱり植物型モンスターには、ファイアボールだな」
+unknown: "It's a fireball for plant monsters, after all."
+
+# c281a767
+; unknown: 「きゃー勇者さまあ！」
+unknown: "`Oh, brave man!'"
+
+# 2d52b620
+; 俺は通りがかりの勇者に退治されて死んでしまったのだった。
+I had been exterminated by a passing brave man and died.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 7f5afc32
+; 燃えて死んだ俺。
+I burned to death.
+
+# c1492ed
+; でも、どうってことない。
+But it doesn't matter.
+
+# 96d89c21
+; me: 「……涼しくなった」
+me: "…… It's getting cooler."
+
+# 7b7bccd3
+; 灰になり、チリになる。
+It turns into ashes and chili.
+
+# aac8c306
+; チリの俺は、空に舞い上がる。
+Chile's me flies into the sky.
+
+# cfa97a77
+; やがて雲の中へと吸収され、雨粒の一員となった。
+Then it was absorbed into the clouds and became a member of the raindrops.
+
+# e16fbc8f
+; でもここは寒いから、雨は雪になり、
+But it's cold here, so the rain turns into snow;
+
+# 7c05aa
+; 雪の俺は、また地上に舞い降りた。
+The snow me flew down to earth again.
+
+# f642d4f7
+; 俺がついたところは……
+I is …….
+
+# 837e5784
+; @choice "海" goto:7_2_5_dream.hyouzan
+@choice "Sea" goto:7_2_5_dream.hyouzan
+
+# 7338f94a
+; @choice "芝生" goto:7_2_5_dream.sibahu
+@choice "Lawn" goto:7_2_5_dream.sibahu

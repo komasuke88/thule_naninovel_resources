@@ -1,0 +1,621 @@
+; Japanese <ja> to English <en> localization document for `6_09_7_hildur2` naninovel script
+
+# de00ab0a
+; yule: 「トゥーレの還元って、そういう話でしたね」
+yule: "That's what Thule was all about."
+
+# 4481cd51
+; hildur: 「ええ。これでトゥーレは救われるのだわぁ。永遠に」
+hildur: "Yes, this will save Thule.for ever."
+
+# a3c56c14
+; yule: 「でもそんな大技があったのなら、なぜ今まで使ってなかったですか？」
+yule: "But if you had such a great skill, why haven't you used it before?"
+
+# b1335226
+; hildur: 「なるべく使いたくなかったわぁ。[i]魔法陣の仕組みがバレて、他の種族に悪用されると困るから」
+hildur: "I didn't want to use it as much as possible.[i]It will be a problem if the mechanism of The Magic Circle is found out and abused by other races."
+
+# 51f0e00f
+; yule: 「まぁ、想像を絶するほどの魔力を操れるっていうんだから、たしかに」
+yule: "Well, you can manipulate Magical Power beyond imagination, I'm sure,"
+
+# fa16afcd
+; hildur: 「そして、[i]馴染んでたこの地球と、お別れしなければならないからねぇ」
+hildur: "And [i] I must say goodbye to this familiar earth."
+
+# aafbfe63
+; yule: 「……地球とお別れ？[i][char yule.l-nayami]……そういや【還元】って、そういう意味だったのですね。[i][char yule.ee]……って事は……」
+yule: "Farewell to the earth ……?"[i][char yule.l-nayami] That's what ……by the way【 reduction 】 meant.[i][char yule.ee]……That is'"
+
+# e06cf38
+; ユールちゃんは少し釈然としない顔で言った。
+Yule said with a slightly dubious look.
+
+# 9d4d9014
+; yule: 「人間世界には、もう行けなくなっちゃいます？」
+yule: "Can't you go into the human world anymore?"
+
+# db11800d
+; hildur: 「そうよ。トゥーレは、地球から離れるから」
+hildur: "Yes, Thule will leave the earth."
+
+# 5e897f05
+; 還元が始まると、人間世界とトゥーレの繋がりが切れる。
+When reduction begins, the connection between the human world and Thule is broken.
+
+# dc9437ed
+; 人間とフルドゥフォルクは、もう関わる事はなくなる。
+Human beings and Huldufolk are no longer involved.
+
+# d441fefe
+; エルフ、トロール、ゴースト、そんな種族は、また想像の中だけの存在になる。
+Elf, Troll, Ghost, and so on become imaginary.
+
+# bb323ba7
+; トゥーレも、元からなかった世界になる。
+Thule But it will be a world that has never existed before.
+
+# b1667902
+; hildur: 「寂しいけど、これはすべてのフルドゥフォルクのため。あなたたちトロールにとってもいいことよ」
+hildur: "I'm lonely, but this is for all Huldufolk.It's good for you Troll, too."
+
+# d32584bd
+; yule: 「そうですね。人間世界に行けなくなるのは残念ですが、[i]死んだら元の子もないですし」
+yule: "Yes, it's a pity that I can't go into the human world, but [i] If I die, I won't have my first child."
+
+# 610f8b81
+; hildur: 「そうよ。あなたユールラッズも、もう無理に婿探しなどもしなくてもいいわぁ」
+hildur: "That's right. You don't have to force yourself to find a son-in-law anymore."
+
+# eac2a1f4
+; yule: 「あっ！それは……」
+yule: "Oh! That's ……."
+
+# 43f3bae0
+; ユールちゃんが俺の方を見つめながら、複雑な表情をしてた。
+Yule looked at me with a complex expression.
+
+# fc503636
+; yule: 「いや、でもそれは……せっかく攻略に成功しかけたのに、もったいないかも」
+yule: "No, but it's a waste …… I almost succeeded in capturing it."
+
+# cd68f05b
+; me: 「攻略って……」
+me: "Capture is ……"."
+
+# 20e373db
+; yule: 「{playerName}との関係は今まで通りにやっていき……[i][char yule.ee]って……！」
+yule: "My relationship with {playerName} will continue as before ……[i][char yule.ee] ……...!"
+
+# 23ba8769
+; そこまで言ったユールちゃんは、何かを思い出したかのように続いた。
+Having said that, Yule continued as if he had remembered something.
+
+# 56f507c8
+; yule: 「{playerName}とヒメさんは、どうなります？」
+yule: "What will happen to {playerName} and Hime?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# 5a0da1a8
+; yule: 「トゥーレが地球から離れると、[i]{playerName}とヒメさんは人間世界に戻れません。[i]それでは、ずっとトゥーレに住む事になりますが」
+yule: "When Thule leaves the earth, [i] {playerName} and Hime cannot return to the human world.[i]Then I will live in Thule forever."
+
+# 7be79f06
+; me: 「あ、そうか」
+me: "Oh, I see,"
+
+# 18153db2
+; hime: 「そ、そうなるの？」
+hime: "Oh, does that happen?"
+
+# cf482244
+; hildur: 「いいえ。[i]すべての人間は、自分の世界に戻されるわぁ。[i]トゥーレ還元の際に、強制的にね」
+hildur: "No. [i] All human beings will be returned to their own world.[i]Thule Forced in reduction."
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# e993ff65
+; 還元の魔法陣が発動するのはヨール、１２月２４日。
+The The Magic Circle reduction will take effect on Dec. 24.
+
+# 13575233
+; その前日である１２月２３日を、 <ruby="ソルラックスメッサ"> Þorláksmessa</ruby>という。
+The day before, December 23, is called <ruby="solax mesa"> Þorl áksmessa</ruby>.
+
+# 160a1394
+; 前夜祭だ。
+It's the night before.
+
+# b6e5e777
+; この前夜祭では、誰もが元の世界へと戻される。
+On the eve of this festival, everyone is restored to their original world.
+
+# 52e8c84f
+; すべての人間は、人間世界に。
+All men are in the human world.
+
+# 20118e14
+; すべてのフルドゥフォルクは、トゥーレに。
+All Huldufolks have Thule.
+
+# 72b42024
+; 自分の元にいた場所へと、強制的に、自動的に。
+Force and automatically to where you were.
+
+# 5c70325d
+; つまり１２月２３日になると、
+So, on December 23rd,
+
+# fb5932d2
+; 俺とヒメは、元の世界へと戻される。
+I and Hime are returned to their original world.
+
+# bef3d60e
+; そしてトゥーレでの出来事は、すべて忘れる事になる。
+And you forget everything that happened in Thule.
+
+# 57f8c37
+; トゥーレは、元々無かった世界になるんだ。
+Thule is going to be a world that never existed before.
+
+# 2694e2b5
+; yule: 「そうですか……やっぱり……」
+yule: "Well, ……, after all, ……."
+
+# bf6684cd
+; ユールちゃんは、落ち込んでいた。
+Yule was depressed.
+
+# 4b9e70e7
+; me: 「元の世界に戻されるか……[i]最初は望んでた事だけど……」
+me: "Will you be put back into the world ……[i]It's what I wanted at first, but ……."
+
+# 9a59d0c7
+; ユールちゃんとは、離れる事になる。
+Yule is a separation.
+
+# 521edcdf
+; それに……
+And ……
+
+# 995c73f
+; hime: 「……ここでの事、すべて忘れてしまうって？」
+hime: "…… "You're going to forget everything here?"
+
+# 257a550e
+; そう、それが、俺も気になったところだ。
+Yes, that's what me was concerned about.
+
+# 70050ff9
+; hildur: 「ええ。その魔法陣の特性だわ。[i]トゥーレから弾けされた者は、トゥーレに来る前の状態に戻る事になる」
+hildur: "Yes. It's a characteristic of The Magic Circle.[i]He who is played by Thule will return to his former state before coming to Thule."
+
+# fd6f6ccf
+; hime: 「それは、悲しい事だね」
+hime: "That's a sad thing,"
+
+# 6c170151
+; hildur: 「いい事でもあるわ。[i]トゥーレに来て傷を負った人間、邪気にやられた人間、気が狂ってしまった人間も、元の状態に戻されるから。死なない限り」
+hildur: "It's a good thing.[i]People who come to Thule and get hurt, people who get hurt by Evil Force, and people who go crazy will be restored to their original condition.as long as I don't die."
+
+# 21fea267
+; yule: 「確かにそんな人は多いですし、いい事ですけど……」
+yule: "There are certainly a lot of people like that, and it's a good thing, ……,"
+
+# e18d3954
+; hildur: 「ええ。トゥーレは”元々なかった世界”になるのだから。それが摂理というものでしょう」
+hildur: "Yes, Thule will be a "world that never existed before."That's what Providence is all about."
+
+# 4c71c1f1
+; yule: 「そう、ですね」
+yule: "Yes, sir,"
+
+# b731aea3
+; ユールちゃんは落ち込んでる。
+Yule is depressed.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 2e2caa3d
+; 俺も同じく落ち込んだ。
+I was also depressed.
+
+# 1a8eceea
+; もうユールちゃんとは会えなくなる。
+I can't see Yule anymore.
+
+# 59296703
+; あまつさえ、思い出すらもなくなるのだ。
+Even the sweet memories are gone.
+
+# 5293bf23
+; しかし……
+but ……
+
+# bb99ad22
+; me: 「……まぁ、なんだ。でもな？」
+me: " …… Well, what?but?"
+
+# ecaa7f3f
+; yule: 「……はい？」
+yule: "What ……?"
+
+# baa53323
+; me: 「これはユールちゃんたちにとっては良い事だろう？[i]魔力も維持できるし、命の危機もなくなる」
+me: "Isn't this good for Yule?"[i]Magical Power It can be maintained, and there will be no danger of life."
+
+# 59180cbc
+; yule: 「ま、確かに、死ぬよりはマシですけど……」
+yule: "Well, certainly, it's better than dying, ……,"
+
+# 3577067b
+; 少し重い空気になった。
+The air became a little heavy.
+
+# 27d077b3
+; me: 「まぁ、旅はいつか終わるものだ。[i]俺たち旅行客は、日本に帰るのが摂理なんだし」
+me: "Well, the journey will come to an end one day.[i]me It's a rule for tourists to go back to Japan."
+
+# 75711bf0
+; 俺はヒメの方を見ながらそういった。
+said me, looking at Hime.
+
+# b90bf668
+; hime: 「あ、でもわたしって、どうなるんだろう？」
+hime: "Oh, but what will happen to me?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 8c26dc0b
+; hime: 「わたしの体は、人間に戻るのかな？」
+hime: "Does my body return to being human?"
+
+# 7fe1529a
+; me: 「あ……！」
+me: "Oh, ……!"
+
+# 9739b36a
+; ヒメが割り込んできて、はっとなった。
+Hime broke in and I was startled.
+
+# 393965ad
+; そうか。幽霊のヒメは、どうなる？
+I see. What happens to Hime in Ghost?
+
+# bb5c262a
+; すべてがリセットされるというのなら。
+If everything is reset.
+
+# 1645e4a9
+; me: 「もしかして２３日になれば、ヒメは自動的に人間に戻るのかな？」
+me: "Will Hime automatically return to being human on the 23rd?"
+
+# a71c3005
+; hime: 「リセットって言うなら、当然そうなるよね？[i]流石に幽霊のままでは嫌だよ」
+hime: "If it's a reset, of course it is, isn't it?[i]I don't want to have Ghost as expected."
+
+# 401f68ad
+; hildur: 「えっと、そのゴースト……うちのエルフに身を取られた人間だわねぇ？」
+hildur: "Well, that ghost …… has taken you by my Elf?"
+
+# 4ab7c8e
+; 俺たちのやりとりを聞いていたヒルドルが、何故か怪訝な表情をした。
+Hildur listening to their conversation, me looked suspicious.
+
+# 86836ea1
+; hime: 「あ、はい」
+hime: "Oh, yes,"
+
+# bd8e97b1
+; yule: 「あ、そうでした。実はそれを聞くためにここに来たのでした」
+yule: "Oh, yes.I came here to hear it."
+
+# 4d7f410a
+; me: 「な、ヒルドル。２３日になれば、ヒメは人間の体に戻るのか？」
+me: "Well, Hildur.Will Hime return to the human body on the 23rd?"
+
+# 15e19bba
+; hime: 「人間世界に戻るのはいいけど、それはどうかな」
+hime: "It's good to go back to the human world, but how about that?"
+
+# 95a16354
+; hildur: 「いいえ。ゴーストは、人間世界には戻れない」
+hildur: "No, ghosts can't go back to the human world."
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# 6e98df00
+; hildur: 「ゴーストはトゥーレの存在として扱われてる。[i]そのままでは、人間世界には帰れないわぁ」
+hildur: "Ghosts are treated as the existence of Thule.[i]I can't go back to the human world without doing so."
+
+# 92ee8622
+; me: 「なっ？？」
+me: "What?"
+
+# 81288c42
+; hime: 「えっ、わたしだけ戻れない事？」
+hime: "What, am I the only one who can't go back?"
+
+# 3422e983
+; hildur: 「人間は、人間の体でないと戻れないわ。[i]傷は治るけど、体そのものが変質してしまっては治らない。[i]このトゥーレに来た時と同じ構成の人間だけが、２３日に自動的に戻れる」
+hildur: "Human beings cannot return unless they are human bodies.[i]The wound will heal, but if the body itself changes, it won't heal.[i]Only people with the same structure as when they came to Thule can automatically return on the 23rd."
+
+# 7427014d
+; yule: 「でもそれってつまり、２３日になる前に体を取り戻せばいいだけの事でしょう？」
+yule: "But does that mean that you just have to get back in shape before the 23rd?"
+
+# 6ba8d1da
+; hildur: 「ええ。２３日になる前に、あのエルフと合流して、体を取り戻すといいわぁ」
+hildur: "Yes. I hope I can join that Elf and get back together before the 23rd."
+
+# 86f2cad1
+; me: 「なんだ。最初の計画通りに動くといいだけだな」
+me: "What? I just hope it works according to the original plan."
+
+# 6a67ddc6
+; hime: 「そ、そうだよね。戻れないって言うからびっくりしたよ」
+hime: "Yes, indeed.I was surprised to hear that I couldn't go back."
+
+# 85cda8c5
+; yule: 「今の状態では、戻れないって事ですから」
+yule: "I mean, I can't go back in this situation."
+
+# 2f5a2812
+; hime: 「どのみち、幽霊のままで戻っても困るしね」
+hime: "Anyway, I don't want to go back with Ghost."
+
+# 1033991d
+; hildur: 「しかし残念だったわねぇ」
+hildur: "`But I'm sorry,'"
+
+# 859ac6aa
+; me: 「なにが？」
+me: "What?"
+
+# 7d3ffe43
+; hildur: 「あなたたちがもう少しだけ早く来ていれば、お互い容易に解決したのにね」
+hildur: "If you had come a little earlier, we would have solved each other easily."
+
+# 233e678f
+; yule: 「ああ！やっぱりそのエルフ、ここに来てたのですね？」
+yule: "Ah! That Elf came here, after all?"
+
+# 1b24c5e
+; hildur: 「ええ。ずっとここに居たけど、[i]昨日、ここから去ったわぁ」
+hildur: "Yes. I've been here for a long time. [i] I left here yesterday."
+
+# 1cc5fbe5
+; yule: 「昨日？[i]それはおかしいです。[i]そのエルフがヒルドルの家に到着したのは、つい先の話だと聞きました」
+yule: "Yesterday? [i] That's strange.[i]I heard that it was not long before Elf arrived at his house."
+
+# 4254714c
+; hildur: 「つい先？[i]いいえ。[i]彼は数日前にここに来て、ここから去ったのは昨日なのよぉ？」
+hildur: "Not long ago? [i] No.[i]He came here a few days ago, and left here yesterday?"
+
+# cb321fb0
+; me: 「どういう事？[i]……やっぱり今回のご先祖様も、間違えた？」
+me: "What do you mean? [i] …… Did your ancestors get it wrong?"
+
+# 26b62cad
+; yule: 「いいえ。そんなはずは……[i][char yule.l-nayami]ちょっとまってください。なにかが噛み合わない」
+yule: "No, I don't think so ……[i][char yule.l-nayami] Wait a minute.Something doesn't mesh."
+
+# 74f0c276
+; me: 「……なにが？」
+me: "What ……?"
+
+# 6c493efa
+; yule: 「ね、ヒルドル、今日は何月何日？」
+yule: "Well, Hildur, what month is it today?"
+
+# 4b6bd8a
+; hildur: 「今日は人間世界の日付で１２月２１日。もうすぐヨールよ」
+hildur: "Today is December 21st, the date of the human world. Jol is just around the corner."
+
+# 57945c13
+; yule: 「えええっ！？[i]ユールちゃんたちがこのアルフアボルグに着いたのは、１９日くらいだったはずですよ！」
+yule: "What!? [i] It must have been about the 19th that the Yules arrived at Alf-Aborg!"
+
+# 17cf820a
+; me: 「えっ、そういえば！」
+me: "`Come to think of it!'"
+
+# dd24ff5e
+; hime: 「ど、どういう事？いきなり２日が過ぎた？？」
+hime: "What do you mean?"Two days passed suddenly???"
+
+# fe025370
+; hildur: 「これは……」
+hildur: "This is ……,"
+
+# 11a4d412
+; me: 「な、何か知ってる？」
+me: "Do you know what it is?"
+
+# fdde99e9
+; hildur: 「ええ。多分、サムスティラの異変のせいかもね」
+hildur: "Yes. Maybe it's because of something unusual about Samstilla."
+
+# d3db1f7
+; me: 「これも？」
+me: "This, too?"
+
+# b7ed2906
+; hildur: 「世界の移動の際には、時間の流れがおかしくなる事もあるって、最近知ることができたわぁ」
+hildur: "I've recently learned that time can go wrong when moving around the world."
+
+# 4d6faa18
+; yule: 「そ、それは知りませんでした。[i][char yule.maan]まいったな。あまり時間がありませんね」
+yule: "Well, I didn't know that.[i][char yule.maan] Oh my gosh.We don't have much time."
+
+# 653f603b
+; me: 「ヒメを助けられるの、あと２日しか残ってない？」
+me: "Is there only two days left to save Hime?"
+
+# e7a7f7fd
+; hime: 「ど、どうしよう」
+hime: "What shall I do?"
+
+# dbb5f2aa
+; yule: 「はい。早くあのエルフを捕まえるしかないですね。[i][char yule.hm]ね、ヒルドル。あのエルフはどこへ？」
+yule: "Yes, we must catch that Elf as soon as possible.[i][char yule.hm] Hildur dollars.Where is that Elf?"
+
+# 9afdba82
+; hildur: 「彼ならランドマンナロイガルへ向かったわぁ」
+hildur: "He would have gone to Landmannalaugar,"
+
+# d6f40c16
+; yule: 「また変なところに向かいましたね。そんなところで何を……」
+yule: "We're going to a strange place again.What …… there?"
+
+# ca11660f
+; hildur: 「あなたたちを、探しに行くんだって」
+hildur: "I'm going to find you guys."
+
+# d8d489cf
+; yule: 「へ？？」
+yule: "What?"
+
+# ad1cad8d
+; hime: 「わたしたちを？」
+hime: "We?"
+
+# e1140f16
+; hildur: 「それがちょうど入れ違いになるなんて、残念だわぁ」
+hildur: "It's a pity that we just missed each other."
+
+# a7a594f3
+; me: 「あのエルフ、俺たちを見たら逃げるばっかだったけど」
+me: "When I saw Elf and me, I just ran away."
+
+# b721227c
+; yule: 「そ、そうですよ。あんなに苦労してたのに」
+yule: "Yes, of course.You've been through so much trouble."
+
+# 7893bb15
+; hime: 「懺悔でもしたのかな」
+hime: "Did you confess?"
+
+# 82a5dcea
+; hildur: 「彼、魔法が使えなくなったのよぉ」
+hildur: "He can't use magic anymore,"
+
+# b4055563
+; yule: 「え？……それはまたなんで？」
+yule: "What? …… Why is that again?"
+
+# fbe53986
+; hildur: 「人間の体になったせいよ」
+hildur: "It's because I became a human body,"
+
+# 4663f2fb
+; yule: 「また魔法が使えるようになるためには、エルフの体に戻らなければならないと？」
+yule: "You must return to Elf's body to be able to use magic again?"
+
+# ce4d58f8
+; hildur: 「そう。[i]そのためには、人間の体を本人に返す必要があるわぁ」
+hildur: "Yes. [i] To do that, you need to return the human body to yourself."
+
+# c4c40898
+; yule: 「しかし、おかしいですね。エルフがその程度で魔力を失うわけが……」
+yule: "But it's strange.Elf can't afford to lose Magical Power to that extent."
+
+# 4f52c701
+; hildur: 「ええ。[i]いつもなら、人間の体になっても魔法は使える。[i]だけど今は違うわ。[i]トゥーレに流れる魔力が弱くなってるからねぇ」
+hildur: "Yes. [i] Usually, magic can be used even in the human body.[i]But not now.[i]The Magical Power flowing in Thule is getting weaker."
+
+# c56ced9b
+; yule: 「そういえば、そうでしたね。やっぱりすべてのフルドゥフォルクの魔力が、」
+yule: "Come to think of it, yes.All Magical Power's Huldufolks"
+
+# 6417658a
+; hildur: 「ええ。今のトゥーレは危険だわぁ。弱くても魔法が使えないと、身を守れない」
+hildur: "Yes. The present Thule is dangerous.Even if you're weak, you can't protect yourself unless you can use magic."
+
+# 4945f7c4
+; me: 「なんであれ、あのエルフと利害が一致したな。もう逃げられる事はなさそうだな」
+me: "Whatever it may be, the interests of that Elf are in agreement.I don't think I can run away any longer."
+
+# 2672fc93
+; hime: 「そうだね。残り時間は少なくなったけど、難易度は下がったね」
+hime: "Right. We don't have much time left, but the difficulty level has decreased."
+
+# 7e8d983e
+; yule: 「にしても……[i][char yule.dot]ランドマンナロイガル？[i][char yule.l-nayami]ユールちゃんたちを探すのに、なんでそんなところに？」
+yule: "But ……[i][char yule.dot] Landmannalaugar?[i][char yule.l-nayami] Why are you there to find Yule?"
+
+# 9e128c38
+; hildur: 「妾が千里眼の魔法で見たものを教えてあげたわぁ。違った？」
+hildur: "I told you what my concubine saw in the magic of Senri-eyed eyes.Wasn't it?"
+
+# 1c0b186
+; me: 「間違ってるな」
+me: "You're wrong,"
+
+# ae0e0dcc
+; yule: 「全然違います。ユールちゃんたちはHvítserkurから来ました」
+yule: "Not at all.Yule are from Hv ítserkur."
+
+# f0de14d1
+; hildur: 「……え、本当？」
+hildur: "Really ……?"
+
+# e313a460
+; hime: 「うん。北のご先祖様のところだったけど」
+hime: "Yeah. It was my ancestors in the north."
+
+# c6613c79
+; hildur: 「これは……変だわぁ。[i]魔力の流れがおかしくなってるせいかなぁ？[i]……だったら大変だわぁ。魔法陣は大丈夫かしら……」
+hildur: "This is …… strange.[i]Maybe it's because the flow of Magical Power is going wrong.[i]…… That would be a disaster.I wonder if The Magic Circle is all right ……."
+
+# 2259760e
+; ヒルドルは何やら独り言をつぶやいたけど、ユールちゃんは構わず話しかけた。
+Hildur murmured something to himself, but Yule spoke to him regardless.
+
+# fdc400ec
+; yule: 「何であれ、ユールちゃんたちは急いでランドマンナロイガルへ向かわなければなりませんね」
+yule: "Whatever it may be, they must hurry to Landmannalaugar."
+
+# 38cf7ac9
+; me: 「ランドマンナロイガルか……[i]それはどこだ？遠いところ？」
+me: "Where is Landmannalaugar or ……[i]?"Far away?"
+
+# df2a0cdc
+; yule: 「はい。アイスランドのど真ん中です。[i][char yule.l-nayami]うーん。パーちゃんのところに戻るのも時間がもったいないし。[i]この辺りに妖精の道でもあれば……」
+yule: "Yes, right in the middle of Iceland.[i][char yule.l-nayami] Hmm.It was a waste of time to go back to DearPuppin.[i]If there is a fairy-path around here, ……"
+
+# 3cb3d572
+; hildur: 「この家の裏、海の方に、妖精の道の入り口があるわぁ。あれを使うといいわぁ」
+hildur: "Behind this house, towards the sea, is the entrance to the fairies' path.I wish I could use that."
+
+# f0e4d5f0
+; yule: 「ほぉ、それはありがたい情報ですね！」
+yule: "`Oh, that's good information!'"
+
+# ce7119d9
+; me: 「妖精の道か……」
+me: "The Fairy Way or ……,"
+
+# 1591af6c
+; 少し不安だ。
+I'm a little nervous.
+
+# 3597367f
+; yule: 「それではみなさん、急いで行きましょう！」
+yule: "Well, ladies and gentlemen, let's hurry!"

@@ -1,0 +1,161 @@
+; Japanese <ja> to English <en> localization document for `_hveravellir` naninovel script
+
+# cadd871c
+; me: 「あの煙は……？」
+me: "Is that smoke ……?"
+
+# a5eb23ec
+; 荒涼としたハイランドのF３５ロードを走ってると、遠くから煙が見えた。
+As I ran along the F-35 Road of the desolate Highland, I saw smoke from afar.
+
+# 34913fff
+; yule: 「温泉ですよ温泉！」
+yule: "It's a hot spring!"
+
+# b599daef
+; me: 「……ここは、まるでオアシスのような場所だな」
+me: "…… "This is like an oasis,"
+
+# 2c2088c7
+; 地熱地帯、 <ruby="クベラベリル"> Hveravellir</ruby>。
+Geothermal region, <ruby="Kuberabellir">Hverabellir</ruby>.
+
+# d72f37cc
+; 平原のあちらこちらで、煙が沸いてる。
+Smoke is boiling all over the plain.
+
+# 94e5844b
+; Hveravellirとは、温泉平原という意味でもあるらしい。
+Hveravelir also seems to mean the hot spring plain.
+
+# 4993e26e
+; この温泉は <ruby="ホフスヨークトル"> Hofsjökull</ruby>氷河と <ruby="ラングヨークトル"> Langjökull</ruby>氷河の間に位置して、
+This hot spring is located between the <ruby="Hofsjkull">Hofsj ökull</ruby> glacier and the <ruby="Langj ökull</ruby> glacier.
+
+# 32ff3acc
+; アイスランドで一番美しい地熱地帯と呼ばれてる。
+It is called the most beautiful geothermal region in Iceland.
+
+# bb6a427f
+; この青い湯船、 <ruby="ファグリクヴァー"> Fagrihver</ruby>の以外にも、
+In addition to this blue bathtub, <ruby="Fagrihver">Fagrihver</ruby>,
+
+# 929a9d24
+; 様々な独特な湯船が存在してる。
+There are various unique baths.
+
+# 21fe4548
+; 人が入れるきな露天風呂から、
+From the open-air bath that people can enter,
+
+# 8e05f511
+; 灰色のドロが溶岩のように吹き出してる湯船、
+The bath where the grey droppings blew out like lava;
+
+# 85a68de9
+; 水が湧く音がまるで獣の叫び声のように聞こえる湯船など、
+The sound of water coming from the bathtub was like the cry of a beast;
+
+# ec66a06f
+; このクベラベリルは観物で満ちてる。
+This Kuberaberyl is full of spectators.
+
+# dc0c6662
+; またこの近くには、地熱活動でできた亀裂が多く、
+Also, there are many cracks caused by geothermal activities near here.
+
+# ac107ea2
+; 亀裂のいくつかは洞窟を生成してる。
+Some of the cracks are forming caves.
+
+# af76fcd7
+; 大きな洞窟は人が住めるに十分な広さがあり、
+The great cave was large enough for a man to live in;
+
+# 2f05651a
+; 昔は無法者たちの隠れ家としてもよく利用された場所という。
+In the past, it was often used as a hiding place for outlaws.
+
+# f0e644ec
+; １７世紀の『山岳の <ruby="エイビンドル"> Eyvindur』</ruby>と呼ばれた盗賊もその一人だ。
+One of them was a bandit called <ruby="Avindur" >Eyvindur 』</ruby> on Mount 『 in the 17th century.
+
+# 4fc0fa10
+; 彼は妻のHallaと長い期間、この近くの洞窟に住んでたという。
+He and his wife, Halla, lived in a cave near here for a long time.
+
+# 7a85cd1e
+; 彼が住んでいた洞窟はEyvindarhellirと呼ばれて、今は観光名所となってる。
+The cave where he lived was called Eyvindarhellir and is now a tourist attraction.
+
+# 11a1f12
+; 温泉の近くでは地熱で温まった水が、川のように流ていた。
+Near the hot spring, geothermal water flowed like a river.
+
+# f1990d71
+; me: 「砂漠のような一般的な地熱地帯とは違うな」
+me: "It's different from a typical geothermal area like a desert,"
+
+# 598ea285
+; yule: 「F35ロード、 <ruby="キョルル"> Kjölur</ruby>山道のオアシスとも呼ばれてるわけですよ」
+yule: "F35 Road, <ruby=" Kjolur">Kj ölur</ruby> It's also called the mountain path oasis."
+
+# 3536666a
+; me: 「なるほどね」
+me: "I see,"
+
+# e2a38fe8
+; 温泉の近くには、家もあった。
+There was also a house near the hot spring.
+
+# 72e61442
+; me: 「あそこは、誰が住んでるんだ？」
+me: "Who lives there?"
+
+# acffe4c7
+; yule: 「誰の家でもないですよ。あそこは１９２２年に建たされた休憩所です」
+yule: "It's nobody's house.It is a rest area built in 1922."
+
+# bb4f713a
+; me: 「なるほど。公共の場所なんだな」
+me: "I see. It's a public place."
+
+# 9a21f38b
+; yule: 「ユールちゃんたちも、ちょっと休憩しましょうか？」
+yule: "Shall we take a break, Yule?"
+
+# 684b1d76
+; me: 「えっ？休憩って……」
+me: "What? Break is ……"."
+
+# f313aa4c
+; yule: 「休憩ってもちろん、あれでしょうあれ！くすくす」
+yule: "A break, of course, must be that! giggle"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# c315cdbc
+; yule: 「一緒に湯船に入ったあと、あの家で二人っきりの休憩を……くすくす」
+yule: "After we took a bath together, we had a break together at that house ……giggle"
+
+# 737c0fe9
+; me: 「……いやいや」
+me: "…… "No,"
+
+# dd4801eb
+; me: 「そうは言ったけど、ここの湯船は入れるの？」
+me: "I said so, but do you put in the bathtub here?"
+
+# 182e852e
+; yule: 「いいえ。この <ruby="ファグリクヴァー"> Fagrihver</ruby>は、人間が入るには少し熱すぎます。[i][char yule.kusu]ユールちゃんと一緒に入るのならこっちではなく、あっちの湯船です！」
+yule: "No, this <ruby="Fagrihver">Fagrihver</ruby> is a little too hot for humans to enter.[i][char yule.kusu]Yule It's not this way, it's that bathtub!"
+
+# 90723373
+; me: 「いやいや、そ、それより早く他の場所も観てみたい、ささ、車に戻ろうか」
+me: "No, no, no, I'd like to see other places earlier than that, Sasa, shall we go back to the car?"
+
+# eaee154f
+; yule: 「もう、意気地なしですね」
+yule: "You've lost your nerve,"

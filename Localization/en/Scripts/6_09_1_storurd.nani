@@ -1,0 +1,213 @@
+; Japanese <ja> to English <en> localization document for `6_09_1_storurd` naninovel script
+
+# 8ce13dbb
+; puppin: 「ぐぁ」
+puppin: "`Oh,'"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 7172dc11
+; パーちゃんがいきなり鳴き出した。
+DearPuppin burst into a cry.
+
+# d8f43d0f
+; puppin: 「ぐぁぐぁぐぁぐぁ」
+puppin: "`Gurgling,'"
+
+# 72c7a076
+; yule: 「疲れたから、ちょっと水を飲んで行きたいって」
+yule: "I'm tired, so I want to drink some water"."
+
+# 8533a5f0
+; me: 「こいつも疲れるのだな」
+me: "He's tired, too,"
+
+# 9b707837
+; 考えてみると頑張ったよな、こいつ。
+Come to think of it, he did his best.
+
+# 1a9b7efb
+; アイスランドを横断して、南から北へ、また東へ飛んできたしな。
+It flew across Iceland from south to north and east again.
+
+# 1f7e5fcd
+; yule: 「ちょうどストールウルズの池が近いです。降りましょう」
+yule: "The Strurd Pond is just around the corner.Let's get off."
+
+# 5944bdf9
+; パーちゃんと降りてきたこの場所には……
+DearPuppin This place that came down with ……
+
+# a457696a
+; me: 「おお……」
+me: "Oh, ……,"
+
+# 488bd5a8
+; 苔むした大岩が水中に並ぶ、神秘的な青い湖があった。
+There was a mysterious blue lake lined with mossy rocks.
+
+# 8ce13dbb
+; puppin: 「ぐぁ」
+puppin: "`Oh,'"
+
+# 92b5bb34
+; パーちゃんはここに来た途端、その池の水を飲み始めた。
+As soon as DearPuppin came here, he began to drink the water from the pond.
+
+# 1f485d42
+; パーちゃんが回復されてる音が聞こえた気がする。
+I think I heard DearPuppin recovering.
+
+# ca78b16
+; me: 「キレイな池だな」
+me: "It's a beautiful pond,"
+
+# eaeaba75
+; yule: 「ストールウルズの池です。ここは東アイスランドの有名なハイキングコースでもありますね」
+yule: "It's Strurd Pond.This is also a famous hiking trail in East Iceland."
+
+# b553e5b1
+; me: 「ストールウルズ……？」
+me: "Is it Strurd……?"
+
+# c1599556
+; yule: 「 <ruby="ストールウルズ"> Stórurð</ruby>はこの一帯の地名です。アイスランド語で『大きな岩』って意味です」
+yule: "「 <ruby=" Strurd">St órur ð</ruby> is the name of the area.It means 『 big rock 』 in Icelandic."
+
+# a65d9d2f
+; me: 「岩……？」
+me: "Rock ……?"
+
+# 5c74cab
+; hime: 「確かにね。このあたり、大きな岩がいっぱい散らかってる」
+hime: "I'm sure. There's a lot of big rocks around here."
+
+# fc8dab8d
+; ヒメが俺の近くに飛んできて、そういった。
+Hime flew near me, and said,
+
+# 29f7366b
+; ヒメは、今は大丈夫みたいだな。
+Hime I guess it's okay now.
+
+# 8ce13dbb
+; puppin: 「ぐぁ」
+puppin: "`Oh,'"
+
+# b55d6da3
+; yule: 「あ、パーちゃん、もう回復しましたか。[i][char yule.kusu]流石にこの池の回復力は半端ないですね」
+yule: "Oh, DearPuppin, have you recovered yet?[i][char yule.kusu] This pond's resilience is amazing."
+
+# 8ce13dbb
+; puppin: 「ぐぁ」
+puppin: "`Oh,'"
+
+# 96939802
+; yule: 「はい。それではさっそく……[i][char yule.l-nayami]あっ、いや、ちょっとまってください」
+yule: "Yes, then ……[i][char yule.l-nayami] Oh, no, wait a minute."
+
+# 562548d5
+; ユールちゃんは何やら少し考えてるみたいだった。
+Yule seemed to be thinking a little.
+
+# 3a1f4a95
+; yule: 「パーちゃんは少しここで待機してください。ユールちゃんたちはここから歩いて行きますから」
+yule: "Please wait here for a moment, DearPuppin.Yule for they will walk from here."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 8ce13dbb
+; puppin: 「ぐぁ」
+puppin: "`Oh,'"
+
+# 9edff16f
+; 待機を命じられたパーちゃんは、また池の方へと歩いて行った。
+Having been ordered to stand by, DearPuppin walked again towards the pond.
+
+# c70887f8
+; hime: 「ここからは徒歩なの？」
+hime: "Are you walking from here?"
+
+# b4705b2e
+; me: 「みたいだな」
+me: "It looks like,"
+
+# 728d3b6e
+; yule: 「今回の目的地はここから近いです。ちょっとハイキングしましょう」
+yule: "The destination this time is close to here.Let's hike a little bit."
+
+# 15a69df9
+; me: 「ハイキングって……まぁいいけど」
+me: "Hiking is …… I don't mind."
+
+# 2b5d08
+; yule: 「実は歩いて行った方が安全だからです。[i][char yule.yoko_sad_nemu_dot]……歩くって言うか潜入ですね」
+yule: "Actually, it's safer to walk.[i][char yule.yoko_sad_nemu_dot] …… It's more like walking undercover."
+
+# 66fbfd94
+; hime: 「せ、潜入？」
+hime: "Now, undercover?"
+
+# 3055b58b
+; yule: 「アルファ・ボルグはエルフの町です。パーちゃんに乗って行くのは目立ちますから」
+yule: "Alpha Borg is Village of Elf.It stands out to ride DearPuppin."
+
+# 11d39a27
+; me: 「あ、そうか。確かにな。エルフはやばいからな」
+me: "Oh, I see. I'm sure.Elf is crazy."
+
+# 25583729
+; hime: 「エルフってやばいの？」
+hime: "Is Elf crazy?"
+
+# 50a607fd
+; me: 「ああ、そりゃもう、とんでもない奴らだよ」
+me: "Oh, they're so ridiculous,"
+
+# 66d9e002
+; 今まで出会ったエルフたちを思い出した。
+I remembered the Elfs I had met so far.
+
+# ce150e8a
+; エルフの町って事は、あんな奴らが沢山居るって事か。
+Village of Elf means there are many such people.
+
+# e22c2aaf
+; これは普通ではない戦いになるな。
+Don't let this be an unusual battle.
+
+# 55e1a68b
+; yule: 「まぁ、町に住んでるエルフは大体穏やかな性格ではあるんですが」
+yule: "Well, Elf, who lives in Village, usually has a gentle personality."
+
+# 1e468279
+; me: 「そう？」
+me: "Is that so?"
+
+# a3e8cb01
+; yule: 「けど、やばいヤツはどこでもいますからね」
+yule: "But there are crazy guys everywhere,"
+
+# 31b681d3
+; hime: 「用心するに越したことはないって事だね」
+hime: "It is better to be careful,"
+
+# f084a67b
+; yule: 「そうです。こっそり乗り込んで、狙ってるヤツだけやってきますよ」
+yule: "That's right. Only the guys who sneak in and aim for you will come."
+
+# 838a4633
+; me: 「ああ、わかった。気をつけながら歩いて行こう」
+me: "Oh, I see.Let's walk carefully."
+
+# 4f23097a
+; yule: 「はい。それではこちらへ」
+yule: "Yes, then come this way."
+
+# 2f512c9f
+; そして俺たちはエルフの町、アルファ・ボルグへと潜入する事になった。
+and they were to infiltrate Village of Elf, into Alpha Borg.

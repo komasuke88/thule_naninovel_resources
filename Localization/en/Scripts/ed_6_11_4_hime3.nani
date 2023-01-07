@@ -1,0 +1,57 @@
+; Japanese <ja> to English <en> localization document for `ed_6_11_4_hime3` naninovel script
+
+# a1bfef5
+; yule: 「はい？？？？」
+yule: "What?"
+
+# 103b417d
+; hime: 「もう{playerName}ってば、そんなの知りたかったの？」
+hime: "Did you ever want to know {playerName}?"
+
+# 8cf0cef7
+; merman: 「それでは、教えてあげよう」
+merman: "Then I'll tell you,"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 901aab01
+; あれから色々あったけど、
+There have been a lot of things since then.
+
+# 6f8a0dc8
+; 俺は今、ヒメとよろしくやってる。
+I is now working with Hime.
+
+# 2141ecf5
+; 今まで何があったのか、よく覚えてないけど、
+I don't remember what happened until now.
+
+# 8d99e53b
+; ま、そんな事はどうでもいいさ。
+Well, I don't care about that.
+
+# 27ef45d1
+; 残された時間は少ない。
+There is not much time left.
+
+# 638ef038
+; 最後まで幸せに生きる者が勝ちなんだから。
+The winner is who will live happily to the end.
+
+# d2a44f31
+; そう。
+so。
+
+# ce2bfe0
+; この、終わりゆく世界で——————————
+In this ever-ending world,

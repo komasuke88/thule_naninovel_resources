@@ -1,0 +1,45 @@
+; Japanese <ja> to English <en> localization document for `3_01_1_sukida` naninovel script
+
+# 85883b2f
+; yule: 「えっ、本当ですか！？[i]ユールちゃんと結婚しますか！」
+yule: "Oh, really!?"[i]Are you going to marry Yule?"
+
+# b41931a6
+; me: 「そうだ」
+me: "Yes,"
+
+# af5383d1
+; yule: 「も、も、もうどうしましょう！[i]こんなにも早く夢が叶うなんて」
+yule: "Well, what shall I do now?"[i]I can't believe my dream came true so quickly."
+
+# c3bf15ea
+; me: 「慌てることはないさ、これから愛を育てていくんだな」
+me: "Don't panic. You're going to grow love from now on."
+
+# 6c80f5cf
+; yule: 「嬉しいです！！それでは[i][char yule.car_hand_dere_close_bigemi]早速種族の繁殖を……」
+yule: "Nice to meet you!"Then [i][char yule.car_hand_dere_close_bigemi] …… breed race immediately."
+
+# 14b7974f
+; me: 「おうよ！」
+me: "Yes!"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 5d1ca093
+; それから色々あって、
+And then there were a lot of things.
+
+# 200baa90
+; 俺とユールちゃんは家族になって、幸せな人生を生きたとさ。
+I and Yule became a family and lived a happy life.

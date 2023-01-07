@@ -1,0 +1,445 @@
+; Japanese <ja> to English <en> localization document for `6_16_3_onsentalk` naninovel script
+
+# 91fad6ad
+; 俺はユールちゃんに、今までの出来事について話してあげた。
+I told Yule about what had happened so far.
+
+# 2bb4c698
+; ……なるべく体を見ないように、そっぽを向きながら。
+…… Try not to look at your body as much as possible, and turn away.
+
+# e8373afd
+; yule: 「そういえば今日ヨールですね。[i][char yule.onsen_b_close_e]ユールちゃん、まだ回復中だったんで、ちょっと混乱してました」
+yule: "Come to think of it, I have Jol today.[i][char yule.onsen_b_close_e] Yule was still recovering, so I was a little confused."
+
+# c74dedab
+; me: 「ああ。それより体はもう大丈夫か？」
+me: "Yes, but are you all right now?"
+
+# 89e6fdab
+; yule: 「はい。ユールちゃんは大丈夫です。[i][char yule.onsen_b_close_w]まだちょっと眠いですが、夜になると元気になりますんで！」
+yule: "Yes, Yule is fine.[i][char yule.onsen_b_close_w] I'm still a little sleepy, but I feel better at night!"
+
+# bd5b369d
+; me: 「ああ、そりゃよかった」
+me: "Oh, that's good,"
+
+# d95225ad
+; yule: 「でも{playerName}は……」
+yule: "But {playerName} is ……,"
+
+# 154e7399
+; me: 「俺？」
+me: "Is it me?"
+
+# 6052d6b4
+; yule: 「……人間世界、戻れなくなりました」
+yule: "…… I can't go back to the human world anymore."
+
+# b3ba2776
+; me: 「そう、だな」
+me: "Yes, sir,"
+
+# 21d2a97
+; いきなり世界を超える現象が起こったせいで、こうなってしまった。
+The sudden occurrence of a phenomenon that transcends the world has led to this.
+
+# ebd9fe00
+; でも本来ならヒメと同じく、２３日の夜に人間世界に戻っていたはずだった。
+But he would have returned to the human world on the night of the 23rd, just like Hime.
+
+# 2a76eb4e
+; しかし俺は馬になっていたせいか、またトゥーレに戻されてしまった。
+But perhaps because me had become a horse, he was returned to Thule.
+
+# c14f95d1
+; me: 「それは仕方ないさ。[i]……しかしこんな事なるとわかったら、記憶は取り戻さない方がよかったかな」
+me: "That can't be helped.[i]…… But if I knew this would happen, I shouldn't have recovered my memory."
+
+# 8785489
+; yule: 「……日本に帰りたいって、思うようになったんですね」
+yule: "…… "You've come to want to go back to Japan."
+
+# a8cee5fb
+; me: 「まぁ、少しノスタルジックになったっていうかね。[i]家族もいるし。色々と心残りもあるしね」
+me: "Well, I'm a little nostalgic.[i]I have a family.I have a lot of regrets."
+
+# c6e837bc
+; yule: 「それは、理解できなくもないです。[i][char yule.onsen_sad_nemu_emi]……でもあまり落ち込まないでくださいな。[i][char yule.onsen_b_nemu_w]何か方法があるかも知れませんし、[i]ここでは、ユールちゃんも支えになってあげますから」
+yule: "It's not that I don't understand.[i][char yule.onsen_sad_nemu_emi] …… But don't be too depressed.[i][char yule.onsen_b_nemu_w] There may be a way, and [i] Yule is also a support here."
+
+# b9d6eb4b
+; me: 「うん。ありがとうな。[i]楽に考えるようにするよ」
+me: "Yes, thank you.[i]I'll try to think comfortably."
+
+# e149338
+; yule: 「そうです。こういう時は……」
+yule: "That's right. At times like this, ……"."
+
+# 9de5475e
+; me: 「<ruby="セッタ・レッダスト">　Þetta reddast</ruby>、だったな」
+me: "<ruby=" Thetta reddast"> Thetta reddast</ruby>, I see."
+
+# 631f51e1
+; yule: 「そうです、なんとかなりますよ！」
+yule: "Yes, we can manage it!"
+
+# 7bd955b8
+; me: 「ああ、なんとかなるよな。過ぎてしまった事に悩んでいても仕方ない」
+me: "Oh, I can manage.It's no use worrying about what's gone by."
+
+# 1e95bf14
+; yule: 「はい！[i][char yule.onsen_angry_a_w]一緒に、これからの事だけを考えましょう！」
+yule: "Yes! [i] [char yule.onsen_angry_a_w] Let's just think about the future together!"
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# 447e45b1
+; yule: 「……あ、ところで、{playerName}？」
+yule: "…… "Oh, by the way, {playerName}?"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# a9af11f3
+; yule: 「服、脱いでくれませんか？」
+yule: "Will you take off your clothes?"
+
+# e28b9b16
+; me: 「はい？」
+me: "What?"
+
+# 949eb3be
+; yule: 「風邪ひきますよ？そんな濡れた服で、外に居ちゃ」
+yule: "You'll catch a cold, won't you?"You should stay outside in those wet clothes."
+
+# f6b8ce2b
+; me: 「い、いや別に俺は、寒くはないし……」
+me: "No, it's not cold in me, ……"
+
+# ff3e0eb
+; 俺は湯船から出て、近くの岩に座っていたんだ。
+I got out of the bathtub and sat on a nearby rock.
+
+# 36f5faa9
+; なんだか一緒に入ってるのが恥ずかしくて。
+It's embarrassing that we're in the room together.
+
+# 366281fa
+; yule: 「くすくす、そんな事言わないで、{playerName}もここに入ってくださいな。裸で」
+yule: "Don't say that, {playerName}, come in here, naked."
+
+# f9e6118e
+; me: 「なっ、さ、流石にそれはな」
+me: "Well, well, that's not,"
+
+# c649df
+; yule: 「え〜、やりましょうよ？裸の付き合い」
+yule: "Oh, let's do it.a naked relationship."
+
+# 2b7ba5d6
+; me: 「べ、別にそんな付き合い……」
+me: "Well, I don't have that kind of relationship ……"
+
+# 8d5a2dc6
+; yule: 「もうしょうがないですね。[i][char yule.onsen_angry_close_w]……ていっ！」
+yule: "I can't help it.[i][char yule.onsen_angry_close_w] …… say!"
+
+# cac2a811
+; me: 「う、うわっ！」
+me: "Oh, my God!"
+
+# 72eed7e
+; どぶっ！
+Whoop!
+
+# 902e171b
+; ユールちゃんは俺の服を捕まえて、俺を湯船の中へと引き下ろした。
+Yule seized me's clothes and pulled her down into the bathtub.
+
+# c3e80a5e
+; me: 「わ、わわっ！なにするんだ……ってあれ？」
+me: "Wow! What are you going to do, ……?"
+
+# 5bea2060
+; 服がない！
+I don't have any clothes!
+
+# a633c5a5
+; 俺は、もう裸だった。
+I was already naked.
+
+# c4272f7d
+; いつの間に！？
+Before I knew it!?
+
+# c3ddae57
+; yule: 「ユールちゃんの魔力、大分回復しましたんで」
+yule: "The Magical Power of Yule has recovered a lot."
+
+# 87345c7a
+; me: 「魔法で脱がしたか！」
+me: "Did you magically take it off?"
+
+# b06eb8a1
+; yule: 「くすくす、さて！[i]お互い裸にもなったところで……」
+yule: " giggle, now! [i] When we're both naked, ……."
+
+# 3bc0e71
+; me: 「うん……？」
+me: "Yes, ……?"
+
+# d40e05ba
+; yule: 「気持ちいい事、してあげましょう！」
+yule: "I'll do something nice for you!"
+
+# 223a9a83
+; me: 「き、気持ちいい事……！？」
+me: "What a pleasant thing to do ……?"
+
+# f2dbad6c
+; ユールちゃんは、俺との距離を詰めながら、うっすらと微笑みを浮かべた。
+Yule smiled faintly, closing his distance from me.
+
+# e343925d
+; yule: 「素肌で直接、感じてくださいな」
+yule: "Please feel it with your bare skin."
+
+# 16c4394f
+; me: 「……なっ、なにをするつもりだ……？[i]うわっ！」
+me: "What are you going to do, ……?"[i]Oh, my God!"
+
+# 3267c4f
+; ユールちゃんは両手で、俺の肩に湯船のお湯をかけてくれた。
+Yule poured hot water on me's shoulders with both hands.
+
+# 64931df2
+; yule: 「この温泉のお湯をかけてあげるんです。[i]素肌で直接触れると気持ちいいんですよ？」
+yule: "I will pour hot water from this hot spring.[i]It feels good to touch it directly with bare skin?"
+
+# 5cb699b2
+; 暖かな温泉のお湯は、冷めていた俺の上半身を温めていった。
+The warm hot spring water warmed the upper body of the cold me.
+
+# 80cf80c5
+; me: 「おおっ………………」
+me: "Oh, ………………,"
+
+# bbe1e308
+; これはたしかに、気持ちいい。
+This certainly feels good.
+
+# e5a2b41
+; 本当に、いいお湯だ。
+It's really good water.
+
+# 752112ee
+; me: 「……温泉の話だったんだな……」
+me: "You were talking about …… hot springs, weren't you?"
+
+# aa7f551e
+; yule: 「……あっれぇ？あれあれ？」
+yule: "You see ……?"Is that it?"
+
+# 9944378a
+; me: 「な、なんだ」
+me: "Why, what?"
+
+# 9837d574
+; ユールちゃんがいやらしい表情で俺を見つめた。
+Yule stared at me with an obscene look.
+
+# 3b274b75
+; yule: 「なんの話だと思ってたんですか？[i][char yule.onsen_angry_close_w]まったく、エッチな童貞ですね、くすくす」
+yule: "What did you think I was talking about?[i][char yule.onsen_angry_close_w] What an ethereal child giggle"
+
+# 55760a6e
+; くっ、自ら穴をほってしまった！
+Oh, I've dug a hole myself!
+
+# 6bc32d1b
+; yule: 「そういえばそうですね。[i]こんな密室で男女が二人っきりで、しかも裸なんだから。むしろそれが当然ですね」
+yule: "Come to think of it, yes.[i]There were only two Man women in such a closed room, and they were naked.It's more natural."
+
+# 5dd25e6f
+; me: 「い、いや、紛らわしい事いうから。気持ちいい事とか、素肌で感じてとか……」
+me: "No, no, it's confusing.Something pleasant or feeling with bare skin ……"
+
+# 6cc04ed7
+; yule: 「そうですね。ごめんなさいね。{playerName}が考えてたのは、こういう事ですね？」
+yule: "Yes, I'm sorry. That's what {playerName} was thinking, isn'"
+
+# afd5b0c4
+; ユールちゃんが俺に詰め寄ってくる。
+Yule approaches me.
+
+# 8d7e040
+; me: 「うっ！」
+me: "Ugh!"
+
+# 37274da0
+; その迫力に怖気づいてしまって、思わず後ろへ向いてしまったけど……
+I was so scared by the power that I turned back without thinking ……
+
+# 4dde62ae
+; yule: 「ほら♥」
+yule: "See ♥"
+
+# 2607b927
+; me: 「！」
+me: "！"
+
+# 4ba05df9
+; ユールちゃんは構わず、俺の背中にピタッと密着して、自分のおっぱいを触れてきた。
+Regardless of Yule, she touched her breast tightly to me's back.
+
+# 11f7dcf7
+; yule: 「お互いの素肌、直接感じてみましょう」
+yule: "Let's feel each other's bare skin"."
+
+# 77958f5b
+; me: 「な、な、な……」
+me: "Well, well, ……,"
+
+# 74dd7ac7
+; 当たってる！
+You're right!
+
+# 7963a1f8
+; せ、背中に、突起の感触が！
+I can feel the bumps on my back!
+
+# a326da01
+; yule: 「ん……」
+yule: "Yes ……,"
+
+# 2607b927
+; me: 「！」
+me: "！"
+
+# 702eceb0
+; 先っちょで、擦ってやがる。
+I'm going to rub it first.
+
+# a25d468f
+; くすぐったくて、やらしい！
+It's ticklish and obscene!
+
+# 74c79d28
+; yule: 「あぁん。ユールちゃんの方が、感じちゃいます♡」
+yule: "Yes, I feel Yule better ♡"
+
+# 372a8595
+; 胸の先っちょを俺の背中に当てながら、ユールちゃんは甘い声を出した。
+Yule uttered a sweet voice, with the tip of his breast resting on me's back.
+
+# 6d617fa6
+; me: 「へ、変な事言うな！」
+me: "Oh, don't say strange things!"
+
+# a1da2576
+; 俺は飛び退けて、岩に背中を密着させた。
+I jumped away and stuck his back to the rock.
+
+# e6b44cca
+; 背中でこすこすされるの、やばい。
+Scrubbing on my back is crazy.
+
+# aef7133c
+; yule: 「あら」
+yule: "Oh, my God,"
+
+# 97615c22
+; しかしこうして正面に向き直ってと、お互いの体がよく見えるんで……
+But when we turn to the front like this, we can see each other's bodies well ……
+
+# 162895e0
+; yule: 「あらあら♡」
+yule: "Oh my gosh♡"
+
+# 62d89ea7
+; me: 「あっ！」
+me: "Oh!"
+
+# 7793f068
+; 大変な事になった俺のちん○んも、丸見えになってるって事！
+me's Chin ○, which is in big trouble, is now completely visible!
+
+# 7b354f6f
+; yule: 「なんですか？あのデカいの」
+yule: "What? That big one."
+
+# 6c3ffbdb
+; me: 「み、見るなよ」
+me: "Don't look at me,"
+
+# aeb12919
+; 慌てて手で隠した。
+I hurriedly hid it with my hand.
+
+# 486304ae
+; yule: 「手で隠しきれてないです！[i][char yule.onsen_b_www_w]やっぱり思ってた通り！{playerName}って、とんでもないモノの持ち主だったんですね！」
+yule: "`I can't hide it with my hands!'[i][char yule.onsen_b_www_w] Just as I thought! {playerName} was the owner of something ridiculous!"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 89274af7
+; yule: 「ユールちゃんに欲情して、そんなに大きくなって……」
+yule: "I was so greedy for Yule that I grew up ……"."
+
+# aab16179
+; me: 「ち、違うぞこれは……」
+me: "No, this is ……,"
+
+# bb51866a
+; yule: 「ああもう、ユールちゃんも、熱くなってきましたよ」
+yule: "Oh, Yule is getting hot, too,"
+
+# e6322400
+; そういいながら、自分の手を股に入れてもじもじするユールちゃん。
+Yule hesitating, putting his hand in his crotch.
+
+# f10f9fbe
+; me: 「お、お前な……」
+me: "Oh, you ……,"
+
+# d9bfd87e
+; yule: 「ユールちゃんもう我慢できません。やっちゃいましょう！」
+yule: "Yule I can't stand it any longer.Let's do it!"
+
+# 8b216cef
+; me: 「や、やらん！」
+me: "No, I won't!"
+
+# b6cc5d0f
+; yule: 「もう{playerName}の意思なんて関係ありません。ユールちゃんがやりたいならやるだけです。[i]この湯船では、魔力も無限充電ですし、くすくす」
+yule: "It has nothing to do with {playerName}'s intentions.Yule If you want to do it, just do it.[i]In this bathtub, Magical Power is charged indefinitely, and giggle."
+
+# 24ec4d17
+; me: 「お、お前ら、人間の意思を尊重するとか言ってなかった？」
+me: "Didn't you say that you respect human will?"
+
+# d5c33f95
+; yule: 「もうそんな掟、もうどうでもよくなりましたから。守る必要もありません！ていっ！」
+yule: "`I don't care any more about those rules.You don't have to protect it! Be careful!"
+
+# ca6a3f7a
+; ユールちゃんは俺に飛び込んで来る。
+Yule jumps into me.
+
+# edcf43a5
+; 童貞喪失の危機！
+The danger of losing your virginity!
+
+# 56cf2a9e
+; @choice "受け入れる" goto:6_16_4_h
+@choice "Accept" goto:6_16_4_h
+
+# cf445586
+; @choice "避ける" goto:ed_6_16_3_fishman
+@choice "Avoid" goto:ed_6_16_3_fishman

@@ -1,0 +1,145 @@
+; Japanese <ja> to English <en> localization document for `ed_5_04_6_sinjinai` naninovel script
+
+# 4a812b27
+; トゥーレ？
+Thule?
+
+# 1af906db
+; 異世界？
+A different world?
+
+# de662e34
+; そんなの信じられるわけがない。
+I can't believe that.
+
+# eb551123
+; me: 「嘘だ」
+me: "That's a lie,"
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# 4bb96e72
+; me: 「どうも信じられない。もう君の言葉は聞かない」
+me: "I can't believe it.I won't listen to you any more."
+
+# fc3fc865
+; yule: 「えっ？ちょ、ちょっと！？」
+yule: "What? Wait a minute!"
+
+# 49a50e3d
+; 俺はもうそれ以上の言葉は聞かず、逆方向へあるき出した。
+I did not hear any more words, but began to move in the opposite direction.
+
+# eeeaba95
+; yule: 「ど、どこにいくのですか！？」
+yule: "Where are you going?"
+
+# f93595ea
+; me: 「ついてくるな！」
+me: "Don't follow me!"
+
+# 9cc25c1b
+; yule: 「えっ、そ、そんな……{playerName}……」
+yule: "Oh, well, ……{playerName}……,"
+
+# c600fa06
+; 俺が怒ると、ユールちゃんはそれ以上はついて来なかった。
+When me got angry, Yule couldn't follow him any more.
+
+# 4c013d0c
+; 俺を欺くやからには、耳を傾かない。
+I He who deceives, does not listen.
+
+# a3122a64
+; 人間がいない世界なんて、あるはずがない。
+There can't be a world without humans.
+
+# e720dd72
+; そんな事、信じない。
+I don't believe that.
+
+# 90c66e94
+; 考えたら、この俺の記憶こそが、何かの錯覚ではないか？
+Isn't this memory of me an illusion?
+
+# 77d37c2b
+; 化け物とか、巨人とか、いるわけがない。
+Monster or a giant, there was no way.
+
+# c5554792
+; ましてや異世界など。
+What's more, a different world.
+
+# 381e667
+; ほら、ここには道路がある。
+Look, there's a road here.
+
+# 4b243a69
+; これは人間が創ったものだ。
+This was created by humans.
+
+# 59c15035
+; ひたすらに歩いていたら、誰かの車が通るはずだ。
+If you keep walking, someone's car will pass by.
+
+# 33711fd5
+; そこでヒッチハイクすればいい。
+You can Hitchhiking there.
+
+# 71bb904a
+; me: 「俺は、故郷に戻るんだ」
+me: "and me will go back to his native land,"
+
+# 7a4aacd4
+; 俺の故郷がどこだって？
+Where is me's hometown?
+
+# 7dc839a3
+; そりゃ、もちろん……
+Of course, ……
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# c944e0e4
+; yule: 「ああ、{playerName}！{playerName}！なんて事を」
+yule: "Oh, {playerName}! {playerName}!"
+
+# 9c1c8c7a
+; 「も、もう手遅れです。今回はユールちゃんの力ではどうにもなりません」
+"But it's too late.This time, Yule can't do anything about it."
+
+# 59eb923c
+; 「うぅぅ……こんないきなり狂死だなんて……」
+`Wow …… I can't believe I died so suddenly,'
+
+# 504bfa55
+; 「ユールちゃんが悪かったです。あまりにも拒否されて追い掛けられなかったです」
+"My Yule was bad.I was so rejected that I couldn't chase him."
+
+# 3062a409
+; 「もっと強引に引き止めるべきでした」
+"I should have held him back more forcefully."
+
+# a2babaa2
+; 「うっ…………」
+"Ugh …………,"
+
+# e21fe9c
+; 「せめて最後には、暖かな眠りにつけますように」
+"I hope you will at least have a warm sleep in the end,"
+
+# 6f22ee17
+; 「<ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに」
+The <ruby=" Gledileg jol"> Gleðileg jól</ruby>.Bless you on a holy night."

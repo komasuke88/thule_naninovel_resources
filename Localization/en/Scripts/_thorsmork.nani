@@ -1,0 +1,45 @@
+; Japanese <ja> to English <en> localization document for `_thorsmork` naninovel script
+
+# f148fecc
+; yule: 「ここから先は <ruby="ソルスモルク"> Þórsmörk</ruby>ですね」
+yule: "From here on out is <ruby=" ö"> Þórsm Thorsmorkrk</ruby>."
+
+# 93afc324
+; me: 「ソルスモルクって、ご先祖様がいらっしゃるという？」
+me: "Does Thorsmork have an ancestor?"
+
+# 5465c1e5
+; yule: 「はい。[i][char yule.l-nayami]セリャラントスフォスで【妖精の道】を利用した方が便利でしたけど、[i][char yule.l-w]もうここまで来ちゃったし、直に行っても良さそうですね」
+yule: "Yes. [i][char yule.l-nayami] It would have been more convenient to use 【 Fairy Road 】 in Seljalandsfoss. [i][char yule.l-w] We've reached this point, so we can go straight."
+
+# 75d856d0
+; me: 「ご先祖様に会いに行くのだな？俺の記憶の欠片の位置を問うために」
+me: "You're going to see your ancestors,me to determine the location of a fragment of memory."
+
+# 36312283
+; yule: 「そうですよ。[i][char yule.kusu]どうします？早速行きますか？」
+yule: "Of course. [i] [char yule.kusu] What should I do?Shall we go at once?"
+
+# 5b76233e
+; @choice "記憶探しに行く" goto:.kioku handler:ButtonList
+@choice "Go find memory" goto:.kioku handler:ButtonList
+
+# 5a722bc6
+; @choice "旅を優先する" goto:.tabi handler:ButtonList
+@choice "Prioritize Travel" goto:.tabi handler:ButtonList
+
+# 5ae73684
+; me: 「ああ、記憶を取り戻しに、先へ進もう」
+me: "Oh, let's move on to get our memories back,"
+
+# 7e87eb92
+; yule: 「はい！」
+yule: "Yes!"
+
+# d048d1a9
+; me: 「いや、もうちょっとトゥーレを探査したい」
+me: "No, I want to explore Thule a little more."
+
+# 89a8d43a
+; yule: 「そうですか。それもいいでしょう。[i][char yule.r-w]それでは、他の場所に行きましょう」
+yule: "Well, that's fine, too.[i][char yule.r-w] Then let's go somewhere else."

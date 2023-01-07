@@ -1,0 +1,105 @@
+; Japanese <ja> to English <en> localization document for `3_01_2_orosu` naninovel script
+
+# d606a787
+; me: 「……ここならヒッチハイクも容易そうだな」
+me: " …… Hitchhiking would be easy here,"
+
+# 5b287c3c
+; yule: 「えっ？はい？」
+yule: "What? What?"
+
+# 5607a1ec
+; 俺は車を道端に止めた。
+I pulled over to the side of the road.
+
+# d7b69106
+; me: 「他の車もあるし、降りても問題ないだろう」
+me: "There are other cars, and there will be no problem getting off."
+
+# 2a27e670
+; yule: 「いやちょっと、何言って、駄目ですよ許して」
+yule: "No, no, no, no, forgive me."
+
+# 8c88a9e8
+; me: 「許さん」
+me: "Mr. Huh,"
+
+# 6d756649
+; yule: 「じょ、冗談ですよね？[i]……い、いい雰囲気だったじゃないですか、アタシ達……」
+yule: "You're kidding, aren't you?[i]…… Yes, it was a nice atmosphere, Atashi ……"
+
+# c01308a5
+; me: 「もういい、疲れた」
+me: "That's enough. I'm tired."
+
+# 108cc313
+; yule: 「ご、ごめんなさい……ゆ、ユールちゃんがなにか気に触る事を言ったら謝りますから……もう言いませんから」
+yule: "Oh, I'm sorry ……, I'll apologize if Yule says anything that bothers me, …… I won't say any more."
+
+# f00f6e7d
+; me: 「……他の車に乗れ。またヒッチハイクしてたらいいだろう？」
+me: "…… Get in another car.I wish I could do Hitchhiking again."
+
+# c5d35412
+; yule: 「で、でも{playerName}が、このままでは危険かも知れませんよ？エルフに狙われて……」
+yule: "But {playerName} might be dangerous at this rate?"…… targeted by Elf."
+
+# 7e8d60c1
+; me: 「………もういいから！」
+me: " …… ... That's enough!"
+
+# 16519365
+; yule: 「……ご、ごめんなさい」
+yule: "Sorry, ……,"
+
+# f5186d8a
+; me: 「………………」
+me: "………………"
+
+# a808cf
+; yule: 「……{playerName}……？」
+yule: "Is it ……{playerName}……?"
+
+# f5186d8a
+; me: 「………………」
+me: "………………"
+
+# b122030e
+; yule: 「う……本気ですね。……わかりました。ぐすん……」
+yule: "Uh-huh …… I'm serious. …… All right. ……."
+
+# 50c08d5a
+; ユールちゃんはとても悲しい表情で、涙を流しながら、ドアを開けた。
+Yule opened the door with a very sad expression and tears.
+
+# 3379078c
+; girl: 「……うっ……でも{playerName}、どうか……お気をつけて……」
+girl: "Yes, …… {playerName}, but ……, please be careful ……."
+
+# 3d336fbc
+; そういって、女の子は車のドアを閉めた。
+Then Girl closed the car door.
+
+# 8cbbc3b
+; me: 「じゃあな」
+me: "Good-bye,"
+
+# a06eb970
+; 俺はそのまま速度を上げて、ユールちゃんから遠ざかった。
+I continued to speed up and move away from Yule.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# d3cc9715
+; 死んだ。
+He's dead.

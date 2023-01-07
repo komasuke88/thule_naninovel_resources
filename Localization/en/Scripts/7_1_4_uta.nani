@@ -1,0 +1,381 @@
+; Japanese <ja> to English <en> localization document for `7_1_4_uta` naninovel script
+
+# 90fa7e24
+; yule: 「さて、ここがユールちゃんの場所です」
+yule: "Now, this is the place of Yule,"
+
+# ab041bcd
+; 雪が積もってる丘の裏。
+the back of a hill covered with snow-covered hill.
+
+# d18eb09
+; そこには円型の標識が描かれてる場所があって、ユールちゃんはそこに立った。
+There was a place with a circular sign on it, and Yule stood there.
+
+# 6bcbdd67
+; yule: 「しばらくはここから動かず待機ですね」
+yule: "We'll have to wait here for a while."
+
+# d56a7c14
+; １３人の姉妹たちは、それぞれ別の場所に居る。
+Thirteen sisters are in different places.
+
+# 4c9a6a51
+; 魔法陣を囲むように、大きく円陣を形成して広がってる。
+It is spread out in a large circle around The Magic Circle.
+
+# bc7a3ae
+; お互いの距離は結構離れていて、見えないし会話はできないが、
+The distance between us is quite far, so we can't see and talk.
+
+# f68e13f6
+; お互い、魔法で認識はできる。
+We can recognize each other by magic.
+
+# 32fe130f
+; 特に予め準備してたこの場所では、テレパシーのように会話もできるという。
+Especially in this pre-prepared place, you can talk like telepathy.
+
+# 964a80b4
+; yule: 「あ、５分後に実行だそうです」
+yule: "Oh, it's going to be done in 5 minutes"."
+
+# 4fe36fc
+; テレパシーが届いたようだ。
+The telepathy seems to have arrived.
+
+# e3040f51
+; me: 「実行って、呪文の唱えるんだったな？」
+me: "Execution is a spell, isn't it?"
+
+# a397d430
+; yule: 「はい。みんなそれぞれの位置で、詩を歌うんです」
+yule: "Yes, everyone sings poems in their respective positions."
+
+# 92b60455
+; me: 「へぇ、歌か」
+me: "Oh, a song,"
+
+# 6b80764c
+; yule: 「初めて披露するユールちゃんの歌声です。よく聞いてくださいな」
+yule: "This is Yule's first singing voice.Please listen carefully."
+
+# 6ebe63fd
+; 今まで見てきた魔法の中では、一番様になってる魔法になりそうだ。
+It's going to be the best magic I've ever seen.
+
+# f3c88c5b
+; me: 「俺は、何かやる事ないかな？」
+me: "Do you have anything to do with me?"
+
+# 3e698b98
+; yule: 「そうですね。[i][char yule.kusu]待ってる間に、話し相手になってくださいな。[i][char yule.r-w]ユールちゃん、緊張してますから」
+yule: "Yes. [i] [char yule.kusu] Please talk to me while I wait.[i][char yule.r-w]Yule I'm nervous."
+
+# 221300a9
+; me: 「緊張するまでの事なのか？」
+me: "Are you nervous?"
+
+# de098fd1
+; yule: 「そうですよ。１３人の中で一人でも間違えると、失敗するような呪文でして」
+yule: "That's right. If one of the 13 members makes a mistake, it's a spell that makes you fail."
+
+# adff5303
+; me: 「そ、そうなんだ」
+me: "I see,"
+
+# e2cca960
+; でも話し相手って、今まで散々やってきたけど、わざわざやろうとすると何を言えばいいかわからんな。
+But I've been talking to a lot of people, but I don't know what to say when I go out of my way to do it.
+
+# 368259ca
+; me: 「そ、その、なんだ。魔法陣、残念な事になったな」
+me: "Oh, well, what is it is it?The Magic Circle What a pity!"
+
+# cd329aaa
+; yule: 「ですね……[i][char yule.nayami]ユールちゃんたちの繁栄計画も、難しくなりましたし」
+yule: "Well, ……[i][char yule.nayami] Yule's prosperity plan has become difficult."
+
+# 34391a93
+; me: 「繁栄？……あ、ああ……」
+me: "Thriving? …… Oh, ……."
+
+# 16532a67
+; そういえば、そんな約束をしてたな。
+Come to think of it, you made that promise.
+
+# e988cfae
+; ユールちゃんと俺で、新しいトゥーレで、子供をたくさん産んで……
+Yule and me, new Thule, having many children and ……
+
+# 441cdaba
+; そんな話。
+That's the story.
+
+# 27e571b8
+; me: 「まぁ、子供は無理でも、二人で自分の人生を楽しんだらいいだけさ」
+me: "Well, even if it's impossible for a child, you just have to enjoy your life together."
+
+# 96f48b1
+; yule: 「ですね。短い間ですけど」
+yule: "Well, for a short time,"
+
+# dda5261
+; me: 「いや。俺たち人間にとっては、３０年も長いよ。[i]俺はもう３３歳だし、それだけあれば十分だ」
+me: "No, 30 years is a long time for me people.[i]me is already 33 years old, and that's enough."
+
+# f15095e5
+; yule: 「フルドゥフォルクにとって３０年は短すぎですよ。あっという間です。残念極まりないですよ」
+yule: "Thirty years is too short for Huldufolk.Time flies.It's too bad."
+
+# d83d7f0
+; me: 「ま、そんな落ち込むな。今すぐよりはいいだろう」
+me: "Well, don't be so depressed.It's better than it is now."
+
+# 129d18d0
+; yule: 「トロールは欲張りですもん」
+yule: "The Troll is greedy,"
+
+# f8afc9bf
+; me: 「確かに、長けりゃ長いほどいいけどね」
+me: "The longer the better, indeed,"
+
+# 1a279f6e
+; yule: 「せっかく家族ができましたのに、あと数千年は欲しいところです」
+yule: "Now that I've got a family, I want thousands more years."
+
+# ce97ebb0
+; me: 「数千年って、長すぎだ」
+me: "Thousands of years are too long,"
+
+# 15836b04
+; yule: 「楽しく過ごせば、あっという間ですよ」
+yule: "If you have a good time, it will go by so quickly."
+
+# 5904aaa8
+; me: 「……そういや、その３０年ってのも、決まった時間ではないんだよな？」
+me: "……by the way "Thirty years isn't a fixed time, is it?"
+
+# 7b11ff03
+; yule: 「はい。あくまで予測値ですね」
+yule: "Yes, it's just a prediction."
+
+# af5c8669
+; me: 「なら、もっと長く生きられるかも知れない」
+me: "Then I might be able to live longer."
+
+# 5a47d344
+; yule: 「はい。[i][char yule.l-nayami]本当にもっと時間があると、別の希望も、あるかも知れません」
+yule: "Yes. [i] [char yule.l-nayami] If you really have more time, you may have other hopes."
+
+# f7a82dd4
+; me: 「何か手があるのか？」
+me: "Is there any way?"
+
+# ebc13a7a
+; yule: 「加えて３年だけ、氷河が生き延びる事ができれば……」
+yule: "If the glacier can survive for another three years, ……."
+
+# e4a07258
+; me: 「残り時間が３３年になると、何か……」
+me: "When 33 years are left, something ……"
+
+# 24d4101f
+; yule: 「あっ、ちょっと」
+yule: "Oh, wait a minute,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# f7ac0534
+; yule: 「メッセージが届きました」
+yule: "I got a message."
+
+# ca587164
+; me: 「あれ？まだ５分経ってないじゃないか？」
+me: "Huh? It hasn't been 5 minutes yet."
+
+# 1a6da06f
+; yule: 「うーんと」
+yule: "Well,"
+
+# 25def6bf
+; me: 「ど、どうした？」
+me: "What's the matter?"
+
+# bda22dc9
+; yule: 「また何か、想定外の事ができたみたいです。ちょっと早いけど、早速実行だって」
+yule: "I think I've done something unexpected again.It's a little early, but it's done right away."
+
+# f91e999c
+; me: 「今すぐ？」
+me: "Right now?"
+
+# 315d4871
+; yule: 「急ぐといい詩にはなりませんが、仕方ないですね」
+yule: "It's not a good poem to hurry, but it can't be helped."
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# 1d828db6
+; yule: 「あ、そうだ。[i]詠唱中にはユールちゃん、何も見えず何も聞こえないので、呼んでも答えられません。[i]しばらく待ってくださいね」
+yule: "Oh, that's right. [i] During the chant, Yule, I can't see anything and hear anything, so I can't answer even if I call you.[i]Wait a minute, please."
+
+# a72ef9fb
+; me: 「わかった。俺はここに座ってユールちゃんの歌声でも聞くとするよ。頑張って」
+me: "All right, me would sit here and listen to Yule's singing voice.Good luck."
+
+# cac26993
+; yule: 「はい。色々ありましたけど、この詠唱ですべて終わらせます。[i][char yule.spoon-kum]では」
+yule: "Yes, there were a lot of things, but I'll finish it with this chant.[i][char yule.spoon-kum] Then..."
+
+# 801432e6
+; そう言ってユールちゃんはスプーンを取り出して、魔法陣の方向に向けた。
+Then Yule took out Spoon and turned to The Magic Circle.
+
+# 5e98312e
+; 遠くの姉妹たちと、何かしらのサインのやりとりをしてるみたいだった。
+It was as if they were exchanging some sort of signatures with the distant sisters.
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# e8732174
+; やがて段取りが終わったのか、
+Then the arrangements were finished.
+
+# 79cfe57c
+; ユールちゃんは、持ち上げていたスプーンをしまい、空手になった。
+Yule threw away the Spoon he had been lifting and karate.
+
+# fcd7278d
+; そして空を見上げて、目を瞑り、両手を胸元に置いて、
+Then he looked up at the sky, closed his eyes, and put his hands on his chest.
+
+# a39eb50a
+; yule: 「～～～～～♪」
+yule: "～～～～～♪"
+
+# cc8dadde
+; 詩を、歌い始めた。
+I began to sing a poem.
+
+# 35f925e9
+; 歌詞の意味はわからない。
+I don't understand the meaning of the lyrics.
+
+# cdf7ade5
+; だけど暖かな音色で、心が落ち着く。
+But the warm tone calms me down.
+
+# ec8a97eb
+; キレイな歌声だった。
+It was a beautiful singing voice.
+
+# 780cc6c1
+; 俺はユールちゃんが唱える呪文を、レコードを聞いてる感覚で聞いていた。
+I listened to Yule's spell as if he were listening to a record.
+
+# 444dc4d7
+; yule: 「～～～♫」
+yule: "～～～♫"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 53aa0a76
+; こいつ、こんなに儚い感じの女の子だったっけ？
+Was it this fleeting Girl?
+
+# 8b552de3
+; いつもちゃらけてるから気づかなかったけど、
+I didn't notice it because I'm always making fun of myself.
+
+# db9d3fc6
+; 華麗に歌ってる姿を見ると本当にキレイなんだな。
+It's so pretty to see them singing beautifully.
+
+# 71023883
+; かわいいと、改めて思った。
+I thought it was cute again.
+
+# 822ca8da
+; こんな女の子が今、俺の妻なんだ。
+Girl is now me's wife.
+
+# b381c6ef
+; まだ実感がないけど、そういう事だったんだよな。
+I haven't realized it yet, but that's what happened.
+
+# 216de09f
+; me: 「……頑張れ」
+me: "…… Hang in there."
+
+# 4ef6d126
+; 少し誇らしげに、妻の歌声に聞き入れていたその時、
+I was listening with a little pride to my wife's singing voice.
+
+# 131b93cc
+; unknown: 「こんなところにいたしたか、探しましたよ」
+unknown: "I've looked for him here,"
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# d25a0839
+; ユールちゃんの声に、別の声が混ざってきた。
+Yule's voice was mixed with another.
+
+# 2088877
+; unknown: 「詠唱中ですか。ちょうどいいタイミングでしたね」
+unknown: "Are you chanting?It was just the right time."
+
+# f00c32e1
+; ユールちゃんの後ろ、近くの丘の後ろから、人影が見えてきた。
+Behind Yule, behind a nearby hill, came a figure.
+
+# 32b7e012
+; me: 「あ、アンタは！？」
+me: "What about Anta?"
+
+# 13300d51
+; この男、姿が見えないと思ったら俺たちを探しったのだな！
+This Man, if you don't think you can see them, you've been looking for them!
+
+# c6a3de5f
+; unknown: 「数百年も準備してきたこの計画、邪魔はさせません。詠唱は中断させてもらいますよ！」
+unknown: "I won't let this plan get in the way of hundreds of years of preparation.I'll stop chanting!"
+
+# 20bdca5f
+; と、言いながら男は、懐から長いナイフを持ち出した！
+said Man, taking a long knife out of his pocket!
+
+# de98c367
+; me: 「っ！」
+me: "Huh!"
+
+# 7e0797ea
+; unknown: 「死ね！！」
+unknown: "Death!"
+
+# 6b681a1
+; 男はナイフを手にとって、ユールちゃんの方へ飛びかかった！
+Man picked up the knife and ran towards Yule!
+
+# 53acd4b9
+; 危ない！
+It's dangerous!
+
+# ad767d1e
+; @choice "庇う" goto:7_1_5_kabau
+@choice "Protect" goto:7_1_5_kabau
+
+# 566c48b6
+; @choice "呼びかける" goto:ed_7_1_4_yuledead
+@choice "call out" goto:ed_7_1_4_yuledead

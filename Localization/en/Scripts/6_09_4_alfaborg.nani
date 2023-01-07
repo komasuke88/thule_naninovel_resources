@@ -1,0 +1,297 @@
+; Japanese <ja> to English <en> localization document for `6_09_4_alfaborg` naninovel script
+
+# 2c8bae98
+; しばらくしたらヒメが目を覚めて、俺たちは移動した。
+After a while Hime woke up and they moved on.
+
+# eabe42e4
+; ユールちゃんに続いて山を超えると、海の音が聞こえ始めた。
+Yule After that, over the mountain, the sound of the sea began to be heard the sound of the sea.
+
+# 6ea96908
+; me: 「また海が見えてきたな」
+me: "I see the sea again,"
+
+# 71117f7e
+; yule: 「 <ruby="ボルガルフィヨルズル"> Borgarfjörður</ruby>  <ruby="エイストリ"> Eystri</ruby>です。アイスランドの東の海ですね」
+yule: "「 This is <ruby="Borgarfj ðr öur</ruby><ruby="astry">Eystri</ruby>.the sea to the east of Iceland."
+
+# fd691a4f
+; me: 「そうか。ボルガルフィヨルズルエイストリか」
+me: "I see. Is it Volgal Fiyeolzur-Aistri?"
+
+# 32e88236
+; hime: 「ここの地名、難しいのに、よく覚えるね{playerName}は」
+hime: "The place name here is difficult, but you remember {playerName} well."
+
+# 5da15a67
+; me: 「もうなれたからな」
+me: "I'm used to it now,"
+
+# a19af1a8
+; yule: 「エルフの町はすぐ近くです。ここからは慎重に行きますよ？」
+yule: "The Village of Elf is very close.I'll be careful from here."
+
+# 61c644d8
+; me: 「あ、ああ」
+me: "Oh, my God,"
+
+# 59afd174
+; 『City of Elves』
+『City of Elves 』
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# b736eafc
+; 入り口の標識に、丁寧にも『エルフの町』と書いてあった。
+The sign at the entrance read Village』 of 『Elf politely.
+
+# 9f4ae466
+; アルファ・ボルグって、そのままエルフの町って意味だったんだ。
+Alpha Borg meant Village in Elf.
+
+# 6e4bb366
+; yule: 「ここから裏道で潜入です」
+yule: "You're going to infiltrate from here on the back road."
+
+# ad64f6a
+; me: 「ああ」
+me: "Ah,"
+
+# b387e5a1
+; 草陰に隠れながら、町の中を覗いてみる。
+I looked into Village, hiding in the grass.
+
+# e8f382c3
+; 草に覆われた、家が見えた。
+I saw a house covered in grass.
+
+# ae97b6df
+; me: 「ザ・エルフの家って感じだな」
+me: "It's like The Elf's house,"
+
+# 827f2bcd
+; yule: 「アイスランドで太古より伝わる伝統ハウス、芝生の家、 <ruby="Laufás"> ロイヴァゥスです</ruby>」
+yule: "<ruby="Lauf ás">This is Royvas, a traditional house that has been handed down since ancient times in Iceland.</ruby>"
+
+# 8766a73
+; エルフの町って、もっと隠された場所だと思ったんだけど、こうも堂々と町で住んでるとは……
+I thought Village of Elf was a more hidden place, but I can't believe I lived in Village so confidently ……
+
+# ae43db84
+; hime: 「あそこにエルフたちが住んでるの？」
+hime: "Are Elfs living there?"
+
+# 33b3845d
+; yule: 「いいえ。あの家には誰も住んでませんよ」
+yule: "No, no one lives in that house."
+
+# cc66458e
+; me: 「えっ？ここ、エルフの町ではなかったの？」
+me: "What? Wasn't this Village of Elf?"
+
+# 1ff3416c
+; yule: 「エルフの家は、あの家の隣の、小さなやつです。ほら、あそこ」
+yule: "The house of Elf is the little one next to it.Here, there."
+
+# cffd071d
+; 言われて隣をみると、たくさんの人形の家が見えた。
+I looked next to him and saw many doll houses.
+
+# 9373ab5e
+; me: 「ああ、なるほどね」
+me: "Oh, I see,"
+
+# e9d3288b
+; hime: 「可愛い！」
+hime: "So cute!"
+
+# 523d9de
+; yule: 「いくら可愛くても近づいたら危険ですよ？あなたなんて、除霊されます」
+yule: "No matter how cute you are, it's dangerous to get close to you.You will be exorcised."
+
+# 7d75fcdf
+; me: 「じょ、除霊？」
+me: "Now, exorcism?"
+
+# 6d45e8cc
+; hime: 「やだー」
+hime: "No,"
+
+# 2957490d
+; yule: 「それでは、エルフたちにばれないよう、まっすぐヒルドルの家へ向かいましょう」
+yule: "Then let's head straight to Hildur's house so that they won't find out."
+
+# 33ec55ff
+; me: 「ヒルドル？」
+me: "Is it Hildur?"
+
+# 9e2a0004
+; hime: 「そのヒルドルって人が、わたしの体を持ってるの？」
+hime: "Does that Hildur have my body?"
+
+# 40d34674
+; yule: 「いいえ。あたなの体を持ってるエルフが今、ヒルドルの家にお邪魔してるんです」
+yule: "No, Elf, who has your body, is visiting Hildur's house right now."
+
+# b1653ce1
+; hime: 「あ、そういう事だったのね」
+hime: "Oh, that's what happened,"
+
+# 8ac8b9d7
+; me: 「ヒルドルって、エルフの名前？」
+me: "Is Hildur the name of Elf?"
+
+# f1286f2a
+; 名前があったのが珍しかったので、聞いてみた。
+It was rare that there was a name, so I asked.
+
+# 588625c0
+; yule: 「エルフの女王ですよ」
+yule: "Queen of Elf,"
+
+# eb22eebc
+; me: 「え、エルフの女王？」
+me: "What, the Queen of Elf?"
+
+# 2e2d7d0e
+; アイスランドのどこかの山岳地帯、巨大な絶壁の下に、エルフたちの宮殿がある。
+Some mountainous part of Iceland, under a huge cliff, is the palace of the Elfs.
+
+# c727c382
+; 全てのフルドゥフォルクの源流である、ハイエルフたちが住んでる幻想の国だ。
+It is a fantasy land where the High Huldufolks, the origin of all Elfs, live.
+
+# 78fbca4
+;  <ruby="ヒルドル"> Hildur</ruby>はその国の女王だった。
+<ruby=" Hildur">Hildur</ruby> was the queen of the country.
+
+# 2a86c0e6
+; しかしとある原因で、彼女は王太后に忌み嫌われる事になり、
+But for some reason she was detested by the Queen;
+
+# 88690b36
+; 王太后の呪いで、地上に追い出された。
+Under the curse of the Queen, she was driven to earth.
+
+# dc1433ef
+; 地上に追い出された彼女は、東アイスランドに住み着いた。
+Being driven to the ground, she settled in East Iceland.
+
+# 84c3506a
+; 彼女は身分を隠して人間の農家の家政婦として雇われながら生きていたが、
+She lived in hiding as a housekeeper of a human farmhouse;
+
+# 1d17e6cf
+; しかし、そこでまたエルフの国と人間の農夫たちとの間に複雑な事件が発生し、
+But there was another complicated incident between the land of Elf and the human farmers;
+
+# 4606ef6
+; 彼女は人間との暮らしを諦めて、地上のエルフたちを率いて、新たな町を作った。
+She gave up her life with humans and led the Elfs on earth to create a new Village.
+
+# 7551228a
+; それがここ、エルフの町、アルファ・ボルグだ。
+This is Village of Elf, Alpha Borg.
+
+# d998cee6
+; ヒルドルは今、アルファ・ボルグを支配する、地上のエルフたちの女王だ。
+Hildur is now the queen of the earth's Elfs, who control Alpha Borg.
+
+# 4aa5e71f
+; hime: 「エルフの女王って、そんな人にどうやって戦うの？」
+hime: "How does the Queen of Elf fight against such a man?"
+
+# 81e4853d
+; yule: 「戦いませんよ。ヒルドルは他のエルフより安全です」
+yule: "I won't fight.Hildur is safer than other Elfs."
+
+# 1e468279
+; me: 「そう？」
+me: "Is that so?"
+
+# 480f621
+; hime: 「やっぱり女王だから優しいのかな？」
+hime: "Is she kind because she's a queen?"
+
+# afc1be38
+; yule: 「いいえ。ヒルドルはチキンですから。手下たちが大勢いる場合でもない限り、手懐けるのは簡単ですよ」
+yule: "No, Hildur is chicken.It's easy to get around unless you have a lot of men."
+
+# e87adc73
+; me: 「手懐けるって……」
+me: "I'll take care of it ……,"
+
+# 917dc47d
+; yule: 「あのエルフとヒルドル、二人だけならお相手するのは難しくありません」
+yule: "It's not difficult to deal with that Elf and Hildur alone."
+
+# f8d575fb
+; me: 「それはまあ、心強いっていうか……」
+me: "Well, that's reassuring, ……,"
+
+# 2e9aca8
+; yule: 「ささ、こっそり、こっちです」
+yule: "Sasa, sneak over here,"
+
+# dd1c59db
+; そう言ってユールちゃんが先に進んだ。
+Then Yule advanced.
+
+# 90352d62
+; me: 「俺たちもついて行こう」
+me: "Let's follow me,"
+
+# 6e43fe82
+; そういってユールちゃんの後を続こうとしたけど、
+I tried to follow Yule.
+
+# 45a86845
+; hime: 「……？」
+hime: "……？"
+
+# 224289fc
+; ヒメが付いてこなかった。
+Hime did not follow.
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# c04feac4
+; 突然とヒメは、芝生の家の方を見て、怪訝な顔をした。
+Suddenly Hime looked suspiciously towards the lawn-house.
+
+# 9f7ee67d
+; me: 「えっ？ヒメ！？もしかしてまた？？」
+me: "What? Hime!?"By any chance again???"
+
+# a1bd272d
+; hime: 「……あ、いいえ。なんでも」
+hime: "…… "Oh, no. Anything."
+
+# 7947ad46
+; me: 「なんだ。また黒目状態になったと思ったよい」
+me: "What? I thought you had black eyes again."
+
+# 849b3ddc
+; hime: 「な、なによもう。黒目状態って」
+hime: "Why, my dear.Black eyes."
+
+# 6771b64a
+; me: 「ま、それよりなんだ？何かあった？」
+me: "Well, more than that?"What happened?"
+
+# ac431cd7
+; hime: 「……なんかね？この町、静か過ぎじゃないかな？」
+hime: "What about ……?"Isn't this Village too quiet?"
+
+# c46a7e7d
+; me: 「言われてみればそうだな。[i]でも、あえて町の人を探す必要はないし、急ごうぜ」
+me: "Now that you mention it, yes.[i]But you don't have to look for Village, so let's hurry."
+
+# a8366664
+; hime: 「はーい」
+hime: "Yes,"

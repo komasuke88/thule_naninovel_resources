@@ -1,0 +1,49 @@
+; Japanese <ja> to English <en> localization document for `selfoss` naninovel script
+
+# 618684d8
+; me: 「ここがセルフォス滝か。すごいな……」
+me: "This is Serphos Falls.That's amazing ……."
+
+# 8c988af5
+; 南アイスランドにある町の名前と同じで、紛らわしいけど、
+It's the same name as Village in South Iceland. It's confusing.
+
+# 3145ed86
+; 北アイスランドの名所、セルフォス滝だ。
+Selfos Falls is a famous place in Northern Iceland.
+
+# ca4f35c0
+;  <ruby="ヨークルスアゥ・アゥ・フヨットウム"> Jökulsá á Fjöllum</ruby>川にある滝、 <ruby="セルフォス"> Selfoss</ruby>。
+<ruby="Jokulsa a Fjollum">J ökuls á áFj öllum</ruby> A waterfall in the river, <ruby="selfos">Selfoss</ruby>.
+
+# 2187b766
+; 高さ１１ｍ、広さ１００ｍ以上、とても広い滝だ。
+It is a very wide waterfall with a height of 11 meters and a width of more than 100 meters.
+
+# acdab26b
+; この広さのせいで、水玉が多く跳ねられて、下の川にはずっと霧が広がってる。
+Because of this size, a lot of polka dots are splashed, and fog is spreading all the way down the river.
+
+# b74c025c
+; ここは北アイスランドの有名な観光コース、ダイアモンドサークルのルート上にあり、
+It is located on the route of Diamond Circle, a famous tourist course in Northern Iceland.
+
+# d3be1339
+; この滝を含めた3つの滝がある峡谷はアイスランドのグランドキャニオンと呼ばれてる。
+The canyon with three waterfalls, including the waterfall, is called the Grand Canyon of Iceland.
+
+# 7df87015
+; me: 「とても美しい滝なんだけど……」
+me: "It's such a beautiful waterfall, ……"."
+
+# 3a0a9b64
+; ここからわずか１Km離れたところにある隣の滝、Dettifossがあまりにも有名なため、ここは少し低評価されてるフシがある。
+The next waterfall, Dettifoss, just 1km away from here, is so famous that it has a slightly underrated fushi.
+
+# e0f24df3
+; といっても、こっちも劣らずな絶景であるのは確かだ。
+However, it is certain that this is a superb view.
+
+# c007a6
+; me: 「もう一枚撮ってから移動しよう」
+me: "Let's take another picture and move on"."

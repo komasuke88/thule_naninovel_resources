@@ -1,0 +1,249 @@
+; Japanese <ja> to English <en> localization document for `6_16_6_yoru` naninovel script
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# dca1fd17
+; そうして、ユールちゃんと色々とピロートークをしてると、外の光はもっと暗くなっていた。
+and when I had some pillow talk with Yule, the light outside was getting darker.
+
+# c3b18457
+; yule: 「そろそろですね」
+yule: "It's about time,"
+
+# d08d5c13
+; ユールちゃんは勢いよく立ち上がり、岩の上に立った。
+Yule rose vigorously and stood on the rock.
+
+# 2c20e412
+; me: 「ああ、夜に……って、あれ？」
+me: "Oh, …… at night, huh?"
+
+# 71dd3b26
+; yule: 「ユールちゃん、もう魔力満タンです！」
+yule: "Full of Yule, Magical Power!"
+
+# ecdb4eb3
+; いつの間にかユールちゃんは、服を着ていた。
+Before I knew it, Yule was dressed.
+
+# f78e8df8
+; 魔法だな。
+It's magic.
+
+# 76288a13
+; me: 「おう。よかったな」
+me: "Oh, that's a relief,"
+
+# 64251ff7
+; yule: 「それでは、ユールちゃんは行ってきますね！」
+yule: "Then Yule will be back!"
+
+# 65398934
+; me: 「ああ！行こう！」
+me: "Oh! Let's go!"
+
+# 444edc84
+; 俺も続いて立ち上がろうとしたけど……
+I I tried to stand up, but ……
+
+# cc11a4a1
+; yule: 「いやいやいや、{playerName}はここで待機してください」
+yule: "No, no, no, {playerName}, please wait here."
+
+# 21517d87
+; me: 「えっ？何で？」
+me: "What? Why?"
+
+# 9ecc6beb
+; yule: 「何でって……{playerName}が行っても、あまり役に立たないし」
+yule: "It doesn't really help if ……{playerName} goes."
+
+# 2bdd299a
+; me: 「そ、それは……そうだけど……」
+me: "Yes, that's ……, but ……."
+
+# b2a95c08
+; 何だか尺だ。
+It's kind of a measure.
+
+# 7178ff93
+; yule: 「魔法陣の周りは危険ですからね」
+yule: "It's dangerous around The Magic Circle,"
+
+# fdbf6fd4
+; me: 「……そうなのか」
+me: "Is that so?"
+
+# b710685f
+; yule: 「でもここは安全です。結界もありますし、海の民も、ここには入って来ないと思います」
+yule: "But it's safe here.There is a boundary, and I don't think the people of the sea will come in here."
+
+# c43ad43b
+; そう言って、ユールちゃんは温泉洞窟を出ようとした。
+Then Yule tried to leave the hot spring cave.
+
+# 4cc8e820
+; me: 「ちょ、ちょっと！」
+me: "Wait a minute!"
+
+# bb395571
+; でも、その時、
+But at that time,
+
+# 31326312
+; unknown: 「ぐががガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガガが」
+unknown: "Gagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag"
+
+# 35400dca
+; 気持ち悪い鳴き声とともに、洞窟の入り口に、影が写った。
+A shadow appeared at the entrance of the cave with a sickening cry.
+
+# 624d313a
+; unknown: 「ギギギギギギギギギギギギギギギギギギギギギギギギギ」
+unknown: "The Kigigigigigigigigigi,"
+
+# f0d8af8a
+; me: 「なっ！？」
+me: "What!"
+
+# b1b6d51
+; yule: 「えっ？魚人！？」
+yule: "What? Fishman!"
+
+# 7739bef4
+; 化け物！？
+Monster?!?
+
+# b272b9c8
+; fishman: 「ギギギギギギギギギギギギギギギギギギギギギギギギギ」
+fishman: "The Kigigigigigigigigigi,"
+
+# 969e7fbf
+; こ、こちらに！？
+This way!?
+
+# 1df7cfee
+; yule: 「こ、この！」
+yule: "Here, here!"
+
+# b594292b
+; ユールちゃんは素早くスプーンを振って、化け物に向かって魔法を放った。
+Yule shook Spoon quickly and unleashed the magic at Monster.
+
+# 7cc1992b
+; fishman: 「ぐえええぇぇぇぇぇぇぇぇぇ」
+fishman: "`Yes,'Yes, sir,"
+
+# 6a61c0b7
+; 化け物はドンと、温泉洞窟の外へと飛ばされて行った。
+Monster was blown out of the hot spring cave with a thud.
+
+# 3023142
+; yule: 「あ、あいつら、どうやってここに……？」
+yule: "Oh, how do they …… here?"
+
+# f28a2181
+; me: 「そういや化け物は、ここには入れないんじゃなかった？」
+me: "You can't put by the wayMonster in here, can you?"
+
+# be249aab
+; yule: 「はい。結界もありますし。ありえないはずですが……」
+yule: "Yes, there is a boundary.It shouldn't be possible, but ……."
+
+# 328ec27c
+; ユールちゃんは少し考えた後、俺に言った。
+After some thought, Yule said to me,
+
+# 5b33f3a9
+; yule: 「……うーん。こうなったら仕方ありませんね。[i][char yule.emi]{playerName}も、一緒に行きましょう」
+yule: "…… Well, it can't be helped.[i][char yule.emi] Let's go to {playerName} together."
+
+# 2df82359
+; me: 「魔法陣の方に？」
+me: "To The Magic Circle?"
+
+# 3a117f3d
+; yule: 「はい。{playerName}が一人で居るよりは、それがいいと思いますよ。[i][char yule.yoko_anrgy_close_u]ユールちゃんが一生懸命守ります」
+yule: "Yes, I think it's better than having {playerName} alone.[i][char yule.yoko_anrgy_close_u] Yule will do their best to protect it."
+
+# e7e73e88
+; me: 「うーん。足手まといになるのは嫌だが……」
+me: "Well, I don't want to get in the way, but ……."
+
+# 47410e0b
+; yule: 「{playerName}の命が先ですよ！[i][char yule.emi]さあ、はい！」
+yule: "The life of {playerName} comes first!"[i][char yule.emi] Here we go!"
+
+# 42ba4677
+; そう言ってユールちゃんは、俺の手を取り、立ち上がらせる。
+Then Yule took him by the hand and made him stand up.
+
+# ba844da7
+; me: 「えっ、ちょ、ちょっと……俺、はだか……」
+me: "Oh, come on, ……me, …… HADA."
+
+# e669b610
+; yule: 「もう着てますよ？」
+yule: "You're already wearing it?"
+
+# 46a5aa48
+; me: 「えっ……」
+me: "What ……,"
+
+# 9f1ed748
+; いつの間にか俺は、服を着ていた。
+Before I knew it, me was dressed.
+
+# a833eb04
+; ここ最近の魔法体験はこればっかだな。
+This is the only magic experience I've had lately.
+
+# 69e36841
+; yule: 「ささ、出ますよ？」
+yule: "Sasa, it's coming out."
+
+# b2e41d7
+; そして俺たちは、温泉洞窟の外へ出ていった。
+Then the me went out of the hot spring cave.
+
+# 8ff417ec
+; me: 「あ、ああ……」
+me: "Oh, oh, ……,"
+
+# 4ec008fb
+; 何も見えない夜の世界。
+The world of the night when you can't see anything.
+
+# 73da799c
+; ユールちゃんと繋いでる手だけが、俺の道標。
+Only the hand that connects Yule is the sign of me.
+
+# 6aece4ad
+; [br]ああ、この感覚、久しぶりだな。
+[br] Oh, it's been a long time since I felt this.
+
+# 859eb164
+; 初めてトゥーレを旅した時を思い出す。
+I remember my first trip to Thule.
+
+# 76859b71
+; 心は踊る。
+The heart dances.
+
+# 125cb4e4
+; 今から危ない場所に行こうとしてるのに、楽しい気分になる。
+I'm going to go to a dangerous place now, but I feel happy.
+
+# b56c6430
+; 俺はまだ、旅人だ。
+I is still a traveler.

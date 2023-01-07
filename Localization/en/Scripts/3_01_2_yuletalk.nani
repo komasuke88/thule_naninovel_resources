@@ -1,0 +1,629 @@
+; Japanese <ja> to English <en> localization document for `3_01_2_yuletalk` naninovel script
+
+# d3a1017d
+; それからもユールちゃんと、しょうもない話をずっとしていたら、
+I kept talking to Yule about something that I couldn't help.
+
+# ad8f04ae
+; いつの間にか苔だらけの景色は見えなくなった。
+Before I knew it, the mossy view disappeared.
+
+# 162ec44
+; ナビを確認してみると、もうエルドフロインエリアから離れていた。
+When I checked the navigation system, it was already far from the Eldhraun area.
+
+# 7fab331e
+; 舗装道路に入った。
+I entered the pavement.
+
+# e4760247
+; 南アイスランドのリングロード、国道１号。
+Road Ring, South Iceland, National Highway No.
+
+# 18115ff
+; ここには俺の車以外にも、他も車も見える。
+In addition to me's car, there are other cars here.
+
+# 53a49985
+; 先までの危機感はもう薄れて、安心感がきた。
+The previous sense of crisis has faded and I feel relieved.
+
+# 5055bb38
+; me: 「ユールちゃんって……」
+me: " Yule means ……."
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# a380ec35
+; 気が緩くなったせいか、
+Maybe it's because I'm relaxed.
+
+# 12cde81
+; 俺はあの時ユールちゃんに対して思っていた事を口にだした。
+I said what he thought of Yule at the time.
+
+# f10c0421
+; me: 「普通の女の子だったんだな」
+me: "It was a normal Girl,"
+
+# 1861131
+; yule: 「どういうことですか？普通って」
+yule: "What do you mean?"It's normal."
+
+# 2ba6c0f8
+; me: 「いや、最初のイメージは、なんていうか……」
+me: "No, the first image is, I mean, ……."
+
+# 41cf25ae
+; yule: 「ユールちゃんの、最初のイメージ？[i][char yule.car_arch_w_w]あ！先も言ってたあれですね！可愛すぎるって！？[i][char yule.car_hand_dere_arch_ww_bigemi]アイスランディク・アイドルだと思いました？くすくす」
+yule: "The first image of Yule?"[i][char yule.car_arch_w_w] Oh!That's what I said before!It's too cute?[i][char yule.car_hand_dere_arch_ww_bigemi] Did you think he was an ice-landik idol? giggle"
+
+# 5938c338
+; アイスランディク・アイドルって……
+Ice Randyk Idol ……
+
+# a5efd252
+; me: 「いや、そんなんじゃなくて、その……」
+me: "No, that's not it, that ……,"
+
+# d3514b84
+; 俺は最初のあの気配を思い出した。
+I remembered the first sign.
+
+# 620cac38
+; me: 「……人間ではない何者、じゃないかと、思って……」
+me: "I thought …… might be someone other than a human being, so ……"
+
+# a1946b97
+; yule: 「……え……」
+yule: " ……, ……,"
+
+# 62865750
+; me: 「あんな人気のないところで、一人でぽつんと立っていたからかな……[i]妖気のようなものを感じたっていうか」
+me: "Maybe it was because I was standing alone in such an unpopular place ……[i]I felt something like a ghost."
+
+# cf2c1f5b
+; yule: 「……えっと……」
+yule: "…… "Well, ……,"
+
+# cc0f7cab
+; me: 「ユールちゃんは、もしかして」
+me: "What about Yule?"
+
+# 6771ccbe
+; yule: 「……(ごくり)……」
+yule: "…… ……"
+
+# f584ac97
+; me: 「エルフなのか？」
+me: "Is it Elf?"
+
+# 47c8338
+; yule: 「いやいやいや、それはないです」
+yule: "No, no, no, that's not it."
+
+# ea39e842
+; 強烈な否定。
+a strong denial.
+
+# 38971fcf
+; ユールちゃんは目を丸くして、驚くような、ありえない言葉を聞いたような、そんな反応をした。
+Yule's eyes were wide open, and he reacted with astonishment, as if he had heard an impossible word.
+
+# 1fd61b7a
+; yule: 「いくらなんでも、エルフなどとは違うんです、ユールちゃんは」
+yule: "Anything is different from Elf, Yule."
+
+# e2baee6e
+; me: 「そ、そう。ま、そうよね。ごめんな。変な質問して」
+me: "Oh, yes, yes, I'm sorry.Ask me a strange question."
+
+# 664b60c0
+; yule: 「……<ruby="ヤーヤ">　Jæja</ruby>」
+yule: "…… <ruby=" Jaya"> Jæja</ruby>"
+
+# 2f021c04
+; 恥ずかしくなった。
+I'm embarrassed.
+
+# 23a6f791
+; 自分でも何でそう聞いたのかわからない。
+I don't know why I heard that myself.
+
+# eb9552c5
+; 人が多い道路に入って、気が緩くなったせいだ。
+It's because I felt relaxed when I entered the crowded road.
+
+# e3440a17
+; 俺って、何でこんな馬鹿な事を聞いたんだろう。
+I Why did I hear such a stupid thing?
+
+# 68aa5952
+; yule: 「……ユールちゃんが、エルフに見えたんですか？」
+yule: "Did ……Yule look like Elf?"
+
+# 20070693
+; でもユールちゃんは俺の質問を馬鹿にしないで、優しく返した。
+But Yule did not make fun of me's question, and answered it gently.
+
+# 5e192ab7
+; me: 「なんとなくね、そう思ってしまった。何故なんだろうな……」
+me: "For some reason, I thought so.I wonder why ……"
+
+# 4fb9b8c4
+; yule: 「大体エルフは、もっと身体のサイズが小さいですよ。知りませんでした？」
+yule: "Most Elfs are smaller in size.Didn't you know?"
+
+# e9cddb34
+; me: 「そういえば、そう聞いてたな」
+me: "Come to think of it, I've heard of course."
+
+# 259ffcfd
+; yule: 「まぁ、ハイエルフなら少し違いますけど、あいつらはこっちには来ないはずですし」
+yule: "Well, if it's Hi Elf, it's a little different, but they won't come here."
+
+# 2e874b82
+; 自身はエルフではないと答えただけで、
+He only replied that he was not Elf;
+
+# 679a8681
+; エルフの存在自体は否定しない。
+There is no denying the existence of Elf itself.
+
+# dfe975fb
+; やっぱり、アイスランド人だよな。
+You're Icelandic, after all.
+
+# 7acda1de
+; そして何やら、エルフについてよく知ってるみたいだ。
+and he seems to know a lot about Elf.
+
+# 305a10b
+; me: 「……ユールちゃんは、アイスランド人なんだな？」
+me: "Is ……Yule an Icelandic?"
+
+# 4d2d3cfc
+; yule: 「……そうですね。[i]ユールちゃんは、ずっと昔からアイスランドに住んでます」
+yule: "…… Yes, sir.[i]Yule has lived in Iceland for a long time."
+
+# 1ebe5b7
+; me: 「……そ、そうなんだ」
+me: "…… "Oh, I see,"
+
+# c68969a3
+; 何だか違和感のある言葉だったけど、とにかくここが地元って事だな。
+It was a strange word, but this is my hometown anyway.
+
+# dcceff5b
+; yule: 「どうですか？このアイスランドは。いいところでしょう？」
+yule: "What do you think of Iceland? Isn't it a good place?"
+
+# d361375a
+; me: 「うん。[i]人を選ぶかも知れないが、俺はいいところだと思う」
+me: "Yeah. [i] I might choose someone, but I think me is a good place."
+
+# 174a3b84
+; yule: 「ここに、住みたいとは思わないですか？」
+yule: "Don't you want to live here?"
+
+# 9844890e
+; me: 「そりゃ、住めたらいいけど、移民は難しいじゃん」
+me: "Well, I wish I could live there, but immigration is difficult."
+
+# 6d16f818
+; yule: 「ユールちゃんと結婚したら、ここに住めますよ？」
+yule: "If you marry Yule, you can live here?"
+
+# 4b31479f
+; me: 「そうなるのか？」
+me: "Is that so?"
+
+# beca886a
+; yule: 「そうですよ！どうです？お嫁さんにしてくれます？」
+yule: "That's right! How do you think?"Will you marry me?"
+
+# 5bed999c
+; me: 「それは、いいかもな」
+me: "Well, I suppose,"
+
+# e89d9ee6
+; @choice "適当に答える" goto:.tekitou
+@choice "Answer appropriately" goto:.tekitou
+
+# 677956ad
+; @choice "真面目に答える" goto:3_01_2_majime
+@choice "Answer seriously" goto:3_01_2_majime
+
+# a90739a8
+; me: 「でも仕事もあるし、結婚したら、逆にユールちゃんが日本に来る事になるかも知れないじゃん？」
+me: "But you have work to do, and if you get married, Yule might come to Japan."
+
+# 7959efde
+; もちろん結婚なんて真面目に考えてない。
+Of course, I don't take marriage seriously.
+
+# f3fe1376
+; 適当に、例えばの話だけを続けた。
+I just went on talking about, for example.
+
+# 12813b1f
+; yule: 「まぁ、できるものならユールちゃんも一度行ってみたいです。日本……」
+yule: "Well, if possible, I'd like to go to Yule.…… Japan"
+
+# 2d65808d
+; 何故か言葉を濁らすユールちゃん。
+For some reason, Yule is confused.
+
+# 9373344d
+; me: 「来ればいいじゃん。結婚はともかく、海外旅行だけならそんな難しくもないし」
+me: "You can come.It's not that difficult to travel abroad, let alone get married."
+
+# c1b3e42c
+; yule: 「うーん。でもユールちゃん、ちょっと家も事情がありまして。ここから出られません」
+yule: "Well, but Yule, there's some circumstances at home, too.I can't get out of here."
+
+# 75e18e32
+; me: 「えっ、そう……」
+me: "Oh, yes, ……,"
+
+# 117c69a
+; 複雑な表情をして、ユールちゃんはそういった。
+said Yule with a complex expression.
+
+# 4d23175f
+; 家の事情なのか……
+……, perhaps because of family circumstances
+
+# bee17a6b
+; @choice "深入りしない" goto:.hukairi
+@choice "Don't go too far" goto:.hukairi
+
+# d234080
+; @choice "深入りする" goto:3_01_2_hukairi
+@choice "Deep" goto:3_01_2_hukairi
+
+# 2bb5ea35
+; あえて深入りするものじゃないだろうな。
+You shouldn't go too far.
+
+# a5e81474
+; me: 「そういや、ユールちゃんの家は、どの辺なんだ？[i]レイキャヴィクじゃなさそうだけど」
+me: "Where is by the way, Yule's house?"[i]Reykjavik I don't think so."
+
+# 94e1181e
+; yule: 「うち、ディムボルギルってとこですけど、知ってます？」
+yule: "My name is dimmuborgir. Do you know that?"
+
+# 9da640ec
+; me: 「ディムボ……ってどこだ？」
+me: "Where is Dimbo ……?"
+
+# 98ab5777
+; yule: 「スペルはdimmuborgirです。[i][char yule.car_pose2_w]探してみますか」
+yule: "The spelling is dimmuborgir.[i][char yule.car_pose2_w] Do you want to look for it?"
+
+# c27d9839
+; ユールちゃんは俺の方へ体を寄せてきて、
+Yule leaned towards me,
+
+# 82faadf8
+; 勝手に俺のスマホをいじった。
+I fiddled with Smartphont's me without permission.
+
+# 8e015524
+; me: 「お、おい」
+me: "Oh, my God,"
+
+# feee041d
+; yule: 「ナビは見なくてもいいでしょう？どうせこの道路は一直線だから」
+yule: "You don't have to look at the navigation system, do you?"It's a straight road anyway."
+
+# f4b33461
+; me: 「……そ、そうだけど」
+me: "Yes, …… Yes,"
+
+# 813f0c9b
+; yule: 「……うんと、これを、こう……と」
+yule: "…… `Well, this is ……,'"
+
+# 7fbc6ec1
+; 俺に寄り添ってグー○ルマップをタップしてるユールちゃん。
+Yule cuddling up to me and tapping on the Goggle map.
+
+# e467f23f
+; ちらっと胸の谷間が見えて、ふわっとフローラルの香りが漂ってきた。
+I could see a valley in my chest, and the scent of flowers drifted in.
+
+# 71667a3a
+; こいつも、やっぱり女の子なんだよな。童貞には刺激が強いわ。
+She is Woman, too. It's very stimulating for a Male Virgin.
+
+# cddd5192
+; 運転中なのに心が落ち着かなくて、危ない。
+I'm driving, but I feel restless and dangerous.
+
+# ff97843
+; yule: 「ここです。見てみて」
+yule: "Here it is. Check it out."
+
+# cb8f7
+; me: 「……おぉ？」
+me: "What ……?"
+
+# 3fb7538a
+; これ、何Kmだ？
+How many kilometers is this?
+
+# 28de4e5a
+; 確かにアイスランドだけど、レイキャビックからは正反対の位置だった。
+It's Iceland, but it's the opposite of Ray Cabic.
+
+# 6b231c04
+; リングロードの近くに位置していて、意外と交通は悪くないけど……
+It's located near the ring Road, so the traffic is not bad, but ……
+
+# c069c37
+; me: 「すごく、遠いな」
+me: "It's so far away."
+
+# bbc802a7
+; yule: 「くすくす、そうでもないです」
+yule: "Not really giggle,"
+
+# ffae79b
+; me: 「ここ、北アイスランドだろう？[i]家はこんなに遠いのに、何で南アイスランドに居るんだ？」
+me: "This is North Iceland, isn't it?[i]Why are you in South Iceland when your house is so far away?"
+
+# 5cc2c68
+; yule: 「ユールちゃん、国内旅行中でして」
+yule: "I'm on a domestic trip Yule"."
+
+# a58355b2
+; me: 「そ、そうか」
+me: "Oh, I see,"
+
+# 4ba2bcf7
+; ヒッチハイクで国内旅行か。
+Hitchhiking Is it a domestic trip?
+
+# fa6e4609
+; me: 「車なしのアイスランド一周でもしてるの？」
+me: "Are you going around Iceland without a car?"
+
+# 96a04c2f
+; yule: 「婿探しの旅をしてたんですよ」
+yule: "I was on a journey to find my son-in-law,"
+
+# 4ddcd8ce
+; me: 「む、婿探し？？」
+me: "Well, are you looking for a husband?"
+
+# 8713380e
+; そういや、先もそんな事言ってたような。
+by the way I think he said that before.
+
+# 1666fdb0
+; とんでも発言をしていらっしゃる。
+You're making a ridiculous remark.
+
+# 382146a7
+; yule: 「でも数日間回っても良い相手が見つからなくて、[i][char yule.car_sad_close_u]もう誰でもいいから、最初に現れた男を攫おうと思ってたところで、[i][char yule.car_pose2_w]{playerName}の車が現れたのです！」
+yule: "But I couldn't find anyone to go around for a few days. [i][char yule.car_sad_close_u] I was going to grab the first Man that appeared, but [i][char yule.car_pose2_w] {playerName}'s car appeared!"
+
+# d051cbe3
+; やたらハイテンションに、またとんでもない発言をするユールちゃん。
+Yule makes outrageous statements again with great excitement.
+
+# ac9da04a
+; 攫うって……
+Kidnapping ……
+
+# b5bd44a0
+; yule: 「{playerName}の車が近づくのを見て、ユールちゃんは確信しました。[i][char yule.car_pose2_w]あ、ユールちゃんの好みだ。運命の相手だと！[i][char yule.car_pose2_default]ユールちゃんの長い旅は、ここでついに終着点に至ったのです」
+yule: "When Yule saw her car approaching, {playerName} was convinced.[i][char yule.car_pose2_w] Oh, it's Yule's preference.It's your destiny![i][char yule.car_pose2_default]The long journey of Yule came to an end here."
+
+# e011bf42
+; また運転席の方へ身を乗り出して話す。
+He leaned over to the driver's seat again and spoke.
+
+# 71581eae
+; なんでいきなりハイテンションなんだ？
+Why are you so excited?
+
+# ac360aac
+; こいつ無駄に可愛いから、[i]こんなに近づいたらちょっとはドキリしたりもするし。
+[i] He's so cute. [i] It makes my heart flutter when I get this close.
+
+# 618a4f01
+; yule: 「どう思います？これって運命だと思いません？くすくす」
+yule: "What do you think?"Don't you think this is fate? giggle"
+
+# 7f1e5e80
+; 今の話のどこに運命を感じる？
+Where do you feel your destiny in this story?
+
+# 5ffde2b8
+; @choice "落ち着かせる" goto:.abunai
+@choice "Calm down" goto:.abunai
+
+# a90e09
+; @choice "ああ、運命だ" goto:3_01_2_unmei
+@choice "Oh, it's fate" goto:3_01_2_unmei
+
+# 6092508
+; me: 「う、運転中に危ないから！そんな近づくんじゃないぞ」
+me: "Yes, it's dangerous while driving!"Don't get so close."
+
+# f3bafc24
+; yule: 「はーい」
+yule: "Yes,"
+
+# 1ef0b18b
+; 素直に戻った。
+I went back to being honest.
+
+# 3ed6b3c5
+; 本当、掴めない子だな。
+He really can't grab it.
+
+# e4eb518c
+; me: 「婿探しって言うけど、ユールちゃん……」
+me: "They say they're looking for a son-in-law, Yule……."
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# e9901cfe
+; me: 「結婚とかできる歳なの？」
+me: "Are you old enough to get married?"
+
+# 8f00d8ec
+; yule: 「えっ、なんです？ユールちゃんが子供に見えます？」
+yule: "What is it?"Does Yule look like a child?"
+
+# 2f4a58a2
+; me: 「子供ってわけじゃないが、そんな大人にも見えないし」
+me: "He's not a child, but he doesn't look like an adult."
+
+# 26e4d9e1
+; 外国人の女の子は成長が早いと知ってるから、その割には。まぁ。
+I know that Girl, a foreigner, grows fast, so for that reason.
+
+# 8335aee6
+; yule: 「くっ、確かにユールちゃんは他の姉妹に比べたら痩せて小さい方ですが、それはないです！」
+yule: "Damn it, Yule is thinner and smaller than the other sisters, but she doesn't!"
+
+# 8dd098fd
+; 姉妹がいたのか。
+Did you have any sisters?
+
+# 873de485
+; me: 「で、実際に何歳なんだ？未成年じゃないんだろうな」
+me: "And how old are you?"You're not underage, are you?"
+
+# 1929f4
+; 女性の歳を聞くのは失礼だとは言うけど、ユールちゃんに聞くのは何故か気兼ねなくできた。
+He said it was rude to ask Woman's age, but somehow he could ask Yule without hesitation.
+
+# add06da8
+; yule: 「し、失礼ですね。[br]こう見えてもユールちゃん、２００歳なのです」
+yule: "But I beg your pardon.[br] Even though it looks like this, Yule is 200 years old."
+
+# 93a44f85
+; me: 「２００歳って……」
+me: "200 is ……"."
+
+# b99eaf38
+; オヤジギャグ？
+Old man joke?
+
+# 11c5ac0b
+; １００円の駄菓子を１００万円とか言う、あれか？
+Do you call 100 yen cheap sweets 1 million yen?
+
+# 768768b8
+; yule: 「あ、えっと、二十歳ってところで」
+yule: "Oh, well, I'm twenty,"
+
+# 586b6cd2
+; me: 「だよな」
+me: "Yes,"
+
+# db0437d3
+; yule: 「とにかく結婚できますからね」
+yule: "You can get married anyway,"
+
+# 4571bf3e
+; me: 「ああ、わかったわかった」
+me: "Oh, I see, I said, "I see."
+
+# 76631f63
+; yule: 「で、ユールちゃんの歳もお分かりになったところで、どうですか？嫁にしてくれます？」
+yule: "And now that you know the age of Yule, what do you think?"Will you marry me?"
+
+# 46b37640
+; @choice "いや" goto:.iya
+@choice "No" goto:.iya
+
+# abd29c73
+; @choice "うん" goto:3_01_2_yome
+@choice "Yes" goto:3_01_2_yome
+
+# 6fe880be
+; me: 「いや」
+me: "No,"
+
+# 869526de
+; yule: 「しゅん」
+yule: "`Sigh,'"
+
+# ccd44f3d
+; しょんぼりした。
+I was depressed.
+
+# 8d738807
+; テンションの変化が激しいな。
+The tension changes a lot.
+
+# ecf6aa3
+; yule: 「ま、いいのです。
+yule: "Well, that's all right."
+
+# 2aa2174
+; yule: これからじっくりと愛を育くめばいいだけの話ですから、くすくす」
+yule: "All you have to do is grow your love slowly, giggle."
+
+# 796f5898
+; me: 「……じっくりと言っても、あと二時間だけどね」
+me: "…… `Two hours to go, if I may say so,'"
+
+# e825a285
+; もはやユールちゃんとの会話は漫談みたいになっていた。
+The conversation with Yule had become like a comic dialogue.
+
+# 2431aabc
+; ユールちゃんが色ボケで、俺がツッコミ、みたいな。
+It's like Yule is blurry and me is tsukkomi.
+
+# bd433394
+; yule: 「二週間です」
+yule: "Two weeks,"
+
+# b6963717
+; me: 「二週間って……俺の滞留期間いっぱいなんだけど」
+me: "Two weeks is the full length of ……me's stay,"
+
+# 78c6c6be
+; yule: 「そうですよ！{playerName}がアイスランドに居る限りは、ずっとユールちゃんと一緒です！」
+yule: "Yes! As long as {playerName} is in Iceland, I'll be with Yule forever!"
+
+# c4679420
+; me: 「いや、お前とはレイキャヴィクまでじゃん」
+me: "No, I'm not with you till Reykjavik"
+
+# 487a369a
+; yule: 「いいえ。ずっとついて行きます！」
+yule: "No, I'll keep up with you!"
+
+# 318ec8c5
+; me: 「ストーカーか！」
+me: "You're a stalker!"
+
+# 7e87eb92
+; yule: 「はい！」
+yule: "Yes!"
+
+# de3bad42
+; こいつは何を言ってるんだ。
+What is he talking about?
+
+# 814d8f4c
+; me: 「とりあえず、レイキャヴィクに行ってから考えような」
+me: "Let's think about it after we go to Reykjavik."
+
+# 74aab0f8
+; yule: 「あ〜ん、スルーしないで〜」
+yule: "Oh, don't go through~"

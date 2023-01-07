@@ -1,0 +1,189 @@
+; Japanese <ja> to English <en> localization document for `eystri` naninovel script
+
+# 1f87614d
+; 東ヒィヨルドの最北端。
+the northernmost part of East Hyold.
+
+# 99ffbaa2
+;  <ruby="Borgarfjörður"> ボルガルフィヨルズル</ruby> <ruby="Eystri"> ・</ruby>エイストリ。
+<ruby="Borgarfj ör ður">Borgarfj ður</ruby><ruby="Eystri"></ruby>Astories.
+
+# 2f5e3547
+; 遠くに見える雪山を背景に、海沿いのかわいい建物。
+A cute building along the sea against the backdrop of a snowy mountain in the distance.
+
+# 8e948775
+; 静かな潮風が、冷たかったけど心地よかった。
+The calm sea breeze was cold but comfortable.
+
+# 167811ed
+; me: 「……のどかな町だな」
+me: "It's a peaceful Village,"
+
+# 10c71701
+; ここはパフィンが沢山見られる場所としても有名だ。
+This is also famous as a place where you can see a lot of puffins.
+
+# 9cad8b56
+; 東アイスランドでパフィンを撮影するならここだという。
+If you're filming a papin in East Iceland, it's here.
+
+# 2388d58d
+; me: 「そういや、パヒィンの写真はあまり撮ってないな」
+me: "I haven't taken many pictures of you, by the way."
+
+# 5ce0827
+; せっかくアイスランド旅行記を書くのだから、風景写真だけでなくここだけの動物の写真もとらなきゃ。
+Now that I'm writing a travel journal to Iceland, I have to take pictures of not only landscapes but also of animals just here.
+
+# e51ac1e8
+; me: 「ちょっとだけ、撮っていくか」
+me: "Let's take a picture"."
+
+# 8690448f
+; 町の端に、パフィンがよく集る場所があると聞いたから、行ってみよう。
+I heard that there is a place where muffins often gather at the end of Village, so let's go.
+
+# 440b279f
+; me: 「いい写真ができた」
+me: "I got a good picture"."
+
+# b557f75e
+; パフィンの写真を撮って、車に戻ろうとした瞬間。
+The moment I was about to go back to the car after taking a picture of Puffin.
+
+# da51d402
+; hildur: 「…………」
+hildur: "…………"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# c11166d4
+; 一瞬、不思議な人影が通り過ぎるのが見えた。
+For a moment I saw a strange figure passing by.
+
+# 1ce18a0a
+; 心なしか、耳が長い人だった気がする。
+I think he had long ears.
+
+# 6bc80ab0
+; me: 「確かにあそこに……えっ、誰もいないが……？」
+me: "Certainly …… there, ……, there's no one, but 」?"
+
+# 9516a6fc
+; なんでこんなに気になるんだろう。
+Why am I so curious?
+
+# 8b39e511
+; あの人影が歩く方向、町の南方向だった気がする……
+I think that figure was walking in the south direction of Village ……
+
+# a2df75
+; me: 「ちょっとだけ、追ってみるか」
+me: "Let me follow you a little,"
+
+# 68bd7e56
+; me: 「はぁはぁ……」
+me: "Yes, ……,"
+
+# 5bf93a7a
+; あの人影が向かった方向へガムシャラ走って来てみたけど、あの人は居なかった。
+I ran towards him, but he wasn't there.
+
+# 3a99d732
+; man3: 「あれ？君は……また会えたな」
+man3: "Huh? You've seen …… again."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 161be73e
+; 誰だっけ？
+Who was that?
+
+# 1b74810f
+; ああ、確かトロールの写真を撮っていた……
+Oh, I think I was taking a picture of Troll ……
+
+# ef4e5894
+; man3: 「君も、エルフを見つけたくてきたのかね？」
+man3: "Did you come to find Elf, too?"
+
+# dfe558cc
+; me: 「エルフ？？」
+me: " Elf???"
+
+# f5e2381d
+; man3: 「あれ？知らなかったのかい？[i]ここはエルフの町、アルファ・ボルグなんだ」
+man3: "Huh? You didn't know that?[i]This is Village of Elf, Alpha Borg."
+
+# 53de77b7
+; me: 「えっ？ボルガルフィヨルズル・エイストリではなく？」
+me: "What? Isn't it Borgarfiyorzuru Aestry?"
+
+# f4ff0f4f
+; man3: 「それは隣の町だ、君はそこから南の方へ来たんだよ」
+man3: "It's Village next door, and you came from there to the south."
+
+# 683a0b58
+; me: 「えっ？そう？」
+me: "What? Really?"
+
+# a03f168f
+; 俺、そんなに走って来たんだっけ？
+I Did I come running like that?
+
+# 501e207e
+; me: 「でもエルフの町って、はは、いくらなんでも」
+me: "`But Village of Elf, whatever,'"
+
+# 994ced79
+; man3: 「なんだ、後ろの標識、見えないのか？」
+man3: "Why, can't you see the sign behind you?"
+
+# c220c60e
+; me: 「標識？あ……」
+me: "Sign? Oh, ……."
+
+# aee9693
+; 本当だ。
+It's true.
+
+# c3a03b48
+; この地域の案内文に、City Of Elvesと描いてある。
+City Of Elves is written in the local guide.
+
+# cf359761
+; me: 「エルフの町……」
+me: "The Village…… of Elf."
+
+# 26b00b16
+; man3: 「最近、アイスランド全域でエルフがよく出没するって話を聞いて、一番可能性が高いここまで来たんだが……」
+man3: "I heard that Elf often appears all over Iceland these days, so I've come to this point where I think it's most likely ……."
+
+# ff4a5a61
+; 男はがっかりしてるみたいだった。
+Man seemed disappointed.
+
+# 3b465c5c
+; man3: 「エルフの写真を撮るのは無理みたいだ。やっぱり俺は、トロールの写真専門って事だよ。じゃあな」
+man3: "It seems impossible to take a picture of Elf.After all, me specializes in photography of Troll. See you later."
+
+# 35158dfe
+; そう言って、男は風のように去っていった。
+Then Man went away like the wind.
+
+# 5116d0dd
+; me: 「いつも思うけど、変な人だな」
+me: "As I always think, he's a strange person."
+
+# 4e41e1a1
+; それはそうと、エルフの町か。
+By the way, Village of Elf?
+
+# 14bdf314
+; 俺が先見かけたのは、もしかしたら本当に、エルフだったのかもしれない。
+Perhaps it was really Elf that me had seen before.

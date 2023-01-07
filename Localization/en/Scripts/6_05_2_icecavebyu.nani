@@ -1,0 +1,257 @@
+; Japanese <ja> to English <en> localization document for `6_05_2_icecavebyu` naninovel script
+
+# cd625938
+; me: 「ソーセージ！」
+me: " sausage!"
+
+# 34e0d7cd
+; シーン—————。
+Scene.
+
+# aec46074
+; me: 「……あっ！！こんなところに、うまいソーセージが！」
+me: " …… Ah!! There's a good sausage here!"
+
+# 34e0d7cd
+; シーン—————。
+Scene.
+
+# 267c804f
+; me: 「……なんて、そんな都合よくできるわけないか」
+me: "How could …… be so convenient?"
+
+# 1702eb17
+; byu: 「ソーセージどこ！？[i][char byu.awawa-l]って、[hide byu]きゃぁぁっ！？」
+byu: "Where is sausage?"[i][char byu.awawa-l] 'hide byu' What?"
+
+# 94e8b460
+; me: 「……うわああっ！！」
+me: " …… Oh, my God!"
+
+# 93bdf700
+; いきなり上からおっぱいが現れて、
+Suddenly, a milk appeared from above.
+
+# 7364b694
+; そのまま俺は後ろに押し倒された。
+Then me was pushed back.
+
+# f5bbe5ce
+; byu: 「あ、あなたは、{playerName}?」
+byu: "Oh, are you {playerName}?"
+
+# 2a99f3bc
+; ビューちゃんは俺の上に馬乗りしてた。
+Byu rode on top of me.
+
+# 83a94ba0
+; me: 「……ビューちゃんだね！よかった。無事だったね」
+me: "That's ……Byu! That's a relief.You're safe."
+
+# 7a8847a9
+; byu: 「うん！[i][char byu.heart-l]それで、ソーセージは？」
+byu: "Yeah! [i] [char byu.heart-l] So what about sausage?"
+
+# 51e5426f
+; ねだるように、俺の上で身体を揺らす。
+He shook himself beggingly on the me.
+
+# 9c0be92
+; me: 「お、おお……」
+me: "Oh, oh, ……,"
+
+# af045c1d
+; ふとももが擦れる柔らかい感触と、目の前で揺れるデカイあれのせいで、
+Because of the soft feeling of the thigh rubbing and the big shake before my eyes,
+
+# 1e9ea1d4
+; つい男が反応してしまった。
+I couldn't help but react to Man.
+
+# 3117f559
+; byu: 「……えっ、あっ！？」
+byu: "…… "What!?"
+
+# d30baf
+; me: 「……あっ、す、すまん！！ど、どいてくれないか？」
+me: "…… "Oh, I'm sorry! Can you get out of the way?"
+
+# f35611e2
+; byu: 「……あ……うん」
+byu: " …… Oh, …… Yes,"
+
+# 711dc09
+; me: 「……ごめんね。ソーセージはない」
+me: "…… I'm sorry.There is no sausage."
+
+# 13d62633
+; byu: 「……………………」
+byu: "……………………"
+
+# 2e91c638
+; me: 「ビューちゃんが来るかと思って、ハッタリかけてみた」
+me: "I thought Byu would come, so I tried to hit her hard."
+
+# 6523cd50
+; byu: 「……持ってるじゃん」
+byu: "You have ……"."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# b0a5aaa4
+; byu: 「あそこ、ズボンの中に。確かに感じたよ」
+byu: "Here, in my pants.I certainly felt it."
+
+# 52c06ffa
+; me: 「えっ！？い、いや、これは……」
+me: "What!? No, this is ……."
+
+# 36e2f4c8
+; @choice "ソーセージではない" goto:.nososeji
+@choice "Not sausage" goto:.nososeji
+
+# ca29dd29
+; @choice "ソーセージだ" goto:ed_6_05_2_soseji
+@choice "It's sausage" goto:ed_6_05_2_soseji
+
+# 737f810f
+; me: 「これはソーセージではない」
+me: "This is not sausage,"
+
+# edade7b8
+; byu: 「似たようなもんでしょう？食べれるし」
+byu: "It's similar, isn't it?"I can eat it."
+
+# 2e3e6c6
+; me: 「全然違います。食べないでください」
+me: "Not at all.Don't eat it."
+
+# a3785aa9
+; とりあえずビューちゃんを落ち着かせて、
+Let Byu calm down for now.
+
+# 87584d99
+; 状況について話した。
+We talked about the situation.
+
+# 26220e18
+; me: 「とにかく、ユールちゃんを探したいけど」
+me: "Anyway, I want to find Yule."
+
+# 52a403f3
+; byu: 「ユールちゃん？[i]そっか。そういえば逸れちゃったね？」
+byu: "Is it Yule?"[i]I see. Come to think of it, it's off the mark, isn't it?"
+
+# 34a1488e
+; ビューちゃんは周りを見渡すと、改めて俺を見つめた。
+Byu looked around and looked at me again.
+
+# 8e9370ee
+; byu: 「ボク、{playerName}と二人っきり？」
+byu: "Am I alone with {playerName}?"
+
+# 25b1f4c6
+; me: 「そ、そうだけど」
+me: "Yes, but,"
+
+# 6687d93a
+; byu: 「……ってことはこれはチャンス？」
+byu: "Is this an opportunity, ……"
+
+# 2f0636b4
+; me: 「はい？？」
+me: "What?"
+
+# 71da5eb5
+; byu: 「ね、{playerName}！あなたのソーセージの味を、体の相性を！」
+byu: "Hey, {playerName}! Your sausage taste, your chemistry!"
+
+# 3c8f6baa
+; me: 「なっ」
+me: "Well,"
+
+# f918bf08
+; ビューちゃんがすごくビッチな事を言いながら、
+Byu said something very cheesy.
+
+# 8cae1fe4
+; 俺へと飛びついてきた。
+I I jumped at him.
+
+# d6fb1d06
+; @choice "避ける" goto:.yokeru
+@choice "Avoid" goto:.yokeru
+
+# beaecb9f
+; @choice "受け止める" goto:ed_6_05_2_byuend
+@choice "Receive" goto:ed_6_05_2_byuend
+
+# 935303dc
+; byu: 「あいたっ！」
+byu: "Oh, my God!"
+
+# cfa15119
+; 俺が避けたせいで、ビューちゃんはそのまま前のめりに転けてしまった。
+I avoided it, and Byu fell straight forward.
+
+# 1c47d6ec
+; me: 「あ、すまん。つい……」
+me: "Oh, I'm sorry. I just ……."
+
+# c3679016
+; byu: 「うぅぅ、避けるなんて、ひどいよ」
+byu: "`Oh, it's too much to avoid,'"
+
+# c222bfed
+; ビューちゃんがよろけながら立ち上がった。
+Byu staggered to his feet.
+
+# a7d39672
+; me: 「お、俺にはユールちゃんがいるからな」
+me: "Oh, me has Yule,"
+
+# e3214b1c
+; 全然そう思ってないけど、とりあえず防御策もつもりで言ってみた。
+I don't think so at all, but I said it with the intention of protecting myself.
+
+# 30066982
+; byu: 「ちぇっ……わかりました」
+byu: "I see ……,"
+
+# 1276cfb2
+; me: 「う、うん」
+me: "Yes, yes,"
+
+# de98f420
+; よし、落ち着いた。効果あったな。
+All right, calm down.It worked.
+
+# 1b29003f
+; byu: 「ボク、こうみえてもルールは守るんだ」
+byu: "I follow the rules even though I look like this."
+
+# e82c31da
+; me: 「そうだな」
+me: "Yes,"
+
+# 2e248f91
+; ってわりには守りそうになかったけど。まぁいいや。
+I didn't think I'd protect it.I don't care.
+
+# f59563b9
+; byu: 「で、スヴォルだったね。[i]うん。一緒に探そうよ」
+byu: "And it was Thuvor.[i]Yeah. Let's find it together."
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# fd9afcef
+; ちゃんと俺の話は聞いていたんだな。
+You've listened carefully to me.
+
+# 5de68a35
+; byu: 「ボクについてきて」
+byu: "Follow me,"

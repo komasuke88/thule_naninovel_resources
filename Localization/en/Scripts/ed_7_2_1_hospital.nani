@@ -1,0 +1,65 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_1_hospital` naninovel script
+
+# 4a5183c7
+; 病院。
+a hospital.
+
+# bfd69c25
+; そうだった。
+That's right.
+
+# c234c76c
+; 俺がアイスランドなど、行けるはずがない。
+There is no way me can go to Iceland.
+
+# d8f4d75
+; 重度の病者で、動けないのよ。
+I'm seriously ill, and I can't move.
+
+# 4615a0a0
+; me: 「このままベッドと一緒に、朽ち果てて死ぬのを待つだけ」
+me: "Just wait with the bed for it to rot and die."
+
+# 8dd5fd24
+; ベッド: 「それもいいけどさ。夢は、叶ったのか？」
+Bed: "That's good, too.Did your dream come true?"
+
+# bf85f7b9
+; me: 「いいや。でも俺ってほら、動けないし。どこにも行けないじゃん？」
+me: "No, but me, you know, I can't move.You can't go anywhere, can you?"
+
+# f15bc2ac
+; ベッド: 「行けるよ、ほら」
+Bed: "I can go, look."
+
+# 8e613526
+; me: 「あれ？本当だ。俺って、空を飛べるのだったな」
+me: "Huh? That's true.me and you could fly."
+
+# cfc239e2
+; ベッド: 「そうだよ。だから行きたい場所には、どこにだって飛んで行けるさ」
+Bed: "Yes.So I can fly wherever I want to go."
+
+# 3283786f
+; me: 「こりゃ、ベッドで旅行記なんか読んでる場合じゃないな」
+me: "`This is not the time to read travel books in bed,'"
+
+# 5d0cc16
+; ベッド: 「そうだよ。旅行は、自分ですればいいのじゃよ」
+Bed: "Yes.You can travel by yourself."
+
+# ad8bb1fe
+; me: 「今までありがとう。病弱な俺を寝かせてくれて」
+me: "Thank you so much.Thank you for putting the sickly me to bed."
+
+# fa744756
+; ベッド: 「どんまい」
+Bed: "Don't worry."
+
+# 93ac0e52
+; me: 「じゃあ、そろそろいくわ」
+me: "Well, I'll be going now,"
+
+# 4c16e04c
+; ベッド: 「ああ、お元気で」
+Bed: "Oh, take care."

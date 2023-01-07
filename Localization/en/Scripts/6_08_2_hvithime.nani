@@ -1,0 +1,493 @@
+; Japanese <ja> to English <en> localization document for `6_08_2_hvithime` naninovel script
+
+# 7c7a1fc8
+; me: 「遠くから見ると、ただ岩に向かって独り言を喋ってるようにしか見えないよな」
+me: "From a distance, it looks like you're just talking to yourself at a rock."
+
+# 321c0d27
+; ご先祖様と話をしてくるって言うユールちゃんを、俺たちは近くで待っていた。
+They were waiting nearby for Yule to talk to their ancestors.
+
+# 8add243b
+; me: 「何を話してるんだろうな？ヒメは聞こえる？」
+me: "What am I talking about?"Do you hear Hime?"
+
+# 86d94011
+; hime: 「……」
+hime: "……"
+
+# 8a995250
+; me: 「ヒメ？」
+me: "Is it Hime?"
+
+# 888edec6
+; hime: 「…………………………」
+hime: "…………………………"
+
+# 2e98c1b0
+; me: 「ひ、ヒメ？どうし………………
+me: "Hi, Hime? What ………………?"
+
+# c3987aed
+; me: 「ああぁぁぁぁ」
+me: "Ah,"
+
+# 24303c54
+; またあの頭痛だ。
+I have that headache again.
+
+# 85a6ec79
+; 今回は、すぐには止まない。
+This time, it won't stop right away.
+
+# 2e1680e8
+; ずっと続く苦痛。
+the pain that goes on the pain that goes on forever.
+
+# 866db7dd
+; そして、奇妙な衝動が湧いてくる。
+Then a strange impulse sprang up came a strange impulse.
+
+# cf853da7
+; @choice "耐える" goto:.gaman
+@choice "I'll endure" goto:.gaman
+
+# f24cc7ac
+; @choice "死ぬ" goto:ed_6_08_2_noroi
+@choice "I'm going to die" goto:ed_6_08_2_noroi
+
+# 63c18ba8
+; me: 「はっ！」
+me: "Yes!"
+
+# 9bef94b3
+; 何考えてるんだ俺は。
+What are you thinking me?
+
+# ae271a40
+; 自殺だなんて、バカな事を。
+It's stupid to kill.
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# aa49b4ae
+; 深呼吸したら大分よくなった。
+I feel much better after taking a deep breath.
+
+# 8cd3c959
+; よし。
+That'sounds good.
+
+# 6b202a02
+; 頭痛はもう治ったから、ヒメの様子を……
+Now that my headache is gone, ……'s condition is Hime
+
+# b753f613
+; me: 「ヒメ！しっかり！！」
+me: " Hime! Stay strong!"
+
+# db6fdefe
+; hime: 「……えっ？あ、うん……」
+hime: "What ……? Oh, yes, ……."
+
+# d2898e28
+; me: 「だ、大丈夫か？」
+me: "Are you all right?"
+
+# acd703dd
+; ヒメはどうなってしまったんだ？
+What happened to Hime?
+
+# db5e4c22
+; 幽霊なんだし、疲れてるとか病気とか、そんなのはないと思うけど……
+Ghost I don't think there's anything like tiredness or illness, but ……
+
+# a4463342
+; hime: 「な、なにが？」
+hime: "What?"
+
+# 8e409973
+; me: 「また居眠りしてたの？ヘイマエイ島であの時みたいにぼーっとしてたから……」
+me: "Were you dozing off again?"…… for I was as absent-minded as I was then on Haymaay Island."
+
+# 925be42d
+; yule: 「{playerName}<s>　　　　　　</s>！」
+yule: "{playerName}</s>!"
+
+# 5d3b7d3c
+; ユールちゃんが戻ってきた。
+Yule is back.
+
+# 49a79b3e
+; me: 「おう、ユールちゃん。来たのか」
+me: "Oh, Yule.Are you here?"
+
+# 4b7c247e
+; yule: 「大丈夫ですか？何もなかったですか？」
+yule: "Are you all right?"Nothing happened?"
+
+# 9717aaaa
+; me: 「あ、ああ。俺は大丈夫だけど、ヒメの様子が……」
+me: "Oh, yes. me is fine, but …… looks Hime."
+
+# 888edec6
+; hime: 「…………………………」
+hime: "…………………………"
+
+# 61cd39dc
+; me: 「なっ！ヒメ？またこんな状態に……
+me: "What! Hime? …… like this again."
+
+# fddc0e65
+; me: って、あああっ！！？？」
+me: "Oh, oh, oh!!???"
+
+# 8d3a12f7
+; yule: 「えっ！？{playerName}？？」
+yule: "What!? {playerName}?"
+
+# 8e5c3707
+; また頭痛が始まった。
+I have a headache again.
+
+# 8d5ad11a
+; ヒメが虚ろな目をして、ぼーっとし始めたと同時に。
+as soon as Hime began to faint with empty eyes.
+
+# a833dff2
+; もうこれはこの頭痛と関係があるとしか思えない。
+I can only think that this has something to do with this headache.
+
+# f6c24bb6
+; しかし、この頭痛、どんどんひどくなって……
+But this headache got worse and worse ……
+
+# 238f9936
+; me: 「ああああああああ」
+me: "`Ah, oh, oh, oh, oh, oh, oh, oh, oh,"
+
+# d7c0c77a
+; yule: 「{playerName}！しっかりして！呪いに飲み込まれるといけません！」
+yule: " {playerName}! Stay strong!Don't be swallowed up by a curse!"
+
+# dc00d868
+; ユールちゃんが大きなスプーンで、俺の頭を軽く叩いた。
+Yule patted me on the head with a large Spoon.
+
+# b8278aa4
+; me: 「いたっ！」
+me: "Oh, my God!"
+
+# 4043c117
+; yule: 「どうですか？もう頭痛くないですか？」
+yule: "What do you think? Don't you have a headache now?"
+
+# b6fb277c
+; me: 「あ、ああ。頭痛が……[i]あったけど、お陰で治ったよ。[i]あ、そういえば、ヒメは？」
+me: "Oh, yeah. I had a ……[i] headache, but thanks to you, I got better.[i]Oh, come to think of it, what about Hime?"
+
+# 520800aa
+; ヒメは相変わらずに、微動ともしない。
+Hime remained motionless.
+
+# f426de39
+; まるで、背景の一部になったかのような、そんな感じだった。
+It was as if it had become part of the background.
+
+# dd08d5eb
+; yule: 「やっぱり、ご先祖様から聞いた通りですね」
+yule: "It's just as I heard from my ancestors."
+
+# 5f60dd4e
+; me: 「えっ？ご先祖様が、今の俺たちの状態も知ってたのか？」
+me: "What? Did your ancestors know about the current condition of me?"
+
+# d59b3a85
+; 今回のご先祖様は冴えてるな。
+The ancestors of this time are very clear.
+
+# e61026fb
+; yule: 「はい。この状態は……」
+yule: "Yes, this condition is ……"."
+
+# 17a7d36a
+; 悪霊化。
+demonization.
+
+# ea75e4b9
+; 幽霊が自分の意思を失って、ただ空中を彷徨う抜け殻になる事。
+Ghost loses his will and becomes a shell that wanders through the air.
+
+# a617647a
+; 人間に例えるなら、植物人間になるのと同じだ。
+If you compare yourself to a human being, it's like being a plant person.
+
+# 86314b44
+; つまり、ヒメは死ぬのと同じだ。
+In other words, Hime is like dying.
+
+# 88967b90
+; しかもそれはただの抜け殻ではない。
+And it's not just a shell.
+
+# 584301ca
+; 呪いの塊だ。
+It's a bunch of curses.
+
+# 41cd03b8
+; 取り憑いた人間をずっと追い掛けながら、その人間を呪い続ける。
+He keeps chasing after the possessed man and curses him.
+
+# dd151547
+; 呪いは自分の意志は関係なく、自動的に発動する。
+Curse is invoked automatically regardless of one's will.
+
+# a1b3ef69
+; 呪いは人間の精神を蝕んで、やがて狂死させる。
+Curses eat away at the human spirit and eventually drive us to death.
+
+# 44d0ee47
+; 俺はその呪いをずっと食らう事になる。
+I will continue to be subjected to that curse.
+
+# db0fa6ff
+; つまり、このままヒメの悪霊化が進むと、
+In other words, if Hime continues to demonize,
+
+# 778935c5
+; 俺も死ぬ。
+I will die, too.
+
+# 91011a1a
+; yule: 「普通なら、取り憑いた人間によっぽどの恨みでもなければ、こうはならないのですが……」
+yule: "Normally, this would not be the case if it were not a great grudge against the possessed ……."
+
+# 2896a01b
+; me: 「えっ？ヒメって、実は俺に恨みがあったとか？」
+me: "What? Did Hime actually have a grudge against me?"
+
+# b540c3ce
+; この話をしてる間にも、ヒメはずっと抜け殻のようだった。
+While we were talking about this, Hime had always been like a shell.
+
+# 677ae75c
+; yule: 「いいえ。これは『外界の神』の邪気の影響ではないかと聞きました」
+yule: "No. I asked if this was the influence of Evil Force of 』, the god of the outside world."
+
+# a7a9c97b
+; me: 「邪気……またあいつのせいか」
+me: "Evil Force…… "Is it because of him again?"
+
+# 532d544e
+; 俺はあの時の事を思い出した。
+I remembered that time.
+
+# 95af5efb
+; yule: 「あのとき、ユールちゃんもヒメさんも気を失ったのでしょう？多分、それが原因です」
+yule: "At that time, both Yule and Hime fainted, didn't they?That's probably the reason."
+
+# 265fbb3d
+; me: 「ゆ、ユールちゃんは大丈夫か？」
+me: "Yu, is Yule all right?"
+
+# a8910f32
+; yule: 「はい。ユールちゃんの方は、魔力である程度回復できましたから……」
+yule: "Yes, Yule has recovered to some extent with Magical Power."
+
+# d43f96b8
+; そういったユールちゃんは心配そうな視線で、俺を見つめた。
+These Yule stared anxiously at me.
+
+# b0e39c58
+; yule: 「問題は{playerName}です。ヒメさんだけでなく、{playerName}も何らかの影響を受けたはずです」
+yule: "The problem is {playerName}.Not only Mr. Hime, but {playerName} must have been affected in some way."
+
+# ae5372f0
+; me: 「えっ、俺も？？」
+me: "What, me?"
+
+# 297d1838
+; yule: 「でも不思議な事に、{playerName}は大丈夫みたいですね。どうしてでしょう……」
+yule: "But strangely enough, {playerName} seems to be all right.I wonder why ……"
+
+# 567a593f
+; me: 「そうか？俺もよくわからんが……」
+me: "Really? I don't know me, but ……."
+
+# 43e63a8b
+; yule: 「これって、もしかして……[i]ううん。ご先祖様もわけがわからんと言いましたし……」
+yule: "……[i] No, by any chance, ''i' No.Your ancestors said they didn't understand, ……."
+
+# 3bc0e71
+; me: 「うん……？」
+me: "Yes, ……?"
+
+# 907e91d8
+; ユールちゃんはなにかをつぶやいたけど、意味はわからなかった。
+Yule murmured something, but did not make sense.
+
+# a4777bc9
+; yule: 「いや、{playerName}についてはしばらく様子見です。[i][char yule.eto]それよりはヒメさんです。このまま悪霊化が進むと{playerName}も危ないですし」
+yule: "No, I'll wait and see about {playerName} for a while.[i][char yule.eto] It's Hime.If demonization continues, {playerName} will be in danger."
+
+# 6ade8608
+; me: 「あ、ああ。ヒメはどうしたらいいんだ？[i]何か方法があるのかな？」
+me: "Oh, yes. What should I do with Hime?"[i]Is there any way?"
+
+# 76b6ce68
+; yule: 「除霊の魔法ならできますけど、そしたら、ヒメさんが消えちゃいますね」
+yule: "I can do the magic of exorcism, but then Mr. Hime disappears."
+
+# b9db8704
+; me: 「いや。退治しちゃ駄目だろう」
+me: "No, don't get rid of it."
+
+# e6a4d642
+; yule: 「はい。だから最初の計画通りに行きます。でも、もう少し急ぐ必要がありますね」
+yule: "Yes, so I'll follow the original plan.But we need to hurry a little more."
+
+# 2774062f
+; me: 「最初の計画って……」
+me: "The first plan is ……."
+
+# ec5a0e32
+; 最初は俺の記憶の欠片を探す旅じゃなかったっけ？
+Wasn't it a journey to find fragments of me's memory at first?
+
+# b5b90fa4
+; ま、今はそれどころではないよな。命がかかってるし。
+Well, that's far from it now.My life is at stake.
+
+# f6e13d1c
+; あ、そうだあれだったな。
+Oh, yeah, that was it.
+
+# 7978f200
+; me: 「あのヒメエルフを捕まえる事だったね」
+me: "It was to catch that Himeelf,"
+
+# cdaf0d87
+; yule: 「そうです」
+yule: "Yes,"
+
+# 22d2ce79
+; ヒメエルフか。
+Himeelf Is that so?
+
+# fee40fd1
+; とっさに言い出した略だけど、我ながらいい単語だな。
+It's a quick abbreviation, but I think it's a good word.
+
+# 39b0234a
+; yule: 「少し急ぐ必要がありますね。悪霊化は早ければ３日。遅くても一周間以内で発現しますから」
+yule: "We need to hurry a little.The demonization is three days at the earliest, and it will occur within one lap at the latest."
+
+# a707bcb1
+; me: 「発現って？」
+me: "Expression?"
+
+# e5bda2b1
+; yule: 「悪霊になり切って、戻れなくなる事です。[i]そうなると{playerName}へかかる呪いも、今みたいに簡単には抜けられないでしょう」
+yule: "It's about becoming a demon and not being able to go back.[i]Then the curse on {playerName} will not be as easy as it is now."
+
+# 733467dd
+; me: 「呪い……先の頭痛の正体か」
+me: "Cursive …… Headache?"
+
+# 9b022ca2
+; あれがずっと続く事になるのか。
+I wonder if that will continue.
+
+# 39a08d97
+; それは、怖いな。
+That's scary.
+
+# 7cd56198
+; me: 「早ければ３日って……もうあまり時間がないじゃないか」
+me: "Three days at the earliest, …… We don't have much time left."
+
+# 648b67c9
+; yule: 「余裕はありませんが、十分です。[i][char yule.doya]あのエルフの居場所を知りましたから、一日で捕まえられます」
+yule: "I can't afford it, but it's enough.[i][char yule.doya] Now that I know where Elf is, I can catch her in one day."
+
+# 4a4e564b
+; me: 「そうか、それはよかった」
+me: "Well, that's good,"
+
+# 65cd7419
+; yule: 「……ただ、今までみたいに自由な旅はもう無理かと」
+yule: "…… "But I don't think I can travel as freely as I used to."
+
+# fee13a39
+; me: 「ああ、それは、まぁ、仕方ないよ」
+me: "Oh, well, there's nothing we can do about it,"
+
+# 58c785dc
+; hime: 「はっ？」
+hime: "What?"
+
+# 45093bca
+; その時、フリーズしていたヒメが目を覚ました。
+Then Hime, who had been frozen, woke up.
+
+# 56bb9ff9
+; me: 「ヒメ、気がついたね」
+me: "You've noticed Hime,"
+
+# 3fa53b91
+; hime: 「わ、わたし、また寝てた？」
+hime: "Was I asleep again?"
+
+# 5e3fc10e
+; me: 「いいや、寝てたんじゃない。これはな……。」
+me: "No, I wasn't sleeping.This is ……."
+
+# d66fd7d9
+; 俺はヒメに、今聞いた話をしてあげた。
+I told Hime what he had just heard.
+
+# 7e145781
+; ………………
+………………
+
+# 742f8c82
+; hime: 「な、何よそれ！大変じゃない？」
+hime: "What's that? Isn't it hard?"
+
+# ef008d54
+; ヒメも相当ショックを受けたみたいだ。
+Hime It seems that he was quite shocked.
+
+# 94cf843f
+; me: 「ああ。それをなんとかするために、早くあのヒメエルフを探さないとな」
+me: "Yes. I must find that Himeelf as soon as possible to do something about it."
+
+# ea419200
+; hime: 「うん。急いでなんとかしないと、{playerName}に迷惑をかけちゃう」
+hime: "Yeah. If we don't hurry up and do something about it, we'll cause trouble to {playerName}."
+
+# 9021f454
+; me: 「ま、俺の事はいいけど、ヒメが消えたらいけないからね」
+me: "Well, me is fine, but Hime shouldn't disappear."
+
+# 2831f5e4
+; hime: 「わたしは……まぁ正直に消えるって実感が沸かないけどね……今もふわふわしてて……」
+hime: "I don't feel like …… will disappear honestly, but …… is still fluffy and ……"
+
+# e43d1226
+; me: 「ま、とにかくだ。[i]それでユールちゃん、そのヒメエルフの居場所はわかったか？」
+me: "Well, at any rate.[i]So Yule, did you know where he was?"
+
+# 607fdb25
+; yule: 「はい。ご先祖様から聞きました。[i][char yule.n_sad_close_dot]しかし、少々面倒な場所に居るみたいです」
+yule: "Yes, I heard it from my ancestors.[i][char yule.n_sad_close_dot] But he seems to be in a difficult place."
+
+# dd61541
+; me: 「ん？それって、どこなんだ？」
+me: "Huh? Where is that?"
+
+# 1d778bf6
+; yule: 「……エルフの町、アルファ・ボルグです」
+yule: "Alpha Borg, Village of ……Elf."

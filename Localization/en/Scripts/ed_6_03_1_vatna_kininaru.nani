@@ -1,0 +1,69 @@
+; Japanese <ja> to English <en> localization document for `ed_6_03_1_vatna_kininaru` naninovel script
+
+# 7e67711
+; yule: 「へえーそうですか。ユールちゃんのあな[i][char yule.dot]に？[i][char yule.hi]……って、[i][char yule.tenten]はい？」
+yule: "Yes, sir.In Yule, to [i][char yule.dot] ? [i][char yule.hi] ……? [i][char yule.tenten] What?"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 31d37ec7
+; yule: 「えっ？ちょっと、[i]な、何そんなマジな顔で、[i][char yule.dere2]ちょっ、[i][char yule.dere-l]ええええ？？」
+yule: "Huh? Hey, [i] What's with that serious face? [i] [char yule.dere2] Hey, [i] [char yule.dere-l] What?"
+
+# f3bf9c75
+; yule: 「やあああんっ♥」
+yule: "Hello ♥"
+
+# 3ea899f
+; ……
+……
+
+# becbf37e
+; <s>　　　　</s>一年後
+<s>    </s>One year later
+
+# 140fd6f7
+; yule: 「くすくす、ついにユールちゃん念願の、ハーフトロルが生まれる訳ですね」
+yule: "So giggle finally, Yule's long-cherished half-trol is born."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# dc1552fe
+; yule: 「本当に戻らなくてよかったのですか？」
+yule: "Are you really glad you didn't come back?"
+
+# c7255866
+; me: 「ああ、新しい家族もできたしな」
+me: "Oh, we have a new family,"
+
+# 81282ef2
+; yule: 「くすくす。家族ですか。そうですね」
+yule: " giggle. Family?"That's right."
+
+# c9375c76
+; me: 「ああ、大切な家族だ」
+me: "Oh, it's a precious family,"
+
+# 8f8dae82
+; yule: 「{playerName}の空白の記憶は、幸せで埋めていきましょうね。三人で」
+yule: "Let's fill in the blank memories of {playerName} with happiness.Three of us."
+
+# 9eb94185
+; me: 「ああ、楽しみだ」
+me: "Oh, I'm looking forward to it,"
+
+# 814f46ad
+; yule: 「くすくす。ね、{playerName}」
+yule: " giggle, you know, {playerName}."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 5dad0daf
+; yule: 「大好きです」
+yule: "I love you"."

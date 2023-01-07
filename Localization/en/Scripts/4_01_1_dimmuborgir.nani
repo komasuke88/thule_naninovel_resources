@@ -1,0 +1,297 @@
+; Japanese <ja> to English <en> localization document for `4_01_1_dimmuborgir` naninovel script
+
+# 858dd6da
+; me: 「ここが、ディムボルギルか」
+me: "Is this dimmuborgir?"
+
+# ecd956ff
+; 車から降りて、陰鬱な雰囲気の黒い道を歩いていく。
+Get out of the car and walk down a dark road with a gloomy atmosphere.
+
+# 20b658a8
+; 異常気温っていうのに、ここは雪も溶けてなく、冷気が流れてて、寒かった。
+Even though the temperature was abnormal, the snow didn't melt here, and there was cold air and it was cold.
+
+# 86e81cc0
+; 温泉地帯でもないのに、どこからか硫黄臭に似た妙な匂いが風に乗ってくる。
+Even though it is not a hot spring area, a strange smell similar to sulfur comes from somewhere.
+
+# 6226940d
+; 道の周りは黒く刺々しい奇岩怪石に囲まれていて、[br]人の世と隔離されてるような気がした。
+The road was surrounded by black and sharp strange rocks, and I felt isolated from the world of the [br].
+
+# ce268cfa
+; そびえ立つ岩の柱が、まるで巨人のように見えて、たまに振り返っては萎縮される。
+The towering rock pillars look like giants, and sometimes they shrink when they look back.
+
+# bc504eeb
+; アイスランド語で『暗黒の城』という意味の、 <ruby="ディムルボルギル"> Dimmuborgir</ruby>。
+<ruby="Dimmuborgir">Dimmuborgir</ruby> means 『 Dark Castle 』 in Icelandic.
+
+# fb11d55
+; その内部は、底が知れない地球の深部へと繋がってると言われてる。
+It is said that the inside is connected to the deep part of the earth where the bottom is unknown.
+
+# 726eb3d1
+; つまりここは地獄の入り口。
+In other words, this is the entrance to hell.
+
+# 6039012a
+; 地下の世界が現実の世界と繋がってる場所。
+A place where the underground world is connected to the real world.
+
+# 4b7a723
+; 沢山のアイスランドの民話が、この場所についてそんな説明をしてる。
+A lot of Icelandic folklore explains this place.
+
+# e2a434fc
+; me: 「地獄か……」
+me: "Hell or ……"."
+
+# 8223bd9b
+; 確かに恐ろしい空気が流れてる。
+There is certainly a terrible atmosphere.
+
+# df257630
+; あちらの世界に繋がってるような奇妙な感覚。
+It's a strange feeling like it's connected to that world.
+
+# 651fe981
+; 人でならざる者が住んでいてもおかしくない。
+There may be people who are not human.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# c9dfac2f
+; もう少し歩いて奥に入ると、広場があった。
+Walk a little further into the back and you'll find the square.
+
+# 7e958c8d
+; ここはあまり雪も積もってなかった。
+There wasn't much snow here.
+
+# 95cd9dd4
+; そしてガードロープと看板といった人工物も見えた。
+and the artificial objects, such as guard ropes and signboards, could be seen.
+
+# 8eb844fe
+; 人の痕跡が見えるのが少し意外で、がっかりでもあり、安心でもある。
+It is a little surprising, disappointing, and reassuring to see traces of people.
+
+# f2a5effc
+; me: 「看板……」
+me: "Signage ……"
+
+# 8e048038
+; 奥に見える看板には、ここの住民についての説明が書いてるみたいだった。
+The sign at the back seemed to contain an explanation of the inhabitants.
+
+# 68b8cf62
+; 『The Icelandic Yule Lads in Dimmuborgir』[br]（ディムボルギルに住んでるアイスランドのユールラッズ）
+『 The Icelandic Yule Lads in Dimmuborgir 』[br]
+
+# eb5aff9e
+; [br]写真には、サンタクロースのようなヒゲのおっさんがいた。
+[br] In the photo, there was an old man with a beard like Santa Claus.
+
+# b8f4e28d
+; 沢山の文字で、彼らについての説明が書いてある。
+There are many explanations about them in many letters.
+
+# ce7d16bf
+; 何が書いてあるのか、少し読んでみた。
+I read a little bit about what it says.
+
+# 8aa47bbd
+; ユールラッズはアイスランドのサンタクロースにあたる１３人の妖精である。
+Yulelads are 13 fairies, the Santa Claus of Iceland.
+
+# bdf75983
+; 古くから伝わる巨大な人食い女、 <ruby="グリーラ"> Grýla</ruby>の息子達だ。
+They are the sons of <ruby=" gryla">Gr ýla</ruby>, a huge cannibal that has been handed down since ancient times.
+
+# 92dd95f2
+; [br]ユールラッズはクリスマスの１３日前から毎晩一人ずつ人里にやってくる。
+[br]Yulelads comes to the village one by one every night from 13 days before Christmas.
+
+# aadbfa1c
+; １２月２４日に全員揃い、１２月２５日から一人ずつ山へと帰って行く。
+On December 24th, everyone will gather and from December 25th, they will go back to the mountains one by one.
+
+# bf516c0d
+; [br]ユールラッズはみんなイタズラ大好きで、それぞれが個性的なイタズラをする。
+[br]Yulelads Everyone loves mischief, and each person makes a unique prank.
+
+# 84cedd7e
+; 例えばこうだ。
+For example,
+
+# b2211d1d
+; １日目のユールラッズ、 <ruby="ステキャルストゥイル"> 「Stekkjarstaur」</ruby>
+Day 1 Yulelads, <ruby=" Stekkjarstaur">Stekkjarstaur</ruby>
+
+# b1a6260b
+; こいつは農家の羊小屋に侵入し、羊のミルクを飲む。
+He breaks into the sheep-house of the farmhouse and drinks sheep's milk.
+
+# 26bf0174
+; ９日目のユールラッズ、 <ruby="ビューグナクライキル"> 「Bjúgnakrækir」</ruby>
+Day 9 Yulelads, <ruby=" Bjugnakraekir">"Bj úgnakr ækir"</ruby>
+
+# eb62181e
+; こいつは屋根の梁に登って家に忍び込んでソーセージを盗む。
+He climbs up the beam of the roof and sneaks into the house to steal sausage.
+
+# aceae554
+; ７日目のユールラッズ、 <ruby="フルザスケリル"> 「Hurðaskellir」</ruby>
+Day 7 Yulelads, <ruby=" Hurdaskellir">"Hur ðaskellir"</ruby>
+
+# 5a501148
+; こいつは開いたドアをピシャリと閉めて大きな音を立て、人に迷惑をかけて喜ぶ。
+He shut the open door with a snap and makes a loud noise, and he is happy to cause trouble to others.
+
+# 18a271e3
+; ４日目のユールラッズ、 <ruby="スヴォルスレイキル"> 「Þvörusleikir」</ruby>
+Day 4 Yulelads, <ruby=" Thvorusleikir">" Þv örusleikir"</ruby>
+
+# e81eb220
+; こいつは家に忍び込んで、人の食べかけた汚れたスプーンを舐める。
+He sneaks into the house and licks the dirty Spoon that people have eaten.
+
+# 5e79df79
+; me: 「スヴォル……」
+me: "The Thuvor……,"
+
+# 4b89ddb2
+; 何故か聞き覚えがある。
+It sounds familiar for some reason.
+
+# 55a7228
+; 俺は自分の首に付いてるネックレスをもう一度確かめた。
+I checked again the Neckless on his neck.
+
+# 4300d728
+; そういや、ユールラッズの中にはスプーンにまつわる伝承を持つ者がいるって、リルヤが言ってたな。
+by the way Lilya said that some Yulelads had a tradition of Spoon.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 2384a2de
+; 説明の続きを読んでみる。
+Let's read the explanation.
+
+# 775313f0
+; そこに書いてある、最後の説明は……
+The last explanation written there is ……
+
+# d99998c4
+; me: 「ユールラッズに、出会える方法……」
+me: "How to meet Yulelads ……"
+
+# 72afe267
+; 彼らは殆どの時間を洞窟の中で寝て過ごすため、普通は会う事ができない。
+They spend most of their time sleeping in caves, so they don't usually meet.
+
+# 74206681
+; 特にあなたが来たのが夏なら、諦めた方がいいだろう。
+Especially if you came in summer, you'd better give up.
+
+# 6d5706b0
+; 彼らに出会える最適の時期は冬。クリスマスの準備に忙しくなる１２月。
+The best time to meet them is in winter.December, when I get busy preparing for Christmas.
+
+# 337e616c
+; その時期なら、彼らを呼び出す事ができる。
+At that time of year, we can call them out.
+
+# 43fa37bf
+; この道を辿って、 <ruby="ハーラフロット"> Hallarflot</ruby>に登り、大きな声でこう叫ぶのだ。
+Follow this path and climb <ruby="Hallarflot">Hallarflot</ruby> and shout out loud,
+
+# bd681b86
+; 「 <ruby="ヨーラスヴェイン"> Jolasveinn！』</ruby>と。
+「 <ruby="Yorasvein">Jolasveinn! 』</ruby>.
+
+# 2fec5058
+; me: 「ハーラフロットとは……あそこか」
+me: "Harraflot is …… over there?"
+
+# ee283733
+; 広場の隣に、大きな穴が開いてる岩があった。 
+Next to the square was a rock with a big hole.
+
+# 5c76e114
+; その向こうに、どこかへの入り口みたいな洞窟があった。
+Beyond it was a cave that looked like an entrance to somewhere.
+
+# 5ba3ff90
+; まるで人工物みたいに見えるその洞窟に、ユールラッズの寝所があるらしい。
+The cave, which looks like an artifact, seems to have a sleeping place for Yulelads.
+
+# 24077ec6
+; この隣の小道が、そこにつながってる。
+The path next to it leads to that.
+
+# c83e9470
+; me: 「あそこに行けば……」
+me: "If you go there, ……,"
+
+# 26726617
+; 彼女に、会えるかも知れない。
+I might be able to meet her.
+
+# 66d27b9d
+; ユールちゃん。
+Yule.
+
+# a4fc66e8
+; 彼女の正体も、あの夜の出来事も、このネックレスの事も、
+Her identity, what happened that night, and this Neckless,
+
+# 4bddbd03
+; 全ての疑問の答えがそこにあるかも知れない。
+The answer to all the questions may be there.
+
+# 12d8915e
+; me: 「……いや、しかし……」
+me: "No, but ……,"
+
+# fcd3efb7
+; ここから先へ進めば、きっと元の日常には戻れないのだろう。
+If you move on from here onward, you will surely not be able to get back to your normal routine.
+
+# a36a805d
+; 何故かわからないけど、そんな気がした。
+I don't know why, but I felt that way.
+
+# e849313c
+; 俺の第六感がそう言ってる。
+That's what me's sixth sense says.
+
+# 2b9ce5bf
+; 彼女に、会いに行ってもいいのだろうか。
+Can I go see her?
+
+# 25545051
+; @choice "ユールちゃんに会いに行く" goto:4_01_2_gryla handler:ButtonList
+@choice "Go see Yule" goto:4_01_2_gryla handler:ButtonList
+
+# 748b054d
+; @choice "旅を優先する" goto:.solo handler:ButtonList
+@choice "Prioritize Travel" goto:.solo handler:ButtonList
+
+# 21d9dc0c
+; ユールちゃんに会いたい気持ちは確かにあった。
+Yule I certainly wanted to see him.
+
+# c5edcf60
+; だけど今は旅の方を優先したい。
+But now I want to prioritize traveling.
+
+# 7b98f9f2
+; まずは他のところから回って、ここには後にでもまた来ればいいだろう。
+You can go around somewhere else first, and come back here later.

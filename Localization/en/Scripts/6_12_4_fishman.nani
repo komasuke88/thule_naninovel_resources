@@ -1,0 +1,581 @@
+; Japanese <ja> to English <en> localization document for `6_12_4_fishman` naninovel script
+
+# 1958b3e3
+; unknown: 「ギギギギギギギギギギギギ」
+unknown: "Giggling"."
+
+# d3713ff2
+; どこからか、化け物の鳴き声。
+The sound of Monster coming from somewhere.
+
+# 749ede32
+; 周りを見回してみた。
+I looked around.
+
+# e3a7fde2
+; unknown: 「……」
+unknown: "……"
+
+# 5ab25e36
+; 化け物たちの群れが、どこからか湧き出てきた。
+Monster A flock of people sprang up from somewhere.
+
+# 3d957476
+; 魚の頭に、人間の体。
+A fish's head, a human body.
+
+# 3fcfc5b1
+; hime: 「い、いやっ！？？」
+hime: "No, no!???"
+
+# 439ae978
+; yule: 「ぎゅ、魚人？？」
+yule: "Gyu, Fishman???"
+
+# 3aa4eda2
+; ヒメが驚いて、悲鳴を上げた。
+Hime screamed in surprise.
+
+# 9dcb86ee
+; fishman: 「ギギギギギギギギギギギギ」
+fishman: "Giggling"."
+
+# cd7081c
+; me: 「ヒヒーン（お、おい）」
+me: "niegh (Oh, hey)"
+
+# 2ea527b9
+; 魚人たちは、明らかな殺気を放ちながら、こちらに近づいた。
+The Fishman approached him with a clear murderous air.
+
+# 2659683c
+; yule: 「くっ、こんな弱ってる時に……」
+yule: "Damn it, when you're so weak, ……"
+
+# 30563aba
+; fishman: 「シャアァァ———————！！！」
+fishman: "Shahhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+# 22127f10
+; me: 「ヒヒーン（なっ！？）」
+me: "niegh (What!?)"
+
+# e8456095
+; 一番近くにいた一匹が、こっちに飛びかかって来て、ヒメの頭に向かってその爪を……
+The nearest one came at me, and …… put his fingernails to his head Hime
+
+# e41549c7
+; hime: 「きゃっ！！」
+hime: "`Oh!'"
+
+# 1df7cfee
+; yule: 「こ、この！」
+yule: "Here, here!"
+
+# f23752cc
+; ユールちゃんが掛かってきた魚人を、スプーンで叩き飛ばした。
+I knocked Fishman over with Spoon.
+
+# 581f12c
+; fishman: 「ぐぇ—————」
+fishman: "`Oh, my God,'"
+
+# e82f45da
+; 撃退した。
+I repelled him.
+
+# d3a37656
+; 魚人は、ユールちゃんに叩かれて、遠くに飛ばされて言った。
+Fishman said, being struck by Yule, and flown far away.
+
+# 487418ce
+; 助かった。
+That's a relief.
+
+# 5293bf23
+; しかし……
+but ……
+
+# a1a5a84c
+; yule: 「大丈夫ですか？」
+yule: "Are you all right?"
+
+# baed99c3
+; hime: 「だ、大丈夫。ありがとうユールちゃん、いたたた……」
+hime: "Oh, it's all right. Thank you Yule, thank you ……."
+
+# c40d6ead
+; yule: 「あ」
+yule: "Ah,"
+
+# 567c9255
+; me: 「ヒヒーン（ひ、ヒメ！？怪我したのか？）」
+me: " niegh (Hi, Hime!?)Are you hurt?"
+
+# 7391ef8a
+; ヒメの方を見ると、頬に小さなキズができて、血が滲んでいた。
+I looked towards Hime, and saw a little scratch on his cheek, and blood oozing.
+
+# 3279f473
+; hime: 「大丈夫、かすり傷だよ。[i][char hime.eto]顔、なのがちょっと尺だけど……」
+hime: "It's all right, it's a scratch.[i][char hime.eto] The face is a bit of a scale, but ……"
+
+# 1680d654
+; yule: 「ま、頭がついてるだけでマシでしょう」
+yule: "Well, it's all right to have a head on it,"
+
+# efc73928
+; me: 「ヒヒーン（い、いや。でもな……手当とか……）」
+me: " niegh (No, no, but …… allowance or ……)"
+
+# bf6d8e9a
+; hime: 「大丈夫だって。[i][char hime.sad]今はわたしの事より、あれ……」
+hime: "It's all right.[i][char hime.sad] It's more …… than I am now."
+
+# ee894d00
+; fishman: 「ギギギギギギ」
+fishman: "Giggling"."
+
+# 28ffed8d
+; 魚人たちは、まだ湧き出てきた。
+Fishman they were still gushing out.
+
+# e4a9aff0
+; あそこの水からなのだろうか。
+I wonder if it's from that water over there.
+
+# 71bf6156
+; 群がって少しずつ近づいてきた。
+They swarmed up and approached each other little by little.
+
+# 1d9c99c5
+; yule: 「くっ……こいつら」
+yule: "Damn …… These guys,"
+
+# 764fdf62
+; ユールちゃんは俺たちをかばって、前に出た。
+Yule, sheltering them, stepped forward.
+
+# 899431f0
+; 魚人たちに向かい合って立ち止まった。
+Fishman I stopped facing them.
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# dcc761a0
+; me: 「ヒヒーン（ユールちゃん！どうするつもりだ！？）」
+me: "niegh (What are you going to do, Yule?)"
+
+# 715f7f97
+; yule: 「二人は逃げる準備をしてください」
+yule: "Get ready to run away, both of you."
+
+# 1bc50807
+; me: 「ヒヒーン（に、逃げる？）」
+me: "niegh (and run away?)"
+
+# 2a67693a
+; yule: 「F35番道路、キョルル山道を辿って、キェルトリンガルフィヨットルへ向かってください。[i]ここから西へ出ると車輪の跡が見えるはずですから、それを辿って行けばいいでしょう」
+yule: "Take F-35, Kjolur Mountain Road, and head for Kerlingarfjoll.[i]If you go west from here, you will see the traces of the wheels, so you can follow them."
+
+# 3585d9db
+; me: 「ヒヒーン（え、えっと……）」
+me: "The niegh,"
+
+# f32ccbfb
+; hime: 「ど、どういうこと？[i]わ、わたしたちだけで？」
+hime: "What do you mean?"[i]Why, by ourselves?"
+
+# d3c48a8
+; yule: 「はい。[i]お二人だけでも、{playerName}の記憶を取り戻す事くらい十分かと。[i][char yule.default]ま、マーマンの言った事が確かならですけど」
+yule: "Yes. [i] I think it's enough for you two to recover the memory of {playerName}.[i][char yule.default] Well, if you're sure of what merman said."
+
+# b5a1e256
+; me: 「ヒヒーン（お、俺の事？残りの記憶を探せと？こんな時に？）」
+me: " niegh (Oh, you mean me?)You want me to find the rest of my memory?at a time like this?"
+
+# ede2ca88
+; yule: 「こんな時だからこそです。[i]急がないと永遠に{playerName}の記憶は取り戻せないですから。[i][char yule.emi]まずは記憶を探して、体はまた後で考えてみましょう」
+yule: "It's because of this time.[i]If you don't hurry, you won't be able to regain your memory of {playerName} forever.[i][char yule.emi] Let's look for memories first and think about our bodies later."
+
+# fcee3cb0
+; me: 「ヒヒーン（べ、別に俺の事はいいから。取り戻さなくても構わん。[i]それより、ユールちゃんも一緒に逃げないと！）」
+me: " niegh (I don't care about me.You don't have to get it back.[i]Rather, Yule must run away with it!"
+
+# eb358dda
+; hime: 「そ、そうだよ。魔力があまり残ってないって言ったのに」
+hime: "Yes, sir.Magical Power I told you there's not much left."
+
+# 8b509922
+; yule: 「いやいや、そういうわけにはいきません。[i]周りを見てください」
+yule: "No, no, I can't.[i]Look around you."
+
+# 8cd7c3af
+; me: 「ヒヒーン（周り？あっ！）」
+me: " niegh (around?)Oh, my God!"
+
+# 247268d
+; 囲まれた。
+I'm surrounded.
+
+# 4e1a6663
+; いつのまにか、俺たちの周りは魚人でいっぱいになった。
+Before I knew it, the mes were filled with Fishmans.
+
+# 2b1fa848
+; その数が、尋常ではない。
+The number is extraordinary.
+
+# f787e7cb
+; これでは、いくら俺の足が早くても、逃げ切れない。
+No matter how fast me can walk, he cannot escape.
+
+# be507b1e
+; hime: 「こ、こんなのって……」
+hime: "This is ……,"
+
+# 81383489
+; yule: 「残りの魔力で、二人を遠くまで飛ばしてあげますよ」
+yule: "With the rest of the Magical Power, I'll fly you two far away."
+
+# 4fdeccf6
+; me: 「ヒヒーン？（飛ばす？）」
+me: "Is it niegh?"
+
+# a1c75974
+; yule: 「ここから逃してあげるって事ですよ。[i][char yule.nayami]本当は、もっと遠くまで飛ばしてあげたいですけど、[i]残りの魔力では視野に届く距離で精一杯で、[i]とにかく、逃げる準備を……」
+yule: "I'll let you out of here.[i][char yule.nayami] Actually, I want to fly you farther, but [i] The rest of the Magical Power are doing their best to reach your field of vision. [i] Anyway, get ready to run away ……"
+
+# b373d160
+; hime: 「で、でもユールちゃんは？」
+hime: "But what about Yule?"
+
+# dece346
+; yule: 「ユールちゃんの事は心配無用です。[i][char yule.kusu]一発で魔力切れで、そしたら安全装置が発動します。[i]無事に家に帰されるだけですから」
+yule: "Don't worry about Yule.[i][char yule.kusu] You run out of Magical Power at once, and then the safety device is activated.[i]You'll only be sent home safely."
+
+# 46c4c170
+; me: 「ヒヒーン（ああ。そういや、前にもそんな事があったな……）」
+me: " niegh (Yes, by the way, it happened before ……)"
+
+# 8b41418e
+; yule: 「はい。また会えますから！{playerName}は人間に戻してあげないといけないし」
+yule: "Yes, we'll see each other again! We need to get {playerName} back to being human."
+
+# df463d84
+; hime: 「また、いつ、どこで会えたらいいの？」
+hime: "When and where should we meet again?"
+
+# e01bb3de
+; yule: 「記憶を探した後、ユールちゃんの家に来てください」
+yule: "Please come to Yule's house after searching for memories."
+
+# f7b29cac
+; me: 「ヒヒーン（それは、たしかにディムボルギル、だったよね？）」
+me: " niegh (It was indeed dimmuborgir, wasn't it?")"
+
+# b9d9e8a9
+; yule: 「はい。一日か２日過ぎればユールちゃん、復活しますから。それまでには来てください」
+yule: "Yes, Yule will be back in a day or two.Please come by then."
+
+# 891c4b58
+; me: 「ヒヒーン（あ、ああ。わかった）」
+me: "niegh (Oh, oh, I see.)"
+
+# 19764e41
+; hime: 「ユールちゃん、本当に大丈夫？」
+hime: "Are you sure Yule is all right?"
+
+# 4bbbfe89
+; yule: 「<ruby="セッタ・レッダスト">　Þetta reddast</ruby>ですよ」
+yule: "<ruby=" Thetta reddast"> Thetta reddast</ruby>."
+
+# 61bb8348
+; me: 「ヒヒーン（ああ、全ては、なんとかなるんだな）」
+me: "niegh (Oh, everything's going to work out.)"
+
+# 5753ab68
+; yule: 「そうです。ささ、[i][char yule.spoon-kum]そろそろ……」
+yule: "That's right. [i] [char yule.spoon-kum] It's about time ……."
+
+# 86ffbdcc
+; fishman: 「ギギギギギギギギギ」
+fishman: "Giggling"."
+
+# 390d1837
+; 魚人たちが、ゆらりと歩み寄ってくる。
+Fishman They walked up to me.
+
+# fbee0bef
+; me: 「ヒヒーン（来るか！）」
+me: "niegh (Come on!)"
+
+# a5963e34
+; ……それにしても、先まではなんで寄ってこなかったんだ。
+…… But why didn't you stop by?
+
+# 7b3b97f3
+; こっちの会話が終わるまでは待ってたのかな。
+I guess I waited until the conversation was over.
+
+# 369264b5
+; 敵ってのは何でこういう時だけは親切なんだろうな。
+Why are enemies so kind at times like this?
+
+# 6874365e
+; そんな、しょうもない事を考えていると……
+When I'm thinking about something I can't help ……
+
+# 2c57e72d
+; fishman: 「ギギギギギギギギギギギギギギギギギギギギギギギギギギ」
+fishman: "The Kigigigigigigigigigiugi,"
+
+# 8e22ee9
+; その中の一匹が、先頭に立って、あともう一歩のところまで、詰め寄ってきた。
+One of them led the way, and came one step closer.
+
+# c50c0190
+; yule: 「こらっ！！」
+yule: "Here!"
+
+# b329e60f
+; fishman: 「グェぇぇぇ」
+fishman: "Geeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+
+# 9638916c
+; ユールちゃんがスプーンで撃退しようとしたけど、
+Yule tried to fight back with Spoon.
+
+# 7514d2cc
+; 今度は避けやがった。
+He avoided it this time.
+
+# 128c49b
+; こいつら、素早い。
+They're so quick.
+
+# d8d59cba
+; fishman: 「グゥゥゥゥゥゥゥ」
+fishman: "Goooooooooooooooooooooooooooooooooooooo"
+
+# af9b0649
+; だけど、深い傷は負わせた。
+But he hurt him deeply.
+
+# 5b52dd66
+; 魚人は青い血が流しながら、苦しんでるようだった。
+Fishman seemed to suffer, bleeding blue.
+
+# 28d4f866
+; あの傷じゃあ、もう動けまい。
+That wound won't move any more.
+
+# 90eb4fdb
+; fishman: 「しゃしゃしゃっ！」
+fishman: "`Scratch!'"
+
+# b1981743
+; と、思ったけど、
+I thought.
+
+# 4716291e
+; 魚人の傷は、瞬時に、うごく鱗に覆われていき、
+The wound of Fishman was instantly covered with scales;
+
+# ab80efba
+; すぐに、元通りに復元されてしまう。
+It will be restored immediately.
+
+# c9021a81
+; hime: 「な、なんだよあれは？？」
+hime: "What's that?"
+
+# ed0ab38a
+; yule: 「鱗が、傷を癒やす？？」
+yule: "Does the scale heal the wound?"
+
+# 2617134
+; me: 「ヒヒーン！？（なんという回復力だ。こいつら本当に生き物か？）」
+me: "niegh!? (What resilience!)Are they really living things?"
+
+# 187aaf80
+; yule: 「くっ、これは……そろそろ、やばいですかね」
+yule: "Damn this …… is about to go crazy?"
+
+# 86ffbdcc
+; fishman: 「ギギギギギギギギギ」
+fishman: "Giggling"."
+
+# 703a152a
+; 魚人たちは、こっちの戦力を見きったのかのように、群がって一気に襲って来ようとした。
+Fishman and the others, as if they had seen our strength, gathered together and tried to attack us all at once.
+
+# ef61ab81
+; hime: 「きゃぁぁあぁぁ！」
+hime: "`Oh, my God!'"
+
+# c3762e8b
+; me: 「うわっ！！」
+me: "Wow!"
+
+# 6054f49e
+; yule: 「はっ！」
+yule: "Yes!"
+
+# 87ec8c62
+; ユールちゃんの体が光って、
+Yule's body shone;
+
+# bea30218
+; me: 「ヒヒーン（うわっ？）」
+me: "niegh (Wow?)"
+
+# 211c35a9
+; hime: 「ああっ？」
+hime: "Ah?"
+
+# b57db3e3
+; 突然と、宙を舞う感覚。
+Suddenly, the feeling of flying in the air.
+
+# 90a3d58d
+; そして俺たちは、先までとは違う場所に立っていた。
+and the me stood in a different place.
+
+# 22daa5d6
+; 魚人たちの群れが、遠くで小さく見える。
+Fishman The crowd seemed small in the distance.
+
+# a93b50dd
+; 約２〜３Kmくらいの距離だろうか。
+It's about 2-3 kilometers away.
+
+# 6134dbc9
+; ユールちゃんの思い通りに、無事に飛ばされたようだ。
+It seemed that Yule had been successfully flown as she wished.
+
+# 6cfa8717
+; hime: 「ユールちゃんは？」
+hime: "What about Yule?"
+
+# ead77f4f
+; 魚人たちの群れの中から、ユールちゃんの姿を探したけど……
+Fishman I looked for Yule among the crowd, but ……
+
+# a96e4444
+; どこにも見当たらなかった。
+I couldn't find it anywhere.
+
+# b89cbb
+; 魚人たちもあっけらかんとしてるようだった。
+Fishman They seemed to be in a daze, too.
+
+# bb7b2c81
+; me: 「ヒヒーン（消えたみたいだな。安全装置ってやつか）」
+me: " niegh (I think he's gone.What a safety device?"
+
+# 4a50237c
+; hime: 「ユールちゃん、大丈夫なの？」
+hime: "Are you all right, Yule?"
+
+# cf3f4278
+; me: 「ヒヒーン（多分、大丈夫だ。[i]経験があるからな。[i]最後の魔力を使い切って、俺たちを飛ばしたんだな）」
+me: "niegh (Probably all right.[i]I have experience.[i]You've used up the last Magical Power, and you've flown them off.)"
+
+# ab407bb
+; あの時のように、最後の魔法で俺を助けて。
+Help me with the last magic, just like then.
+
+# 35ccc9e2
+; でも幸いな事に、これはユールちゃんが犠牲して死んだのではない。
+Fortunately, however, this was not the death of Yule at the expense of him.
+
+# 3941bdda
+; ユールちゃんは安全装置によって家にワープしただけなんだから、あとでまた会える。
+Yule had only warp home with safety devices, so we could meet again later.
+
+# d4c8e3f8
+; hime: 「ひ、ヒルドルさんは？」
+hime: "What about Hildur?"
+
+# 5c8cfd57
+; me: 「ヒヒーン（ヒルドルは……あ）」
+me: "niegh (where Hildur is ……ua)"
+
+# c4f152eb
+; ヒルドルを忘れてた。
+Hildur I forgot.
+
+# 9ccfe0fe
+; 改めて先の場所を見てみたけど、
+I looked at the place ahead.
+
+# d815092c
+; ヒルドルは、そのまま突っ立ってる。
+Hildur is standing there.
+
+# 271cf787
+; 襲われてない。
+I wasn't attacked.
+
+# d6522f50
+; むしろ、守られてる？
+Are you being protected?
+
+# 44d84bb9
+; 魚人たちが彼女を囲んで、保護するように、周りに陣取ってるように見えた。
+Fishman It seemed as if they were encircling and protecting her.
+
+# 49346d42
+; me: 「ヒヒーン（無事……っていうか、あれって……）」
+me: " niegh (Safely ……, that's ……)"
+
+# 602644
+; hime: 「彼女は、いったい……？」
+hime: "Is she ……?"
+
+# ee894d00
+; fishman: 「ギギギギギギ」
+fishman: "Giggling"."
+
+# 4a58e80b
+; 遠くから、また化け物の鳴き声が聞こえた。
+From a distance I heard the cry of Monster again.
+
+# 7a0d2fe9
+; 魚人たちが、一気にこっちを振り向いたのが見えた。
+Fishman I saw them turning round at once.
+
+# 3428f364
+; me: 「ヒヒーン（や、やばい！[i]ユールちゃんの配慮が無駄になる前に、走るぞ！早く乗れ！）」
+me: "niegh (Oh, my God!)[i]I'll run before Yule's consideration is wasted!Hurry up and get on.)"
+
+# ba567775
+; hime: 「う、うん！わかった」
+hime: "Yes, yes! All right,"
+
+# 49fe1f68
+; ヒメは俺の背中に乗って、首を強く抱きしめた。
+Hime got on me's back and hugged her neck tightly.
+
+# 11a838ed
+; me: 「ビルルルル」
+me: "Brilliant"."
+
+# 93fb9bb1
+; この感触、さすがだな。
+This feeling is amazing.
+
+# fb7963ca
+; ユールちゃんが前に乗ってた時は知らなかった。
+I didn't know when Yule was riding in front of me.
+
+# febbe430
+; ……って、こんな時なのに、そんなのんきな事を考えていた。
+…… and at times like this, I was thinking of such carefree things.
+
+# 84ff3efc
+; me: 「ヒヒーン！（は、走るぞ！）」
+me: " niegh!"

@@ -1,0 +1,33 @@
+; Japanese <ja> to English <en> localization document for `ed_7_2_1_fishman` naninovel script
+
+# 449c1330
+; fishman: 「やあ」
+fishman: "Hi,"
+
+# 8e2ef897
+; me: 「おう」
+me: "Yes,"
+
+# 76d152c6
+; fishman: 「昼ごはん、何食べる？」
+fishman: "What do you want for lunch?"
+
+# eacb160d
+; me: 「刺身かな？」
+me: "Is it sashimi?"
+
+# 2d6294bc
+; fishman: 「なんでやねん」
+fishman: "Why are you doing that?"
+
+# e3092b85
+; 隣の魚人はツッコミのつもりで俺の頭を叩いた。
+Next door, Fishman patted me on the head as if it were a tsukkomi.
+
+# 5addd0c2
+; それで俺の首は、窓の外へとぶっ飛んでしまった。
+So me's neck flew out of the window.
+
+# badd43b3
+; つまらないボケだったか。
+It was a boring blunder.

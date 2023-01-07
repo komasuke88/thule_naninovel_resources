@@ -1,0 +1,109 @@
+; Japanese <ja> to English <en> localization document for `_bardarbunga` naninovel script
+
+# 9f6ffb95
+; yule: 「ここは、また噴火してますね」
+yule: "It's erupting here again."
+
+# c565b356
+; me: 「だ、大丈夫なのか？こんなに近づいて」
+me: "Well, are you all right?"It's so close."
+
+# 49be19e
+; yule: 「ユールちゃんが魔法で熱気を遮ってますから、大丈夫です」
+yule: "It's okay because Yule is blocking the heat with magic."
+
+# 5ab77bd7
+; me: 「しかし、ヴァトナヨークトル氷河で、こんな噴火する火山があったのか」
+me: "But was there such an eruption volcano in the Vatnajokull glacier?"
+
+# 5c367f13
+; yule: 「人間世界では、今は噴火してませんが、このトゥーレではよく爆発します。人間世界の自然と、まったく同じではないです」
+yule: "In the human world, it doesn't erupt now, but it often explodes in this Thule.It's not exactly the same as nature in the human world."
+
+# 8c9f73bb
+;  <ruby="バルダルブンガ"> Bardarbunga</ruby>。
+ <ruby="Baldarbunga">Bardarbunga</ruby>.
+
+# cf83540f
+; アイスランド最初の定着民の一人、 <ruby="グヌパ・バルダル"> Gnúpa-Bárður</ruby>の名前から由来した。
+It is derived from the name <ruby="Gnupa Valdal">Gn úpa-B ár ður</ruby>, one of Iceland's first settlers.
+
+# 10e59301
+; ヴァトナヨークトル氷河の北西に位置して、氷河の下に隠れてる高さ２００９ｍの火山だ。
+Vatnajokull It is a 2009-meter-high volcano located northwest of the glacier and hidden under the glacier.
+
+# 7cc84ec9
+; 下の火山システムは、長さ２００ｋｍ、広さ２５ｋｍで、アイスランドで一番大きい。
+The volcanic system below is 200 km long and 25 km wide, the largest in Iceland.
+
+# 71f923a4
+; この火山は２０１４年爆発した。
+The volcano exploded in 2014.
+
+# 673aec70
+; 火山灰は濃くなかったけど、多量のマグマと二酸化硫黄が発生した。
+Volcanic ash wasn't thick, but it produced a lot of magma and sulfur dioxide.
+
+# 6b5a9d55
+; その火山性ガスが噴出し風の流れにより、
+The volcanic gas spews out, and the flow of the wind makes it possible for us to do this.
+
+# e9da952b
+; 1000km以上離れたノルウェーやフィンランドでも観測された。
+It was also observed in Norway and Finland, more than 1,000 kilometers away.
+
+# dd4fa857
+; ガスは東アイスランドの大気の汚染の恐れがあったけど、
+The gas was feared to contaminate the air in East Iceland.
+
+# cbec7b65
+; 幸い、２０１５年に噴火が止まり、今は安全になった。
+Fortunately, the eruption stopped in 2015 and is now safe.
+
+# 90f2b5af
+; yule: 「２０１４年の噴火は、厳密には北のHoluhraunで発生して、ここではないんですけどね」
+yule: "The 2014 eruption happened in Holuhraun, in the north, not here."
+
+# 4114d322
+; me: 「なるほど。火山の本体はここだけど、噴出は同じ火山システムにある別の場所だったのか」
+me: "I see. The main body of the volcano is here, but was the eruption somewhere else in the same volcanic system?"
+
+# f12dfeff
+; yule: 「この数年、ヴァトナヨークトルの下の火山はいつでも爆発寸前状態です。[i]この近くの <ruby="グリムスヴォトン"> Grímsvötn</ruby>も、もうすぐ噴火すると見ています」
+yule: "In the last few years, volcanoes under Vatnajokull are always on the verge of exploding.[i]<ruby="Grimsvoton">Gr ímsv ötn</ruby> near here is also expected to erupt soon."
+
+# e652a8a6
+; me: 「それは怖いな。[i]フルドゥフォルクはともかく、アイスランドに住む人間たちは、いつもハラハラしながら生きてるんだろうな」
+me: "That's scary.[i]Huldufolk Anyway, the people who live in Iceland are always nervous."
+
+# c38d574
+; yule: 「人間だけでなく、フルドゥフォルクたちもハラハラですよ。[i]火山活動が活発になってるのは、トゥーレにとって良くない兆しですもん」
+yule: "Not only humans but also Huldufolk are nervous.[i]Volcanic activity is a bad sign for Thule."
+
+# 56a5b35a
+; me: 「そうなのか？」
+me: "Is that so?"
+
+# c7198271
+; yule: 「この活発な火山の活動は、火山の上を覆ってる氷河の重さが軽くなったせいでもあります」
+yule: "The activity of this active volcano is partly due to the weight of the glaciers covering the volcano."
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# d280cf71
+; yule: 「氷河が溶けて消えてる、もう一つの証拠でもありますから。トゥーレの終わりへの兆しみたいに感じられますもん」
+yule: "It's another proof that the glaciers are melting and disappearing.It feels like a sign of the end of Thule."
+
+# 59a16168
+; me: 「そうか……」
+me: "Well, ……,"
+
+# f11ade68
+; 氷河は魔力と生命力の源だと、いつかユールちゃんが言ってた。
+One day Yule said that glaciers are the source of Magical Power and life force.
+
+# 4207aacd
+; だとすると、フルドゥフォルクたちも、自分たちの世界の終わりが見える気分なのかもしれない。
+If so, Huldufolks may feel like they're seeing the end of their world.

@@ -1,0 +1,317 @@
+; Japanese <ja> to English <en> localization document for `_vatna` naninovel script
+
+# e67f29e2
+; しばらく遠くを眺めながらボーッとする。
+I dazed for a while looking far away.
+
+# 1ea67872
+; me: 「……ふぅ」
+me: "` …… Phew,'"
+
+# e9034cfe
+; この一帯は、なんて不思議な眺めだ。
+What a strange view this area has.
+
+# c4e58811
+;  <ruby="ヴァトナヨークトル"> Vatnajökull</ruby>。
+<ruby=" Vatnajokull">Vatnaj ökull</ruby>.
+
+# 57bdcd77
+; アイスランド最大の氷河。
+the largest glacier in Iceland.
+
+# ac286384
+; ここは広く、険しく、白と黒に覆い尽くされてる。
+It was wide, steep, and covered in black and white.
+
+# 9669183d
+; 何の色彩も、音も、動きもない。
+No color, no sound, no movement.
+
+# 9dcd32ef
+; ただ荒涼とした風光と、体に染みる寒さ。
+but the desolate wind and the cold that permeated my body.
+
+# cb0aa400
+; 雄大な静寂。
+a magnificent silence.
+
+# 54c21810
+; 万物を覆い尽くす沈黙。
+silence that covers all things.
+
+# da64e62d
+; ここは人の世界ではないと言ってるような、自然の孤独を感じさせた。
+It made me feel the loneliness of nature as if I were saying that this is not a human world.
+
+# 4cda3018
+; その母なる自然の寂しさは大きくて優しくて、
+Mother Nature's loneliness was great and kind.
+
+# 1fd392ea
+; 俺の寂しさをも包み込んでくれる気がして、心が引き込まれそうになる。
+me's loneliness is enveloped in her, and her heart is about to be drawn to her.
+
+# c190ed32
+; この雄大なる孤独に比べたら、俺の存在なんてちっぽけだ。
+Compared to this magnificent loneliness, me's existence is insignificant.
+
+# e051ba3
+; yule: 「このヴァトナヨークトルは、ユールちゃんたちの最後の砦なんです」
+yule: "This Vatnajokull is the last bastion of the Yules."
+
+# ae258c6f
+; me: 「氷河が、溶けてるからか」
+me: "It's because the glacier is melting"."
+
+# 57ecc1d2
+; yule: 「そうですよ。[i][char yule.l-nayami]だけどこのヴァトナヨークトルは広いです。いくら溶けてるとはいえ、最後まで粘ってくれますよ」
+yule: "Yes, [i] [char yule.l-nayami] is the only Vatnajokull that is wide.No matter how much it melts, it will stick to it till the end."
+
+# ad64f6a
+; me: 「ああ」
+me: "Ah,"
+
+# 315faa04
+; yule: 「この氷河の偉大なる <ruby="トゥフランディ"> Töfrandi</ruby>が、最後までトゥーレを守ってくれるんです」
+yule: "This glacier's great <ruby=" ö">T Thule brandi</ruby> protects Tofrandi to the end."
+
+# 3fb01a97
+; me: 「トゥフランディ？」
+me: "Is it Tofrandi?"
+
+# b6e657ad
+; yule: 「生命力とか魔力とか、このトゥーレの根源たるエネルギーの総称です」
+yule: "Living power and Magical Power are generic terms for the energy that is the root of this Thule."
+
+# 7919fc04
+; me: 「生命力と魔力か……確かにな。[i]この氷河は無生物なはずなのに、大きな生命を感じる」
+me: "Life force and Magical Power or …… certainly.[i]This glacier is supposed to be inanimate, but I feel a great deal of life."
+
+# 5b4fc013
+; yule: 「ですよね。[i]ヴァトナヨークトル級になると、人間にでも感じられますよ。[i][char yule.l-w]我々フルドゥフォルクの存在の根源たるエネルギー」
+yule: "Right. [i] Even humans can feel it when they become Vatnajokull grade.[i][char yule.l-w] Energy that is the root of our Huldufolk existence."
+
+# 59a16168
+; me: 「そうか……」
+me: "Well, ……,"
+
+# 48179b48
+; フルドゥフォルクの話はよく理解できなかったけど、
+I didn't understand what Huldufolk was saying.
+
+# b3c0be4
+; これだけの自然の前では、どんな不思議な話も何故か納得できる。
+In the presence of such nature, any strange story is somehow acceptable.
+
+# efb60c0f
+; それくらい、母なる自然を感じる。
+That's how much I feel about mother nature.
+
+# f3999f45
+; me: 「もう少し、こうしてぼーっと生命力を感じていたい」
+me: "I want to feel a little more vital."
+
+# e0f57d8a
+; yule: 「はい。せっかくここまで来ましたし、それもいいでしょう」
+yule: "Yes, we've come all the way here, and that's all right."
+
+# 3713fd45
+; また俺は白に染まった世界を眺めながら、座った。
+Also, me sat down, looking at the world ting with white.
+
+# e874a019
+; me: 「俺にももらえるのかな、この生命力が」
+me: "I wonder if me can get this vitality."
+
+# 72c589db
+; そうしてまた、しばらく感想に浸り始めたその時。
+And when I started to get immersed in my thoughts for a while,
+
+# a92eafd0
+; me: 「うわっ！！！」
+me: "Wow!"
+
+# 23501fb3
+; いきなり。
+All of a sudden.
+
+# 8dfc8fa6
+; ゴゴゴゴゴゴと、轟音。
+Rumbling and roaring.
+
+# 4dfdc865
+; この一帯が全て鳴ってるみたいな雷鳴。
+The thunder sounds like everything in this area is ringing.
+
+# 92632978
+; me: 「な、なんだ？」
+me: "What is it?"
+
+# b571618d
+; 俺はとても驚いて、周りをおろおろと見回した。
+I looked around in great surprise.
+
+# f2db18ef
+; しかし、何もない。
+But there is nothing.
+
+# a9d5c122
+; 雨が降るような場所でもないのに。
+It's not a place where it rains.
+
+# e52b806
+; 無性に恐怖感が湧いてくる。
+I have a terrible sense of fear.
+
+# f9d6c21a
+; yule: 「これは氷河が溶けて、崩れ落ちる音ですよ」
+yule: "This is the sound of glaciers melting and collapsing."
+
+# 2beb82d6
+; me: 「氷河って、崩れ落ちるのか」
+me: "Are glaciers going to collapse?"
+
+# d5a13e3d
+; yule: 「元は雪ですからね。崩れ落ちたりもするんですよ。にしても今回は大きかったんですね」
+yule: "It was originally snow.Sometimes it collapses, but this time it's big."
+
+# e7b39d68
+; yule: 「そうそう、せっかくここまで来たんだし、このトゥフランディを、ちょっとだけ直接もらって行きますか？」
+yule: "Well, now that you've come all the way here, shall we have this Tofrandi in person?"
+
+# 6c9432b1
+; me: 「直接、もらう？」
+me: "Do you want to get it yourself?"
+
+# e39bb2bb
+; ユールちゃんは、スプーンを地面に突っ込んだ。
+Yule thrust Spoon into the ground.
+
+# 3897310e
+; 飛び散る雪と氷の破片に続き、地面の中身が見えた。
+Following the splashing snow and ice fragments, I could see the contents of the ground.
+
+# 802b3f3d
+; エメラルド色に光る氷。
+emerald-colored ice.
+
+# d91088c0
+; 氷河って言われてもじっくり来なかったけど、こうして地面から氷が出てくると実感する。
+They didn't come slowly even though they said it was a glacier, but I realized that ice came out of the ground like this way.
+
+# 430be14e
+; やっぱりここは氷河の上だな。
+We're on a glacier, after all.
+
+# 6d65fe34
+; それにしても、いきなり何をやってるんだ……
+But what are you doing all of a sudden ……
+
+# e8fd7db1
+; yule: 「よっと」
+yule: "All right,"
+
+# 1d094e42
+; 氷を地面から削り出して、食べた。
+I shaved the ice off the ground and ate it.
+
+# 85a0859b
+; yule: 「もぐもぐ……ふぅぅ…」
+yule: "`Mumbling …… Whoo...'"
+
+# 3d378d3a
+; ……なるほど、それで直接もらうって事ね。
+…… I see, so I'll get it directly.
+
+# 6f3e03a8
+; me: 「それ、うまいの？」
+me: "Is that good?"
+
+# 92c06713
+; yule: 「{playerName}も食べましょう。……はいっ」
+yule: "Let's eat {playerName}, too.…… Yes."
+
+# 3209222a
+; 氷河の欠片をもらった。
+I got a piece of glacier.
+
+# 7c0d4a90
+; ちょうど俺も喉が渇いてたから、食べてみる。
+I was thirsty too, so I'll try it.
+
+# 98aba56b
+; me: 「もぐもぐ……ん？」
+me: "What about ……?"
+
+# 3f7a91
+; これはすごい。冷たくて美味しくて、そして……
+This is amazing. It's cold, delicious, and ……
+
+# 1d6b4527
+; me: 「おおおおっ！？」
+me: "Oh, my!"
+
+# 140480fe
+; 疲れが取れていく！元気が湧いてくる！
+I'm getting rid of my fatigue!It gives me energy!
+
+# 8ec2c24
+; HPがMAXになった！MPがMAXになった！
+HP is now MAX!The MP's are now MAX!
+
+# 34811cb2
+; ……って、MPってなんだ。俺にそんなものはない。
+…… What is an MP?me There is nothing like that.
+
+# 5af1c174
+; yule: 「くすくす、いいでしょう？」
+yule: "Is giggle all right?"
+
+# dd436b23
+; me: 「おおぅ、ピンピンになった。これはすごい」
+me: "`Oh, my God, it's a snap,' said.This is amazing."
+
+# 8fc1639f
+; yule: 「あらやだ。どこがそんなにピンピンですか？くすくす、ちょっと見せて下さい」
+yule: "Oh, no. Where is it so sharp?"giggle Let me see."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 8f759f0c
+; @choice "見せない" goto:.kaihuku
+@choice "I won't show you" goto:.kaihuku
+
+# 2e015983
+; @choice "見せる" goto:ed_6_03_2_miseru
+@choice "Show you" goto:ed_6_03_2_miseru
+
+# 1c9de858
+; 睨む。
+glare at .
+
+# f377d54a
+; yule: 「じょ、冗談ですよ冗談。んじゃ、元気も取り戻したところで、トレッキングを続きますか！」
+yule: "I'm just kidding. Now that you're back on your feet, will you continue trekking?"
+
+# 648b613c
+; ……実は、本当にあっちも元気になった。
+…… Actually, they really got better.
+
+# dc44d76e
+; MPって、ManPowerだったな。
+MP was ManPower.
+
+# 212a9a8e
+; 恐るべし氷河の氷。
+terrifying glacial ice.
+
+# b4810b9
+; だけどこんなこと言うと、ユールちゃんがまたウザくなりそうだから黙っておこう。
+But if you say this, Yule will be in a bad mood again, so I'll shut up.
+
+# 505cf7b0
+; とりあえず体力も戻ったし、また頑張れそうだ。
+Anyway, I'm back in strength, and I think I can do my best again.

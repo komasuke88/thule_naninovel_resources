@@ -1,0 +1,469 @@
+; Japanese <ja> to English <en> localization document for `2_06_3_sarahighland` naninovel script
+
+# 279167d6
+; 「ふぅ……」
+`Phew ……,'
+
+# dec657bf
+; 朝のシャワーを浴びて、部屋に戻った。
+I took a morning shower and went back to my room.
+
+# f9c0f73b
+; 部屋ではサラが自分のベッドの上で、ノーパソをいじっていた。
+In the room, Sara was playing with his no-paso on his bed.
+
+# 7ab4ce46
+; sara: 「お、{playerName}。戻ったんだな。ちょうどいいや」
+sara: "Oh, {playerName}, you're back.I don't mind."
+
+# 3d4df214
+; サラは自分のベッドから起き上がって、俺に近づいた。
+Sara got up from his bed and approached me.
+
+# 276d92e2
+; me: 「え、何？」
+me: "What?"
+
+# 84f962a1
+; sara: 「ハイランドに、興味はないか？」
+sara: "Are you not interested in Highland?"
+
+# 92d7fbce
+; me: 「ハイランド？」
+me: "Is it Highland?"
+
+# 3e8f46ff
+; いきなり知らない単語が出てきて、うろたえる。
+I'm upset that a word I don't know suddenly appears.
+
+# a9033800
+; sara: 「あ、ハイランドとはな……」
+sara: "Oh, what is Highland ……?"
+
+# c6046f76
+; sara: 「アイスランドの中央部の高原地帯の事だ」
+sara: "It's a plateau in the middle of Iceland."
+
+# eba1ecdd
+; sara: 「人が住めない険しい場所で、とても広く、色んな場所があるんだけど」
+sara: "It's a tough place where people can't live. It's very big and there are many places."
+
+# 6594a02a
+; sara: 「ボクが言ってるのはその中でも南ハイランド一帯、」
+sara: "I am talking about the South Highland among them,"
+
+# 39e59402
+; sara: 「ソルスモルク、ランドマンナロイガル、ラゥンギショゥルまで……」
+sara: "……, Landmannalaugar, Langisjor, Thorsmork."
+
+# a6c06887
+; 知らない地名がいっぱい出てきた。正直、覚えられない。
+There were many places I didn't know.Honestly, I can't remember.
+
+# 83be77fd
+; サラはオーロラについて語った時のように、キラキラな目で言い始めた。
+Sara began to say with glittering eyes, as when he spoke of Northern Light.
+
+# bc6b8b2a
+; sara: 「この世とは思えない絶景が続くんだ。[i]どんな写真も芸術になる」
+sara: "A magnificent view of the world continues.[i]Every photograph becomes an art."
+
+# c1aa4792
+; sara: 「まさに【氷と炎の国】って言葉がビッタリと似合う場所で、まるで遠い惑星にきた気分になる」
+sara: "It's a place where the words 【, the land of ice and fire, match perfectly, and I feel like I'm on a distant planet."
+
+# 3bd377f9
+; sara: 「ハイランドこそ、世界中どこにも見れない、アイスランドだけの特別な景色なんだ」
+sara: "The Highland is the very special view of Iceland that you can't see anywhere in the world."
+
+# a18657f4
+; me: 「そんな場所があったのか？」
+me: "Was there such a place?"
+
+# e5282bd6
+; 俺は初めて聞いた情報に、興味が湧いた。
+I was interested in the information he had heard for the first time.
+
+# 51b65abb
+; 内陸の方は知らなかったな。
+I didn't know anyone from inland.
+
+# 3762fea2
+; 調べてきたのはリングロードの周りだけだった。
+Only around the Ring Road had been examined.
+
+# 6ead4d26
+; sara: 「少し見せてあげよう。絶対に行きたくなる」
+sara: "I'll show you a little.I definitely want to go."
+
+# cdc6452f
+; そしてサラは、自分のパソコンを持ってきて、俺に写真を見せてくれた。
+Then Sara brought her computer and showed her pictures.
+
+# 811481f9
+; sara: 「どうだい？」
+sara: "What do you think?"
+
+# 50dfad9b
+; me: 「これは……すごい！」
+me: "This is …… amazing!"
+
+# 1896a5da
+; 圧倒された。
+I was overwhelmed.
+
+# 764e8315
+; たった数枚の写真を見ただけで、その素晴らしさがわかった。
+Just a few pictures made me realize how wonderful it was.
+
+# a8623c06
+; sara: 「そうだろそうだろ！[i][char sara.rough_doyaww]今のも、南ハイランドの極一部だけで、[i]もっともっとすごい場所がいっぱいある」
+sara: "Yes, yes, yes![i][char sara.rough_doyaww] There are many more amazing places in the South Highland."
+
+# ecf0cf13
+; me: 「とんでもないところだな」
+me: "That's a terrible place,"
+
+# d8f0c820
+; sara: 「行ってみたくないか？」
+sara: "Don't you want to go?"
+
+# 95421a4
+; me: 「そりゃ行ってみたいけれど……」
+me: "Well, I'd like to go, but ……,"
+
+# 8fc98e16
+; 写真で見てもこれほど圧倒されるんだ。
+I'm so overwhelmed by the pictures.
+
+# b85e1e49
+; 実際にそこに立ってみると、いったいどんな気持ちになれるのだろう。
+I wonder what it would be like to actually stand there.
+
+# 333e80b9
+; me: 「でも俺みたいに素人でも行ける場所なのか？[i]写真だけ見てみても、相当険しい奥地な気がするが」
+me: "But is it a place like me that even amateurs can go?"[i]Looking at the pictures alone, I think it's quite a steep place."
+
+# 16546929
+; sara: 「ボクが専門家だからいいんだ！」
+sara: "It's all right that I'm an expert!"
+
+# 29078b14
+; me: 「そ、そう」
+me: "Yes, yes,"
+
+# 3bdb7889
+; sara: 「でも普通なら、冬には道路が閉鎖されて行けない場所なんだけど……今年は特別だ」
+sara: "But normally, roads are closed in winter, so you can't go there …… This year is special."
+
+# c64e16b0
+; me: 「普通なら……って、今は１２月なのに行けるのか？」
+me: "It's usually December, but can you go to ……?"
+
+# 1696eee0
+; sara: 「ああ。今年は異常高温でね」
+sara: "Yes, it's unusually hot this year."
+
+# be38c079
+; me: 「あ、そうだな。今年は……[i]あまり雪が積もってないから、道路も閉鎖されてないのかな」
+me: "Oh, yes.……[i]There hasn't been much snow this year, so I guess the roads aren't closed."
+
+# 3a9ea213
+; sara: 「うん。この異常気温は悲しい事だけど、[i][char sara.rough_sademi]ボク達みたいな旅行者にはいいチャンスでもあるんだ」
+sara: "Yeah. This abnormal temperature is sad, but [i][char sara.rough_sademi] It's a good opportunity for travelers like us."
+
+# f2894e24
+; me: 「確かにそうだけど、皮肉な話だな」
+me: "That's true, but it's ironic,"
+
+# ebb5fb20
+; sara: 「まったくだ」
+sara: "Oh, my God,"
+
+# 547735ac
+; お互いに少し苦笑いをしたあと、また続いた。
+After a few wry smiles at each other, they continued.
+
+# 4c49c3bf
+; sara: 「ハイランドには人工物の光がないから、夜空の撮影には最適だけど」
+sara: "There's no artificial light in Highland, so it's perfect for shooting in the night sky."
+
+# 78be9425
+; sara: 「普通なら、夏にしか入れない。でも夏には百夜のせいで夜空が短く、オーロラ撮影には向いてないんだ」
+sara: "Normally, you can only enter in summer.But in summer, the night sky is short because of the hundred nights, so it's not suitable for Northern Light photography."
+
+# e0c2f7ab
+; sara: 「しかし今なら、ハイランドの絶景とオーロラを、一枚で収める事ができる」
+sara: "But now you can enjoy the superb view of Highland and Northern Light in one piece."
+
+# dbd1e5b3
+; サラはまたしても高揚した声で、俺にずっとそんな説明をした。
+Sara, again in an exalted voice, explained to me the whole time.
+
+# b9c3c662
+; sara: 「……で！？どう？」
+sara: "With ……!? What do you think?"
+
+# 75a416ee
+; ……どう？って……
+…… "How's it going?" ……
+
+# 7015612a
+; me: 「……俺も、一緒に行かないかって？」
+me: "Do you want to go with ……me?"
+
+# 25da8d69
+; sara: 「うんうん！[i][char sara.rough_w]今から向かう場所は、南ハイランドの中でも、ランドマンナロイガルって場所だけど」
+sara: "Yeah! [i] [char sara.rough_w] I'm heading to Landmannalaugar, South Highland."
+
+# 9ebdc911
+; 俺もいつか覚えられるかな、この地名。
+I I wonder if I can remember this place someday.
+
+# cef14619
+; sara: 「川を渡る必要があってね。一人では難しいんだ。[i][char sara.rough_w]で、ネットで仲間を募集してたところだ」
+sara: "I need to cross the river.It's hard to do it alone.[i][char sara.rough_w] I was looking for friends online."
+
+# 679136f
+; me: 「川を渡るのに、仲間が必要？」
+me: "Do you need company to cross the river?"
+
+# 44b85e0d
+; よく想像できなかった。
+I couldn't imagine it well.
+
+# d5564bb0
+; sara: 「浅い川を、車で横切るんだよ。[i][char sara.rough_close_w]そうだな。[i][char sara.rough_kira]これを見よう！」
+sara: "You drive across the shallow river.[i][char sara.rough_close_w] That's right.[i][char sara.rough_kira] Let's look at this!"
+
+# 142d174a
+; サラはまた、写真を見せてくれた。
+Sara also showed me the picture.
+
+# b68f0025
+; sara: 「南ハイランド、ランドマンナロイガルの入り口には、氷河が溶けて流れた水が、沢山の川を形成してるんだ」
+sara: "At the entrance of Landmannalaugar, South Highland, there are many rivers formed by melting glaciers."
+
+# bc5332d3
+; sara: 「ランドマンナロイガルの真ん中へ入るには、どうしてもその川を渡らなくてはならない」
+sara: "You must cross the river to get into the middle of Landmannalaugar."
+
+# 47258c56
+; sara: 「ただ川は、4WDの車でしか渡れないけど」
+sara: "You can only cross the river in a 4WD car."
+
+# 4c1739c4
+; sara: 「{playerName}も4WDなんだよな？昨日見たよ」
+sara: "The {playerName} is also 4WD, isn't it?"I saw it yesterday."
+
+# d3ba98f4
+; me: 「ああ、うん」
+me: "Oh, yes,"
+
+# 11edb4be
+; sara: 「川には、たまに深いところもあって、うっかりハマってしまうと、車が抜け出せなくなる」
+sara: "Sometimes the river is deep, and if you accidentally fall for it, you can't get out of the car."
+
+# 8045b8cc
+; me: 「な、なんだ、危ないな」
+me: "Oh, my God, it's dangerous,"
+
+# 198ba8bf
+; sara: 「でも仲間が居ると、こんな時に他の車がロープで引っ張ってくれたらいいからな」
+sara: "But when you have company, it would be nice if another car pulled you with a rope at a time like this."
+
+# 8a842be2
+; me: 「それで、仲間募集をしていたわけか」
+me: "And you were looking for company,"
+
+# 99aa8ced
+; sara: 「そうそう」
+sara: "Yes,"
+
+# 8c795556
+; 説明を終えたサラは俺に近寄ってきて、目をキラキラしてた。
+After the explanation, Sara approached me and her eyes sparkled.
+
+# 216a5d33
+; sara: 「で、一緒に行かないか！{playerName}！[i]南ハイランドの秘宝、ランドマンナロイガルへ」
+sara: "And why don't we go together? {playerName}! [i] To Landmannalaugar, the treasure of South Highland."
+
+# b3cfda2
+; me: 「え、えっと」
+me: "Well, let's see,"
+
+# 655d4aed
+; sara: 「ランドマンナロイガルは珍しい場所だ。[i]だから{playerName}には特におすすめよ。[i]旅行記に載せたらきっと最高にかっこいいぜ」
+sara: "The Landmannalaugar is a rare place.[i]That's why I especially recommend it to {playerName}.[i]If you put it in your travel journal, you'll be the coolest."
+
+# e9e46a09
+; me: 「うむ……」
+me: "Well, ……,"
+
+# 57e0eaf8
+; せっかくだし、悪くないかも。
+It may not be bad.
+
+# cc9caa62
+; でも、スケジュールの確認は必要かな。
+But I think I need to check my schedule.
+
+# cbb8293a
+; me: 「いつ、出発するんだ？」
+me: "When are you leaving?"
+
+# 15edcd31
+; sara: 「今から」
+sara: "From now on,"
+
+# 23110cfe
+; me: 「い、今から？」
+me: "From now on?"
+
+# 3fdc0adb
+; sara: 「今日、予定あるか？」
+sara: "Do you have any plans today?"
+
+# 7efb83ff
+; me: 「今日は、ゴールデンサークルを回る予定だったけど」
+me: "I was planning to go around the Golden Circle today"."
+
+# ebf3d93
+; sara: 「ゴールデンサークルか。それは定番だけど、なんで？」
+sara: "Golden circle?That's standard, but why?"
+
+# 3e641f47
+; me: 「なんでって……一応、リングロードを回るつもりだったけど」
+me: "Why, ……, I was going to go around Ring Road."
+
+# 70bc6214
+; sara: 「リングロードは悪くないけどね。でも、ゴールデンサークルか。ふーん」
+sara: "Ring Road isn't bad, but it's a golden circle.hmmm."
+
+# 3cd3c0cb
+; me: 「何かあるのか？」
+me: "What's going on?"
+
+# 74c63fa3
+; sara: 「実を言うと、ボクはゴールデンサークルってあまり好きじゃないんだ。同業者にはオススメしない」
+sara: "To tell you the truth, I don't really like Golden Circle.I don't recommend it to my peers."
+
+# 8a5a12fe
+; me: 「有名コースなのに？」
+me: "It's a famous course"."
+
+# 1462b4c
+; sara: 「有名だからだよ。観光客を呼び寄せるための商品みたいな感じがしてな。人も多すぎるし」
+sara: "Because he is famous.It's like a tourist attraction.There are too many people."
+
+# 5ac35161
+; me: 「ああ、それはわからんでもないな」
+me: "Oh, I don't even know that,"
+
+# 8a6231e0
+; sara: 「ゴールデンサークルの自然も、確かにすごい。見る価値がないとは言えない。[i]けど、写真作品としてはユニークさが欠けてる」
+sara: "The nature of the Golden Circle is certainly amazing. I can't say it's not worth seeing.[i]However, it lacks uniqueness as a photographic work."
+
+# 20b8c3f0
+; me: 「そうかな」
+me: "Is that so?"
+
+# b8b16271
+; sara: 「そんなとこより、ハイランド行こうぜ」
+sara: "Let's go to Highland rather than that,"
+
+# 7f01f546
+; me: 「でも、俺的にはゴールデンサークルも捨てがたいが……」
+me: "But it's hard for me to throw away the golden circle, but ……"
+
+# 95d6a740
+; sara: 「あえて行くなら止めないが、ゴールデンサークルなら一日で回れるから、後でもいいじゃん」
+sara: "If you dare go, I won't stop you, but you can go around the Golden Circle in one day, so you can do it later."
+
+# fb633483
+; me: 「うむ、それもそうかな」
+me: "Well, I suppose so,"
+
+# 53d69f2f
+; 今からって、急すぎて狼狽えたけど、
+I was upset because I was in such a hurry.
+
+# 597b7c06
+; スケジュール的には余裕があるし、せっかくだから提案に乗るのも悪くないか。
+I have plenty of time to spare in terms of my schedule, and I think it's not bad to accept the proposal.
+
+# 6596600d
+; まずはハイランドに行って、
+First, we'll go to Highland.
+
+# 3e3b4be
+; その後でゴールデン・サークルと、リングロード一周とすればいいかも。
+After that, I think I should go around the Golden Circle and the Ring Road.
+
+# 24efb18c
+; しかし、
+However, you can,
+
+# 49bac1fd
+; 今のサラの発言に、ちょっと引っかかるものが……
+……'s remarks just got me hooked Sara
+
+# 3ea93854
+; me: 「その、ランドマンナロイガルってのは……[i]一日では回れないの？」
+me: "Well, Landmannalaugar [i] can't you go around in one day?"
+
+# e3426df
+; sara: 「当たり前よ。[i]今から四日間」
+sara: "Of course. [i] Four days from now."
+
+# 151be5db
+; me: 「よ、四日間？」
+me: "Four days?"
+
+# 858be0ad
+; sara: 「ランドマンナロイガルは広い。一日じゃ、入り口で終わりだ」
+sara: "The Landmannalaugar is wide.One day is over at the door."
+
+# 4aaaf72f
+; me: 「……もしかして、そこで泊まるの？」
+me: "…… "Are you going to stay there?"
+
+# 25ea00ff
+; sara: 「そうだよ。トレッキングだからね。寝泊まりしながら四日間、ずっと歩くもんだ」
+sara: "Yes, it's trekking.I'm going to sleep and walk for four days."
+
+# 2b2242cc
+; me: 「どこで、寝るんだ？人が住めないところだろう？」
+me: "Where do you sleep?"where no one can live?"
+
+# 24d55647
+; sara: 「山小屋があるんだ。狭いけどぎりぎり寝れる」
+sara: "There's a mountain hut.It's small, but I can barely sleep."
+
+# fc83ecb0
+; me: 「や、山小屋？」
+me: "Hi, mountain hut?"
+
+# 5495a6db
+; そういや、先の写真に何か家みたいのがあったな。あれか。
+by the way There was something like a house in the previous picture.I see.
+
+# cdb0dce2
+; ハイランドって、ハードだな。
+Highland That's hard.
+
+# 5c9cf2d9
+; ……俺をそんなところに連れて行こうとしたんだな。
+You tried to take ……me to such a place.
+
+# 845e285
+; っていうか、
+I mean,
+
+# 7d20174c
+; 四日間も一緒に行こうって言ってるのか。
+Are you asking me to go with you for 4 days?
+
+# 8c03ff5c
+; 寝泊まりで？
+For a night out?

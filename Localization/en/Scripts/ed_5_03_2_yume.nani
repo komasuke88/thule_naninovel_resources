@@ -1,0 +1,113 @@
+; Japanese <ja> to English <en> localization document for `ed_5_03_2_yume` naninovel script
+
+# 8d237cfe
+; me: 「これはきっと夢だ……」
+me: "This must be a dream ……,"
+
+# ad96c57d
+; yule: 「はい？？？」
+yule: "What???"
+
+# 154cde21
+; そうだ。
+That's it。
+
+# a7171d4
+; 現実であるはずがない。
+It can't be real.
+
+# 7e136964
+; いきなり夜から昼になったり。
+It suddenly went from night to day.
+
+# 4f3c0274
+; いきなり瞬間移動したり、
+You can move in a moment.
+
+# 6e27e367
+; 化け魚が出現したり、
+Spooky fish appear.
+
+# 3e7a1717
+; 催眠にかかれたり、
+I was hypnotized.
+
+# e22edc96
+; ありえないんだ。
+It doesn't make sense.
+
+# d2a44f31
+; そう。
+so。
+
+# 799c8342
+; これは夢。
+This is a dream.
+
+# 50115b1c
+; 夢は、どうやって覚める？
+How do you wake up?
+
+# 9b5fc781
+; そう。死ねばいいか。
+Right. Should I die?
+
+# 8aaff228
+; 死んだら、きっと夢から覚めるのだろう。
+If he dies, he will surely wake up from his dream.
+
+# cb40bf54
+; ちょうど、海が目の前だ。
+The sea is just around the corner.
+
+# fb7b059b
+; わからないが……
+I don't know, but ……
+
+# 1f63fa
+; 海に化け物がいるのなら、
+If there is Monster in the sea,
+
+# b4edf029
+; 俺を食べて、殺してくれ！
+Eat me and kill me!
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# a01141bc
+; yule: 「そ、そんな、{playerName}、なんて事……！？」
+yule: "Well, {playerName}, what ……!"
+
+# 38d6f19a
+; 「こんないきなり狂死だなんて……どうして？？」
+"How could you die so suddenly ……?"
+
+# 6585f9ff
+; 「うぅぅぅ……{playerName}」
+`Oh, ……{playerName},'
+
+# 74ecb251
+; 「ユールちゃんが悪かったのかな。[i]人間には、受け入れがたい話を、いきなりしすぎたのかな……」
+"Was Yule bad?[i]I wonder if I suddenly told too many stories that were hard for human beings to accept ……."
+
+# c4a78499
+; 「ごめんなさい……ごめんなさい……」
+"I'm sorry …… I'm sorry ……."
+
+# 9599f75a
+; 「せめてあの世では、安らかな夢を見られますように……」
+"May I at least have a peaceful dream in the afterlife ……"
+
+# 41597cb1
+; <ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに……
+<ruby=" Gledileg jol"> Gleðileg jól</ruby>.Blessings of the Holy Night, …… to you

@@ -1,0 +1,513 @@
+; Japanese <ja> to English <en> localization document for `6_06_2_jokulhime` naninovel script
+
+# 5af3f626
+; 南川姫花。
+The flower of Namikawa Hime.
+
+# e9591d5
+; このアイスランドに来て、初めて友達になった少女。
+The girl I became friends with for the first time in Iceland.
+
+# 58ab1679
+; 短い間に親しくなったけど、初日以来は会ってない。
+We became close for a short time, but we haven't seen each other since the first day.
+
+# 63df72e
+; ラインだけやってた。
+LINE I was just doing it.
+
+# 6afa9541
+; あとで会おうと約束したけど、結局会えなかった。
+I promised to see you later, but I couldn't.
+
+# 59275f97
+; その彼女が今、このトゥーレのどこかにいるって事だけど、
+She's somewhere in Thule right now.
+
+# be95c953
+; わけがわからない。
+I don't know why.
+
+# 442fe983
+; 彼女の記憶は情報として見てはいるけど、それでもわからない事が多い。
+I see her memory as information, but there are still many things I don't understand.
+
+# 4f68da86
+; 彼女の記憶はブルーラグーンからの帰り道で、途切れていたのだ。
+Her memory had been cut off on her way home from Bluelagoon.
+
+# 10e42462
+; me: 「彼女にいったい何があったのか……」
+me: "What the hell happened to her ……?"
+
+# e12225b1
+; yule: 「なっ！？」
+yule: "What!"
+
+# 631ce6e0
+; me: 「うん？どうしたんだい？」
+me: "Huh? What's the matter?"
+
+# 91d46d20
+; yule: 「う、う、後ろ！」
+yule: "Uh, U, U, U, U, U, U, U!"
+
+# 5f37d5a3
+; me: 「後ろに何が……って、えっ！？」
+me: "What's …… behind you?"
+
+# 41335c5c
+; hime: 「こんにちは」
+hime: "Hello,"
+
+# 3ea899f
+; ……
+……
+
+# f2b024d1
+; me: 「さ、先のエルフではないよな」
+me: "Well, it's not the Elf of the future,"
+
+# ba4c5470
+; 彼女を見て湖に落ちそうになった俺を、ユールちゃんがなんとか助けて、三人で話しを始めた。
+When Yule saw her and nearly fell into the lake, me managed to save her, and the three of them began to talk.
+
+# bab72b09
+; hime: 「エルフ？なんのこと？」
+hime: " Elf? What are you talking about?"
+
+# 991f9ef3
+; yule: 「はい。どうやら本人みたいです。しかしこれは……」
+yule: "Yes, it seems to be him.But this is ……."
+
+# dd1fecc4
+; me: 「ヒメは、何も知らないのか」
+me: "Don't Hime know anything?"
+
+# 7bc6d639
+; hime: 「ヒメって、わたしの事？[i][char hime.close]そっか。わたし、姫なんだ。[i][char hime.w]ではあなたは、わたしの騎士とか？」
+hime: "Do you mean me, Hime?"[i][char hime.close] I see.I'm a princess.[i][char hime.w] Are you my knight?"
+
+# bc2073f9
+; me: 「いや、そうじゃないよ。名前が姫花だからヒメって呼べと、君が言ったんだ」
+me: "No, it's not.You told me to call her Hime because her name is Himehana."
+
+# b1ae71a2
+; hime: 「そうだったんだ。わたし、姫化って名前だったんだ。[i][char hime.e]もしかして二人は、わたしの知り合い？」
+hime: "I see.My name was Princess.[i][char hime.e] Do you happen to know me?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# e13cba49
+; もしかしてこれって……
+Is this ……?
+
+# 93210a21
+; me: 「俺と同じく、記憶喪失？」
+me: "Memory loss like me?"
+
+# de75ded1
+; yule: 「いいえ、これは{playerName}の場合とはちょっと違うような……」
+yule: "No, it's a little different from {playerName}."
+
+# 5fbf8cff
+; hime: 「わたしは、何もわからない」
+hime: "I don't know anything,"
+
+# d64341fc
+; そういってヒメは、悲しい表情をして続いた。
+Then Hime continued with a sad expression.
+
+# 42996a32
+; hime: 「自分の事は何も覚えてなくて、気づいたらここにいて、幽霊になっていた」
+hime: "I didn't remember anything about myself, and I found myself here, Ghost."
+
+# 40d5a709
+; me: 「え？幽霊？」
+me: "What? Ghost?"
+
+# d1cf11e4
+; yule: 「はい。彼女はゴーストです」
+yule: "Yes, she's a ghost."
+
+# f2ae574b
+; me: 「ヒメは、死んだのか？」
+me: "Is Hime dead?"
+
+# 57d5b21c
+; hime: 「わたしにもわからないよ。こうなる前の記憶がまったくないもん」
+hime: "I don't know.I have no recollection of what happened before."
+
+# 14edd0fb
+; 幽霊って言っても、見た目は全然の同じだ。
+Ghost But it looks exactly the same.
+
+# 4fc31235
+; 少し寒そうな服を着てる事以外には、とても変なところはない。
+There's nothing strange about it except wearing clothes that look a little cold.
+
+# 838fe623
+; どこが幽霊なんだろうか。
+Where is Ghost?
+
+# defe74a4
+; hime: 「なに？そんなにまじまじとわたしの事を見つめて」
+hime: "What? Look at me so hard."
+
+# 78dee528
+; me: 「……本当に、幽霊？」
+me: "Is …… really Ghost?"
+
+# 531b4336
+; ザッと見た限り、幽霊って感じではないが。
+As far as I can see, it doesn't feel like Ghost.
+
+# 589801ae
+; hime: 「そうだよ。触って、確かめてみる？」
+hime: "Yes, do you want to touch it and check it out?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 3261d3b
+; hime: 「大丈夫だよ。確かめてみて。ほら」
+hime: "It's all right. Check it out. See?"
+
+# 592f36b1
+; そう言って、姫が俺におっぱいを近づけた。
+said the Princess, bringing her breast closer to me.
+
+# 874277eb
+; yule: 「って、何でわざわざおっぱい？」
+yule: "`Why do you go out of your way?'"
+
+# 2f480769
+; 俺にぶつかりそうに近づいてきて、思わず手を伸ばして退かそうとした。しかし……
+I approached me almost as if I were going to hit him, and I reached out and tried to retreat.but ……
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 123c094c
+; 俺の手が何故か腕をすり抜けて、ヒメのおっぱいに触れ……
+……'s hand slipped through her arm for some reason and touched Hime's breast me
+
+# 53ddf00e
+; hime: 「ああん♡」
+hime: """Ahhhhhhhhhhhhhh♡"""
+
+# 59f544e1
+; me: 「ええええっ？」
+me: "What?"
+
+# c34d415
+; ……って、何か喘ぎ声みたいなこと出したけど、
+…… he uttered something like a gasp;
+
+# 20a9794
+; 実際、触れてはいない。
+In fact, I didn't touch it.
+
+# 9a798038
+; me: 「あ……」
+me: "Oh, ……,"
+
+# 4cf39cee
+; っていうか、触れられない。
+I mean, I can't touch it.
+
+# 871ab5a8
+; 手がすり抜けてた。
+My hands were slipping through.
+
+# 64cfede9
+; まるでホログラムみたいに。
+Like a hologram.
+
+# c3d96a7b
+; ……それに、下の方をよく見たら……
+…… And if you look down, ……
+
+# 824823ed
+; 足が少し宙に浮かんでいて、影がない。
+My feet are a little floating in the air and there is no shadow.
+
+# d1d306b7
+; me: 「……本当に、幽霊なんだ」
+me: "It's really Ghost."
+
+# e077d605
+; hime: 「そうだよ。[i][char hime.w]自分が幽霊だなんて、びっくりしたけど、今は慣れた」
+hime: "Right. [i] [char hime.w] I was surprised that I had Ghost, but now I'm used to it."
+
+# ed45b8ed
+; me: 「一体、何があったんだ？」
+me: "What the hell happened?"
+
+# 9a84bdd8
+; 俺はヒメとユールちゃんを交代で見ながら質問した。
+I took turns looking at Yule and Hime and asked questions.
+
+# a4c07f1f
+; yule: 「うーん。ユールちゃんが思うに、彼女は死んではいません。魂だけが彷徨ってるみたいです」
+yule: "Well, Yule thinks she's not dead.Only the soul seems to be wandering."
+
+# 212c32c4
+; me: 「死ななくても、幽霊になれるのか……」
+me: "Can I become Ghost without dying?"
+
+# d8e901e4
+; ヒメの姿をしたあのエルフ。
+That Elf in the shape of Hime.
+
+# 4fa68f3e
+; あのエルフは、ヒメの体を乗っ取った。
+That Elf took over Hime's body.
+
+# a13eb1f4
+; ヒメの記憶と体を全部奪った。
+Hime's memory and body were taken away.
+
+# b44a5cca
+; 魂だけが追い出されて、ヒメは生靈になった。
+Only the soul was driven out, and Hime became a living soul.
+
+# e351c6cd
+; [br]幸いに彼女の記憶は俺が取り戻したけど、
+[br] Fortunately, me recovered her memory;
+
+# 408ff05
+; 体は乗っ取られたまま、逃げられた。
+His body was taken over and he escaped.
+
+# 880a08e9
+; me: 「体を乗っ取るなんて事も可能なのか……」
+me: "Is it possible to take over the body ……?"
+
+# ba202dfa
+; yule: 「エルフの魔法はなんでもありですよ。恐ろしい奴らです」
+yule: "The magic of Elf is everything.They are horrible people."
+
+# 10eaf6f6
+; me: 「真実は、あのエルフだけが知ってるかな」
+me: "Only that Elf knows the truth,"
+
+# 72d8fb5d
+; yule: 「はい。この女は何らかの理由で、このトゥーレに飛ばされて、エルフに体を奪われたんです」
+yule: "Yes. For some reason, she was flown by this Thule, and she was taken away by Elf."
+
+# 10da13f2
+; hime: 「ここって、トゥーレって言うんだ」
+hime: "It's called Thule here,"
+
+# 68f62d49
+; me: 「一体何があったのかな」
+me: "What the hell happened?"
+
+# d23dff6d
+; yule: 「あのエルフを捕まえて、なんとか喋らせたいですが……逃げてしましましたね」
+yule: "I'd like to catch that Elf and make her talk, but …… has run away."
+
+# 4e6643b9
+; それまでの会話を横で聞いてたヒメが、俺たちに話しかけた。
+Hime, who had been listening to the conversation, spoke to them.
+
+# 8a924517
+; hime: 「何を言ってるのかよくわからないけど、三人いるから、なんだか賑やかでいいな」
+hime: "I don't know what you're talking about, but there are three of us, so it's kind of lively."
+
+# e28b9b16
+; me: 「はい？」
+me: "What?"
+
+# 82512b2
+; hime: 「わたし、ずっとここで、一人で彷徨ってたから、寂しくて」
+hime: "I've been wandering here alone, so I'm lonely"."
+
+# 1c719c02
+; me: 「そうだったのか。……それは、寂しかっただろう」
+me: "I see.…… It must have been lonely."
+
+# dbe13886
+; hime: 「うん。寂しかった」
+hime: "Yes, I was lonely."
+
+# 593bcbf0
+; yule: 「寂しいって……えええっ！？」
+yule: "I'm lonely …… What!?"
+
+# 665ad2d2
+; 俺とヒメの会話を聞いてたユールちゃんが、なぜか急に青ざめた顔をした。
+Yule, listening to the conversation between Hime and me, suddenly turned pale.
+
+# 84f8f889
+; hime: 「えっ？」
+hime: "What?"
+
+# df8ee2dc
+; me: 「どうした？」
+me: "What's the matter?"
+
+# 4ce4c95c
+; ユールちゃんが変なポイントで驚いてたので、聞いてみた。
+Yule I was surprised at the strange point, so I asked.
+
+# bb662516
+; yule: 「……やばいです。そういや変でした。[i]ゴーストはユールちゃんも久しぶりで、忘れてました」
+yule: "…… It's crazy.by the way It was weird.[i]It's been a long time since I had Yule ghost, so I forgot."
+
+# 859ac6aa
+; me: 「なにが？」
+me: "What?"
+
+# ce569f2
+; yule: 「ゴーストは寂しいとか、そんなの感情がないはずです。意識はあるけど、感情はないです」
+yule: "Ghosts don't feel lonely or anything like that.I'm conscious, but I don't have feelings."
+
+# b325833e
+; hime: 「もう、ひどいなー。わたし、嘘なんてついてないよ」
+hime: "Oh, that's too much.I didn't lie."
+
+# 291a9390
+; me: 「そうだな。今のヒメが、感情がないようには見えないが」
+me: "Well, Hime doesn't seem to have any feelings right now."
+
+# 39f61147
+; yule: 「はい。今はあるんですよね。[i]ってことは、流浪の幽霊じゃなく、人に取り憑いたって事です」
+yule: "Yes, there is now.[i]which means that he possessed people, not the wandering Ghost."
+
+# 6caddb99
+; me: 「人に、取り憑く？」
+me: "Are you possessed?"
+
+# 3f38df48
+; yule: 「人に取り憑くと、人間だった頃と同じく、人格が戻ってきますよ」
+yule: "If you are possessed, you will be restored to your character as you were when you were a human being."
+
+# f823ca58
+; me: 「ヒメが、俺に取り憑いたって事？」
+me: "Do you mean that Hime was possessed by me?"
+
+# 5162fffe
+; yule: 「多分、そうです」
+yule: "Perhaps so."
+
+# e2b7236d
+; hime: 「え？そうなの？」
+hime: "What? Really?"
+
+# 3f550c7b
+; me: 「って、本人が知らないのかよ」
+me: "`You don't know,'"
+
+# 1243b19b
+; ヒメは自分でも驚いた表情で、そういった。
+Hime said, with a look of surprise.
+
+# 25c1abc
+; hime: 「知らないよ。別に取り憑こうとは思ってない。というか、取り憑く方法なんて知らないし」
+hime: "I don't know. I don't think I'll be possessed.I mean, I don't know how to be possessed."
+
+# 510b083b
+; yule: 「ゴーストの本能だから、知らずにやったのでしょう」
+yule: "It's a ghost's instinct, so I guess I did it without knowing it."
+
+# 608f5717
+; me: 「取り憑かれたら、俺はどうなるんだ？俺も死ぬの？」
+me: "What will happen to me if he is possessed?"Is me going to die, too?"
+
+# b70b9b11
+; yule: 「うーん。死にはしないと思うのですが、ちょっと面倒ですよ」
+yule: "Well, I don't think I'm going to die, but it's a bit troublesome."
+
+# 6b383991
+; me: 「どうして？」
+me: "Why?"
+
+# 544b21b9
+; yule: 「ゴーストは、取り憑いた人間から離れる事ができませんから。一生、付きまとわれます」
+yule: "Ghosts can't get away from possessed people.I'll be followed for the rest of my life."
+
+# 2874ddd2
+; me: 「俺がどこに行っても、ヒメがついてくるってこと？」
+me: "Do you mean that wherever me goes, Hime follows you?"
+
+# 6452abc6
+; yule: 「はい。とても鬱陶しいです」
+yule: "Yes, it's very depressing."
+
+# 71d7f326
+; hime: 「えー？なにそれ。わたしストーカーみたいじゃん。わたし、そんな事やらないよ」
+hime: "What? What's that? I look like a stalker.I wouldn't do that."
+
+# db814220
+; yule: 「あなたにそのつもりがなくても、自然にそうなりますよ」
+yule: "Even if you don't intend to do so, it will happen naturally."
+
+# 9b8f2407
+; me: 「イマイチ理解できない」
+me: "I don't really understand"."
+
+# c3dd556a
+; yule: 「ちょっと試してみましょうかね」
+yule: "May I give it a try?"
+
+# a111fc4e
+; me: 「試す？」
+me: "Do you want to try?"
+
+# 222e0a1e
+; ユールちゃんが手に持っていたスプーンで、何かをやろうとした。
+Yule tried to do something with Spoon in his hand.
+
+# 3b66dad
+; 魔法か。
+It's magic.
+
+# 2094fa65
+; me: 「ちょ、ちょっと。何を？」
+me: "Wait a minute.What?"
+
+# 67a5360
+; yule: 「加速です。ユールちゃんと{playerName}だけ、遠くへ行ってみます」
+yule: "It's acceleration. I'll just go far between Yule and {playerName}."
+
+# 2991f2c
+; me: 「ヒメから離れるってことか？いきなりすぎるじゃない？」
+me: "Are you going away from Hime?"Isn't it too sudden?"
+
+# 8d7ec066
+; hime: 「いやーん。せっかく誰かに会えたのに、置いていかないでー」
+hime: "No, I've met someone, but don't leave me behind."
+
+# c56db4bb
+; yule: 「行きますよー」
+yule: "Here we go,"
+
+# 3baa7d78
+; me: 「うわあぁぁあぁ」
+me: "Oh, my God,"
+
+# b66f800f
+; 氷山の船は、高速のボートみたいに、ヨークルスアゥルロゥンの湖を駆け抜けた。
+The iceberg boat, like a high-speed boat, ran across the lake of Jokulsarlon.
+
+# cbcfe8dd
+; チラと後ろを見たら、ヒメの姿は遠くなっていた。
+I glanced behind me and saw that Hime was far away.
+
+# 33dfbc00
+; hime: 「ちょ、ちょっと待ってー」
+hime: "Wait a minute,"
+
+# bb1edce2
+; ヒメは一生懸命に空を飛んでこっちへ来ようとしてた。
+Hime was trying hard to fly over here.
+
+# f107cde9
+; だけど俺たちの速度にはついて来れなく、もうすぐ見えなくなった。
+But I could not keep up with the speed of the mes, and soon I was out of sight.

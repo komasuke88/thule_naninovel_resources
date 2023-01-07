@@ -1,0 +1,33 @@
+; Japanese <ja> to English <en> localization document for `_dimmuborgir` naninovel script
+
+# e61ca04a
+; me: 「ディムボルギル、ユールちゃんたちの家なんだろう？」
+me: "Is it dimmuborgir's house?"
+
+# 8507ede0
+; yule: 「はい。我がスイートホームですよ」
+yule: "Yes, it's my sweet home."
+
+# 22e8668c
+; me: 「今の家の中には、誰かいるの？」
+me: "Is there anyone in the house now?"
+
+# 241ba84b
+; yule: 「１２月はみんな出かけてると思います。家に居ても面白くないですものね」
+yule: "I think they're all out in December.It's not fun to stay at home, is it?"
+
+# 7ef52060
+; me: 「ユールちゃんの部屋とか、見れる？」
+me: "Can you see Yule's room?"
+
+# 572c654f
+; yule: 「くすくす、気になりますか？ユールちゃんの部屋、来ます？」
+yule: "Are you curious, giggle?"Will Yule's room come?"
+
+# 3956fa3
+; me: 「……い、いや。あ、後で……」
+me: "No, ……. Oh, …… later."
+
+# 765d990
+; 本当は気になるけど、得体の知らない寒気がして、遠慮した。
+"I was really concerned, but I had a chill that I didn't know, so I refrained from doing so."

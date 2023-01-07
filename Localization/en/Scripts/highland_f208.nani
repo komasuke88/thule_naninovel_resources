@@ -1,0 +1,93 @@
+; Japanese <ja> to English <en> localization document for `highland_f208` naninovel script
+
+# 91a70727
+; F208ロード。
+Road F208.
+
+# e5e3f9e9
+; ハイランドの道で一番有名で、人気のある未舗装路。
+The most famous and popular unpaved road in Highland.
+
+# 58fb6d80
+; この道こそがハイランドって言っても過言ではない。
+It is no exaggeration to say that this road is Highland.
+
+# a811a6d4
+; アイスランドの宝石と呼ばれてる、数々の名所がこのルート上にある。
+There are many famous places called Icelandic jewels on this route.
+
+# 8ee1ba92
+; <tip="landmann">Landmannalaugar</tip>、<tip="langisjor">Langisjór</tip>、<tip="sigoldug">Sigöldugljúfur</tip>、<tip="lakagigar">Lakagígar</tip>、などなど……
+<tip="landmann">Landmannalaugar</tip>, <tip="langisjor">Langisj ór</tip>, <tip="sigoldug">Sig ölduglj úfur</tip>, <tip="lakaggar">Lakag ígar</tip>, and so on ……
+
+# 8383210a
+; どれも想像を絶するほどの壮大な景観だという。
+All of them are said to be unimaginably magnificent landscapes.
+
+# 81052311
+; しかし、ここから先へは進めない。
+But we can't move on from here.
+
+# 9a622673
+; 氷河が溶けた水で、たくさんの川ができてる。
+Many rivers are formed from the melting water of glaciers.
+
+# 55b6b830
+; ちょうど前方にも、川で道が途切れてる。
+The road is cut off by the river right in front of us.
+
+# c0bc7bf4
+; サラが言ってた通り、ここから先は初心者一人では無理だ。
+As Sara said, it's impossible for a beginner to go from here on his own.
+
+# e68907a5
+; 車で、川を渡る必要があるが、
+We need to drive across the river.
+
+# e52473a2
+; そのためには知識と装備、そして仲間が必要だ。
+This requires knowledge, equipment, and companionship.
+
+# 3f0c062c
+; me: 「……そういや」
+me: "The ……by the way,"
+
+# 7db13ee3
+; どうしようと思った時に、ふと思い出した。
+I was wondering what to do when I suddenly remembered.
+
+# d7f7793a
+; me: 「サラ、この近くに居るのかな？」
+me: "Is Sara near here?"
+
+# 548b3f9
+;  <ruby="ランドマンナロイガル"> Landmannalaugar</ruby>に行くって言ってたし。
+ He said he was going to <ruby=" Landmannalaugar">Landmannalaugar</ruby>.
+
+# 47b51e25
+; 今サラに連絡したら、会えるのかな？
+If I contact Sara now, will we be able to meet?
+
+# 1b3e10a2
+; @choice "連絡しない" goto:.hikikaesu handler:ButtonList
+@choice "Don't contact me" goto:.hikikaesu handler:ButtonList
+
+# 30ed267f
+; me: 「いや、やめよう」
+me: "No, let's not do that."
+
+# 4cddbc66
+; 引き返そう。
+Let's turn back.
+
+# 9e4d87a
+; もともとハイランドの旅は予定にもなかったしな。
+I didn't have any plans for a trip to Highland.
+
+# bd185fb3
+; 今回の旅の目的はリングロード一周だから。
+The purpose of this trip is to go around the ring Road.
+
+# 708b1835
+; me: 「戻ろうか」
+me: "Shall we go back?"

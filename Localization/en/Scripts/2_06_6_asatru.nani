@@ -1,0 +1,261 @@
+; Japanese <ja> to English <en> localization document for `2_06_6_asatru` naninovel script
+
+# 23ec7839
+; その後も、エーリック教授は色んな話をしてたけど、
+After that, Professor Eric talked about many things.
+
+# 4eac7bc0
+; ほうっておいたら何時間も続きそうだったので、適当に話しを切った。
+It seemed like it would last for hours if I left it alone, so I stopped talking.
+
+# b8441bc2
+; すると教授も用事を思い出したか、準備をして、一緒に部屋を出た。
+The professor then left the room with him, preparing for his errand.
+
+# 2c9f9f1a
+; eric: 「{playerName}君は、今日はどこに行くんだ？」
+eric: "Where are you going to-day?"
+
+# 6b1f2587
+; me: 「今日はゴールデンサークルですね」
+me: "Today is the Golden Circle"."
+
+# 68ffca1d
+; eric: 「ゴールデンサークルか。なら午後には少し時間が開くかも知れないな」
+eric: "Golden circle? Then I might have some time in the afternoon."
+
+# bdf5cf2c
+; me: 「そうですね。午後の予定はまだです」
+me: "Well, I haven't made any plans for the afternoon yet."
+
+# f99e2db7
+; eric: 「先君が事故ったと言ってた場所はSelfoss（セールフォス）の街の辺りなんだが」
+eric: "The place where you said you had an accident was near the town of Selfoss."
+
+# 88d78f9d
+; me: 「そういえば、小さな街の明かりを見たような」
+me: "Come to think of it, it's like seeing the light of a small town,"
+
+# 51bd117d
+; eric: 「今日の帰り道に、時間があったら寄ってみるといい。[i]その辺も、エルフの目撃談が多いんだ」
+eric: "If you have time on your way home today, stop by.[i]There are many sightings of Elf in that area, too."
+
+# cad676f7
+; me: 「そ、そうですか」
+me: "Oh, really?"
+
+# 7dabbb0c
+; 実は先の話でエルフがちょっと怖くなって、わざわざ自らエルフ探しの旅をしたくはないが……
+Actually, I was a little scared of Elf from the other story, so I don't want to go out of my way to find Elf myself, but ……
+
+# 4fc61256
+; 教授と廊下を歩きながら、そんな話をしていたその時、
+When I was walking down the hallway with my professor,
+
+# 9550cc39
+; me: 「うわっ！」
+me: "Wow!"
+
+# 93d231fb
+; unknown: 「おっと、失礼」
+unknown: "Oops, excuse me,"
+
+# 66c12659
+; 変な服装を着た５人の集団が、俺と教授の隣を通り過ぎた。
+A group of five people dressed strangely passed me and the professor.
+
+# 2d03c548
+; 狭い通路に人数が多くて、肩がぶつかってしまった。
+There were so many people in the narrow passage that my shoulders bumped into each other.
+
+# 57c4b70b
+; me: 「……ええ」
+me: " …… Yes,"
+
+# a1c95961
+; そういえば昨日も見たな、あの変な服を来た男。
+Come to think of it, I saw you yesterday, Man wearing those strange clothes.
+
+# 506112
+; 改めて思うけど、まるでコスプレみたいだった。
+Again, it was like cosplay.
+
+# 1f367ba
+; その集団は、受付の女の子も加勢して、何かこそこそ話してた。
+The group was whispering something, joined by receptionist Girl.
+
+# 57229f1
+; そしてすぐ、みんなで一斉にホステルを出て行った。
+and soon they all left hostel in unison.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# a87404c3
+; その様子を見て、俺は教授に小声で尋ねた。
+Seeing the situation, me asked the professor in a low voice.
+
+# 7f8ee507
+; me: 「アイスランドの異教徒って、あの人達ですかね？」
+me: "Are these Icelandic pagans?"
+
+# 2ce462d
+; eric: 「ほぉ、よく知ってるんだな。[i]連中はÁsatrú（アゥサトゥル）の信徒たちだ。最近増えてる」
+eric: "Oh, you know very well.[i]They are members of Áatr ú.It's increasing these days."
+
+# bd562c92
+; me: 「アサトゥル？」
+me: "Asatul?"
+
+# 906fe5b7
+; eric: 「アイスランドの新興宗教だ。ゲルマン系異教で、[i]オーディンを崇拝する人たちだ」
+eric: "It is a new religion in Iceland.Germanic pagans who worship [i] Odin."
+
+# a5a65471
+; me: 「オーディンって、ノルド神話の？」
+me: "Is Odin Norse mythology?"
+
+# f97d9400
+; eric: 「ああ見えてもアイスランド政府から公認された、正式な宗教団体だよ」
+eric: "It looks like that, but it's an official religious organization recognized by the Icelandic government."
+
+# b26e598c
+; me: 「ここにみんなで揃って、何をしようとしてるんですかね」
+me: "What are you all trying to do here?"
+
+# 9c741034
+; eric: 「世界を救う儀式を準備してるんだとな。具体的な事は教えてくれなかった」
+eric: "They are preparing a ceremony to save the world.They didn't tell me anything specific."
+
+# f00e3f6a
+; me: 「胡散臭いですね。[i]……って、教授も似たような活動をしてるんでしたね」
+me: "It smells fishy.[i]…… So the professor is doing similar activities."
+
+# 37cbdfe2
+; eric: 「全然違うわい」
+eric: "`Not at all,'"
+
+# f4355212
+; me: 「教授は、あの宗教とは関係ないんですか？」
+me: "Is the professor not related to that religion?"
+
+# 9994bf6d
+; eric: 「ま、最初は私も興味があったけど、方向性が違ってね。[i]ちなみに私はクリスチャンだ」
+eric: "Well, I was interested in it at first, but the direction was different.[i]By the way, I'm a Christian."
+
+# 9a70ba2f
+; me: 「そ、そうだったんですか」
+me: "Oh, really?"
+
+# 734204a2
+; 意外だ。
+That's unexpected.
+
+# c244c198
+; 普通の神を信じるような人じゃないと思ってた。
+I thought he wasn't the kind of person who believed in ordinary gods.
+
+# 4a9d1653
+; eric: 「そういや{playerName}君、明日までだったっけ？」
+eric: "Until tomorrow, by the way{playerName}?"
+
+# 6c774c70
+; me: 「はい。このホステルは二泊三日ですから、明日発ちます」
+me: "Yes, this hostel is for three days and two nights, so I'm leaving tomorrow."
+
+# 3471cff2
+; eric: 「そうか。寂しくなるな。[i]サラ君も今日までだったし」
+eric: "I see. Don't be lonely.[i]Sara You were to this day."
+
+# ea13ca14
+; me: 「もう一人居るじゃないですか？ルームメイト」
+me: "There's another one, isn't there?Room mate"
+
+# 17293b41
+; eric: 「ああ、彼女は……そうだな。しかし、どうも話が通じない相手で……」
+eric: "Oh, she's ……, yes.But I don't think I can communicate with him ……."
+
+# 1b772ba
+; 教授は何故か話しを濁らせた。
+For some reason, the professor muddled the conversation.
+
+# 3c6d6c12
+; 何か事情があるのか、どんな人なんだろう。
+I wonder what kind of person he is.
+
+# 531b359f
+; 今晩なら会えるのかな。
+Can we meet tonight?
+
+# ee842a7f
+; eric: 「おっといけない。もう時間が……[i]では、私は用事があって先に行くよ」
+eric: "Oh, my God.Time is ……[i]Then I'll go ahead on business."
+
+# de379232
+; me: 「わかりました。[i]では、また後で」
+me: "All right.[i]See you later."
+
+# fcdbc24b
+; eric: 「ああ。今晩また会おう。[i]それでは、いい旅を」
+eric: "Yes, I'll see you again tonight.[i]Have a nice trip."
+
+# f8ae3144
+; 教授は街へ向かい、
+He went to town.
+
+# b2ca4d2e
+; 俺は車を停めていた場所へ歩き出した。
+I began to walk to the place where the car had been parked.
+
+# 1aa5ed2
+; me: 「さて」
+me: "Well,"
+
+# ba0d4a22
+; 二日目の朝。
+the second morning.
+
+# 52e08b6c
+; 今日からが、本格的な観光だ。
+Starting today, the tour will begin in earnest.
+
+# 1038b52a
+; [br]俺は車に乗って、ナビを設定した。
+[br]me got in the car and set up the navigation system.
+
+# 181ef65e
+; 最初に向かう場所は、シンクヴェトリル国立公園。
+The first place to go is Thingvellir National Park.
+
+# 2513b869
+; その後にゲイシールと、グトルフォスで、
+Then, Geydir and Gullfoss.
+
+# 6c3fa8a4
+; そしてその後はまだ決めてない。
+And I haven't decided yet.
+
+# e86b4b7a
+; ワクワクする。
+I'm excited.
+
+# 7f7b3fe0
+; 今日はどんな異国の風景が、俺を待ってるんだろう。
+I wonder what foreign scenery awaits me today.
+
+# 319b564f
+; そう思いながら、俺は車のエンジンをかけた。
+With that in mind, me started the car.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……

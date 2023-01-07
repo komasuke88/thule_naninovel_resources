@@ -1,0 +1,841 @@
+; Japanese <ja> to English <en> localization document for `7_2_5_dream` naninovel script
+
+# 3bc5135a
+; ……と、
+…… said,
+
+# bfcf72cf
+; 変な夢を、見てた気がする。
+I think I had a weird dream.
+
+# ea3f913d
+; そう俺は旅行中だったのによ。
+Yes, me was on a trip.
+
+# 9dbc90d
+; さて、楽しくてわくわくする、アイスランド旅行の再開だ。
+Now, it's a fun and exciting resumption of the Icelandic trip to Iceland.
+
+# 2254d83a
+; ここは、レイキャヴィク。
+This is Reykjavik.
+
+# 8c06c91d
+; アイスランドの首都である。
+It is the capital of Iceland.
+
+# f687ad98
+; 街の真ん中にあるハットルグリムス教会。
+the Hattulgrims Church in the middle of the city.
+
+# b1718ce4
+; てっぺんの部分が鋭くて、刺されたら痛そうだ。
+The top part is sharp, and it will hurt if I get stabbed.
+
+# 6bdfcd79
+; ……って、あれ？
+…… What?
+
+# 38b9a77
+; 俺、なんで空に浮かんでるんだ？
+I Why is it floating in the sky?
+
+# 6d9c2c9a
+; unknown: 「懺悔せよ」
+unknown: "Confess,"
+
+# 6b40b3e9
+; me: 「ぎゃああああ！」
+me: "`Oh, my God!'"
+
+# ebf92031
+; 空から自由落下。
+Free fall from the sky.
+
+# e01afba1
+; そして、
+And...
+
+# 21d419c1
+; me: 「うぐぅ」
+me: "`Ugh,'"
+
+# ccb1cb89
+; 刺された。
+I got stabbed.
+
+# 9836d14e
+; 俺は教会のてっぺんに体を刺されて、死んでしまったのである。
+I had been stabbed to death in the top of the church.
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# e77ecb95
+; いや、
+No.
+
+# f106a339
+; 体を刺されたけど、死んでない。
+I got stabbed in the body, but I'm not dead.
+
+# c95421ba
+; ただの肉片になっただけだ。
+It's just a piece of meat.
+
+# 5b4168d9
+; そう、今の俺は肉に過ぎない。
+Yes, today's me is just meat.
+
+# 457f2992
+; @choice "食べられる" goto:.taberareru
+@choice "I can eat" goto:.taberareru
+
+# 932a34af
+; @choice "腐る" goto:ed_7_2_a_kusaru
+@choice "rotting" goto:ed_7_2_a_kusaru
+
+# bfa61165
+; gryla: 「ほお？美味そうな串刺し料理」
+gryla: "Cheek? Looks delicious."
+
+# d2430a9f
+; 隣で人の声がしたと思ったら、デカイ人の顔があった。
+I thought I heard a voice next to me, but there was a big face.
+
+# 6421782f
+; 巨人！
+The giant!
+
+# 89e7729f
+; gryla: 「いただきます」
+gryla: "Thank you for the meal."
+
+# 7f4e4298
+; 教会のてっぺんに刺されてた俺は、巨人の手に持ち上げられて、
+me, who had been stabbed in the top of the church, was lifted up by the giant's hand;
+
+# 215ac5e7
+; gryla: 「ぱくっ」
+gryla: "Pump,"
+
+# e48d63c2
+; 巨人の口の中へと放り込まれて、
+thrown into the mouth of a giant;
+
+# a0f989a
+; 食べられた。
+I ate it.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 23672901
+; ここは、どこだ？
+Where are we?
+
+# 8078d062
+; 巨人の胃袋の中か。
+It's in the stomach of a giant?
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 7dc4f21
+; 光が見える。
+I can see the light.
+
+# d2b149cf
+; 外だ。
+It's outside.
+
+# 820b20a7
+; me: 「出た！」
+me: "It's out!"
+
+# 8d75942b
+; のはいいけど、そのまま地面にペタンコだ。
+That's fine, but it's just flat on the ground.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 2c469f7
+; 俺は、生まれ変わったのだった。
+I had been reborn.
+
+# ba4d7bfa
+; ウンコに。
+To the sea urchin.
+
+# 9c3c6803
+; 地面: 「やあ」
+Ground: "Hi."
+
+# 553a590b
+; me: 「はじめまして」
+me: "Nice to meet you."
+
+# 7c88767c
+; 地面: 「合体しないか」
+Ground: "Do you want to merge?"
+
+# 1d896634
+; me: 「よかろう」
+me: "All right,"
+
+# 25c6178e
+; そして俺は、栄養分として地面に吸収されて行った。
+and me was absorbed into the ground as a nutrient.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 3a807159
+; 温かい、母なる大地。
+It's warm, mother earth.
+
+# df910f79
+; それが今の俺だ。
+That's what me is now.
+
+# ec8324d9
+; me: 「……（お？）」
+me: "…… (Oh?)"
+
+# 9ea51f76
+; 俺の中から、得体の知らない力が湧いてきた。
+A strange power sprang up from me.
+
+# 5492cae5
+; これって、生命力？
+Is this life force?
+
+# 495950b6
+; @choice "誕生する" goto:.kusa
+@choice "Birth" goto:.kusa
+
+# 4b9f8311
+; @choice "爆発する" goto:ed_7_2_a_bomb
+@choice "Explosive" goto:ed_7_2_a_bomb
+
+# 5af21d6c
+; これは、土の力。
+This is the power of the soil.
+
+# a5fe1c24
+; タネが咲く力。
+The power of seeds to bloom.
+
+# 1cf9cead
+; me: 「うおぉぉ！」
+me: "Wow!"
+
+# 76d65d1c
+; 土の中の栄養分として生まれ変わった俺は、タネの中に吸収されてしまったのだ。
+me, which had been reborn as a nutrient in the soil, was absorbed into the seeds.
+
+# e659c47f
+; つまり、今の俺はタネそのものだ。
+In other words, the present me is the seed itself.
+
+# 691d3224
+; だから、こうして誕生する事ができるのだよ。
+That's why you can be born like this is how you can be born.
+
+# fb5688cf
+; me: 「Hello world！」
+me: "Hello world!"
+
+# 744d4517
+; 俺は、芝生になった。
+I turned into a lawn.
+
+# a1dc5f6f
+; まだ小さな草だけど、生命力があふれる。
+It's still a small grass, but it's full of vitality.
+
+# 552126d4
+; 土の中には他にも栄養分がたくさんあったみたいだ。
+There seemed to be a lot of other nutrients in the soil.
+
+# a38c62a2
+; いい肥料が多かったのよね。
+There were a lot of good fertilizers.
+
+# f5bb356
+; 特にグリーラの糞は美味かったぜ。
+Especially gryla droppings were delicious.
+
+# 7061f7b5
+; 草: 「おはよう！」
+Kusa: "Good morning!"
+
+# 4df4e7c5
+; me: 「ああ、ハロハロ！」
+me: "Oh, hello!"
+
+# d0439be4
+; ここは芝生の村。
+This is a grass village.
+
+# d4c0b4a7
+; 周りには、友達も沢山いる。
+I have a lot of friends around me.
+
+# 5fde48c5
+; 寂しくない。
+I'm not lonely.
+
+# 2453f6ef
+; hime: 「ララランー♫」
+hime: "Lalalanー"
+
+# eb9099f5
+; 通りがかりの女の子が俺の上を歩いてる。
+A passing Girl is walking on top of me.
+
+# 90baf4eb
+; パンツ丸見えだぜ。
+panties You can see it completely.
+
+# e2583a45
+; me: 「ぐあぁっ！！」
+me: "`Oh, my God!'"
+
+# 18748c16
+; 踏まれてしまった。
+I was trampled on.
+
+# b9f97ed5
+; でも痛くも痒くもない。
+But it doesn't hurt or itch.
+
+# d6d5c572
+; 俺は草なんだから。
+I is a grass.
+
+# c1ed6524
+; me: 「ふぅ……俺って、なんて無敵なんだ」
+me: "`How invincible ……me is!'"
+
+# 2261148
+; 日は温かいし、通りがかりの人間の観察も楽しい。
+The sun is warm, and it is fun to observe people passing by.
+
+# fa370931
+; me: 「いいな……」
+me: "Good ……,"
+
+# 508e2265
+; 太陽の光がやけに眩しい。
+The sunlight is so bright.
+
+# e94f2b16
+; 明るくて、暖かくて……
+Bright and warm ……
+
+# f255ad78
+; みなぎる！？
+It's overflowing!?
+
+# 2149e0c9
+; こ、この溢れるエネルギーは？
+What's this overflowing energy?
+
+# b4ee5f9
+; me: 「光合成だ！」
+me: "It's photosynthesis!"
+
+# 6d04c1ab
+; 光合成が始まる！
+Photosynthesis begins!
+
+# d87353ab
+; 光が美味しい！
+The light is delicious!
+
+# f4a124d4
+; じっとしてるだけで食っていけるなんて、
+I can't believe I can live by staying still.
+
+# ddae4f95
+; 草の人生も悪くないな。
+Life in grass isn't bad.
+
+# 5293bf23
+; しかし……
+but ……
+
+# c89a547f
+; @choice "もっと大きくなりたい" goto:.ookikunaru
+@choice "I want to be bigger" goto:.ookikunaru
+
+# dc760539
+; @choice "歩きたい" goto:ed_7_2_a_aruku
+@choice "I want to walk" goto:ed_7_2_a_aruku
+
+# 259f641f
+; me: 「なったぜ！」
+me: "`I've got it!'"
+
+# 1d896ad8
+; 俺は大きくなって、空まで届く木になった。
+I grew into a tree that reached the sky.
+
+# 5293bf23
+; しかし……
+but ……
+
+# 9f0d7a32
+; me: 「ああっ！」
+me: "Ah!"
+
+# abbb77b2
+; いかん。
+I don't think so.
+
+# f21cd0cd
+; 急速成長しすぎてバランスが崩れた。
+It grew so fast that I lost my balance.
+
+# 9d3543d4
+; 根の部分から折れて、俺は倒れてしまった。
+Broken from the root, me fell down.
+
+# 89228c6d
+; ドンと。
+With a bang.
+
+# 95888140
+; 折れた木の俺は、そのまま川に落ちて、
+The broken me fell straight into the river;
+
+# a27c0740
+; 滝の下へと流されて、
+I was swept down the waterfall.
+
+# 9af09931
+; 海までたどり着けてしまったのだった。
+I had reached the sea.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 44ca2818
+; unknown: 「珍しいな」
+unknown: "That's unusual,"
+
+# f289d2b
+; me: 「……うん？」
+me: "What ……?"
+
+# 786830cb
+; 周りを見ると、沢山の氷山。
+If you look around, there are a lot of icebergs.
+
+# 511c6f02
+; この海は、白い。
+This sea is white.
+
+# 6f8b43ab
+; この白い海で、俺は漂ってる。
+In this white sea, me is floating.
+
+# 81c50736
+; 氷山A: 「あなたはだぁれ？」
+Iceberg A: Who are you?
+
+# c9095524
+; 氷山B: 「君はどこから来たの？」
+Iceberg B: Where are you from?
+
+# eec5285d
+; me: 「俺は……」
+me: "For me, ……."
+
+# 20950678
+; @choice "日本から" goto:.nihon
+@choice "From Japan" goto:.nihon
+
+# dc862b57
+; @choice "南極から" goto:ed_7_2_a_nankyoku
+@choice "From Antarctica" goto:ed_7_2_a_nankyoku
+
+# d2a44f31
+; そう。
+so。
+
+# f37f26ba
+; 俺は日本から来たんだよ。
+I is from Japan.
+
+# c0602a26
+; 海外旅行で、このアイスランドに。
+I went to Iceland on an overseas trip.
+
+# a1587a73
+; 長い時間、飛行機に乗って、この北ヨーロッパの島国まで来たのだ。
+He had flown for a long time to the island country of northern Europe.
+
+# bf4e8fb
+; me: 「懐かしいな」
+me: "I miss you,"
+
+# 89b5ff5f
+; 初めて訪れた国なのに、もう何度も来たかのように思える。
+Even though it's my first time visiting a country, I feel like I've been here many times.
+
+# cdc299ee
+; me: 「もう遅いし、そろそろ部屋に戻らなくてはな」
+me: "It's too late, and I have to go back to my room."
+
+# e5ea7f29
+; 俺が泊まってたのはホステルだったよな。
+It was hostel that me was staying.
+
+# 1d3b099e
+; eric: 「遅かったな。遅刻だ」
+eric: "You're late. You're late."
+
+# fa139b65
+; me: 「おはよう、教授」
+me: "Good morning, professor,"
+
+# 6c27db9a
+; eric: 「では、授業を始めましょう」
+eric: "Well, let's start class."
+
+# 6496b68f
+; me: 「はい！」
+me: "Yes!"
+
+# 31b875
+; eric: 「１３２ページから。はい。読んでみましょう」
+eric: "From page 132. Okay, let's read it."
+
+# 6496b68f
+; me: 「はい！」
+me: "Yes!"
+
+# 50e4543a
+; 本を読むのは好きだ。
+I like to read books.
+
+# ccc9eede
+; 思えば昔から、俺は本が好きだった。
+I has always liked books.
+
+# 4ca43ee1
+; 内気で引っ込み思案だった子供の俺には、本が友達だった。
+Books were friends with me, a shy and shy child.
+
+# d56cfa06
+; その中でも、特にこんな本が好きだった。
+Among them, I especially liked books like this.
+
+# 78fba6d3
+; @choice "旅行記" goto:.ryokouki
+@choice "Travel Journal" goto:.ryokouki
+
+# f8d10a93
+; @choice "魔導書" goto:ed_7_2_a_magic
+@choice "Magical Book" goto:ed_7_2_a_magic
+
+# bc4ac86a
+; 世界旅行に、憧れがあった。
+I longed to travel around the world.
+
+# abb67f7d
+; 地図を広げて、気になる場所の名前で検索して、そこの風景写真を見てた。
+I spread out the map, searched by the name of the place I was interested in, and looked at the pictures of the scenery there.
+
+# 90e2f104
+; 旅行記を買って、色んな人の話を読んでいた。
+I bought a travel journal and read stories about various people.
+
+# d9c4f78a
+; だけど実際には、海外など、一度も出ることは叶わず、
+But in fact, it never came true to go abroad.
+
+# c6f4afff
+; 人生のバケットリストに入れたままだった。
+I kept it on the bucket list of my life bucket list.
+
+# d1c3041c
+; 海外を体験する事ができたのは、大人になってからだ。
+I was able to experience overseas only when I became an adult.
+
+# 4d2a809f
+; 短期間の旅行だったけど、アメリカとかベトナムなどにも行ってきた。
+It was a short trip, but I also went to the United States and Vietnam.
+
+# 9b24eec3
+; me: 「世界は広い」
+me: "The world is big."
+
+# 47ff5f5
+; そんな言葉が自然に、俺の口から出て来るようになった。
+Such words naturally came out of me's mouth.
+
+# f12721bf
+; だけどすべて、一週間以内の短い旅行だった。
+But it was all a short trip within a week.
+
+# 444babda
+; 長期間の海外旅行ができるようになったのは、つい最近の事だ。
+It's only recently that I can travel abroad for a long time.
+
+# e6db1a1e
+; 会社をやめた俺には、時間と、お金があった。
+me, who quit the company, had time and money.
+
+# 33ee7666
+; だから本格的に、憧れだった遠い北の国へと旅に出ようと思った。
+So I decided to go on a trip to the far northern country that I had longed for.
+
+# e892c4d1
+; その時、元の会社の編集長が嬉しい提案をしてくれた。
+At that time, the editor-in-chief of the original company made a happy suggestion.
+
+# da613bae
+; せっかくの海外旅行だから、旅行記を書いてみないかと。
+Since it's a great trip abroad, I think I'll write a travel journal.
+
+# 3f0f6ee7
+; ちょうどアイスランドの本を企画中だったそうで、
+He was planning an Icelandic book.
+
+# a8545d86
+; ライターを探してたところだったそうだ。
+He was looking for a lighter.
+
+# 2582cd7f
+; 元々あそこは憧れの地の一つだった。
+It was originally one of the places I longed for.
+
+# 2f16e2ee
+; だから俺はその場で提案を受け入れて、アイスランド行の飛行機に乗る事になった。
+So me accepted the proposal on the spot and boarded a flight to Iceland.
+
+# 619abf60
+; そして今、俺はここに来た。
+And now me is here.
+
+# e4008d13
+; アイスランドのケプラヴィーク空港に到着して、
+I arrived at Keflavik Airport in Iceland.
+
+# ff84de3e
+; レイキャヴィク、
+Reykjavik,
+
+# c9e54552
+; グトルフォス、
+Gullfoss,
+
+# 55c11721
+; エルドフロイン、
+Eldhraun,
+
+# 539eeab6
+; ヴァトナヨークトル……
+Vatnajokull……
+
+# d39024d0
+; いろんな場所を旅してたな。
+You've traveled all over the place.
+
+# 9d15ac1e
+; me: 「ああ、その後は……」
+me: "Oh, then ……,"
+
+# f650e672
+; @choice "ディムボルギル" goto:.dimmuborgir
+@choice " dimmuborgir" goto:.dimmuborgir
+
+# 5789f077
+; @choice "日本" goto:ed_7_2_a_japan
+@choice "Japan" goto:ed_7_2_a_japan
+
+# 48318954
+; そう、ディムボルギル……
+Yes, dimmuborgir……
+
+# 3625b09c
+; me: 「あれ？」
+me: "Huh?"
+
+# 821cd038
+; その辺の記憶が、曖昧だ。
+I have a vague memory of that well.
+
+# aa6be9a8
+; 俺はなんでこんなところに？
+I Why are you here?
+
+# 81334e33
+; ……いやまぁ、自由な旅なんだから、
+…… Well, it's a free journey.
+
+# b9f7a518
+; ディムボルギルを訪ねた事に特に理由があるわけではない。
+dimmuborgir There was no particular reason for his visit to
+
+# 8ea9e0c1
+; いやでも、
+I don't like it.
+
+# 93d7939e
+; 経緯はともあれ、
+Regardless of the circumstances,
+
+# 313fba49
+; ディムボルギルに訪ねた俺は、
+I visited dimmuborgir.
+
+# a274b2a1
+; その後、
+After that,
+
+# 2bfd6081
+; なにかの事故で、どこかに迷い込んだんじゃなかったっけ？
+Didn't he get lost in some accident?
+
+# ca1a0b36
+; @choice "トゥーレ" goto:.tile
+@choice " Thule" goto:.tile
+
+# 1ab5997c
+; @choice "アトランティス" goto:ed_7_2_a_atrantis
+@choice "Atlantis" goto:ed_7_2_a_atrantis
+
+# bba41a9
+; 地の果てのトゥーレ。
+Thule at the end of the earth.
+
+# 42f7b564
+; そんなところに、俺は迷い込んできた。
+Then me got lost.
+
+# 96eb81e6
+; あの夜、記憶をなくした俺は南アイスランドのソゥルヘイマサンドゥル、
+me, who lost his memory that night, was Solheimasandur of South Iceland;
+
+# b8808eec
+; 飛行機の残骸の前で目を覚ました。
+I woke up in front of the wreckage of the plane.
+
+# 4ab3da19
+; me: 「不思議な事があったな」
+me: "Something strange happened,"
+
+# f351443b
+; そこで俺はユールちゃんという、トロールの少女に出会った。
+There, me met Yule, a girl from Troll.
+
+# 23130404
+; そして彼女と、このトゥーレの地を旅してたよ。
+and I was traveling with her in this Thule land.
+
+# e842886b
+; 俺は彼女とトゥーレを旅して、
+I traveled with her in Thule;
+
+# 4817b4e6
+; ユールラッズの姉妹たちにも出会って、
+I met the sisters of Yulelads.
+
+# a8e11fcb
+; 同じく日本から来た旅行者の、ヒメに出会って、
+I also met Hime, a tourist from Japan.
+
+# 59db939e
+; エルフの女王、ヒルドルに出会って、
+I met Hildur, the queen of Elf.
+
+# 3d014284
+; それからも色々あって……
+After that, there were many things ……
+
+# 6789fd05
+; 今はトゥーレ滅亡を防ぐための、最後の戦いの最中だったんじゃないか？
+Wasn't it in the middle of the last battle to prevent the destruction of Thule?
+
+# 9cefc524
+; me: 「……えっと」
+me: "…… "Well,"
+
+# 800582be
+; 未だに信じられない話ではあるよな。
+It's still unbelievable.
+
+# 9ab0fab3
+; そんな事、本当にあったのかな？
+Did that really happen?
+
+# ea468949
+; @choice "現実だった" goto:.gennjitu
+@choice "It was real" goto:.gennjitu
+
+# 53a58b87
+; @choice "夢だった" goto:ed_7_2_a_dream
+@choice "It was a dream" goto:ed_7_2_a_dream
+
+# 2b4f500d
+; いや、それは夢ではない。
+No, that's not a dream.
+
+# 54b02f47
+; 実際に、俺が体験した事だ。
+In fact, it was experienced by me.
+
+# a5eba8b0
+; 夢みたいな話だけど、それが本当にあった事なんだよ。
+It's like a dream, but it really happened.
+
+# bab28eef
+; なのに……
+And yet, ……
+
+# a36cd09f
+; me: 「俺は、なにをしてるんだ？」
+me: "What is me doing?"
+
+# af659284
+; ユールちゃんたちは、どうなってるんだ？
+Yule What's going on?
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……

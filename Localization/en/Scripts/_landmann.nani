@@ -1,0 +1,217 @@
+; Japanese <ja> to English <en> localization document for `_landmann` naninovel script
+
+# 5efcaac9
+; アイスランドの南部の中央高地。
+the central highlands of southern Iceland.
+
+# 48e32cf7
+; この一帯は、 <ruby="フヤルバック"> Fjallabak</ruby>という自然保護区。
+This area is a nature reserve called <ruby="Fjallabak">Fjallabak</ruby>.
+
+# 5e83923d
+; 一本の草木も、苔さえも、何ひとつ生えてない、
+Not a single plant, not a single moss, grew;
+
+# bdea2c8b
+; はげ山だけが果てしなく繰り広げていた。
+Only bald mountains were boundless.
+
+# 3fd90c58
+; me: 「……ふぅぅ」
+me: "` …… Phew,'"
+
+# 5354eee3
+; 幾つかの険しい山を越えて、
+Over a few steep mountains,
+
+# d92a4d0a
+; そろそろ山の天辺に上ってきたと思った頃。
+It was about time I thought I had climbed to the top of the mountain.
+
+# 1912cb64
+; 最後の丘を越えたら、また違う景色が広がってきた。
+After crossing the last hill, another view spread out.
+
+# 809f4c4a
+; me: 「こ、ここは……」
+me: "This is ……,"
+
+# 570a30f
+; 視界を埋める、色とりどりの景色。
+Colorful views that fill your vision.
+
+# 21e02eb0
+; すべての山々が複数の色を含んでいて、目がクラっとする。
+All the mountains contain multiple colors, making my eyes glaring.
+
+# e73b56f4
+; 黄色、白、緑、灰色、赤、漆黒……様々の色がここに広がってる。
+Yellow, white, green, gray, red, jet black …… Various colors are spread here.
+
+# b191c9be
+; 虹色の丘。
+a rainbow-colored hill.
+
+# 8328bf1c
+; 肌をえぐる強い風が気にならないくらい、見惚れてた。
+I was so fascinated by the strong wind that I couldn't care less about it.
+
+# cdc9d621
+; 今まで見てきたアイスランドの景色の中でも、また一つ違う味の眺めだった。
+It was one of the most different views of Iceland I've ever seen.
+
+# b7972dbf
+; yule: 「 <ruby="ランドマンナロイガル"> 　Landmannalaugar。</ruby>[i]アイスランド内陸部の秘宝とも言われてる場所です」
+yule: "「 <ruby=" Landmannalaugar">Landmannalaugar.</ruby>[i]It is also said to be a treasure in inland Iceland."
+
+# 2ef87133
+; me: 「秘宝と呼ばれる事だけはあるな。この素晴らしい眺。今まで色んなアイスランドの風景を見てきたが、またしてもこんな新しい発見があるなんて……」
+me: "It's sometimes called a treasure.This wonderful view.I've seen a lot of Icelandic landscapes, but I can't believe there's such a new discovery ……."
+
+# 1c33405
+; 美しい丘を見ながら歩いてみると、硫黄の匂いが漂う煙が見えてきた。
+As I walked looking at the beautiful hill, I saw smoke smelling of sulfur.
+
+# f1fdaba8
+; me: 「な、なんだこんなところに、温泉まであるのか？」
+me: "Why is there even a hot spring here?"
+
+# 90e2f1a
+; yule: 「もともとランドマンナロイガルは、『土地の人々の浴場』という意味で、温泉地帯でもあります」
+yule: "Originally, Landmannalaugar is a hot spring resort, meaning 』 for local people."
+
+# 7a4e09cf
+; me: 「この素晴らしい景色を見ながら湯船に浸かる事ができるなんて、最高だな」
+me: "It's great to be able to soak in the bathtub while looking at this wonderful view."
+
+# 3dd3678
+; yule: 「そうですよ！[i][char yule.l-w]せっかくだから、入りませんか？温泉」
+yule: "Of course! [i] [char yule.l-w] Would you like to come in?Hot spring."
+
+# f80decfd
+; me: 「あ、いや、もうちょっとだけトレッキングしたあとでな」
+me: "Oh, no, after a little more trekking,"
+
+# 89e98dbf
+; yule: 「もう、高いんですから」
+yule: "It's expensive now,"
+
+# efe14f2a
+; もう少し歩くと、変な石柱が見えた。
+I walked a little further and saw a strange stone pillar.
+
+# 1e1c016a
+; me: 「あれももしかして、ご先祖様？」
+me: "Is that your ancestor, by any chance."
+
+# c9ed51eb
+; yule: 「そうですけど、今は霊力を失って、ただの岩になりました」
+yule: "But now I've lost my psychic powers and become just a rock."
+
+# 5de195d4
+; me: 「そうか。ならばあの岩には記憶の行方を聞けないのだな」
+me: "Well, then you can't ask the rock where the memory is."
+
+# f3ce88da
+; しかしあの形、まるでちん○んだな。
+But that shape looks like ○.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9aea65c9
+; yule: 「あの形、まるでち○ちんみたいじゃないですか？」
+yule: "Doesn't that shape look like ○ Chin?"
+
+# 175f6752
+; me: 「プーーーっ」
+me: "Pooh!"
+
+# f77d395b
+; あえて言わなかったのに、やられた。
+I didn't dare say it, but I got hit.
+
+# eb4cdf57
+; yule: 「くすくす、慌てる事ないですよ。誰でも思う事ですもんね」
+yule: "Don't panic, giggle.It's everybody's guess."
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# 63767e35
+; yule: 「あの形のせいでお母さんが……[i]あまり知りたくなかった事実ですけどね。お母さんがたまに使ったりしますよ、あれ」
+yule: "It's a fact that my mother didn't really want to know ……[i] because of that shape.My mother sometimes uses it."
+
+# de12a35a
+; me: 「使うって……な、なんに？」
+me: "It's …… to use, what?"
+
+# b6a35ea0
+; yule: 「あれあれ？興味あるんですかぁ？」
+yule: "Huh? Are you interested?"
+
+# ab07c39
+; me: 「いやいや、まるで興味ないわ」
+me: "No, no, I'm not interested at all,"
+
+# 97264fcc
+; me: 「歩くたびに新しい風景が現れて、飽きないな」
+me: "I never get tired of seeing new scenery every time I walk."
+
+# 62a61c70
+; yule: 「でしょう？だからこのランドマンナロイガルは、ハイランドのトレッキングコースの花なんです」
+yule: "Right? That's why this Landmannalaugar is the flower of Highland's trekking course."
+
+# a0ffbbaa
+; me: 「これならいつまでも歩いていたい気分もわかるわ」
+me: "I understand why you want to walk forever,"
+
+# f0c57f03
+; yule: 「でも厳しいですよ？今はユールちゃんが一緒だから疲れもせず、難しい地形も簡単に飛び越えられますが、人間世界ではそうは行きません」
+yule: "But it's hard, isn't it?Now Yule is the same, so you don't get tired and can easily jump over difficult terrain, but that's not the case in the human world."
+
+# c36105d3
+; me: 「あ、そうだったんだな」
+me: "Oh, I see,"
+
+# 1eab7d75
+; 俺がなんの装備も知識もなくこのハイランドを歩き回れるのは、ユールちゃんの魔法のおかげだった。
+It was thanks to the magic of Yule that me could walk around without any equipment or knowledge.
+
+# 9e7a68a6
+; yule: 「あとで人間世界に戻る事ができたら、一度トレッキングに挑戦してみてください。[i]苦難を乗り越えた先に辿り付いた場所での風景は、またひと味違う感動があるはずです」
+yule: "If you can return to the human world later, try trekking.[i]There must be a different impression of the scenery where you have reached the place where you have overcome difficulties."
+
+# ad20f958
+; me: 「ああ、そうだな」
+me: "Oh, yes,"
+
+# d2a69c2a
+; 簡単に来たとはいえ、ここに立ってるだけで、俺の、人間の社会なんて、何でもないものに思えちゃう。
+Even though I came here easily, just standing here makes me think that me's human society is nothing.
+
+# e7cfe6b0
+; この大自然の中へ身を投げ出したら、全身で感じてしまったら、
+If you throw yourself into this wilderness and feel it with your whole body,
+
+# cdcb1a42
+; 日常の悩みも疲れも何もかもを、ちっぽけなものに思える、ちっぽけなものに変わる。
+Everything from daily worries, fatigue, and fatigue turns into something trivial and trivial.
+
+# 14af38ee
+; 考えが変わる。閉じた視野が開かれる。
+You change your mind. You open your eyes.
+
+# 80cf0c99
+; 記憶が完全に戻って、人間世界に戻る事ができたら、もう一度ここに来てみたい。
+I want to come back here once more when my memory is completely restored and I can go back to the human world.
+
+# 8f5220b7
+; その時はリングロードではなく、このランドマンナロイガルからハイランド全域を探検してみたい。
+At that time, I would like to explore the whole of Highland from this Landmannalaugar, not Ring Road.
+
+# 238abd23
+; きっとそれは、人生で最も忘れられない、かけがえの無い経験になるだろう。
+It will surely be the most unforgettable and irreplaceable experience of my life.

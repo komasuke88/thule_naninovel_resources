@@ -1,0 +1,297 @@
+; Japanese <ja> to English <en> localization document for `6_09_2_dyrfjoll` naninovel script
+
+# 498b1003
+; 町へ向かう途中、周りを囲んでる山の、凹型の稜線が見えた。
+On my way to Village, I saw a concave ridge of the mountain surrounding me.
+
+# fae270ac
+; hime: 「まるで城壁みたいな山だね」
+hime: "`It's like a wall,'"
+
+# fe1444f4
+; me: 「あの一箇所が切り取られていてるところが城門かな」
+me: "`I suppose it's the gate where that part is cut off,'"
+
+# bb04f8e2
+; yule: 「 <ruby="デイルフィヨットル"> Dyrfjöll</ruby>ですね」
+yule: "「 <ruby=" Dyrfjoll">Dyrfj öll</ruby>."
+
+# bef24674
+; yule: 「古い火山が氷河に侵食されて、あのように不思議な形になってます。ちなみに <ruby="Dyrfjöll"> デイルフィヨットルは</ruby>、『ドアの山』という意味です」
+yule: "Old volcanoes have been eroded by glaciers and become so mysterious."By the way, <ruby="Dyrfj öll"> Dyrfjoll means </ruby>, a pile of 『 doors 』."
+
+# 83a423fc
+; me: 「なるほど。城門のような、でかいドアなんだね」
+me: "I see. It's a big door like a castle gate."
+
+# 251d024c
+; yule: 「実はあの山、ユールちゃんの母親の昔の家があった場所でもあります」
+yule: "In fact, that mountain is where Yule's mother used to live."
+
+# a5012e67
+; me: 「えっ！？あのグリーラの？？」
+me: "What!? That gryla?"
+
+# e0e795b2
+; hime: 「ユールちゃんたちの故郷なんだ」
+hime: "It's the hometown of Yule,"
+
+# 57833172
+; yule: 「今ではディムボルギルに引っ越ししてますけどね」
+yule: "Now I'm moving to dimmuborgir,"
+
+# ea7479e1
+; me: 「なるほど」
+me: "I see,"
+
+# 7156d300
+; yule: 「ま、それはそうと、あのドアの山は、本当にドアの役割をしてます。[i]あそこは妖精の道で、アルファ・ボルグに繋がってます」
+yule: "Well, by the way, that pile of doors really acts as a door.[i]It's a fairy road leading to Alpha Borg."
+
+# 4d117278
+; hime: 「エルフたちの町はあの城の中って事だね！」
+hime: "The Village of Elfs is in that castle!"
+
+# 43ede467
+; me: 「城門に突入か。なんだかラスボスのダンジョンみたいな感じがしてきたな」
+me: "Are you going into the castle gate?It feels like a dungeon in Las Bosch."
+
+# 7a98db0c
+; yule: 「いや、さすがに正門から正々堂々と潜入するわけにはいきませんから。あのドアは通過しませんよ」
+yule: "Well, you can't get in fair and square through the main gate.You won't pass through that door."
+
+# aea45f23
+; me: 「あ、そうなんだ」
+me: "Oh, I see,"
+
+# 113ff599
+; yule: 「そうですよ。ま、でもそんなに遠くありませんから。もう少しで海が見えてきますよ」
+yule: "Yes, but it's not that far.You'll soon see the sea."
+
+# 7f3e2670
+; me: 「海が近いの？」
+me: "Is the sea close?"
+
+# d8b922aa
+; yule: 「あれ？言ってませんでしたっけ？アルファ・ボルグはアイスランドの東の端にある町です」
+yule: "Huh? Didn't you say that?Alpha Borg is Village, on the eastern edge of Iceland."
+
+# f911d48e
+; yule: 「あの山を超えると、東の海です」
+yule: "If you cross that mountain, you'll find the eastern sea."
+
+# 8ddf8b08
+; hime: 「わたしたち、東の果まで来てたんだね」
+hime: "We've come to the east,"
+
+# 3a2fb6c8
+; me: 「東の果か」
+me: "The fruit of the East,"
+
+# d1835465
+; 南から、西、北、そして東まで。
+From south to west to north and east.
+
+# ad5478b9
+; アイスランドと同じ地の上にあるこのトゥーレを、
+This Thule, on the same ground as Iceland,
+
+# f3a69bce
+; 思えばよく駆け回ってきたもんだ。
+I used to run around when I thought about it.
+
+# a64a8d76
+; hime: 「ごめんねみんな、わたしのせいで……」
+hime: "Sorry, boys, …… because of me."
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 407d7435
+; hime: 「もともとは{playerName}の記憶の欠片を探す旅だったんでしょう？[i][char hime.closesad]それがわたしの悪霊化とやらのせいで、こんな遠くまで……」
+hime: "It was originally a journey to find fragments of {playerName}'s memory, wasn'[i][char hime.closesad] Because of my demonization, …… so far."
+
+# a5c29d84
+; me: 「いや、いいんだ。俺は別に急いでるわけでもないし」
+me: "No, that's all right.me is not in a hurry."
+
+# 992a81fb
+; yule: 「そうですね。ついでにです」
+yule: "Yes, by the way."
+
+# 28b8fc1b
+; hime: 「ありがとうね。わたし……
+hime: "Thank you.I ……"
+
+# 17a92
+; hime: …………………………………………………………」
+hime: "…………………………………………………………"
+
+# c029c904
+; yule: 「あっ……！」
+yule: "Oh, ……!"
+
+# c4f5c4f3
+; me: 「えっ！？ヒメ？？またこう……
+me: "What!? Hime???Another ……"
+
+# e16eaf8c
+; me: 「あああああああ！！！」
+me: "`Oh, my God!'"
+
+# 7d470495
+; yule: 「くっ……」
+yule: "Damn ……,"
+
+# de57d9e3
+; ユールちゃんがまた俺の頭を軽く叩いたけど、
+Yule patted me on the head again.
+
+# 86907741
+; me: 「ああああああああああああああああああああ」
+me: "`Ah, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,'"
+
+# c116114e
+; 今回は、なんの効果もなかった。
+There was no effect this time.
+
+# 6b293bb9
+; 頭痛は、止まない。
+My headache never stops.
+
+# ff0cf11b
+; yule: 「ど、どうしよう、もう簡単に解けなくなってしまった？？」
+yule: "Oh, no, it's no longer easy to solve?"
+
+# bbbc7b99
+; 頭痛と共に、変な衝動が湧いてくる。
+I have a strange urge with a headache.
+
+# 957a5a5
+; 俺は、狂い始めたのか。
+Is me starting to go crazy?
+
+# 7f35d912
+; 目の前の女の子を、めちゃくちゃにしたくてしょうがない。
+I'm dying to mess up the Girl in front of me.
+
+# 56e70b23
+; @choice "耐える" goto:.taeru
+@choice "I'll endure" goto:.taeru
+
+# 10bfe157
+; @choice "*す" goto:ed_6_09_2_noroi
+@choice "*su" goto:ed_6_09_2_noroi
+
+# c0148e9e
+; こ、こんな衝動、耐えないと……
+I have to endure this urge ……
+
+# b4a167b5
+; me: 「くっ！！！」
+me: "Damn it!"
+
+# 9eee2787
+; しかし、前回とは違って、中々自分の意思では解けられない。
+However, unlike last time, I can hardly solve it on my own initiative.
+
+# 4133b753
+; me: 「ど、どうしようユールちゃん！！」
+me: "Oh, my God, Yule!"
+
+# 4cb18395
+; yule: 「えいっ！」
+yule: "What!"
+
+# c6d887b4
+; ユールちゃんは、俺の前で大きなスプーンを振りかざした。
+Yule shook a great Spoon in front of me.
+
+# 2b47e2df
+; yule: 「ふぅ」
+yule: "`Phew,'"
+
+# 17320d28
+; me: 「あ、あっ……」
+me: "Oh, ……,"
+
+# 9d6baec2
+; 段々と、頭痛は収まってきた。
+Gradually, the headache subsided.
+
+# 48b31f64
+; me: 「な、治った？」
+me: "Have you recovered?"
+
+# 2110c986
+; yule: 「ふぅ……よかったです」
+yule: "`I'm glad ……,'"
+
+# 97073dcb
+; me: 「い、今のは、魔法か？」
+me: "Is that magic?"
+
+# 16815ede
+; yule: 「はい。まだ悪霊として成熟していなくて、呪いも簡単な魔法で溶ける事ができました」
+yule: "Yes, I haven't matured as an evil spirit yet, and I was able to melt the curse with simple magic."
+
+# 8b8af5a4
+; me: 「そ、そうか。ありがとう、ユールちゃん」
+me: "Oh, I see. Thank you, Yule."
+
+# a9948639
+; yule: 「いえいえ。これくらい、妻として当然の役目ですから」
+yule: "No, no. It's my duty as a wife."
+
+# 6fbcca10
+; me: 「あ、ああ、うん」
+me: "Oh, oh, yes,"
+
+# b52a9b7
+; 適当に流した。
+I just played it.
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# 3bbd05e4
+; 頭痛も回復したところで、ヒメの方を見てみると、
+Now that he had recovered from his headache, he looked at Hime.
+
+# 20785cb2
+; hime: 「……………………」
+hime: "……………………"
+
+# cd05e215
+; 相変わらず止まっていた。
+It was still standing.
+
+# affd182d
+; me: 「このヒメは、どうすればいいんだ？」
+me: "What should I do with this Hime?"
+
+# 5c7e0b9d
+; yule: 「これは、ユールちゃんの力ではどうにもできません。[i][char yule.hm]しばらく待つしかないです」
+yule: "This cannot be done by the power of Yule.[i][char yule.hm] We have to wait for a while."
+
+# fc152248
+; me: 「待てば、戻るの？」
+me: "Wait, and you'll be back?"
+
+# 1cd1247
+; yule: 「はい。まだ発現してないはずですから」
+yule: "Yes, I don't think it's expressed yet."
+
+# e4af5461
+; me: 「そ、そうか……しかし、この様子はいくら見てもなれないもんだ。心配になっちゃう」
+me: "Well, …… But I can't bear to see this.I'm worried."
+
+# 71f3d800
+; yule: 「心配してもどうしようもない事ですから。[i][char yule.eto]{playerName}とユールちゃんは、この間にしばらく休むとしましょう」
+yule: "It's no use worrying.[i][char yule.eto] Let's say {playerName} and Yule rest for a while."
+
+# cae82d5a
+; me: 「あ、ああ。わかった。ヒメが起きるまで、待たないとな」
+me: "Oh, oh, I see.Hime I must wait till it happens."

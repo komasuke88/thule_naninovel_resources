@@ -1,0 +1,297 @@
+; Japanese <ja> to English <en> localization document for `5_02_1_yule` naninovel script
+
+# 9ecbee63
+; unknown: 「<ruby="ヤーヤ">　Jæja</ruby>！ついに見つけました！」
+unknown: "<ruby=" Jaya"> Jæja</ruby>! I finally found it!"
+
+# 1b4e3997
+; 「え？」
+"What?"
+
+# 7a6b7bb8
+; 人の声がした。
+I heard a voice.
+
+# 593642d7
+; 耳を疑いながら顔を上げてみた。
+I looked up suspiciously.
+
+# 595f8895
+; 夜。
+Night。
+
+# 3c8a0238
+; 満天のオーロラ。
+Northern Light in the sky.
+
+# fe9c064
+; そして……
+And ……
+
+# fa9d8ca3
+; 女の子がいた。
+Girl was there.
+
+# e62ade5d
+; 「<ruby="グレリヨール">　Gleðileg jól</ruby>！」
+"<ruby=" Glediyol"> Gleðileg jól</ruby>!"
+
+# 1ea4513f
+; そう声をかけてきた。
+he said.
+
+# 74e88f32
+; 飛行機の残骸の上で。
+on the wreckage of an airplane.
+
+# fab0ebd3
+; <s>　　　　　　</s>ああ、ここは
+<s>      </s> Oh, this place is...
+
+# b6ae888a
+; 目に映る全てが、恐ろしくキレイで、夢のようだった。
+Everything I saw was horribly beautiful and dreamy.
+
+# f71fe8c0
+; 夜空いっぱいに広がるエメラルドのライン。
+The emerald LINE spreads through the night sky.
+
+# 2088bea6
+; その淡い光を浴びてる、儚く可愛い女の子の姿。
+A fleeting and cute figure of Girl in that pale light.
+
+# f82af2ac
+; それはとても幻想的な空間で、[br]ここが、もう人の世ではないのかと、思えてしまう……
+It's a very fantastic space, [br] It makes me wonder if this is the human world anymore ……
+
+# 7ea8d27d
+; （いや……俺はまだ、死んでいない）
+(No, ……me is not dead yet)
+
+# a763272c
+; 体に力が入らないけど、死んではいない。
+I'm weak, but I'm not dead.
+
+# aa4104e9
+; ……しかし、飛行機の残骸とは。
+…… But what is the wreckage of the plane?
+
+# b74d50b3
+; ここは、[i]俺が何時間も前に去っていた場所。
+[i] This is where me left many hours ago.
+
+# 9a9cb156
+; とっくに離れて何時間も経ってるのに……。
+It's been hours since we left …….
+
+# e072cda8
+; もしかしてこれは、幻覚なのか？
+Is this a hallucination?
+
+# bdcc35a6
+; girl: 「よっと」
+girl: "All right,"
+
+# 1b2dc7f6
+; 女の子は飛行機の上から、地面に飛び降りた。
+Girl jumped to the ground from the top of the plane.
+
+# a105b680
+; girl: 「いい夜ですね！[i][char yule.kusu]まったく、ユールちゃんがどれだけ探し[i][char yule.ee]……って」
+girl: "It's a good night![i][char yule.kusu] Seriously, how many Yule are looking for [i][char yule.ee]……OH"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 40ef49e9
+; girl: 「あらら、死にかけてますかね」
+girl: "Oh, are you dying?"
+
+# d0a63b38
+; 体に感覚も薄れててよく分からない。これは現実か、幻か。
+I don't know because my body is numb.Is this a reality or a vision?
+
+# 37a665a7
+; girl: 「大丈夫、 <ruby="Þetta"> セッタ・</ruby> <ruby="reddast"> レッダストです！</ruby>」
+girl: "It's OK, <ruby=" Þetta">Setta</ruby><ruby="reddast">Redust!"
+
+# a4e55bff
+; 女の子がそう呟いたら、
+Girl muttered,
+
+# 4e09c657
+; me: 「……っ」
+me: " ……,"
+
+# 6c2d385d
+; 突然と。
+Suddenly.
+
+# 36114bfc
+; 不思議な力が湧いてきた。
+I felt a strange power.
+
+# f102d698
+; 動けなかった体が動くようになる。
+The body that couldn't move starts to move.
+
+# 19e43809
+; まるでヒールの魔法でもかけられてみたいに。
+It's as if I'm under the spell of heels.
+
+# 660d8209
+; me: 「……うぅぅ」
+me: "` …… Ouch,'"
+
+# b2c6a1cc
+; 体を起こし、改めて前を見る。
+Raise your body and look forward again.
+
+# a41108a3
+; girl: 「よかった。ギリギリでした」
+girl: "That's a relief. It was just around the minute."
+
+# a75ce6b5
+; 感覚がハッキリなってから分かった。
+I knew it after my senses were clear.
+
+# cceaa8c3
+; これは幻覚ではない。本当に目の前に人がいて、紛れもない現実だ。
+This is not a hallucination.It's a fact that people are right in front of us.
+
+# 93c131e
+; 一体何が起こって、何でここに戻ってるのか、わけがわからないけど、
+I don't know what's going on and why I'm back here.
+
+# 82f9e380
+; そんなことより
+more than that
+
+# aed67957
+; ……人だ！
+…… It's a person!
+
+# 4eb5b3e1
+; me: 「くっ！」
+me: "Damn it!"
+
+# 10824475
+; girl: 「？？？」
+girl: "？？？"
+
+# 92dd548e
+; 俺は慌てて、女の子の前に駆けつけた。
+I hurried to Girl.
+
+# d9f0e7fc
+; me: 「お、おい！君！！」
+me: "Oh, hey! You!"
+
+# 557d7b96
+; girl: 「えっ、[char yule.awawa] えええっ？」
+girl: "What? [char yule.awawa] What?"
+
+# 1c3725d0
+; 女の子の肩を掴み揺らしながら尋ねる。
+He asked, grasping Girl by the shoulder.
+
+# 3e46964d
+; me: 「ここはどこだ？[i][char yule.awawa-l]今は何月何日？[i][char yule.tenten-l]他の人達は？」
+me: "Where am I?"[i][char yule.awawa-l] What date is it now? [i] [char yule.tenten-l] What about the others?"
+
+# 4c7b7cd7
+; me: 「この辺りに人里はあるか？俺はどうすればいい？」
+me: "Is there a village around here?"What shall I do with me?"
+
+# b5f532d9
+; girl: 「あわわぁうぁ…」
+girl: "Oh my gosh..."
+
+# e66d6e79
+; 混乱してて、とても答えてくれそうにない。[br]…って、そりゃそうか
+I'm so confused that I don't think they'll answer me.[br] Is that so?
+
+# bffda666
+; me: 「…はっ！す、すまん」
+me: "...huh! I'm sorry."
+
+# ee12b6f3
+; girl: 「い、いいえ」
+girl: "Yes, no,"
+
+# 2ded01c5
+; 舞い上がって一気にぶつけすぎた。
+I was so excited that I hit it too hard.
+
+# f1543b36
+; 落ち着いて話そう。
+Let's talk calmly.
+
+# ea2edc43
+; me: 「すーはーすーはー」
+me: "Oh, my God,"
+
+# 3ea899f
+; ……
+……
+
+# da3618a0
+; 落ち着いた。よし。
+Calm down. Good.
+
+# a89b4fd2
+; me: 「君、俺の話がわかるか？」
+me: "Do you understand me?"
+
+# 5647a9ae
+; girl: 「えっ？はい、そりゃもちろん」
+girl: "What? Yes, of course."
+
+# fa1948ee
+; 不思議な事に、言葉が通じるとこみたいだ。
+Strangely enough, it seems like we can communicate.
+
+# aae240f
+; いや、最初から通じていたけどな。
+No, it was connected from the beginning.
+
+# f3d15c8d
+; この子の格好を見ると現地人みたいだけど、外国語がわかるのかもしれない。
+Looking at her appearance, she looks like a native, but maybe she can understand a foreign language.
+
+# 1bff2e61
+; girl: 「……それにしても『君』ですか……[i][char yule.l-nayami]確かにユールちゃん、ちょっとだけ縮んでしまいましたけど、そこまでは……[i][char yule.maan]これはきっと、あいつらの仕業だ」
+girl: "…… Even so, 『, ……? Yule[i][char yule.l-nayami] Yes, …… has shrunk a little, but 』[i][char yule.maan] I'm sure they did it."
+
+# 621400b3
+; 女の子は何か一人でぶつぶつ言ってるけど、意味はわからなかった。
+Girl muttered something to himself, but he didn't understand what it meant.
+
+# b62a5573
+; me: 「それより、ちょっと聞きたいことがある」
+me: "I'd rather ask you something,"
+
+# f6e25bf8
+; girl: 「はい。何でしょう？[i]とりあえず聞くとしましょう。[i]これもこれで面白いし」
+girl: "Yes, what is it?"[i]Let's just listen to it.[i]This is fun, too."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 5e634276
+; この子が何を言ってるのか知らんけど、とりあえず自分の事情を話した。
+I don't know what he's talking about, but I told him about my situation.
+
+# d7c9715e
+; me: 「俺は事故にあっててね。[i]乗っていた飛行機が墜落したみたいで……」
+me: "The me had an accident.[i]The plane I was on seemed to have crashed, ……."
+
+# 7af8ac79
+; 俺はまず、自分が置かれた状況を女の子に説明した。
+I first explained to Girl the situation he was in.
+
+# 3ea899f
+; ……
+……

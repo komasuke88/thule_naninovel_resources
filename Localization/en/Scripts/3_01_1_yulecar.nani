@@ -1,0 +1,613 @@
+; Japanese <ja> to English <en> localization document for `3_01_1_yulecar` naninovel script
+
+# a1a34117
+; me: 「ここまでが今朝の事で、その後は……」
+me: "That was this morning, and …… after that."
+
+# ee78e550
+; 二日目の午後。レイキャヴィクへの帰り道で、
+On the second afternoon, on the way back to Reykjavik,
+
+# c6a43e6c
+; 俺はユールちゃんに、俺の今までの旅程を簡単に話してあげた。
+I told Yule briefly about her journey so far.
+
+# 60be0107
+; [br]アイスランドに来る前の自分の事。
+[br] Before I came to Iceland.
+
+# d6c8f001
+; 二日間の旅の事。
+It was a two-day trip.
+
+# 3f8bf2eb
+; そして、ここに来て出会った人たちの事。
+And the people I met here.
+
+# 6da703f8
+; yule: 「<ruby="ヤーヤ">　Jæja</ruby>……ユールちゃんてば、ライバルの多い人を選んでしまったのです」
+yule: "<ruby=" Jaiya"> ……Yule</ruby> Jæja, I chose someone with a lot of competition."
+
+# a6d1a5b
+; me: 「ライバル？」
+me: "Rivalry?"
+
+# 70ed33b9
+; yule: 「ほら、あのヒメとサラって人、{playerName}の事を狙ってるんじゃないですか！」
+yule: "You see, those Hime and Sara are after {playerName}!"
+
+# b1d0e5a3
+; me: 「ね、ねらう？？[i]……ってそれ、男女関係の話？そんなわけないだろう」
+me: "Well, do you want to?"[i]…… Is that about Man women?I don't think so."
+
+# 179f07cd
+; yule: 「いや、絶対にそうなんですって。[i]ユールちゃんの恋敵ですよ」
+yule: "No, absolutely not.[i]It's the enemy of love between Yule."
+
+# 7b0f48e3
+; me: 「みんな、昨日会ったばかりなのだが……」
+me: "We just met yesterday, ……,"
+
+# 2186ba6f
+; 旅の話をしてあげたのに、恋バナになってる。
+I told you about my trip, but you're in love.
+
+# 19bdc25a
+; それにしても……ライバルとか、恋敵とか。
+Even so, …… rivals or love enemies.
+
+# 1b41bf99
+; ユールちゃんは俺とそういう関係って事を前提で話を進めてる？
+Does Yule proceed with the discussion based on that kind of relationship with me?
+
+# 11e9a1eb
+; 出会って一時間も経ってないのに。
+It hasn't been an hour since we met.
+
+# a27f4d51
+; yule: 「で？」
+yule: "And?"
+
+# 377998cb
+; me: 「で？……って」
+me: "And? ……"."
+
+# cdbc8603
+; yule: 「誰が一番好みだったりします？{playerName}的には」
+yule: "Who do you like the most? {playerName}ically?"
+
+# 5a80f8a6
+; me: 「こ、好みって？」
+me: "What's your preference?"
+
+# 6eddb892
+; yule: 「ほら、ここで出会った女性の中で、誰が一番好きなのかって[i][char yule.car_angry_o_w]……えっ？なんですか？[i][char yule.car_dere_close_bigemi]ユールちゃんが一番だって？まいったなー」
+yule: "Look, who's your favorite Woman here?" [i] [char yule.car_angry_o_w] …… What? What?[i][char yule.car_dere_close_bigemi] Yule is the best?Oh, my God!"
+
+# 8f782a03
+; ワクワクするような、上気した声音でそう言う。
+he said in an excited, excited voice.
+
+# 6b09ab43
+; こいつ、意外とウザいヤツだったんだな。
+He's a really ugly guy.
+
+# 9385796f
+; こういう騒がしいの、嫌いではないけど、ちょっと反応に困る。
+I don't hate this kind of noise, but I don't know how to react.
+
+# 2fc6ad78
+; me: 「えーと……」
+me: "Well, ……,"
+
+# a465a0f2
+; こういう恋バナみたいな話題は、俺は苦手なんだ。
+I doesn't like this kind of love story.
+
+# 2827b4d7
+; なにせ童貞なんだから。
+Anyway, Im Male Virgin
+
+# 5a4f37fc
+; [br]しかしこの子って、こんな浮いた話が好きなんだな。
+[br] But she likes this kind of funny story.
+
+# 93a2
+; 意外と普通の少女だ。
+Surprisingly, she is an ordinary girl.
+
+# 31e306c2
+; 最初のミステリアスな雰囲気は、いったい何だったのか。
+What was the first mysterious atmosphere?
+
+# 124ba565
+; あの時の妖気は、もはや想像もできない。
+I can no longer imagine the charm of that time.
+
+# 7905467e
+; やっぱりあの時のあれは、俺の錯覚だったな。
+That was the illusion of me then, after all.
+
+# 40788c16
+; yule: 「ねーねー」
+yule: "`See you,'"
+
+# 8034c31f
+; 駄々こねるユールちゃん。
+Yule complaining.
+
+# aa3228c3
+; しかし、こんな質問に真面目な答えを考えるのも虚しい気がする。
+However, I feel that it is also empty to think about serious answers to such questions.
+
+# 4900488d
+; ……適当に答えようか。
+…… Should I just give you a random answer?
+
+# cb92b71
+; @choice "ユールちゃん" goto:.yulechan
+@choice " Yule" goto:.yulechan
+
+# f4426ba
+; @choice "みんな" goto:3_01_1_harem
+@choice "Everyone" goto:3_01_1_harem
+
+# e4b67491
+; yule: 「えっ！マジっすか！！！[i][char yule.car_dere_close_bigemi]いやいや、まいったな。[i][char yule.car_hand_dere_close_bigemi]では、早速準備を……」
+yule: "Oh! Are you serious!!! [i] [char yule.car_dere_close_bigemi] No, no, I'm in trouble.[i][char yule.car_hand_dere_close_bigemi] Now get ready ……"
+
+# 4e9f941
+; ユールちゃんは大変喜びながら、頬をそめて何かこそこそしてる。
+Yule, with great delight, turned his cheek and whispered something.
+
+# ba275fd4
+; 準備って、何をしようとしてるんだ？
+What are you trying to do?
+
+# 51eae904
+; me: 「あ、いや。あえて答えるならそうかも知れないって事で、真面目に取らないでくれ」
+me: "Oh, no. Don't take it seriously if you dare answer."
+
+# 36d5d2a4
+; yule: 「えっ？？嘘だったのですかぁ？……」
+yule: "What? Was it a lie? ……"
+
+# f219aa65
+; がっかりするユールちゃん。
+Yule disappointing.
+
+# e62b63ef
+; me: 「嘘って言うか。ま、冗談だ」
+me: "It's a lie. I'm kidding."
+
+# d3f69ee9
+; yule: 「い、いじわるですよ……もう……[i][char yule.car_hand_dere_angry_a_mou]ユールちゃんはこんなにも{playerName}の事が好きになったのに！」
+yule: "Yes, I'm teasing you …… [i][char yule.car_hand_dere_angry_a_mou] Yule has fallen in love with {playerName} so much!"
+
+# e226b549
+; なぜか股に両手を挟んでもじもじしながら、ユールちゃんはそう言った。
+said Yule, hesitatingly, with his hands between his legs for some reason.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# d8d1dc3e
+; また答えに困ってしまった。
+I was at a loss for an answer again.
+
+# 2ea9f4a1
+; この話しにどう反応をしたらいいんだ。
+How should I react to this story?
+
+# 9b4c663b
+; とりあえず俺は正論をぶつける。
+For the time being, me hits the nail on the head.
+
+# 4ad226bc
+; me: 「大体みんな、昨日今日で初めて会った相手だ。[i]お互いよく知らないし、[i]好きとかなれるはずがない」
+me: "Most of them are the first people I met yesterday and today.[i]We don't know each other well. [i] There's no way we can like each other."
+
+# ddabeaec
+; yule: 「いや、一目惚れって言葉もあるし、旅先で恋人になるって事もよくあるじゃないですか？」
+yule: "No, there's a saying that you fall in love at first sight, and you often fall in love when you're traveling."
+
+# 7e719ba6
+; ユールちゃんは俺の方へ肩を寄せながら、ひそひそと言った。
+Yule whispered, leaning his shoulders towards me.
+
+# f5c38cd5
+; yule: 「実際に、ユールちゃんは{playerName}に一目惚れみたいですし」
+yule: "Actually, Yule seems to fall in love with {playerName} at first sight."
+
+# 579863e5
+; me: 「そ、それはありがとうな」
+me: "Well, thank you,"
+
+# e704b1fe
+; ユールちゃんのふざけた冗談にも少し慣れてきて、先よりは慌てなくなった。
+I got a little used to Yule's playful jokes, and I was less flustered than before.
+
+# 18fe7d
+; ……実は俺もユールちゃんに一目惚れ的な感じはあったけれど、それはあえて言わなかった。
+…… Actually, me seemed to fall in love with Yule at first sight, but she didn't dare say that.
+
+# ed128416
+; yule: 「くすくす、それで{playerName}の方は、ユールちゃんにそういうのなかったんですか？」
+yule: "Didn't {playerName} have anything like that in Yule?"
+
+# 7f21fe99
+; me: 「どうって？」
+me: "What do you say?"
+
+# e22414d
+; yule: 「ほら、一目惚れとか？好きとか？そういう、ユールちゃんの第一印象？」
+yule: "Here, love at first sight?"Do you like it? That's the first impression of Yule?"
+
+# 9fb419ca
+; 第一印象ってのはそんなもんじゃないだろうが……
+I don't think that's the first impression ……
+
+# e82c31da
+; me: 「そうだな」
+me: "Yes,"
+
+# 5c4bee3b
+; @choice "可愛いとは思った" goto:.kawaii
+@choice "I thought you were cute" goto:.kawaii
+
+# 6e6c88b5
+; @choice "好きだ" goto:3_01_1_sukida
+@choice "I like you" goto:3_01_1_sukida
+
+# 79208456
+; me: 「可愛い子だなと……」
+me: "She's a cute girl ……"."
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# 1ed72ed5
+; 一瞬、ユールちゃんの表情が固くなったと思ったら、困るように顔を染めた。そして、
+I thought for a moment that Yule's expression had hardened, but I dyed my face in a troubled way.And...
+
+# 154da5d0
+; yule: 「あ、やばっ」
+yule: "Oh, my God,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 937707a1
+; yule: 「今ちょっと濡れたかも」
+yule: "I think I'm wet right now"."
+
+# ab99b9b8
+; なぜかまた股に両手を挟んで、ユールちゃんは体を震わした。
+For some reason, with his hands between his legs again, Yule trembled.
+
+# a3cda114
+; me: 「なっ、何が！？」
+me: "What!"
+
+# 4f5463b3
+; yule: 「何がって……確かめてみます？くすくす」
+yule: "Why do you want to check ……?" giggle."
+
+# 2c988b94
+; me: 「い、いや。その……」
+me: "No, no, that ……."
+
+# afee370f
+; ユールちゃんの冗談にはもう慣れたと思ったけど、こういう下ネタはちょっと反応が困る。
+I thought I'd gotten used to Yule's jokes, but I don't know how to react to these dirty jokes.
+
+# f200b574
+; こ、こういう時にはあれだ。
+At times like this, that's it.
+
+# ec6a214b
+; 話題の転換だ。
+It's a change of subject.
+
+# 1f02c5c6
+; @choice "グレリヨールって？" goto:.gureriyol
+@choice "What's Glediyol?" goto:.gureriyol
+
+# dc8dffde
+; @choice "パンツ何色？" goto:3_01_1_penti
+@choice "What color is panties?" goto:3_01_1_penti
+
+# 7f6b1ab
+; me: 「ああ、そういえば……」
+me: "Oh, come to think of it, ……,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# b980aef8
+; me: 「【グレリヨール】って、どういう意味だ？[i]ユールちゃんが最初に掛けてきた言葉、[i]俺が知ってるアイスランドの挨拶とは違うが」
+me: "What does 【Glediyol】 mean?"[i]Yule's first words, [i]It's different from the Icelandic greeting that me knows."
+
+# a130aa84
+; yule: 「ああ。あれはアイスランド語、<ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>の略で、メリー・クリスマスって意味ですよ」
+yule: "Yes, that stands for <ruby=" Gledileg jol"> Gleðileg jól</ruby>, which means Merry Christmas."
+
+# 6cdc4dbc
+; me: 「クリスマス？[i]まだ１２月９日なんだけど……」
+me: "Christmas? [i] It's only December 9th, ……."
+
+# ec964d69
+; yule: 「あ、えっと。[i][char yule.car_arch_w_nico]ユールちゃんの、好きな挨拶なんで！」
+yule: "Oh, let's see. [i][char yule.car_arch_w_nico] It's my favorite greeting from Yule!"
+
+# a58355b2
+; me: 「そ、そうか」
+me: "Oh, I see,"
+
+# 104e3a6
+; yule: 「それよりも！これ！[i]どうしてくれます？」
+yule: "More than that! This! [i] What will you do for me?"
+
+# 5f6634cc
+; me: 「これって？」
+me: "What's this?"
+
+# 2797aa0
+; yule: 「ユールちゃんのここ、{playerName}のせいで熱く濡れてしまったここですよ。[i][char yule.car_hand_dere_arch_ww_nico]ねね、ほらほら、責任取ってくださいな」
+yule: "Here in Yule, where {playerName} has made me hot and wet.[i][char yule.car_hand_dere_arch_ww_nico] Here, take responsibility."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 28a150f9
+; 話題の転換、効果なし。
+Change of subject, no effect.
+
+# 953fd839
+; こうなったら開き直りだ。
+If this happens, it'll be all over again.
+
+# f993fdba
+; いきなり下ネタをふってきて少し狼狽えたけど、ユールちゃんのノリにも、少し慣れてきたし、
+I was a little flustered when he suddenly talked about dirty jokes, but I got used to Yule's nori a little bit.
+
+# 1a62eb77
+; @choice "冗談には冗談で" goto:.joudan
+@choice "Just kidding" goto:.joudan
+
+# 27a767d8
+; @choice "責任とる" goto:3_01_1_sekininn
+@choice "Take responsibility" goto:3_01_1_sekininn
+
+# 8ca6c70c
+; 適当に相手するとしよう。
+Let's just say we're dealing with each other.
+
+# 609c9a53
+; 冗談には冗談で。
+Joking is a joke.
+
+# cbbc77ec
+; シモネタはシモネタで。
+Simoneta is simoneta.
+
+# 840483ce
+; me: 「実は、俺もここも大変な事になってるんだよ。どうすればいいんだ」
+me: "Actually, both me and this place are in trouble. What should I do?"
+
+# 9b50249c
+; yule: 「えっ！？本当ですか！[i][char yule.car_pose2_b_a_mou]じゃあ、ユールちゃんが処理してあげますから……」
+yule: "What!? Really?[i][char yule.car_pose2_b_a_mou] Then Yule will take care of it for you ……"
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# dafd01
+; そう言いながら俺の方に体を寄せて、俺のズボンに手を出そうとしてるユールちゃん。
+As he spoke, he leaned against me and tried to put his hand on me's pants.
+
+# 2fb092af
+; @choice "冗談だ" goto:.joudan2
+@choice "I'm kidding" goto:.joudan2
+
+# ec7021eb
+; @choice "任せる" goto:3_01_1_makaseru
+@choice "Leave it to me" goto:3_01_1_makaseru
+
+# df1dec07
+; me: 「じょ、冗談だよ！そんなわけないだろう。運転危ないから、やめてよな！」
+me: "`I'm kidding!'I don't think so.It's dangerous to drive, so don't do that!"
+
+# bda2b55b
+; 俺は開き直って、俺のズボンに伸ばされたユールちゃんの手を退かした。
+I opened again, and dismissed Yule's hand, which had been stretched out in me's trousers.
+
+# a9a75363
+; yule: 「な、なんですかー！そんな冗談はやめてくださいよ。本気にしますから」
+yule: "`Why, why!'Stop joking like that.I'll take it seriously."
+
+# c2b33145
+; また、がっかりするユールちゃん。
+Also, Yule is disappointed.
+
+# c935d0ce
+; てか、冗談はこっちがやめてもらいたい。
+But I want you to stop joking.
+
+# cd436001
+; yule: 「もういいです。興が冷めました。……ユールちゃんのここは、後で自分で処理するとします」
+yule: "That's enough.The fun has cooled down. Let's say I'll take care of this part of ……Yule later."
+
+# da1661e1
+; しょ、処理って……何を？
+Now, what do you mean by processing ……?
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 79276fe3
+; ……いや、もうこの手の冗談には乗らない。
+…… No, I won't take this kind of joke anymore.
+
+# 264b5364
+; 慌てないで、聞かなかった事にしよう。
+Don't panic. Let's pretend we didn't hear it.
+
+# 96a01456
+; yule: 「でもそうですか。ユールちゃん、可愛いですか。ふふふふ」
+yule: "But is that so?Yule Is it cute? chuckle"
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 26c0ff62
+; ユールちゃんはまんざらでもない表情で、独り言をぶつぶつ言ってた。
+Yule muttered to himself with an uncomfortable expression.
+
+# 8e664fc2
+; 先の俺の答えがよっぽど気に入ったらしい。
+Apparently, he liked me's answer a lot.
+
+# d8ab3d08
+; yule: 「くすくす、{playerName}もやりますね。[i][char yule.car_dere_ww_nico]旅先で出会ったヒッチハイカーの女の子を口説くとか、くすくす」
+yule: "I also do giggle and {playerName}.[i][char yule.car_dere_ww_nico] Like wooing Girl, a hitchhiker I met while traveling, giggle."
+
+# 157a0900
+; me: 「いや、口説いてないし」
+me: "No, I didn't,"
+
+# d52e5495
+; yule: 「えっ？ユールちゃんが世界一可愛くて、好きで好きで仕方がなくて、もうどうしようもなく結婚したいって言ったじゃないですか！」
+yule: "What? I told you that Yule is the cutest person in the world, that I like her so much that I can't help but want to get married!"
+
+# 1b71c1f1
+; me: 「そんな事言ってない」
+me: "I didn't say that,"
+
+# 604b6560
+; yule: 「くすくす、[i][char yule.car_arch_huse_bigemi]ま、でも可愛いとは言いました」
+yule: " giggle, [i] [char yule.car_arch_huse_bigemi] But I said it was cute."
+
+# fcde9a6c
+; me: 「それは言ったけどね。深い意味もないからな」
+me: "I told you so.It doesn't mean much either."
+
+# 76052ea4
+; yule: 「あっ……！[i][char yule.car_sad_close_uu]そうか、これがあの、社交辞令っていうものですね！[i][char yule.car_sad_close_uu]や、やられましたよ、ううぅ」
+yule: "Oh, ……! [i] [char yule.car_sad_close_uu] Well, this is what social etiquette is all about![i][char yule.car_sad_close_uu] Oh, you've done it, Ugh."
+
+# 2d935d25
+; me: 「いやまぁ、そうともいう」
+me: "Well, that's right,"
+
+# ddb7703c
+; yule: 「でもユールちゃんは挫折しません。[i][char yule.car_angry_huse_bigemi]諦めないでこれからも頑張りますから！」
+yule: "But Yule is not frustrated.[i][char yule.car_angry_huse_bigemi] Don't give up and I'll continue to do my best!"
+
+# bb17d6b8
+; me: 「ああ、うん。そうしろ」
+me: "Oh, yes, do it."
+
+# 1b700636
+; yule: 「もう、{playerName}の心と体を手に入れるためにですよ！知ってますか？諦めませんってば」
+yule: "Now, to get the heart and body of {playerName}!"Do you know? I won't give up."
+
+# 470b196a
+; me: 「いや、それは諦めてくれ」
+me: "No, give it up,"
+
+# 66dc5231
+; yule: 「もう……なんでそんなにガードが高……[i][char yule.car_hand_dere_arch_a_e]……あ」
+yule: "Now …… Why is the guard so high ……[i][char yule.car_hand_dere_arch_a_e] …… ah."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 36d5f395
+; yule: 「もしかして{playerName}って、女に興味ない人？」
+yule: "Who is {playerName} not interested in women?"
+
+# c250976a
+; またいきなり飛躍したな。
+You've made another leap.
+
+# 2202ddd2
+; yule: 「最近増えてますからね、ゲイ。特にこのヨーロッパはもう……」
+yule: "It's increasing these days, gay. Especially in this Europe, ……."
+
+# d5a4cdf0
+; me: 「いや、俺はゲイじゃないが」
+me: "No, me is not gay,"
+
+# f8b4192a
+; yule: 「そうですか？[i][char yule.car_arch_w_emi]同性愛者でもなく、無性愛者でもなく、特殊な性的指向の持ち主でもなく、ちゃんと女が好きですか？」
+yule: "Is that so? [i][char yule.car_arch_w_emi] Are you not gay, sexless, and have a special sexual orientation? Do you really like women?"
+
+# ee9c23a0
+; me: 「……特殊な日本語もよく知ってるんだな」
+me: "…… "You know a lot of special Japanese, don't you?"
+
+# e3e6819a
+; yule: 「ノンケでオッケー？」
+yule: "Are you okay with non-profit?"
+
+# cf63fd42
+; me: 「ああ、俺は……」
+me: "Oh, me is ……,"
+
+# 2b87df67
+; @choice "異性愛者だ" goto:.normal
+@choice "I'm a heterogeneous person" goto:.normal
+
+# 8d078f0f
+; @choice "実はゲイ" goto:3_01_1_seiheki
+@choice "Actually Gay" goto:3_01_1_seiheki
+
+# aebc7382
+; me: 「女に興味ない訳じゃない」
+me: "It's not that I'm not interested in women,"
+
+# f0d6ca50
+; yule: 「よかった！では、ユールちゃんにもチャンスはあるんですね？」
+yule: "Good! So Yule has a chance, too?"
+
+# 952886bb
+; me: 「……いや、しかしな」
+me: "…… "No, but,"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 826cfaa4
+; me: 「俺がシングルだとは、一度も言ってないじゃん？」
+me: "You've never told me that me is a single?"
+
+# 3a5fb23e
+; yule: 「えええっ！？いるんですか！？彼女とか妻とか？」
+yule: "What!? Are you have!? Girl friend or Wife?"
+
+# a3ac1d5a
+; me: 「……ないけど」
+me: "I don't have ……,"
+
+# c3ce41
+; というか、童貞なんだけどね。
+I mean, it's a virgin.
+
+# 8538021f
+; yule: 「も、もう脅かさないでくださいよ！[i][char yule.car_sad_ww_mou]あやうく略奪愛が始まるところでしたよ」
+yule: "But don't scare me anymore! [i][char yule.car_sad_ww_mou] I almost started looting."
+
+# 9e411ed1
+; me: 「……」
+me: "……"

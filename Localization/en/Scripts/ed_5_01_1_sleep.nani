@@ -1,0 +1,53 @@
+; Japanese <ja> to English <en> localization document for `ed_5_01_1_sleep` naninovel script
+
+# d5e583ee
+; 「寝るか」
+"Are you going to sleep?"
+
+# 5a0f5617
+; [br]これはきっと夢だ。
+[br] This must be a dream.
+
+# b4b1a81a
+; 次に目が覚めたら、何もかも元通りになりますように。
+I pray that everything will be back to normal the next time I wake up.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 6f233f5c
+; 「この人間、何でこんなところで倒れてるのかしら」
+"Why is he lying here?"
+
+# e16e8ec9
+; 「はて、もう死んでますよ。凍死ですね」
+"Well, he's dead. He's frozen to death."
+
+# 5253c703
+; 「凍死なの。せっかくトゥーレで狂ってなく生きたのに、もったいない」
+"I'm frozen to death. It's a waste to live a life of Thule."
+
+# c81c37fc
+; 「でもこんなに生への意志が弱いのなら、どのみち狂死でしたよ」
+"But if he had such a weak will to live, he would have died mad anyway."
+
+# 45c4f523
+; 「そう。せめて死に際には暖かな墓場をプレゼントするのが、私達の役目かしら」
+"Yes, at least it is our duty to gift a warm grave at the point of death."
+
+# af9ae593
+; 「そうですね」
+"Yes,"
+
+# 6f22ee17
+; 「<ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに」
+The <ruby=" Gledileg jol"> Gleðileg jól</ruby>.Bless you on a holy night."

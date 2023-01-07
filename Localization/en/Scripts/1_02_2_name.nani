@@ -1,0 +1,489 @@
+; Japanese <ja> to English <en> localization document for `1_02_2_name` naninovel script
+
+# 17249828
+; ま、こんな出会いも、旅の風情だしな。
+Well, this kind of encounter is like a trip.
+
+# 62fcec67
+; それに、そんなに悪い気はしなかったし。
+And I didn't feel so bad.
+
+# f544ae92
+; 何故かこの子になら、多少の変な事言われても許す気になっていた。
+For some reason, he was willing to forgive me even if I was told some strange things.
+
+# b5bbd41d
+; ……………それにしても、この子も呑気なんだよな。
+………… ... But she's easygoing, too.
+
+# 9746bfc3
+; こんな状況でも、こんな余裕なご様子。
+Even in this situation, you look so relaxed.
+
+# 818b451d
+; ヒッチハイクに慣れてるのか、それとも元々こんな性格か。
+Are you used to Hitchhiking or are you supposed to be like this?
+
+# 9345fe24
+; 俺もすっかり緊張が解けて、落ち着きが戻った。
+I but the tension was completely relieved, and his composure was restored.
+
+# 18e54791
+; さて、そろそろ行き先の確認を……
+Now, it's about time you confirmed your destination ……
+
+# 6c1717cf
+; girl: 「お名前、なんて言いますか？」
+girl: "What's your name?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 24f3e2ef
+; 話を切り出そうとした時に、
+When I was about to start talking,
+
+# ba295519
+; 女の子が先に問うてきた。
+Girl asked first.
+
+# b47a857a
+; girl: 「あなたの名前です。教えてくれませんか？」
+girl: "Your name.Will you tell me?"
+
+# badc99ae
+; me: 「お、俺の名前？」
+me: "Oh, the name of me?"
+
+# b3777445
+; 名前を聞かれるとは思ってなかったから、少し戸惑う。
+I didn't expect to hear your name, so I'm a little confused.
+
+# 4986f9f8
+; me: 「そうだな……」
+me: "Yes, ……,"
+
+# 4b4c15a1
+; 俺の名前は……
+The name of …… is me
+
+# 7fa18abd
+; me: 「俺は、{playerName}」
+me: "For me, {playerName}."
+
+# 1253c0c8
+; ペンネームだ。
+It's a pen name.
+
+# 84f2f1ae
+; 日本を去る時、そう名乗ると決めた。
+I decided to call myself that when I left Japan.
+
+# 1b214658
+; 自分が誰だったのか、もうどうでもいいから。
+I don't care who I was anymore.
+
+# 1851e745
+; どんな名前だったのか、もうどうでもいいから。
+I don't care what the name was.
+
+# 87c57e86
+; 旅に出ると、俺は何者でもないんだ。
+When I set out on a journey, me was nothing.
+
+# d76400dc
+; これからの俺は、ただの{playerName}だ。
+From now on, me is just {playerName}.
+
+# 95ad4a70
+; …………それにしても{playerName}って、なんか響きがいいな。
+………… But {playerName} sounds good.
+
+# 4cb315c
+; 我ながらいい作名だ。
+I think it's a good name.
+
+# cdd0707c
+; girl: 「くすくす、{playerName}ですか。それはいいですね」
+girl: "Is it {playerName} or giggle?That's good."
+
+# 2acaa34f
+; me: 「ああ。君は？」
+me: "Yes. What about you?"
+
+# 749ce51d
+; girl: 「アタシですか？アタシはスヴォル……」
+girl: "Is it Atashi?"Atsushi Thuvor……"
+
+# 4c64a043
+; 女の子は自分の名前を言いかけて、言い淀んだ。
+Girl began to say his name, and hesitated.
+
+# d90308
+; yule: 「……いや、ユールちゃんと呼んでください。うん」
+yule: "Call me ……, Yule. Yes."
+
+# 6f6dec91
+; me: 「ユールちゃん？」
+me: "Is it Yule?"
+
+# 7e87eb92
+; yule: 「はい！」
+yule: "Yes!"
+
+# 96d1974f
+; 俺と同じく、でっちあげの名前かな。
+Like me, it's a fake name.
+
+# 14816211
+; ま、お互いに名前なんてどうでもいいからな。
+Well, we don't care about each other's names.
+
+# 7441fc96
+; me: 「そうか。では短い間だけど、よろしくね。ユールちゃん」
+me: "Well, then, for a short time, I hope you will take care of me.Yule"
+
+# 4748afc9
+; yule: 「はい。よろしくです、くすくす」
+yule: "Yes. Nice to meet you, giggle."
+
+# 475015d5
+; ここでの一回きりの関係だけど、一期一会を大事にすればいいんだ。
+It's a one-time relationship here, but you just have to cherish every meeting.
+
+# 6dc41953
+; さて、[i]名乗りも終わったし、今度こそ本題に入ろう。
+[i] Now that we're done, let's get down to business.
+
+# a218055b
+; me: 「それでは、そろそろ出発するか！」
+me: "`Then we're about to leave!'"
+
+# f3bafc24
+; yule: 「はーい」
+yule: "Yes,"
+
+# 190b2a4
+; こうしてる間にも日が暮れているし、急がないと。
+It's getting dark while we're doing this. We have to hurry.
+
+# c79c2e7a
+; me: 「俺、レイキャヴィクへ向かってたんだけど、ユールちゃんは……」
+me: "I was heading for me, and Yule is ……."
+
+# f1d75248
+; yule: 「レイキャヴィクですか？[i]久しぶりですね！[i]はい。行きましょう！」
+yule: "Is it Reykjavik?"[i]Long time no see![i]Yes, let's go!"
+
+# 5039e6cf
+; 即答？
+Answer immediately?
+
+# f465a81d
+; me: 「……えっと、ユールちゃんも、レイキャヴィクに向かうところだったの？」
+me: "Well, …… was on her way to Reykjavik?"
+
+# 34762029
+; yule: 「いいえ」
+yule: "No,"
+
+# 415ebb8e
+; あっさりの答えに、戸惑う。
+I'm confused by the simple answer.
+
+# c263de3b
+; なんだか噛み合わない気がするが。
+I don't think it's going to work.
+
+# c90f20df
+; 目的地が違うから、遠慮してるのかな。
+I guess I'm refraining from going to a different destination.
+
+# 26e38e8b
+; me: 「レイキャヴィクに行くんじゃないの？」
+me: "Are you going to Reykjavik?"
+
+# 2ad222ab
+; yule: 「えっ？あ、はい」
+yule: "What? Oh, yes."
+
+# 964f5ba
+; me: 「……では、どこに行くつもりだったんだ？」
+me: "Where were you going, ……?"
+
+# 46914a9b
+; yule: 「え、えっと、なんていうか……」
+yule: "Well, well, ……,"
+
+# 92d30cc0
+; 今度はユールちゃんが狼狽えてる。
+This time, Yule is upset.
+
+# 5b13a7fe
+; me: 「言ってみな。近くなら寄っててもいいから」
+me: "Tell me. I can come near you."
+
+# 2d540f50
+; yule: 「目的地は……特に決めてないです」
+yule: "I haven't decided my destination ……"."
+
+# d61e4b34
+; me: 「……どういうこと？」
+me: "What do you mean ……?"
+
+# a78bb84a
+; yule: 「というか、目的は既に達成したっていうか……えっと」
+yule: "I mean, I've already accomplished my purpose, ……."
+
+# f395fdac
+; me: 「えっ、何だって？」
+me: "What?"
+
+# 44a0c574
+; yule: 「と、とにかく……！」
+yule: "Well, ……!"
+
+# 4402d800
+; me: 「？？」
+me: "？？"
+
+# cccff4f
+; yule: 「行き先なんて、どこでもいいって事です！
+yule: "`Wherever you go is all right!'"
+
+# 33fd898e
+; yule: {playerName}が行きたいところに、どこにでもついて行きますよ」
+yule: "I'll follow {playerName} wherever she wants to go."
+
+# 5b703fcd
+; me: 「……どこでもいい？」
+me: "Anywhere ……?"
+
+# 9a17b42f
+; yule: 「はい。[i][char yule.car_dere_ww_nico]っていうか、どこまでも連れてって。くすくす」
+yule: "Yes. [i] [char yule.car_dere_ww_nico] I mean, take me forever. giggle"
+
+# 955a57b6
+; me: 「まぁ、俺は楽でいいけど……」
+me: "Well, me is comfortable, but ……."
+
+# 853da6e
+; どういうことだ。
+What's going on?
+
+# db90c9ea
+; こんなところで、ずっとヒッチハイキングしてたのに、目的地もない？
+You've been Hitchhiking here for a long time, but you don't have a destination?
+
+# 54af3888
+; どこでもいい？
+Anywhere?
+
+# d8bda767
+; ……これってやっぱり、[i]訳あり[i]って事かな。
+…… As expected, [i] I guess that means there's a reason [i]
+
+# c55a0d3b
+; [br]「……」
+[br] " ……"
+
+# a0de407d
+; しかし、それを探っている暇はない。
+But there is no time to explore it.
+
+# 1510bca
+; もうすぐ、[i]日が落ちるんだから。
+[i] Soon, the sun will set.
+
+# 5e488e09
+; me: 「……わかった。では、レイキャヴィクに行くからな」
+me: "…… All right.Well, I'll go to Reykjavik."
+
+# 39c91ba
+; 無駄話をし過ぎたせいで、さらに遅くなった。
+Too much talk has slowed me down.
+
+# 5edd1244
+; 時間が惜しい。早く帰らないと……
+Time's up. I have to go home early ……
+
+# f3bafc24
+; yule: 「はーい」
+yule: "Yes,"
+
+# 41695faa
+; にこぱっと笑いながら、呑気な答え。
+with a smile, and an easy answer.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 63911ca4
+; この子の思惑が何であれ、
+Whatever his intentions,
+
+# a14611cf
+; とりあえず大都市に行けば問題ないだろう。
+If you go to a big city, there will be no problem.
+
+# 1f8e7b7f
+; 何をするにも、ここよりは都合がいいはずだ。
+Whatever you do, it should be more convenient than here.
+
+# 6d3ee154
+; me: 「よし」
+me: "All right,"
+
+# 2081b94a
+; 俺はスマホのグー○ルマップを、改めて確認しながら言った。
+I said, checking Goggle's Smartphont map again.
+
+# bf7a00f9
+; me: 「3時間くらいかかるから、ゆっくりくつろいでて」
+me: "It takes about three hours, so relax."
+
+# d361f2e4
+; yule: 「はい。くつろいでいますね。[i]寝ていいですか？くすくす」
+yule: "Yes, you're relaxing.[i]Can I sleep?giggle"
+
+# 1304bc05
+; ……寝る？
+…… Do you want to sleep?
+
+# ff3fc5e0
+; me: 「いや、お前……それはいくらなんでも不用心じゃないか？」
+me: "No, you ……, don't you care about anything?"
+
+# 55b8218c
+; つい【お前】と言っちまった。
+I couldn't help but say 】.
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# 44c2bb22
+; 別に寝るのは構わないが、
+I don't mind sleeping.
+
+# 70cb3b1
+; 女の子が見ず知らずの人の車で寝ちゃうのは、危険だという事を知らないらしい。
+Girl doesn't seem to know that it's dangerous to fall asleep in a stranger's car.
+
+# 83f024e9
+; me: 「寝てる間に、このおじさんが変なところに連れて行ったらどうするんだ？」
+me: "What if he takes you to a strange place while you're sleeping?"
+
+# 276c46fe
+; yule: 「いや～ん。ユールちゃんを変なところに連れ込んで、何がしたいのですか？くすくす」
+yule: "No, what do you want to do by bringing Yule to a strange place?"giggle"
+
+# 5f932521
+; me: 「い、いや……そう言う事じゃなくて」
+me: "No, no, …… I'm not saying that."
+
+# e206a292
+; 全然怯まない。むしろ俺の方が怯んだ。
+I'm not frightened at all. Rather, me was more frightened.
+
+# 267f9558
+; yule: 「いいのですよ。{playerName}の好きなようにして。……ふふぅ」
+yule: "You can do whatever you want {playerName}. ……Wooo!"
+
+# 35a8b74
+; 色っぽい笑みを浮かびながら、俺をじっと見つめるユールちゃん。
+Yule staring at me with a sexy smile.
+
+# 44c16670
+; それって、どういう意味か知ってて言ってるのか？
+Do you know what that means?
+
+# 8fccbef9
+; しかし、この謎の色っぽさは一体なんだ。
+But what is the color of this mystery?
+
+# f00d1b30
+; とにかく、こんな脅しは効果なしだ。[br]……っていうか逆効果だった。
+At any rate, these threats are ineffective.[br]…… I mean, it was counterproductive.
+
+# ac10fc45
+; yule: 「で、何するんですか？」
+yule: "And what are you going to do?"
+
+# fd357c27
+; me: 「しない」
+me: "I won't."
+
+# 1b6fab94
+; yule: 「えー？しないんですか？」
+yule: "What? You won't?"
+
+# ab7380e7
+; me: 「ヒッチハイクを続けるなら、ちょっと注意した方がいいって、言いたかっただけだ」
+me: "I just wanted to tell you that if you want to continue Hitchhiking, you should be a little careful."
+
+# d1619757
+; yule: 「そうですか？楽しみでしたのに」
+yule: "Really? I was looking forward to it"."
+
+# c4e81c98
+; me: 「……寝ていいよ。レイキャヴィクまで安全にお連れしますよ」
+me: "…… You may go to bed.Reykjavik I'll take you to safety."
+
+# 74b67ae7
+; yule: 「そうですか。[i][char yule.car_arch_ww_bigemi]では、ユールちゃんがぐっすりと眠れるように、{playerName}の旅のお話でも聞かせてくださいな」
+yule: "I see. [i] [char yule.car_arch_ww_bigemi] So that Yule can sleep soundly, tell us about her journey."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 6d05702c
+; 何がしたいんだろう。一体この子は。
+What do you want to do?What the hell is she?
+
+# 299d40ef
+; 本当に、よくわからない。
+I really don't know.
+
+# 6fb94cce
+; me: 「……出発するからな。シートベルトしっかりな」
+me: "I'm leaving …….Fasten your seat belt."
+
+# b762886a
+; yule: 「はいはーい。ではでは、レッツゴー！」
+yule: "Yes, then, let's go!"
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# 839b467a
+; 色々とすっきりしないけど、
+I'm not comfortable with many things.
+
+# 1b3c5d9c
+; とりあえず俺はアクセルを踏んだ。
+For now me stepped on the accelerator.
+
+# 215d8cc3
+; 一体この子は何だろう？
+What the hell is she?
+
+# 308a941e
+; 色々と聞きたいことはあるけど、
+I have a lot of questions.
+
+# 1103640e
+; ま、時間ならたっぷりある。
+Well, I have plenty of time.
+
+# 33f52dfc
+; 運転しながらゆっくりと聞いてみるとしよう。
+Let's listen slowly while driving.
+
+# fa80c55e
+; こうして、[br]人生で二度と経験する事のできない、[br]奇妙なアイスランド旅行が、始まるのだった。
+Thus, [br] [br], which you will never experience again in your life, [br]A strange trip to Iceland began.

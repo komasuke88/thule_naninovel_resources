@@ -1,0 +1,253 @@
+; Japanese <ja> to English <en> localization document for `_askja` naninovel script
+
+# 8dac0c92
+; 黒い砂漠の向こうに、雲に隠れてる山が見えた。
+Beyond the black desert, I saw a mountain hidden in clouds.
+
+# d47ea9ed
+; yule: 「 <ruby="アスキャ"> Askja</ruby>火山が見えてきましたね」
+yule: "「 <ruby="Asuka">Askja</ruby>You can see the volcano now."
+
+# 9c096c5b
+; アスキャはアイスランド語で『小箱』という意味で、
+Asuka means 『 small box 』 in Icelandic.
+
+# 83faa243
+; 山頂の大きなカルデラから、そう名付けられた。
+It was named after a large caldera at the top of the mountain.
+
+# 99e4b27f
+; 別世界のような月の風景が広がっていて、
+There was a moonscape like a different world.
+
+# ffec2c3b
+; 実際に、アメリカのアポロ計画において、
+In fact, in the Apollo program in the United States,
+
+# fd4d36e
+; 宇宙飛行士の月面における地質学調査の訓練がアスキャで行われたことで有名だ。
+It is famous for training astronauts in geological surveys on the moon in Asuka.
+
+# 36e7d5aa
+; この火山は１８７５年大噴火を起した。
+The volcano erupted in 1875.
+
+# 51ee0e2a
+; アイスランド島の東部のフィヨルドには大規模な降灰があり、
+In the eastern part of Iceland, the fjords had large ashfalls;
+
+# fb9e5318
+; 家畜が死ぬ、農業が行えなくなるといった被害を多く出した。
+It caused a lot of damage, such as the death of livestock and the inability to farm.
+
+# a4fea778
+; この噴火による火山灰はノルウェーやスウェーデンにまで到達した。
+Volcanic ash from the eruption reached Norway and Sweden.
+
+# b90fdb2e
+; これによりアイスランドからの大規模な移住が起こることになった。
+This led to large-scale migration from Iceland.
+
+# 26c460b
+; 1875年の大噴火では大きなカルデラが形成され、
+The great eruption of 1875 formed a large caldera.
+
+# d118c980
+;  <ruby="エスキュヴァトン"> Öskjuvatn</ruby>というカルデラ湖になっている
+<ruby="escuavaton"> Öskjuvatn</ruby> is Lake Caldera
+
+# 2baab762
+; ここはアイスランドで二番目に深い湖でもある。
+It is also the second deepest lake in Iceland.
+
+# 3bb51937
+; この湖は一年の大部分は凍結してるけど、
+This lake is frozen for most of the year.
+
+# dd83901b
+; 季節外れに液体の状態である場合は、噴火の可能性を示す兆候だと思われる。
+An unseasonably liquid condition may indicate a possible eruption.
+
+# 7594c6d7
+; エスキュヴァトンの北東には <ruby="ヴィティ"> Víti</ruby>と呼ばれる、
+To the northeast of Escuverton, it is called <ruby="Vity">V íti</ruby>.
+
+# a81d7f12
+; 直径約150mの小さなカルデラ湖がある。
+There is a small Caldera lake about 150 meters in diameter.
+
+# 8b77fff1
+; Vítiとは『地獄』という意味。
+V íti means 『 hell 』.
+
+# e2bf15ac
+; ミネラルの多い水質で温水であり、硫黄分を含み、湖水は不透明な青色である。
+It has mineral-rich water quality, warm water, sulfur content, and lake water is opaque blue.
+
+# 6c864550
+; 水温は約 25°C で入浴、水泳に適した温度になっているが、
+The water temperature is about 25°C, which is suitable for bathing and swimming.
+
+# 8180546
+; エスキュヴァトンでもヴィティでも湖面が周囲より低いことから、
+The surface of the lake was lower than its surroundings, both Escuverton and Viti;
+
+# 7461e0b6
+; 風がない日には二酸化炭素が溜まりやすいため、
+When there is no wind, carbon dioxide tends to accumulate.
+
+# cdbc8b6d
+; 湖面に近づくと意識不明になって倒れることがある。
+If you approach the surface of the lake, you may become unconscious and fall down.
+
+# 9d6a6a8c
+; そのため水泳などは推奨されない。
+Therefore, swimming is not recommended.
+
+# 751a572d
+; me: 「キレイだけど、ちょっと危ない場所なんだな」
+me: "It's a beautiful but rather dangerous place,"
+
+# ed70ec50
+; yule: 「ま、それでも入浴する人は、結構いましたけどね」
+yule: "Well, there were still quite a few people taking a bath."
+
+# 3eb5e49c
+; me: 「怖いもの知らずだなおい」
+me: "You don't know anything scary,"
+
+# 51bef62c
+; yule: 「そういえば、その二酸化炭素にかかわる事件が、ここであったんですよ」
+yule: "Come to think of it, there was an incident involving carbon dioxide here."
+
+# c2a05727
+; ドイツの研究者 <ruby="ヴァルター・フォン・クネベル"> Walter</ruby> von Knebelと <ruby="マックス・ルドロフ"> Max</ruby> Rudloff。
+German researchers <ruby="Walter von Knebel">Walter</ruby> von Kneebel and <ruby="Max Rudloff">Max</ruby>.
+
+# d6486cfa
+; 二人は1907年、このエスキュヴァトンを小さなボートで調査中に消息を絶った。
+They disappeared in 1907 while they were investigating the Escuverton in a small boat.
+
+# b2343930
+; フォン・クネベルの婚約者であった <ruby="イナ・フォン・グルムブコフ"> Ina</ruby> von Grumbkowが、
+<ruby="Ina von Grubkov">Ina</ruby> von Grubkow, who was Von Knebel's fiancee, said,
+
+# 58cebaf
+; ずっと彼らの調査の足取りを追ったが、なにも見つからなかった。
+I followed their investigation all the way, but found nothing.
+
+# 7b33be5b
+; 今までも二人の死体は見つからず、失踪の原因も不明のままだったが、
+Until now, no bodies had been found, and the cause of their disappearance remained unknown.
+
+# 5f3ce3d9
+; 事故は二酸化炭素中毒になり遭難したのではないかと推測されている。
+It is presumed that the accident was caused by carbon dioxide poisoning and was lost.
+
+# ef11a11a
+; yule: 「でもその実、彼らはサムスティラの異変でトゥーレに現れてたんですよ」
+yule: "But in fact, they appeared in Thule because of an unusual event in Samstilla."
+
+# fd109bb2
+; me: 「なるほど……それがあの事件の顛末か」
+me: "Well, …… Is that the whole affair?"
+
+# 361f3db5
+; アイスランドの失踪事件の多くは、この異世界トゥーレに転移したのが多かったと言ってたな。
+You said that many of Iceland's disappearances had spread to this different world Thule.
+
+# ea8768d0
+; 今の俺みたいにな。
+It's like me right now.
+
+# 236cdfd5
+; me: 「昔も、今年みたいなサムスティラの異変はあったって事だな」
+me: "There used to be something unusual about Samstilla like this year,"
+
+# e05fb86d
+; yule: 「そうです。今年ほど多発はしてませんが、昔からも周期に合わない異変はあったんです」
+yule: "That's right. I haven't done it as often as I did this year, but there have always been unusual events that don't fit the cycle."
+
+# 71fd3b24
+; me: 「あの人達、トゥーレに迷い込んでたんだな」
+me: "They were lost in Thule,"
+
+# 2691b439
+; yule: 「実はユールちゃん、あの人達にあったこともありますよ」
+yule: "Actually, Yule, I've met them before."
+
+# bfc63b32
+; me: 「えっ！？」
+me: "What!"
+
+# ce8ce62
+; yule: 「人間世界に戻すのは不可能だから、せめてお知らせでもしようかと思ったんですが、そんな関わり方はしないというフルドゥフォルクの暗黙のルールがありまして」
+yule: "It's impossible to return to the human world, so I thought I'd at least let you know, but there's an unwritten rule of Huldufolk that we don't relate to it that way."
+
+# 1e2eb6b
+; me: 「な、ならばここにいるのか？あの失踪した人達」
+me: "Well, then, are you here?"Those who have disappeared."
+
+# 204a97e1
+; yule: 「まさか。１９０７年の事ですよ？もう結構な歳ですもん。とっくに死んでますよ」
+yule: "No way. It was 1907?"I'm quite old. I'm dead long ago."
+
+# 6af7c091
+; me: 「そうか……[i]って」
+me: "Well, ……[i]."
+
+# 15db6ba4
+; ユールちゃんは、会ったことがある？
+Have you ever met Yule?
+
+# 5844d4b2
+; me: 「ユールちゃんはあの人達と、いつ、会ったんだ？」
+me: "When did Yule meet them?"
+
+# b902a2c2
+; yule: 「そうですね。およそ百年前くらいですかね」
+yule: "Yes, about a hundred years ago."
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# d03d5253
+; そういや、うすうす知ってはいたけど、
+by the way I knew it faintly;
+
+# 8308f710
+; やっぱりこいつ、年上だったんだな。
+He must have been older than me.
+
+# 14a2b0d4
+; それもとてつもなく。
+That's incredible, too.
+
+# d5907353
+; me: 「……あの……ユール……おばあさん？」
+me: "Is that ……Yule…… grandmother?"
+
+# 2b6c2f65
+; yule: 「なっ！ユールちゃんを年増扱いするのはやめてくださいよ！これでも心は乙女ですから！」
+yule: "Oh! Stop treating Yule like an old woman! She's still a girl in her heart!"
+
+# 6a907ec6
+; me: 「あ、ああ。うん」
+me: "Oh, yes, yes."
+
+# 7dd48d28
+; yule: 「そしてユールちゃん２００歳ですけど、人間の歳に変換すると二十歳ですからね！」
+yule: "And Yule is 200 years old, but if you convert it to human age, you are 20 years old!"
+
+# ad2e37a
+; me: 「お、おう。わ、わかった」
+me: "Oh, oh, oh, I see,"
+
+# 7521bec1
+; 珍しく怒ってるからもうちょっとからかってみようと思ったんだが、
+I was going to tease him a little more because he was so angry.
+
+# c3dbdf3d
+; なんだか可哀想になったのでやめた。
+I felt sorry for him, so I quit.

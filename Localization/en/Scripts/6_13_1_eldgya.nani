@@ -1,0 +1,389 @@
+; Japanese <ja> to English <en> localization document for `6_13_1_eldgya` naninovel script
+
+# bf620da0
+; hime: 「大丈夫？疲れてない？」
+hime: "Are you okay? Aren't you tired?"
+
+# fd1ec226
+; ここまで休まず走って来た俺の事が心配になったのか、ヒメがそう聞いた。
+Hime asked if he was worried about me, who had run so far without a break.
+
+# 235099f
+; me: 「ヒヒーン（そうだな。そろそろ喉が乾いたから、水でも飲んで行くか）」
+me: " niegh (Yes.Now that I'm thirsty, I'll have some water."
+
+# e5c934ee
+; hime: 「うん。あいつらもう追って来ないし、ちょうどこんな場所だしね」
+hime: "Yeah. They're not following me anymore, and it's just like this."
+
+# 9c3ba832
+; 目の前には大きな滝。
+There is a big waterfall in front of us.
+
+# bc7811e
+; この景色だけで、長時間の走ってきた疲れがぶっ飛ばされる。
+Just by looking at the scenery, you can get rid of the tiredness of running for a long time.
+
+# 865283a7
+;  <ruby="オゥファィルフォス"> Ófærufoss</ruby>は、【越し難い滝】という意味で、エルトギャゥにある滝だ。
+<ruby="Official Foss"> Óf ærufoss</ruby> is a waterfall in Eldgja that is hard to cross.
+
+# cc3d2fb6
+;  <ruby="エルトギャゥ"> Eldgjá</ruby>とは、この滝を含めた峡谷一帯の事で、
+<ruby=" Eldgja">Eldgj á</ruby> refers to the entire canyon including this waterfall.
+
+# 4b007f41
+; fire canyon、つまり【火の峡谷】という意味を持つ。
+It means fire canyon, or 【 fire canyon 】.
+
+# 5bfa4186
+; 南アイスランドにあるカトラ火山と同じ火山システムの一部で、
+It is part of the same volcanic system as the Katla volcano in southern Iceland.
+
+# fc5078a8
+; 火山の割れ目火口である。
+It is the crater of a volcano.
+
+# 2302c904
+; 深さ270メートル、幅600メートルの偉容を誇るエルトギャゥは、
+Eldgja boasts a depth of 270 meters and a width of 600 meters.
+
+# 8102bf12
+; 世界最大の噴火割れ目である。
+It is the world's largest eruption crack.
+
+# d6c32410
+; 記録に残る最初の噴火である934年噴火は、人類歴史上最大規模の洪水玄武岩で、
+The 934 eruption, the first recorded eruption, was the largest flood basalt in human history.
+
+# 9c43e183
+; おおよそ18立方キロメートルの溶岩が地上にあふれだしたという。
+It is said that about 18 cubic kilometers of lava overflowed the ground.
+
+# e0da3fa0
+; me: 「ぶるるる」
+me: "Shaking,"
+
+# 38df9b65
+; 下に降りて、滝から流れてきた水を飲んだ。
+I went downstairs and drank the water from the waterfall.
+
+# 2206dd56
+; hime: 「水が美味しいね」
+hime: "The water is delicious"."
+
+# 70aea394
+; me: 「ヒヒーン（ああ。本当に、気持ちいいな）」
+me: "niegh (Oh, I feel so good.)"
+
+# dffc2dc0
+; hime: 「うん。心までも落ち着くよ」
+hime: "Yeah. I can calm myself down."
+
+# 6a6e0a7
+; me: 「ヒヒーン（……そういえば、ヒメ）」
+me: " niegh (Now that you mention it, Hime)"
+
+# 7218cf27
+; hime: 「うん？」
+hime: "Huh?"
+
+# 874cc7e
+; me: 「ヒヒーン（頬の傷は、大丈夫か？）」
+me: "niegh (Is the scar on your cheek all right?)"
+
+# 93b79fc8
+; hime: 「傷？あ……」
+hime: "Scratch? Oh, ……"."
+
+# e91d74be
+; ヒメが自分の頬をなでながら、
+Hime stroked himself on the cheek.
+
+# d3e1fea2
+; hime: 「あれ？」
+hime: "Huh?"
+
+# c406e190
+; me: 「ヒヒーン？（あっ、傷が……）」
+me: " niegh?"
+
+# 44e3967a
+; 見えなくなった。
+It's gone out of sight.
+
+# 45b5357
+; 確かに先、かすり傷とはいえ、血が流れるほどだったのに。
+Indeed, even though it was a scratch, it was bleeding.
+
+# aa18523b
+; hime: 「治った……のかな？」
+hime: "Is it cured ……?"
+
+# e8ac6a06
+; me: 「ヒヒーン（本当だね。治り、早すぎるんじゃないか？）」
+me: "niegh (That's true.I think it's getting better too soon.)"
+
+# c97691cc
+; hime: 「……なんだか、変だね」
+hime: "Something is wrong with ……,"
+
+# dce1f3b
+; me: 「ヒヒーン（……ま、早く直ったのならいいんじゃないか）」
+me: "niegh (I hope …… got well soon.)"
+
+# c0f4dc67
+; 傷、か。
+Scratches?
+
+# 7112f5f4
+; そういや、あのエルフが言ってたな。
+by the way said Elf.
+
+# 9e95c8b7
+; いかれた【海の民】に襲われると、感染されてしまうと。
+If you are attacked by a crazy 】 citizen of the 【 Sea, you will be infected.
+
+# 6e60fa72
+; hime: 「……わたし、化け物になっちゃうのかな……」
+hime: "I wonder if …… will become Monster."
+
+# dd489f3b
+; me: 「ヒーィン（……あ）」
+me: "Heen ( ……ua)"
+
+# 47fc01d9
+; ヒメも、同じ事を考えてたみたいだ。
+Hime I guess he was thinking the same thing.
+
+# c4138dab
+; me: 「ヒヒーン（いや、でも傷は治ったんだし、ならないんじゃないか？）」
+me: "niegh (No, but the wound has healed, and won't it?"
+
+# b8d61e85
+; hime: 「マーマンさんみたいな、あんな姿になったら嫌だな」
+hime: "I don't want to look like merman"."
+
+# e901b37b
+; me: 「ぶるるる（いや、そんな心配するな。[i]何も変わったところはないし。[i]感染するのはフルドゥフォルクだけかも知れないしな）」
+me: "No, don't worry about it.[i]There's nothing unusual.[i]Only Huldufolk may be infected.)"
+
+# 1a4e58cf
+; hime: 「そう、かな？だといいけど」
+hime: "Is that so? I hope so."
+
+# be0bee50
+; me: 「ヒヒ―ン（ああ。そんなの、心配するだけ無駄なんだ）」
+me: "Heehee-hee-hee-hee-hee-hee-hee-heeIt's no use worrying about it.)"
+
+# ef1546ff
+; hime: 「……うん……」
+hime: "Yes, ……."
+
+# 4f9ec796
+; me: 「ヒヒーン（……<ruby="セッタ・レッダスト">　Þetta reddast</ruby>だ！）」
+me: "niegh (This is ……<ruby=" Thetta reddast"> Thetta reddast</ruby>!)"
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# 81d4af86
+; me: 「ヒヒーン（なんとかなるって意味の、アイスランド語だよ）」
+me: " niegh (Icelandish meaning "I'll manage it")"
+
+# c3a55d91
+; hime: 「あ、うん。ユールちゃんがたまに言ってたの、覚えてる」
+hime: "Oh, yes. I remember Yule saying that sometimes."
+
+# 2321867c
+; me: 「ヒヒーン（なんだか魔法の呪文みたいで、俺も気に入ってるんだ）」
+me: "niegh (It's kind of like a magic spell, and I like me, too.)"
+
+# d5ed99f7
+; hime: 「魔法の呪文か。いいね、それ」
+hime: "A magic spell.That's good."
+
+# d10ab481
+; me: 「ヒーン（だろう？）」
+me: " niegh (Right?"
+
+# 1925eea1
+; hime: 「<ruby="セッタ・レッダスト">　Þetta reddast</ruby>！」
+hime: "<ruby=" Thetta reddast"> Thetta reddast</ruby>!"
+
+# 3bd11b91
+; me: 「ヒヒーン？」
+me: "Is it niegh?"
+
+# d7b09da7
+; hime: 「言ってみた。なんだか悪い事を吹き飛ばしてくれるおまじないみたいなんだから」
+hime: "I've told you, it's like a charm that will blow away bad things."
+
+# 812f95f7
+; me: 「ヒヒーン（ああ。それでいいんだ。どうしようもない事でずっと悩んでも仕方ないからね）」
+me: " niegh (Yes, that's all right.It's no use worrying about things that can't be helped.)"
+
+# 95c292df
+; hime: 「うん。ありがとうね、{playerName}」
+hime: "Yes, thank you, {playerName}."
+
+# 33725291
+; me: 「ブルルル（どういたしまして）」
+me: "You are welcome Brrrr,"
+
+# a260f052
+; hime: 「頑張って{playerName}の記憶を探して、体も戻して、一緒に人間世界に帰らなくっちゃね？」
+hime: "We have to work hard to find memories of {playerName}, get back together, and go back to the human world together, right?"
+
+# 98907adf
+; me: 「ヒヒーン（……あ、ああ……）」
+me: " niegh (Oh, ……)"
+
+# 56926ada
+; でも正直、今となってはちょっと不安だ。
+To be honest, I'm a little nervous now.
+
+# ebeb719
+; ２３までは２日しか残ってない。
+There are only two days left until 23.
+
+# 94024839
+; その間に、すべてを取り戻して、ちゃんと人間世界に戻れるかな俺は。
+In the meantime, I wonder if me can get everything back and return to the human world properly.
+
+# 72482a4
+; ……まぁ。
+…… Well.
+
+# 66030b60
+; 別に戻れなくても、それはそれで仕方ないとは思ってるけど。
+Even if I can't go back, I think it can't be helped.
+
+# 3d7788e9
+; hime: 「あと２日か。早く帰りたいな……」
+hime: "Two more days. I want to go home soon ……."
+
+# e371df8b
+; me: 「ヒヒーン（……）」
+me: " ……"
+
+# 5861e653
+; ヒメはよっぽど戻りたいのかな。
+I wonder if Hime wants to go back a lot.
+
+# b29c0922
+; 記憶がない俺としては、どうなっても構わない気分になっていたから、そこまでは共感できなかった。
+As me, who had no memory, I felt like I didn't care what happened, so I couldn't relate to it that much.
+
+# f919b928
+; hime: 「……お母さんが、心配するからね」
+hime: "…… "My mother will be worried."
+
+# 3bd11b91
+; me: 「ヒヒーン？」
+me: "Is it niegh?"
+
+# 6b7b6ee2
+; hime: 「アイスランド旅行に行った娘が音信不通では、心配するでしょう？」
+hime: "If my daughter, who went on a trip to Iceland, is out of touch, she'll be worried."
+
+# e0f4c2a9
+; me: 「ヒヒーン（そうだな。海外で行方不明って事になるんだろうな。このままでは）」
+me: " niegh (Yes.I guess it means he's missing overseas.at this rate)"
+
+# fc440edc
+; hime: 「わたし、一人暮らしで、家にはたまにしか連絡してないんだけど、[i]それでも家族なんだから、心配させたくはないんだ」
+hime: "I live alone and contact my house only occasionally, but [i] I'm still a family member, so I don't want to make you worry."
+
+# 5174f32f
+; me: 「ヒヒーン（そうだな。必ず帰らないといけないな。人間世界に）」
+me: " niegh (Yes.I have to go home.into the human world."
+
+# 2b09fc7
+; 幽霊の時には何も言えなかったけど、
+I couldn't say anything during Ghost,
+
+# ba6a7472
+; 記憶を取り戻して、家族の事を思い出して、帰りたくなったのだろう。
+He must have recovered his memory, remembered his family, and wanted to go home.
+
+# 9fb85e0e
+; しかし、俺は……
+However, me ……
+
+# 9b08fb93
+; hime: 「{playerName}の家族は……[i][char hime.sad]……っと、記憶がまだ戻ってなかったのよね？」
+hime: "The {playerName} family ……[i][char hime.sad] …… Well, you haven't come back yet, have you?"
+
+# 8099a53c
+; me: 「ヒヒーン（ああ、家族の事とか、友達の事とか、まったく思い出せないんだ）」
+me: "niegh (Oh, I can't remember my family or my friends at all.)"
+
+# 98449671
+; hime: 「……恋人は？」
+hime: "…… "Who's your girlfriend?"
+
+# 8205175e
+; me: 「ヒヒーン（恋人ももちろん、思い出せない。っていうか、居なかったと思うよ)」
+me: "niegh (Of course, I can't remember my girlfriend. I mean, I don't think she was there.)"
+
+# c5b5a233
+; hime: 「そっか。それは、よかった。[i][char hime.komaru]あ、いや、よくはないんだけど……ごめんね」
+hime: "Well, that's good.[i][char hime.komaru] Oh, no, it's not good, but …… I'm sorry."
+
+# 105a21ba
+; me: 「ヒヒーン（いや、まぁ、いいさ）」
+me: "niegh (No, well, that's all right.)"
+
+# ab3d2d42
+; hime: 「それじゃ、{playerName}は、帰りたくないの？」
+hime: "Then {playerName}, don't you want to go home?"
+
+# 29806ca8
+; me: 「ヒヒーン（どうかな。[i]そんなに切実に、帰りたいとは思ってないんだけど……）」
+me: " niegh (What do you think?[i]I don't want to go home so desperately ……)"
+
+# 6ffc0258
+; といっても、ずっとトゥーレに住むわけにもいかない気がするが。
+But I don't think I can live in Thule forever.
+
+# 352dec8b
+; hime: 「……旅行記は、出さないの？」
+hime: "Don't you publish a travel journal ……?"
+
+# 3bd11b91
+; me: 「ヒヒーン？」
+me: "Is it niegh?"
+
+# cf65f1f8
+; hime: 「アイスランド旅行記の本は出したいって言ったんでしょう？[i]なら、日本に帰らないと」
+hime: "You said you wanted to publish a book on Icelandic travel, didn't you?"[i]Then I have to go back to Japan."
+
+# 36db6de5
+; me: 「ヒヒーン（ああ。確かにそうだったけど、[i]なんだか、やる気も薄くなってきたんだ。[i]きっかけを忘れたせいかな）」
+me: " niegh (Yes, I did, but [i] I'm kind of losing my motivation.[i]Maybe it's because I forgot the opportunity.)"
+
+# 8f2cb114
+; hime: 「それはもったいないよ。[i][char hime.closeww]せっかく書いてたんだから、作らないとね。[i][char hime.tehepero]わたしも読んでみたいし」
+hime: "That's a waste.[i][char hime.closeww] I've been working hard on it, so I have to make it.[i][char hime.tehepero] I want to read it too."
+
+# 1fe47649
+; me: 「ヒーン（もちろん。無事に帰ったら、そうするだろうけどね）」
+me: "niegh (Of course.I'll do it when I get home safe, though."
+
+# c53b91df
+; hime: 「うんうん。もっと強く、帰りたいという気持ちを込めて、頑張ろうよ」
+hime: "Yeah. Let's be stronger and do our best with the desire to go home."
+
+# 6b83a3e2
+; me: 「ヒヒーン（まあ、そうだな）」
+me: "niegh (Well, yes.)"
+
+# cc3590c4
+; hime: 「本が出たら、サインもらいに行くからね？」
+hime: "I'll go get my autograph when the book comes out?"
+
+# 4c35dd9
+; me: 「ヒヒーン（いや、サインなんて、早とちりだな）」
+me: "niegh (No, you're quick to sign.)"

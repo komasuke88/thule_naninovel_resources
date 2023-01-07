@@ -1,0 +1,9 @@
+; Japanese <ja> to English <en> localization document for `dimmuborgir` naninovel script
+
+# 25545051
+; @choice "ユールちゃんに会いに行く" goto:4_01_2_gryla handler:ButtonList
+@choice "Go see Yule" goto:4_01_2_gryla handler:ButtonList
+
+# ff22c4ee
+; @choice "他のところへ行く" goto:4_01_1_dimmuborgir.solo handler:ButtonList
+@choice "Go somewhere else" goto:4_01_1_dimmuborgir.solo handler:ButtonList

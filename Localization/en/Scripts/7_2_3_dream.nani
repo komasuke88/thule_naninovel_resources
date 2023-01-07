@@ -1,0 +1,1041 @@
+; Japanese <ja> to English <en> localization document for `7_2_3_dream` naninovel script
+
+# 3bc5135a
+; ……と、
+…… said,
+
+# cd8e87a8
+; ユールちゃんの夢を、見てた気がする……
+I think I was dreaming of …… Yule
+
+# 263a20e8
+; 俺はいつの間にかまた眠ってしまったんだ？
+Did me fall asleep again before you knew it?
+
+# 603807fd
+; 俺も早く起きなくちゃ。
+I I have to get up early, too.
+
+# a50c57ae
+; さて、起きよう。
+Now, let's get up.
+
+# 3625b09c
+; me: 「あれ？」
+me: "Huh?"
+
+# 65788d15
+; hime: 「おはよう、よく寝た？」
+hime: "Good morning, did you sleep well?"
+
+# 3090da02
+; 大学の講義室で、目を覚ました俺。
+I woke up in the university lecture room me.
+
+# d50f9bd6
+; me: 「ユールちゃんは？」
+me: "What about Yule?"
+
+# d87193ae
+; hime: 「ユールちゃんって、誰？」
+hime: "Who is Yule?"
+
+# 13574f37
+; me: 「あ、いや……」
+me: "Oh, no, ……,"
+
+# ce0ebadf
+; sara: 「今日の授業はここまで」
+sara: "That's it for today's class."
+
+# f5dd0cd4
+; ちびっこの教授が、講義の終わりを告げた。
+The little professor marked the end of the lecture.
+
+# 964227e8
+; なんだ。
+What's going on?
+
+# 3a63e26f
+; 俺は、授業中に寝ちゃったのか。
+I Did you fall asleep during class?
+
+# acc0b5dd
+; hime: 「あら、{playerName}、消しゴムが落ちてるわよ」
+hime: "Oh, {playerName}, the eraser is off."
+
+# 6c4caa3f
+; 隣の席のヒメが、消しゴムを拾ってくれる。
+The Hime next to me picks up the eraser.
+
+# a0c72eab
+; 制服のボタンをゆるくしめてるせいで、あれが目に入ってしまう。
+I can't help but notice it because I button my school uniform loosely.
+
+# b386916
+; 胸チラ。
+a throbbing sensation in one's chest.
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# f0b1af26
+; hime: 「なぁに？」
+hime: "What?"
+
+# bd21cc50
+; me: 「い、いや」
+me: "Yes, no,"
+
+# ce7acef7
+; hime: 「ああ！今、おっぱい見なかった？」
+hime: "Didn't you just see the milk?"
+
+# 7e5087ba
+; me: 「み、見てないよ」
+me: "I haven't seen it yet."
+
+# b9d8d387
+; hime: 「わざと見せたんだけどね。見えなかったか。残念だよ」
+hime: "I showed it to you on purpose, but you didn't see it.I'm sorry."
+
+# d2c008c
+; me: 「なっ！」
+me: "Oh, my God!"
+
+# b9e25132
+; hime: 「なら、もっとよく見えるようにしなくちゃ……」
+hime: "Then I'll have to make it look better ……,"
+
+# 39c120ae
+; ヒメはいきなり俺に近づいて、服を脱いた。
+Hime suddenly approached me and undressed.
+
+# fe9c064
+; そして……
+And ……
+
+# ea7f13b2
+; me: 「うぶっ！」
+me: "Ugh!"
+
+# 106f9486
+; その巨大なおっぱいをたゆんと出して、俺の顔へと押し付けた。
+and with a great deal of milk he pressed against me's face.
+
+# 2607b927
+; me: 「！」
+me: "！"
+
+# 34119ba1
+; 大きなおっぱいに顔が埋められた。
+My face was buried in a big breast.
+
+# e1476384
+; 気持ちいいけど、息ができなくなる。
+It feels good, but I can't breathe.
+
+# ac91d77
+; これは……死んだな、俺。
+This is …… dead, me.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 9760c8b
+; でも幸せな死だった。悔いはない。
+But it was a happy death.I have no regrets.
+
+# e42e77f1
+; それに、死なんて怖くない。
+Besides, I'm not afraid of death.
+
+# 1dad376e
+; なぜなら俺は、生まれ変われるから。
+Because me will be reborn.
+
+# 91a4ef36
+; @choice "赤ちゃんに" goto:.baby
+@choice "To the baby" goto:.baby
+
+# 74fd1144
+; @choice "チャタテムシに" goto:ed_7_2_b_sokoptera
+@choice "to Booklice" goto:ed_7_2_b_sokoptera
+
+# 740870c6
+; 生まれ変わり、赤ちゃんになった。
+I was born again and became a baby.
+
+# 7dfa8464
+; me: 「おぎゃー」
+me: "Oh, my God,"
+
+# 8c87e74b
+; yule: 「あら？赤ちゃん？」
+yule: "Oh, baby?"
+
+# 2e7b39f0
+; me: 「ママ〜」
+me: "Mom~"
+
+# 6f2a9e1b
+; yule: 「ママって、[i][char yule.awawa]ええええ？？ユールちゃんが？？」
+yule: "Mom, [i] [char yule.awawa] What?Yule?"
+
+# 70a97fbf
+; me: 「ママー！！」
+me: "Mama!"
+
+# eaec56bb
+; yule: 「そうですか。ついにユールちゃん念願のハーフトロールが生まれたわけですね」
+yule: "I see. Finally, Yule's long-cherished half Troll was born."
+
+# 8c05bd
+; me: 「乳を吸わせて」
+me: "Let me suck the milk,"
+
+# d8de5ee
+; yule: 「口上手ですね。赤ちゃんなのに」
+yule: "You're a good talker.He's a baby."
+
+# b353490
+; me: 「天才赤ちゃんなんだ」
+me: "He's a genius baby."
+
+# b350e70b
+; yule: 「いいでしょう。ユールちゃんのおっぱいを吸わせてあげます。[i][char yule.yoko_anrgy_close_hehe]ママなんだし」
+yule: "Very well.I'll let you inhale the milk of Yule.[i][char yule.yoko_anrgy_close_hehe] It's my mom."
+
+# f8e0d0d3
+; me: 「やったぜ」
+me: "I did,"
+
+# 5c40ec60
+; yule: 「さぁ、どんとこい！」
+yule: "`Come on, come on!"
+
+# ebf1148f
+; ユールちゃんに抱きついて、おっぱいを吸う。
+Hugging Yule and sucking milk.
+
+# 27fca979
+; me: 「すっ」
+me: "Yes,"
+
+# 750bafc5
+; yule: 「はうっ♥」
+yule: "Yes ♥"
+
+# 1bd87c56
+; 幸せ。
+happiness。
+
+# fc08209c
+; このままずっと赤ちゃんでいたい。
+I want to be a baby forever.
+
+# 7dfa8464
+; me: 「おぎゃー」
+me: "Oh, my God,"
+
+# 3c508d62
+; お腹いっぱいになった。
+I'm full.
+
+# d82e5bca
+; me: 「おー？」
+me: "Oh?"
+
+# d8a3c291
+; うん？
+Yup?
+
+# 21ea4b10
+; いきなり、自分の体の中で暴れだす勢いは！？
+What's the momentum to burst into violence in your body!?
+
+# a6898f00
+; me: 「おぉぉぉ」
+me: "Oh,"
+
+# 376a4200
+; yule: 「お？」
+yule: "Oh?"
+
+# d1d4e4a7
+; me: 「おしっこ」
+me: "Pee,"
+
+# 14569690
+; @choice "漏らす" goto:.morasu
+@choice "leak" goto:.morasu
+
+# cf4fc65e
+; @choice "トイレに行く" goto:ed_7_2_b_toilet
+@choice "Going to the bathroom" goto:ed_7_2_b_toilet
+
+# 793d912f
+; me: 「ふぅ……」
+me: "`Phew ……,'"
+
+# c56d277f
+; すっきりした。
+It's refreshing.
+
+# 3ce911a3
+; yule: 「うわっ！漏らしましたね！駄目ですよ。オムツもしてないのに」
+yule: "Wow! You leaked it!No, I didn't even wear diapers."
+
+# af72555e
+; me: 「ああっ……」
+me: "Oh, ……,"
+
+# d4ed01ec
+; パンツを降ろされ、ユールちゃんにち○こをふきふきされる。
+panties was dropped off and Yule wiped off ○.
+
+# 55b3f3a4
+; yule: 「ほら、キレイになりました」
+yule: "Look, it's pretty now,"
+
+# 7dfa8464
+; me: 「おぎゃー」
+me: "Oh, my God,"
+
+# c6488fbe
+; yule: 「オムツをつけましょう」
+yule: "Let's put on diapers."
+
+# 99649962
+; ユールちゃんは俺にオムツを着せてくれた。
+Yule put a diaper on me.
+
+# 7c9a7db7
+; me: 「ほっ」
+me: "Huh,"
+
+# 4382936d
+; いきなり眠くなった。
+I suddenly felt sleepy.
+
+# 7b5b23a
+; 食って眠ってしょんべんして、大きくなる。
+Eat, sleep, and grow up.
+
+# 790613c7
+; それが赤ちゃんの使命だ。
+That's the baby's mission.
+
+# 612fc6de
+; 早く大きくなりたい。
+I want to grow up soon.
+
+# fca8a1f5
+; 俺は大きくなったらきっと大物になるんだから。
+I'm sure me will become a big shot when he grows up.
+
+# b5f783fa
+; yule: 「はい。きっと偉大な人物になりますよ」
+yule: "Yes, I'm sure you'll be a great man."
+
+# 335d1bfe
+; そして俺は大きくなって、ついになったんだ。
+and me grew up, and at last,
+
+# 54eca31c
+; 何に？
+To what?
+
+# edbdd53a
+; @choice "宇宙船長" goto:.spaceship
+@choice "Captain of Space" goto:.spaceship
+
+# b5647f6a
+; @choice "神" goto:ed_7_2_b_kami
+@choice "God" goto:ed_7_2_b_kami
+
+# ffe68c29
+; そうだ、俺は……
+Yes, me is ……
+
+# 6f33dc66
+; me: 「宇宙船の艦長だ」
+me: "He's the captain of the spaceship."
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# a1c1fdf9
+; me: 「早く地球へ戻らなくては…、こんなところで油売ってる暇がない。行くぞ、ステキちゃん」
+me: "I have to get back to Earth soon... I don't have time to sell oil here.Here we go, Stekky."
+
+# b3131101
+; suteki: 「ええ？あたし？」
+suteki: "What? Me?"
+
+# 6672324f
+; me: 「オペレーターがいなくてどうする。早く付いて来い」
+me: "What if we don't have an operator?Come along with me as soon as soon as possible."
+
+# f99cc245
+; suteki: 「えっ？ちょっと、何言って……ええええ？」
+suteki: "What? Wait, what do you say ……, huh?"
+
+# 3128d948
+; yule: 「あれ？ユールちゃんは？」
+yule: "Huh? What about Yule?"
+
+# 89d5cea0
+; 発進だ！
+Let's go!
+
+# e6046409
+; 宇宙船に乗って、地球へ。
+Take a spaceship to Earth.
+
+# 11c2e409
+; me: 「故郷に帰るんだな」
+me: "You're going back to your hometown,"
+
+# f234c62e
+; suteki: 「ええ。地球へ行くのよ」
+suteki: "Yes, we're going to Earth."
+
+# f8e0d0d3
+; me: 「やったぜ」
+me: "I did,"
+
+# dd7ba4e2
+; suteki: 「……しかし少々問題が……」
+suteki: "…… But the problem is ……."
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# c5919431
+; suteki: 「ワープ装備が壊れてますね。帰るのに百年かかります」
+suteki: "warp The equipment is broken.It will take me a hundred years to get back."
+
+# a705e0b
+; me: 「百年か……構わない、このまま行くぞ！」
+me: "`I don't care if it's a hundred years or ……, I'll go on!'"
+
+# ea07881b
+; suteki: 「いいの？」
+suteki: "Are you all right?"
+
+# bfd7eadd
+; me: 「故郷に帰還するのが使命なんだ」
+me: "My mission is to go back to my hometown."
+
+# 66d25367
+; suteki: 「はーい」
+suteki: "Yes,"
+
+# 36d884fe
+; 地球へ帰る宇宙船の中。
+in a spaceship returning to Earth.
+
+# 30b6f69d
+; 数十年が過ぎた。
+Decades have passed.
+
+# babcd11c
+; 歳を取りすぎた。
+I'm too old.
+
+# d01aa5e3
+; そろそろ地球に到着したか？
+Are we almost there?
+
+# 638381db
+; @choice "到着した" goto:.touchaku
+@choice "Arrived" goto:.touchaku
+
+# a868f9
+; @choice "まだだ" goto:ed_7_2_b_spaceship
+@choice "Not yet" goto:ed_7_2_b_spaceship
+
+# 7a05860c
+; やったぜ。
+I did it.
+
+# 66083121
+; 地球に到着。
+Arrived on Earth.
+
+# ea3935ee
+; ………うっ、それにしても腰が……もういい歳だから、地球の重力は厳しいぜ。
+…… ... Well, I'm old enough to have a back ……, so the gravity of the earth is severe.
+
+# b9f0f216
+; ……………………
+……………………
+
+# 8ebcabe0
+; ……気がついたら、病院のベッドの上。
+…… When I realized it, I was on the hospital bed.
+
+# ad23d9bf
+; 看護師A: 「あら、{playerName}さんが起きましたよ」
+Nurse A: Oh, {playerName} is up.
+
+# e247663a
+; 看護師さんが見える。
+I see a nurse.
+
+# 27641f96
+; ここは、病院なのか。
+Is this a hospital?
+
+# df96ed21
+; 看護師B: 「な、なに、この匂い」
+Nurse B: What is this smell?
+
+# a5a4ff12
+; 看護師A: 「{playerName}さん、糞をしましたね」
+Nurse A: {playerName}, you got dung.
+
+# 5e6987b9
+; 看護師B: 「えっ？ちょうどオムツ替えしてあげようとして脱がしたのに……ベッドが汚れちゃうわ」
+Nurse B: What? I just took it off to change diapers, but …… My bed gets dirty.
+
+# 871e3730
+; 看護師A: 「ほら、{playerName}さん、こっちに体をあずけて」
+Nurse A: Here, {playerName}, put your body on this side.
+
+# 8a5c046a
+; me: 「うっ」
+me: "Ugh,"
+
+# 615d2d8d
+; 看護師B: 「{playerName}さんは自分では体も動かぜないじゃん。こちらでやるしかないのよ。ほら」
+Nurse B: "Mr. {playerName} can't even move himself.We have no choice but to do it here. See?"
+
+# fe202803
+; 看護師さんたちが俺の体を横に転がす。
+Nurses roll me's body sideways.
+
+# a1e10f14
+; 看護師A: 「ほら、お尻ふきふきしますよ」
+Nurse A: Look, I'm wiping my bottom.
+
+# 740693b0
+; me: 「う、うううう」
+me: "Well, well,"
+
+# 693e4cd8
+; やられるがままに、何もできない。
+I can't do anything as I'm.
+
+# 14a64dab
+; 体が動けない。
+I can't move.
+
+# 4c57541d
+; 言葉はうまく出ない。
+I can't speak well.
+
+# aae16947
+; 何だよこれは。
+What's this?
+
+# 9f237657
+; 俺は、赤ちゃんなのか。
+Is me a baby?
+
+# c6f455a
+; 看護師A: 「それにしても、{playerName}さん、本当、長生きしましたね」
+Nurse A: "Even so, {playerName}, you really lived a long time."
+
+# 58c0df65
+; 看護師B: 「そうだわね。１３３歳なんて、病院生活ではじめてみたわ」
+Nurse B: That's right.I've never seen 133 in my hospital life."
+
+# 34af65dd
+; 俺は今、１３３歳の老人らしい。
+I seems to be 133 years old now.
+
+# 645dc370
+; me: 「う、うう」
+me: "Yes, yes,"
+
+# a0b0475f
+; 何も言えず、何もできず。
+I can't say anything. I can't do anything.
+
+# b2923962
+; あまつさえ、糞も制御できないなんて。
+I can't even control my droppings.
+
+# 34b6518a
+; こんなんじゃ、長く生きていい事なんてないんだな。
+There's no such thing as a long life.
+
+# d70ba2ed
+; 死んだ方がマシじゃん。
+It's better to die.
+
+# d6cd5246
+; なんでこんな事になったんだ。
+How did this happen?
+
+# 2aeda9f
+; 早く死にたい。
+I want to die soon.
+
+# e9bde01b
+; こんな人生、もう終わりだ終わり！
+That's the end of my life. That's it!
+
+# e099e9f9
+; さて、葬式をやろう。
+Now, let's have a funeral.
+
+# 9e5b3583
+; 死体は、どうするか。
+What should I do with the body?
+
+# 175a400e
+; @choice "火葬" goto:.kasou
+@choice "Cremate" goto:.kasou
+
+# d9ec06fc
+; @choice "水葬" goto:ed_7_2_b_suisou
+@choice "water burial" goto:ed_7_2_b_suisou
+
+# 5432ab0e
+; 燃やされる。
+be burned.
+
+# 1b03a615
+; チリになる。
+become Chilean.
+
+# 36a3b0e9
+; チリになって、宙を舞う。
+fly in the air in a chilli.e. Chile.
+
+# 35827e9c
+; 漂う。
+drift.
+
+# 5bd14f61
+; 心地よい空の中を。
+In the comfortable sky.
+
+# cc7714c0
+; ミジンコすぎて誰にも見えないけど、俺はいる。
+It's too much for anyone to see, but me is there.
+
+# 781c42e7
+; しゅぁ———————
+Shhhhhhhhhhhhhhhhhhhhhh!
+
+# 7e5a59cc
+; いきなり高速で動く。
+It suddenly moves at high speed.
+
+# b10ac93b
+; 風だ。
+It's windy.
+
+# e9c079ff
+; 風がたくさんのチリたちを乗せてどこかへ向かう。
+The wind carries a lot of chilli and goes somewhere.
+
+# e0b45f16
+; そして僕は、風になった。
+And I became the wind.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# f2b9ef4a
+; 大洋を渡って、どこかの都市に行き着いた。
+I crossed the ocean and reached some city.
+
+# e0ec73d4
+; 周りには、高い建物。
+There is a tall building around.
+
+# 8e6349e6
+; 急に、俺は死にゆく。
+Suddenly, me dies.
+
+# 89cf7a44
+; me: 「……ここまでか」
+me: "That's it ……,"
+
+# c48cb419
+; 風なのに、なんで死ぬのかって？
+Why do I die when it's windy?
+
+# eec4190
+; 止まったら、死ぬんだ。
+If you stop, you'll die.
+
+# e6239a38
+; 俺は風だからな。
+I is the wind.
+
+# 84f9a18e
+; 風という意味がなくなれば死ぬんだ。
+If the meaning of wind disappears, you die.
+
+# 5afa359c
+; もはや風ではなく、ただの空気だ。
+It's no longer the wind, it's just the air.
+
+# a6b7aa22
+; me: 「自由の人生だったからな。悔いはない……」
+me: "It was a life of freedom. I have no regrets ……."
+
+# 62133e3
+; 次は……おっと？
+Next is …… Oops?
+
+# 5dfa343b
+; unknown: 「すっ！」
+unknown: "`Sure!'"
+
+# b824eea7
+; 何者かが俺を吸った。
+Someone smoked me.
+
+# cabcd125
+; 俺は空気だから。
+I is air.
+
+# f61e364c
+; そのまま肺に入る。
+It goes straight into the lungs.
+
+# 1daac8be
+; unknown: 「ウーウー」
+unknown: "Ugh!"
+
+# 23bda48f
+; それは人ではなかった。
+It wasn't a person.
+
+# b2707f92
+; me: 「ウー」
+me: "Wooooooooooooooooooooooooooooooooo."
+
+# cf59efc5
+; me: 「ウーウー」
+me: "Ugh!"
+
+# 1e76e47a
+; 気が付きたら、ハトになっていた俺。
+I found myself in a pigeon me.
+
+# 1d107348
+; 鳥は自由。
+Birds are free.
+
+# 430a0a1e
+; 思うがままに空を飛べる。
+You can fly at will.
+
+# 1a517b7e
+; それはきっと気持ちいいはずだから、いつまでも飛んでいたくなるはず。
+I'm sure it will feel good, so you'll want to want to fly forever.
+
+# 81b95cd4
+; ……と、思ったけど、実際になってみればそんな事はない。
+…… I thought, but in reality, that's not the case.
+
+# ac303561
+; 飛ぶのって、案外に疲れる。
+Flying is surprisingly tiring.
+
+# 3da424e9
+; それよりは飯だ。
+It's more like rice than that.
+
+# 81fd9afa
+; がむしゃらに何かを食べたい。
+I want to eat something.
+
+# e931162c
+; 腹が減ってなくても食べたい。
+I want to eat even if I'm not hungry.
+
+# 2095298f
+; 食べ物を求めるだけの鳥生。
+A bird that only needs food.
+
+# 778d5189
+; それがハトの流儀だ。
+That's the pigeon's style.
+
+# d0a151df
+; me: 「ぐぐ」
+me: "Gooooooooooooooooooooooooooooooooooo"
+
+# 136a2b48
+; 飛ぶの面倒いから、歩いて食べ物を探す。
+It's troublesome to fly, so I walk around looking for food.
+
+# ba631ce4
+; me: 「お？」
+me: "Oh?"
+
+# 7a10473d
+; ピザ発見！
+I found pizza!
+
+# d3375bd3
+; me: 「お、おぉぉ」
+me: "Oh, oh,"
+
+# 3ffeae4
+; ……いや、待って。
+…… No, wait.
+
+# f3cfa9b7
+; あれはピザではない
+That's not pizza.
+
+# 528c74ae
+; ゲロだ。
+That's too much.
+
+# a619e2c0
+; 汚い。
+It's dirty.
+
+# 98541e12
+; me: 「……（ちゅるっ）」
+me: "The ……,"
+
+# bf758d52
+; しかし、ゲロを見て食欲が湧き出す俺。
+However, me makes my appetite spring up when I see Guerro.
+
+# 505e6843
+; me: 「ぐぐぐ（腹減った）」
+me: "`I'm hungry,'"
+
+# 7253c01d
+; い、いかん！
+Oh, no!
+
+# bfb3653c
+; あれを食ってはダメだ。
+Don't eat that.
+
+# cf59efc5
+; me: 「ウーウー」
+me: "Ugh!"
+
+# a976c769
+; だ、だめだって！
+Oh, no!
+
+# 72084bab
+; あれはゲロだぞ！
+That's Guerro!
+
+# 40017a91
+; 絶対に食うなよ、俺！
+Never eat, me!
+
+# 22b9fe8e
+; me: 「ウーウーうまそう」
+me: "Wow, you look good."
+
+# af8a2401
+; ハトが出していい声ではない。
+It's not a good voice for pigeons.
+
+# 979ea963
+; それくらいにクレイジーになっていた。
+It was that crazy.
+
+# 1e19cd21
+; いくら脳の中で命令しても、体は言う事を聞かない。
+No matter how much you order in your brain, your body won't listen.
+
+# e89a0a29
+; me: 「ぐぐっ(うめー)」
+me: "Gooooooooooooooooooooooooooooooooooooo"
+
+# 411fc32f
+; く、食ってしまった。
+Oh, I ate it.
+
+# 7a0d6914
+; しかしこの、胸のそこから湧き上がってくる幸福感は……
+But this feeling of happiness that springs from the heart ……
+
+# 82093eda
+; me: 「うーうーうー(ハッピー！)」
+me: "Ugh (happy!"
+
+# 6f74b0f4
+; 満腹。
+I'm full.
+
+# b83c318b
+; お腹いっぱい、胸いっぱい。
+I'm full. I'm full.
+
+# 5e0f8b84
+; 溢れ出す幸せ。
+overflowing happiness.
+
+# ba63da73
+; くっ……
+clinging ……
+
+# a4e0b4bd
+; ゲロをご馳走して幸せになるなんて。
+I can't believe I'm happy to treat Guerro to dinner.
+
+# 2cc792a3
+; み、みとめん！若さゆえの過ちだ。
+Hey, honey! It's a mistake because you're young.
+
+# 1544b1dd
+; もう人間失格だ。
+I've already been disqualified.
+
+# 40eef93a
+; ま、ハトだけど。
+It's a pigeon.
+
+# 2dfb26d
+; me: 「うーうー」
+me: "Uh,"
+
+# a395fe32
+; でもこうなったら認めざるを得ないな。
+But if this happens, I have to admit it.
+
+# 5ac41353
+; 開き直って、本能に従う事にした。
+I decided to open up and follow my instincts.
+
+# 1ff41e93
+; ……お、そうする間に、あっちにも美味しそうなゲロ発見！
+…… In the meantime, I found a delicious-looking gello over there!
+
+# cf59efc5
+; me: 「ウーウー」
+me: "Ugh!"
+
+# e594439d
+; unknown: きいいいいいいい——————
+unknown: "It's nice, it's nice, it's nice, it's nice."
+
+# 6f10dde9
+; ドドン！
+thump!
+
+# c7076b92
+; me: 「ウ——————」
+me: "Wooooooooooooooooooooooooooooooo"
+
+# e02123e7
+; 歩いて高速道路を横断したら、車に轢かれちゃった。
+I was hit by a car when I walked across the highway.
+
+# 117ec4b2
+; 空の彼方へ飛んで行きたかったけど、
+I wanted to fly far into the sky.
+
+# a3b2cf
+; ずっと歩いて生きていたら、飛び方を忘れてしまった。
+I've been walking for a long time, and I've forgotten how to fly.
+
+# 19015f76
+; アスファルトと一体化。
+Integration with asphalt.
+
+# 5019affb
+; ペッタンコになってしまった。
+I'm flattered.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# f8a114ea
+; 道路の真ん中で動けなくなって、ここでは車の音を聞く事しかやる事がない。
+I can't move in the middle of the road, and all I have to do here is listen to the sound of cars.
+
+# f6adbdbc
+; 暇だ。
+I'm free.
+
+# f00f03e6
+; どこかに行かなくちゃ。
+I have to go somewhere.
+
+# d78ffe5f
+; @choice "トゥーレ" goto:.iceland
+@choice " Thule" goto:.iceland
+
+# 6001fc16
+; @choice "病院" goto:.roujin
+@choice "Hospital" goto:.roujin
+
+# 154cde21
+; そうだ。
+That's it。
+
+# e8e1475e
+; あの北の国、アイスランドへ。
+To Iceland, that northern country.
+
+# aaf0f005
+; 地の果てのトゥーレへ行かなくちゃ。
+I must go to Thule at the end of the earth.
+
+# ff569d1d
+; me: 「……あれ？」
+me: "What ……?"
+
+# ad01b2b0
+; 俺は何か忘れてないか？
+Have you forgotten what me is?
+
+# ca6d27c1
+; なんでこんなところにいるんだ？
+Why are you here?
+
+# d61a82fe
+; 俺は確かに……
+I certainly ……
+
+# bd0ef85c
+; me: 「あ、そうだ！ユールちゃん！」
+me: "Oh, yes! Yule!"
+
+# 58329ee5
+; ユールちゃんは、どうなってる？
+Yule What's going on?
+
+# bb2cd369
+; また忘れてしまったよ。
+I forgot again.
+
+# d149cde
+; 大変だ。
+It is hard work。
+
+# d0b7a6b1
+; 今すぐアイスランドへ向かわなくては。
+I have to head to Iceland right now.
+
+# 14c718f6
+; いったい俺は今、何をやってるんだ？
+What on earth is me doing now?

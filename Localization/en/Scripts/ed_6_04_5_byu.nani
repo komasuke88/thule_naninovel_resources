@@ -1,0 +1,77 @@
+; Japanese <ja> to English <en> localization document for `ed_6_04_5_byu` naninovel script
+
+# 94fc555b
+; me: 「ああ、やろうか」
+me: "Oh, shall we?"
+
+# 68a3ca46
+; yule: 「はい？」
+yule: "What?"
+
+# ec448152
+; byu: 「……ほ、本当？」
+byu: "Really ……?"
+
+# 20130da0
+; me: 「もちろん」
+me: "Of course,"
+
+# f0f07f81
+; byu: 「……うれしい！！」
+byu: "I'm glad ……!"
+
+# ce638a54
+; byu: 「では、今からハニームーンなんだね」
+byu: "Then you're going to have a honey moon now."
+
+# 363138ce
+; yule: 「はあ？？」
+yule: "What?"
+
+# ffde2c34
+; byu: 「……人間のソーセージ。もう想像するだけで……」
+byu: " …… Human sausage.I can only imagine ……."
+
+# f25f13ac
+; byu: 「はぁっ！♥」
+byu: "Huh! ♥"
+
+# 3ea899f
+; ……
+……
+
+# becbf37e
+; <s>　　　　</s>一年後
+<s>    </s>One year later
+
+# 8aa57064
+; byu: 「どうなの？ここ、いい？」
+byu: "What do you think? Do you like this place?"
+
+# 4f3b8190
+; me: 「……ああ、いいね」
+me: "…… "Oh, that's good,"
+
+# 23259d42
+; byu: 「ふふふ、嬉しい」
+byu: "I'm glad to hear that."
+
+# 997acd27
+; ビューちゃんは、いつも尽くしてくれる。
+Byu will always serve you.
+
+# 66f697fe
+; いきなりの結婚だったけど、意外と幸せ。
+It was a sudden marriage, but I was happy.
+
+# ee18b9c2
+; byu: 「ね、{playerName}」
+byu: "Well, {playerName},"
+
+# f289d2b
+; me: 「……うん？」
+me: "What ……?"
+
+# 1b073008
+; byu: 「愛してるよ」
+byu: "I love you"."

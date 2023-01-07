@@ -1,0 +1,237 @@
+; Japanese <ja> to English <en> localization document for `6_01_1_seljalandsfoss` naninovel script
+
+# 783cd60c
+; 凄まじい滝が見えてきた。
+I began to see a tremendous waterfall.
+
+# f4fd4f40
+; 何もない平野の真ん中にそびえ立つ断崖絶壁から、大量の水が下に落ちてる。
+A great deal of water is falling down from the cliff that rises in the middle of the empty plain.
+
+# b8de0212
+; yule: 「ここが、 <ruby="Seljalandsfoss"> セリャラントスフォスです</ruby>」
+yule: "This is the <ruby="Seljalandsfoss"> Seljalandsfoss</ruby>"
+
+# f5a57bf6
+; me: 「爽快だな。自然の力が感じられる」
+me: "It's refreshing. I can feel the power of nature."
+
+# 67b381d0
+; yule: 「どうします？[i]記憶を探しに、ご先祖様のところへ行きますか？」
+yule: "What should I do? [i] Are you going to visit your ancestors to look for memories?"
+
+# 5b76233e
+; @choice "記憶探しに行く" goto:.kioku handler:ButtonList
+@choice "Go find memory" goto:.kioku handler:ButtonList
+
+# 5a722bc6
+; @choice "旅を優先する" goto:.tabi handler:ButtonList
+@choice "Prioritize Travel" goto:.tabi handler:ButtonList
+
+# 406fe298
+; me: 「いや、まだこの瞬間を楽しみたい。自由に旅をしたい」
+me: "No, I still want to enjoy this moment.I want to travel freely."
+
+# 56a53afb
+; yule: 「そうですか。それでは、行きましょう」
+yule: "Well, then, let's go."
+
+# e1e37701
+; me: 「記憶を探しにいくか」
+me: "Let's go look for memories"."
+
+# 878442a0
+; yule: 「はい。少しだけ歩く事になりますが、ついてきてくださいな」
+yule: "Yes, I'm going to walk a little, but please follow me."
+
+# cb4b58d5
+; me: 「ここは、いかにもご先祖様が居そうな雰囲気だな」
+me: "It's an atmosphere of having ancestors here,"
+
+# c69cc9ee
+; yule: 「あ、いいえ。[i]ここにも居るには居るんですが、ここのご先祖様とは会話ができません」
+yule: "Oh, no. [i] I'm here too, but I can't talk to my ancestors here."
+
+# bc97dcdf
+; me: 「えっ、会話できない……？」
+me: "What, …… who can't talk?"
+
+# ab8f1169
+; yule: 「話せるご先祖様は、ここを遡った先にいらっしゃいます」
+yule: "The ancestors we can talk to are back here."
+
+# 62211f6d
+; me: 「さ、遡る？」
+me: "Do you go back?"
+
+# 37dc4352
+; yule: 「もちろん、泳いで登るんではありません。まずは滝の中に入りましょう」
+yule: "Of course you don't swim up.Let's go into the waterfall first."
+
+# 4f91e2b7
+; me: 「滝の中？？」
+me: "In the waterfall?"
+
+# 74083854
+; 滝の横側に道があって、それは滝の裏側へ通じていた。
+There was a road on the side of the waterfall that led to the back of the waterfall.
+
+# 75a1f507
+; me: 「なるほど。滝の裏側ね」
+me: "I see. Behind the waterfall."
+
+# a88a803f
+; そこからは、先まで俺たちがいた平野の方が見ててた。
+From there the plain, where the mes had been, looked,
+
+# 5955cb64
+; 滝の水はすぐ近くて落ちていて、とてもうるさく、跳ねてくる水玉が冷たかった。
+The water in the waterfall was very close and falling, and it was very noisy, and the jumping waterdrops were cold.
+
+# 2297e6fb
+; me: 「水しぶきが激しいな」
+me: "There's a lot of splashing,"
+
+# 7a6eba6a
+; 歩いてるだけで、ずぶ濡れだ。
+I'm soaking wet just walking.
+
+# 15d3cc30
+; yule: 「ここの岩にも、ご先祖様が石化されておりますが」
+yule: "Your ancestors have been petrified on the rocks here,"
+
+# 832c7242
+; me: 「聞いてみれば右手の岩なんか、顔みたいだな」
+me: "`The rock on the right looks like a face,'"
+
+# 4accd70a
+; yule: 「はい。色んなところにいらっしゃいますよ。[i]だけどこのご先祖様は、会話ができるほど霊力を保ててませんので」
+yule: "Yes, there are many places.[i]but no ancestor can maintain enough spiritual power to have a conversation."
+
+# 6f689699
+; me: 「そういうものか」
+me: "I don't know,"
+
+# 9f9adb55
+; yule: 「さて、ここからこの滝の水の元まで一気に移動します」
+yule: "Now, we're going to move from here to the water of this waterfall at once."
+
+# d64f530a
+; me: 「えっ、どうやって？」
+me: "What, how?"
+
+# 6838d836
+; yule: 「妖精の道があるんですよ」
+yule: "There's a fairy way,"
+
+# 845368f4
+; me: 「妖精の道？ああ、あの時のあれか」
+me: "The Fairy Way? Oh, that was then."
+
+# 554b9edb
+; レイニスドランガルからあのエルフの隠れ家に移動した時のあれだ。
+That was when I moved from Reynisdrangar to that hideout of Elf.
+
+# 1c0530e7
+; 瞬間移動。
+Instantaneous movement.
+
+# 5c2e2943
+; yule: 「はい。[i]離れたところまで一気に行ける、フルドゥフォルクの扉です。人間には見えませんけど」
+yule: "Yes. [i] It's the door of Huldufolk that goes all the way.It doesn't look like a human being."
+
+# c9ac071d
+; me: 「不思議な体験だった」
+me: "It was a strange experience."
+
+# 65c5d700
+; yule: 「その扉は色んなところに隠されてますが、ここでは……こっちです」
+yule: "The door is hidden in many places, but here it is …… this way."
+
+# efaaace0
+; ユールちゃんはなにもない壁に手を当てると、指で何か文字みたいなのを書いた。
+Yule put his hand on the empty wall, and wrote something like a letter with his finger.
+
+# b413cfaa
+; そしたらその文字が光って、中から何か響く音がした。
+Then the letters shone and I heard something echoing from inside.
+
+# e34b5b1c
+; me: 「これは……？」
+me: "Is this ……?"
+
+# 5132c07e
+; yule: 「ルーンの魔法です。道を開きました。さ、入りましょう」
+yule: "The magic of Rune.I opened the way.Now, let's go in."
+
+# aac4c851
+; ユールちゃんは、壁に吸い込まれて消えた。
+Yule was sucked into the wall and disappeared.
+
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# b95cb106
+; この前にも経験した事だけど、未だになれなかった。
+As I experienced before, I still haven't gotten used to it.
+
+# dfc06b33
+; yule: 「ほら、{playerName}も早く〜」
+yule: "Look, {playerName}, hurry up!"
+
+# 3074ed3e
+; 壁の中で、声が聞こえた。
+I heard a voice in the wall.
+
+# 402187fa
+; me: 「お、おう」
+me: "Oh, my God,"
+
+# 3d4538f6
+; 俺もとりあえず壁にぶつかってみた。
+I But for the time being, I ran into a wall.
+
+# 66b7503c
+; すると、水に入るみたいな感覚で、壁に吸い込まれた。
+and he was drawn into the wall as if he were going into the water.
+
+# 7c6970a7
+; me: 「おぉ」
+me: "Oh,"
+
+# d779ee27
+; yule: 「くすくす、ささー」
+yule: " giggle, sas,"
+
+# 68b2bfdc
+; 滝の裏の秘密通路。そこは小さな洞窟みたいだった。
+The secret passage behind the waterfall. It was like a small cave.
+
+# ad528cc8
+; ユールちゃんに続いて、ずっと暗闇の中を歩いた。
+Yule followed by a walk through the darkness.
+
+# 3ea899f
+; ……
+……
+
+# 75ba1c06
+; どれくらい時間が経ったのかな。
+How long has it been?
+
+# beaa9466
+; 時間の感覚がよくわからなくなった頃。
+When I lost my sense of time.
+
+# 61f2e6a
+; どこからか、風の音が聞こえてきた。
+I heard the sound of the wind from somewhere.
+
+# 9989f053
+; もうすぐこの妖精の道の出口だとわかった。
+It was almost the exit of the fairy's path.
+
+# 691280f0
+; そして最後の一歩を踏み出した先には……
+And at the end of the last step, ……

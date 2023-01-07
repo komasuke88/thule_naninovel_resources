@@ -1,0 +1,17 @@
+; Japanese <ja> to English <en> localization document for `devtool` naninovel script
+
+# e145e249
+; Development tool.
+Development tool.
+
+# d3330d77
+; @choice "Set all flags" goto:.set_all_flags handler:ButtonList
+@choice "Set all flags" goto:.set_all_flags handler:ButtonList
+
+# 157a2041
+; @choice "Reset all flags" goto:.reset_all_flags handler:ButtonList
+@choice "Reset all flags" goto:.reset_all_flags handler:ButtonList
+
+# fc5f0f34
+; @choice "Delete all saves" goto:.delete_all_saves handler:ButtonList
+@choice "Delete all saves" goto:.delete_all_saves handler:ButtonList

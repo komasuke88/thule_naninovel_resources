@@ -1,0 +1,61 @@
+; Japanese <ja> to English <en> localization document for `3_01_1_penti` naninovel script
+
+# bfafb65a
+; me: 「いま何色のパンツ履いてるの？」
+me: "What color of panties are you wearing now?"
+
+# 26c146a2
+; いや、俺、何を聞いてるんだ！？
+No, me, what are you listening to?
+
+# e382f929
+; yule: 「くすくす、そんなの知りたいんですか？[i][char yule.car_dere_close_w]……でも、答えてあげませんよ」
+yule: "Do you want to know that, giggle?"[i][char yule.car_dere_close_w] …… But I won't answer you."
+
+# 8021b45d
+; me: 「そ、そうだよな」
+me: "Oh, yes,"
+
+# 7a6fe2d6
+; yule: 「知りたければ{playerName}が直接、確認してください」
+yule: "If you want to know, {playerName} can check it out."
+
+# 860203d6
+; me: 「ちょ、直接って？」
+me: "In person?"
+
+# 8b908155
+; yule: 「ほらほら、こっちに手を入れて、確かめるんですよ」
+yule: "Here, put your hand in here, and make sure,"
+
+# 62720811
+; me: 「え、ええええっ！？」
+me: "What, what!?"
+
+# 7c9f65f9
+; yule: 「ちょっと濡れてるから、濃い色のパンツになってるかも知れませんけど……ほら」
+yule: "It's a little wet, so it might have dark panties, but ……, see?"
+
+# 98fb2098
+; me: 「う、うおおおおお！」
+me: "`Oh, oh, oh!'"
+
+# b9f0f216
+; ……………………
+……………………
+
+# 104de2ca
+; …………
+…………
+
+# 3ea899f
+; ……
+……
+
+# 5d1ca093
+; それから色々あって、
+And then there were a lot of things.
+
+# 200baa90
+; 俺とユールちゃんは家族になって、幸せな人生を生きたとさ。
+I and Yule became a family and lived a happy life.

@@ -1,0 +1,405 @@
+; Japanese <ja> to English <en> localization document for `6_11_4_merman2` naninovel script
+
+# 64fdab20
+; merman: 「左の選択肢を選んだな？」
+merman: "You chose the left option?"
+
+# 83c3cfe5
+; me: 「ヒヒーン？（どうしてそれを！？）」
+me: "niegh? (Why did you do that?)"
+
+# 5d94fcb9
+; 俺の心の選択肢の位置を見抜くなんて！
+I can't believe I've discovered the location of me's mental choices!
+
+# 76b3766
+; merman: 「知ってるさ。我は賢者だからな。カーハハハハ！」
+merman: "I know, for I am a wise man.Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!"
+
+# 9af51edc
+; マーマンは偉そうな態度で高笑いした。
+merman laughed loudly in an important manner.
+
+# cd76e70c
+; me: 「ヒヒーン……（くっ、悔しいけど、賢者のようだ）」
+me: "niegh…… (I'm sorry, but I think he's a wise man.)"
+
+# 45783d17
+; yule: 「で、何を聞きますか？」
+yule: "And what do you want to hear?"
+
+# 2c5aeb54
+; @choice "記憶の欠片の位置" goto:.kioku
+@choice "Location of memory fragments" goto:.kioku
+
+# 42d4b48e
+; @choice "ヒメのスリーサイズ" goto:ed_6_11_4_hime3
+@choice "Three sizes of Hime" goto:ed_6_11_4_hime3
+
+# d20aa810
+; merman: 「お前さん、エルフが盗んだ、もう一欠片の位置を探してるんだな？」
+merman: "You're looking for the location of the other piece that Elf stole?"
+
+# 73dd65da
+; me: 「ヒヒーン（流石に賢者さまだ！なんでも知ってる！）」
+me: " niegh (What a wise man you are!I know everything!'"
+
+# 7b37d877
+; merman: 「なんでもは知らないさ。知ってる事だけ」
+merman: "I don't know anything.Just what I know."
+
+# f8e0f5f
+; hime: 「ええっと……」
+hime: "Well, ……,"
+
+# 691f3571
+; merman: 「それで、君の記憶を持ってるエルフなのだが……」
+merman: "And Elf, who has your memory, ……."
+
+# 84b3d759
+; me: 「ヒヒーン（おう！まさにそれを知りたかったんだよ！）」
+me: "niegh (Oh! That's exactly what I wanted to know!)"
+
+# b26d2ed1
+; merman: 「それは……」
+merman: "That's ……,"
+
+# fc81b452
+; hime: 「それは？」
+hime: "What about that?"
+
+# 7c560a43
+; merman: 「ぁぁぁぁぁ……ああああっ！？！？！？」
+merman: "`Ah, ……Ahhhhhhhhh!?"
+
+# fdba37be
+; マーマンは俺の方をじっと見つめながら……
+merman glances at me, ……
+
+# 9bb0efb5
+; merman: 「ぃううぅぅっ！」
+merman: "`Why!'"
+
+# e18507e9
+; 自分の鼻を手で隠しながら苦しそうに唸った。
+He groaned painfully, covering his nose with his hand.
+
+# 93d0b032
+; me: 「ヒヒーン？？（な、なんだ！？）」
+me: "niegh?? (What!?)"
+
+# 81b1fea1
+; merman: 「あ、ちょっと、[i]鼻くそ」
+merman: "Oh, wait a minute. [i] Nose."
+
+# 2a982997
+; yule: 「……」
+yule: "……"
+
+# f0c9224a
+; マーマンは鼻くそをほじりながら言った。
+merman said, picking his nose.
+
+# 699b966d
+; me: 「ブルルル！！（きたねー！やっぱこいつ賢者じゃねぇ！！）」
+me: "Brrrr!! (Here we go!He's not a wise man, after all!)"
+
+# b63000bf
+; hime: 「で、でも何か知ってるっぽいし。落ち着こうね」
+hime: "But he seems to know something.Let's calm down."
+
+# b23b9ca2
+; merman: 「ふぃ……すっきりした」
+merman: "Fi …… is so refreshing."
+
+# b3896412
+; マーマンは鼻くそをほじり終えると、改めて俺の方を見て指差しながら言った。
+When merman had finished picking his nose, he looked again at me and pointed his finger at her and said,
+
+# 4d66fec4
+; merman: 「キェルトリンガルフィヨットル」
+merman: "The Kerlingarfjoll,"
+
+# f2e99178
+; me: 「ヒーン？（え？何？）」
+me: "niegh? (What? What?)"
+
+# 313e80d5
+; hime: 「魔法の呪文？」
+hime: "A magic spell?"
+
+# 46918bf0
+; yule: 「キェルトリンガルフィヨットルですか。割と近い場所にいますね」
+yule: "Is it Kerlingarfjoll?It's relatively close."
+
+# ef140cfb
+; hime: 「地名だったんだ」
+hime: "It was the name of the place,"
+
+# 3d605c82
+; yule: 「ここから近いハイランドです。[i]あそこはお婆様のテリトリーですから。探すのは簡単でしょうね」
+yule: "It's Highland near here.[i]That's my grandmother's territory.It must be easy to find."
+
+# b59c7e44
+; me: 「ヒィーン（お婆様？）」
+me: "neigh (Grandma?)"
+
+# 73ac8f8f
+; yule: 「 <ruby="キェルトリンガルフィヨットル"> kerlingarfjöll</ruby>は、キェルトリンの山という意味。[i]そのキェルトリンは女のトロール。つまりご先祖様です」
+yule: "「 <ruby=" Kerlingarfjoll">kerlingarfj öll</ruby> means a mountain of kiltrin.[i]The queltine is a woman's Troll, or ancestor."
+
+# ce780b7d
+; hime: 「ユールちゃんのお婆様の山って事ね」
+hime: "A pile of grandmothers in Yule,"
+
+# 277a05a
+; yule: 「キェルトリンガルフィヨットルといえば広い地域ですが、[i]エルフが隠れ家を作れるなら、お婆様の目が届かない場所にしかできない。[i]つまり <ruby="クヴェラダリル"> Hveradalir</ruby>でしょう」
+yule: "[i] Kerlingarfjoll is a large area, but if Elf can make a hiding place, it can only be done out of sight of grandmothers.[i]I mean <ruby=" Hveradalir">Hveradalir</ruby>"
+
+# ebdc44f8
+; merman: 「ほう、正解だ。エルフはクヴェラダリルだ」
+merman: "Oh, that's right.Elf is Hveradalir."
+
+# b386db93
+; hime: 「……えっと、ここの地名は、いつ聞いても難しいね」
+hime: "…… "Well, the name of the place here is always hard to ask."
+
+# 145cca40
+; me: 「ヒヒーン（よし。これで最後の目的地が決まったな）」
+me: "niegh (All right, now we've got our last destination.)"
+
+# bd9be41b
+; yule: 「前回みたいに変わった隠れ家でなければいいんですが、[i]ま、位置を知っただけで十分ですね」
+yule: "I hope it's not the same unusual hiding place as last time, but [i] Well, it's enough to know where it is."
+
+# bd62fd
+; merman: 「いや、隠れ家は作ってない。[i]ただ道端に倒れてるから、簡単に見つかるだろう」
+merman: "No, I didn't make a hiding place.[i]but they are lying on the side of the road, and it will be easy to find them."
+
+# 707195a7
+; yule: 「え？隠れ家は作ってない？」
+yule: "What? Didn't you make a hiding place?"
+
+# 83104957
+; me: 「ヒヒーン？（倒れてるって？）」
+me: "Is it niegh?"
+
+# 294ab972
+; yule: 「何で？」
+yule: "Why?"
+
+# 92c600fc
+; merman: 「それは…………[i]うん！？！？」
+merman: "That's …………[i] Huh?!?"
+
+# 5f369b03
+; マーマンは、答えに詰まったみたいだった。
+merman seemed at a loss for an answer.
+
+# 155145b9
+; そしてまた、顔を隠してる。
+And he's covering his face again.
+
+# 891fb477
+; me: 「ヒィーン（また鼻くそかよ！？）」
+me: "neigh (Nose again!?)"
+
+# cb0f178e
+; yule: 「汚いから、やめてもらいたいですね」
+yule: "It's dirty, so I hope you don't."
+
+# bd39980c
+; merman: 「あ、あ、あ、あれが……」
+merman: "Oh, oh, oh, that's ……."
+
+# 38c932fe
+; me: 「ヒィーン？？」
+me: " neigh???"
+
+# f66a16bd
+; どうも先とは違って、調子がおかしい。
+I'm afraid I'm out of shape.
+
+# 1fc12150
+; 普通の鼻くそじゃないのか！
+It's a normal nose job!
+
+# 3f70221
+; merman: 「あれが……地上に……ぅっぅぅぅぁぁぁぁああ」
+merman: "That is …… on earth ……,"Whoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+
+# 99b98575
+; hime: 「え？」
+hime: "What?"
+
+# 2aaabc7a
+; マーマンは、いきなり苦しそうに声を絞ってる。
+merman suddenly wrung his voice in agony.
+
+# 280d900e
+; hime: 「な、なんだか変だよ？」
+hime: "Something's wrong,"
+
+# b17023e7
+; yule: 「鼻くそじゃないみたいですね。よかった」
+yule: "I don't think you have a bad nose.I'm glad to hear that."
+
+# 6a6b0f29
+; me: 「ヒヒーン（いや、よくないだろう。この状態は……）」
+me: "niegh (No, it's not good.This state is ……)"
+
+# c5b04d7b
+; 冗談じゃなく、深刻な状態みたいだ。
+I'm not kidding. I think it's serious.
+
+# e68384fe
+; merman: 「あああああああああああぁぁぁぁぁああああああぁぁぁああああ」
+merman: "`Ah, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh!Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh."
+
+# 428e6141
+; hime: 「きゃっ！な、な、なに？」
+hime: "Oh, my God, what?"
+
+# ff985093
+; me: 「ヒィーン？？（ユールちゃん、これはいったい？）」
+me: "neigh??? (What is this, Yule?")"
+
+# 331fca72
+; yule: 「わ、わかりません。何がなんだか……」
+yule: "Well, I don't know.I don't know what ……"
+
+# 22532e37
+; merman: 「ぐぅぅぅうああああぁあ」
+merman: "`Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,'"
+
+# e7e91886
+; マーマンの体はくねくねと曲がって、奇怪な形になっていく。
+merman's body twists and turns into a strange shape.
+
+# c19333d3
+; merman: 「ああぁぁ……」
+merman: "Ah, ……,"
+
+# fe9c064
+; そして……
+And ……
+
+# e30ee347
+; me: 「ヒヒーン！？！？」
+me: " niegh?!?"
+
+# 4c31a772
+; いきなり、マーマンの姿が変わった。
+Suddenly, merman changed her appearance.
+
+# dbbb904d
+; yule: 「え？これは……？」
+yule: "What? Is this ……?"
+
+# b97b2447
+; 魚の下半身を持った、美しい女性の姿。
+A beautiful Woman with the lower body of a fish.
+
+# 51245e8
+; マーマンが、マーメイドになった！
+merman became a mermaid!
+
+# 4ff735ec
+; hime: 「に、人魚姫さん？」
+hime: "Ni, little mermaid?"
+
+# c843a65c
+; me: 「ヒヒーン！（なるほど！これが賢者様の本当の姿だな！）」
+me: "niegh! (I see! This is the true image of the wise man!"
+
+# 9754fb42
+; この可愛さなら賢者だと認めてもいい。
+With this cuteness, you can admit that you are a wise man.
+
+# f670cfbb
+; yule: 「いや、マーマンは男性です。変身能力があるわけでもない。これはおかしいですよ」
+yule: "No, merman is Man.It doesn't mean he has the ability to transform himself.This is strange."
+
+# 1ef9f2aa
+; hime: 「え、えっと、マーマンさん？いや、マーメイドさん？」
+hime: "Well, Mr. merman?"No, Mr. Mermaid?"
+
+# 753d72fb
+; merman: 「…………」
+merman: "…………"
+
+# fafbe7ed
+; マーマンは微動だにしない。
+merman remained motionless.
+
+# 36f2fca1
+; me: 『ヒーン（……これは……）」
+me: "『niegh ( …… This is ……)"
+
+# c1bcf9bd
+; 目がしんでる。
+My eyes are closed.
+
+# cf6dc737
+; 姿は変わったのはいいが、壊れた機械みたいに停止してる。
+It's good that it's changed, but it's stopped like a broken machine.
+
+# 4adec960
+; あきらかに様子がおかしい。
+Clearly, things are strange.
+
+# 135aded
+; hime: 「えっと……ユールちゃん？」
+hime: "Well, ……Yule?"
+
+# ba9a24dd
+; yule: 「ユールちゃんもわけがわからないですよ。こんなの、どういう事なのか……」
+yule: "I don't know why Yule.I don't know what this is all about ……."
+
+# fce39b69
+; merman: 「……ド……」
+merman: " ……id ……"
+
+# ac97ab04
+; yule: 「えっ？」
+yule: "What?"
+
+# cbce90e2
+; hime: 「マーマンさん、回復した？」
+hime: "Have you recovered, Mr. merman?"
+
+# f6d36d7c
+; merman: 「……ドリームランド……」
+merman: " …… Dreamland ……"."
+
+# f660d991
+; me: 「ヒヒーン？？」
+me: " niegh???"
+
+# ba139bb5
+; yule: 「ドリームランド？」
+yule: "Dreamland?"
+
+# 70b03350
+; いきなり喋りだしたと思ったら、おかしな事を言い始めた。
+I thought I had just started talking, and then I began to say funny things.
+
+# a3cb81c3
+; hime: 「な、何を言ってるんだろう？」
+hime: "What are you talking about?"
+
+# 49d6343c
+; me: 「ヒィーン（……わからん。喋りだしたのはいいけど、まだ目は死んでるし、マトモじゃない気がする）」
+me: "neigh (I don't know ……. I'm glad I started talking, but my eyes are still dead and I don't think I'm a matomo.)"
+
+# f6cc9e33
+; でも声は可愛い。流石に賢者様だ。
+But your voice is cute.He is as wise as ever.
+
+# 44e40552
+; merman: 「人々の夢を媒介に、我々はこの星を侵食する」
+merman: "We will erode this star through people's dreams."
+
+# 51fb00ed
+; yule: 「……これは、『外界の神』の……？」
+yule: "Is this …… of 』, the god of the outside world?"

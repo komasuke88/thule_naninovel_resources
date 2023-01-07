@@ -1,0 +1,225 @@
+; Japanese <ja> to English <en> localization document for `jokulsaafjollum` naninovel script
+
+# a47bb4ba
+; me: 「なんという川だ……」
+me: "What a river ……,"
+
+# 1a6b882
+;  <ruby="ヨークルスアゥ・アゥ・フヨットウム"> Jökulsá á Fjöllum</ruby>川。
+<ruby=" Jokulsa a Fjollum">J ökuls á áFj öllum</ruby> river.
+
+# aed028cc
+; この川の水源は、南アイスランドのヴァトナヨークトル氷河だ。
+The river comes from the Vatnajokull Glacier in South Iceland.
+
+# 5e327c1f
+; 南から北まで川が流れて、最後にはグリーンランド海に出る。
+The river flows from the south to the north, and eventually into the Greenland Sea.
+
+# ff378f28
+; その長さ、206km。
+It's 206km long.
+
+# b8d026a6
+; ハイランドの <ruby="ショウルス"> Þjórsá</ruby>川に続いて、アイスランドで二番目に長い。
+It is the second longest river in Iceland after the <ruby="chorus"> Þj órs á</ruby> river in Highland.
+
+# d69f7db2
+; この川の上流には、有名な滝が３つもある。
+There are three famous waterfalls upstream of this river.
+
+# 245b3f20
+; Hafragilsfoss、Selfoss、Dettifoss。
+Hafragilsfoss, Selfoss, Dettifoss.
+
+# a3c997eb
+; どれも壮大な規模の、アイスランドを代表するような滝だ。
+All of these waterfalls are magnificent and representative of Iceland.
+
+# 6adcba04
+; この川にも、オーガレス（女巨人）の伝承がある。
+There is also a tradition of augerless (female giant) in this river.
+
+# e5d8224e
+; 一人のオーガレスが、二匹の山羊を盗んで逃げるため、
+One augerless stole two goats and ran away;
+
+# 5f58d245
+; 山羊の角を縛って、この川に飛び降りたという。
+He tied the horns of a goat and jumped into the river.
+
+# dc0b395
+; Hafragilsfossは、山羊の滝という意味で、
+Hafragilsfoss means goat waterfall.
+
+# 80c2aa20
+; オーガレスが落ちたせいで凹んだところに滝ができたって事だろう。
+I suppose the augerless fell and formed a waterfall in the recess.
+
+# 5edfa03e
+; me: 「川を沿って、少し上流まで行ってみるか」
+me: "Let's go a little upstream along the river,"
+
+# b409c41f
+; me: 「へぇ」
+me: "Yes,"
+
+# 818edae5
+; 不思議な形の岩が、いっぱい佇んでいた。
+There were many strange-shaped rocks standing.
+
+# a021d013
+; man3: 「君も、トロールを撮りに来たか？」
+man3: "Are you here to film Troll?"
+
+# 116301e
+; me: 「えっ？」
+me: "What?"
+
+# 207fdb96
+; この男は……確かにこの前にも会ったような……
+This Man is ……, certainly the kind of …… I've seen before.
+
+# 92275cc7
+; man3: 「ここは岩になったトロールが多いからな」
+man3: "There are a lot of Troll that have turned into rocks here."
+
+# 8ce9f895
+; me: 「トロール……」
+me: "The Troll……,"
+
+# 72ff199d
+; ここはJökulsá á Fjöllum川の上流、 <ruby="ヴェストアダリル"> Vesturdalur</ruby>峡谷。
+This is the upper stream of the J ökuls á áFj öllum River, <ruby="Best Adaryl">Vesturdalur</ruby> canyon.
+
+# 5ec1320e
+; 数々の奇怪な岩で有名な谷だ。
+It is a valley famous for its many strange rocks.
+
+# 9377cd43
+; こちらの岩の地帯を、 <ruby="フリョウザクレッター"> Hljóðaklettar</ruby>という。
+This rocky area is called <ruby="Flyozakletter">Hlj óðaklettar</ruby>.
+
+# de2e4a33
+; この地帯には <ruby="トロールド"> Tröllið</ruby>、岩になったトロールと名付けられた岩が多い。
+Many rocks in this area are named <ruby=" Trollid">Tr ölli ð</ruby> and the rocked Troll.
+
+# 551fc8a5
+; 一番の目印はこの柱、太陽の光を浴びて岩になった一人のトロールだ。
+The first landmark is this pillar, Troll, a person who has become a rock in the sunlight.
+
+# 483440cd
+; 二番目は、あの２つの柱、あっちも岩になった二人のトロールだ。
+The second was the two pillars, the Troll of the two who had turned into rocks.
+
+# b811f7ad
+; 彼らはこのJökulsá á Fjöllum川を渡るために流れが弱くなるのを待ってけど、
+They waited for the current to weaken to cross the J ökuls á áFj öllum river.
+
+# 8ad240f9
+; その間に夜明けが来てしまって、そのまま岩になったという。
+In the meantime, the dawn came and it turned into a rock.
+
+# 81708732
+; その隣には <ruby="カスタリ"> Kastali</ruby>という、城壁を意味する岩が、その入口に立ってる。
+Next to it stands a rock called <ruby="Castali">Kastali</ruby>, which means a castle wall.
+
+# ce52ac37
+; その名の通り、まるで城壁のような形の岩だ。
+As the name suggests, it is a rock shaped like a castle wall.
+
+# 5cde904b
+; 最後にこの <ruby="キルクザン"> Kirkjan</ruby>。
+Finally, this <ruby="Kirkjan">Kirkjan</ruby>.
+
+# 65a8d2e4
+; 教会の入り口という意味。
+It means the entrance to the church.
+
+# 382e9ed6
+; こちらの岩こそ、 <ruby="フリョウザクレッター"> Hljóðaklettar</ruby>の名の起源だ。
+This rock is the origin of the name <ruby="Flyozakletter">Hlj óðaklettar</ruby>.
+
+# 4125dead
+; Hljóðaklettarは、Echo Rockという意味。
+Hlj óðaklettar means Echo Rock.
+
+# db895031
+; その名の通り、あの穴に向かって何かを叫んだら、エコーが返ってくる。
+As the name suggests, if you shout something into that hole, you'll get an echo back.
+
+# d49f873
+; しかしそのエコーは、
+But the echo is,
+
+# e302c945
+; 自分の声とは全く別の、歪な声色に変わって返ってくるという。
+His voice changed completely different from his own, and his voice changed to a distorted one.
+
+# df14207
+; それは、まるでこの中に住む超現実的な存在の回答のようだという。
+It seems to be the answer of a surreal being who lives in it.
+
+# 64c2a003
+; man3: 「君も、ここで何か叫んでみるがいい。面白いぞ。じゃあな！」
+man3: "You ought to shout something here, too.That's funny, then!"
+
+# 327707d2
+; me: 「は、はあ……」
+me: "Yes, ……,"
+
+# 22f925d2
+; トロール岩について、色々な説明をしたあと、彼は去っていた。
+Troll After giving various explanations about the rock, he left.
+
+# 17909ca9
+; なんだったんだろう。
+What was that?
+
+# 88449027
+; me: 「ふむ」
+me: "Well,"
+
+# 7373677e
+; しかし、エコーの岩か。
+But it's an echo rock.
+
+# 89427780
+; 俺もちょっと、叫んでみるかな。
+I I think I'll shout it out loud.
+
+# d18537a
+; me: 「おーーーい！」
+me: "Yes!"
+
+# dc992ec
+; しばらくして、エコーが返ってきた。
+After a while, an echo came back.
+
+# 658cb3e6
+; unknown: 「ギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギギ」
+unknown: "Giggling Kigigigigigigigigigi"."
+
+# f0d8af8a
+; me: 「なっ！？」
+me: "What!"
+
+# 75ce4432
+; ぞっとした。
+I shuddered.
+
+# b332a423
+; そのエコーは確かに自分の声と似てるけど、全然別の、まるで悪魔の声のように聞こえた。
+The echo was certainly similar to my own, but it sounded completely different, like a devil's voice.
+
+# 350735e
+; ……ただの、エコーであってるよな？
+…… It's just an echo, right?
+
+# 817ec19b
+; me: 「す、すみませんでした……」
+me: "Yes, I'm sorry ……,"
+
+# 44b4b87a
+; 何故か俺は謝罪を言葉をして、慌ててその場から去ってしまった。
+For some reason, me apologized and hurried away.

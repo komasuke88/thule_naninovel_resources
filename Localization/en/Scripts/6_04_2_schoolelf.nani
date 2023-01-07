@@ -1,0 +1,217 @@
+; Japanese <ja> to English <en> localization document for `6_04_2_schoolelf` naninovel script
+
+# 7a424f44
+; 廊下から教室の中を覗いてみた。
+I peeped through the hallway into the classroom.
+
+# 250a0cee
+; そこには、沢山の学生がいた。
+There were many students there.
+
+# fb23b793
+; me: 「学生？」
+me: "Student?"
+
+# a3bca037
+; yule: 「前回と同じく、エルフが変身してるんです。{playerName}の記憶を元に」
+yule: "Just like last time, Elf is transformed. Based on {playerName}'s memory."
+
+# ba27fc9f
+; me: 「一人ではないみたいけど」
+me: "I don't think I'm alone"."
+
+# b12276b4
+; yule: 「主人は一人だけなはずです。しかし、ゲストを呼びましたね」
+yule: "There must be only one Master.But you invited a guest."
+
+# e2d00e0c
+; me: 「ゲストって？」
+me: "Guest?"
+
+# 16ec2bfc
+; yule: 「友達を呼んで一緒に遊んでるんですよ。言わば{playerName}の記憶の内容で演劇をやってるんです」
+yule: "I call my friends and play with them.I'm doing a play based on the memory of {playerName}."
+
+# d6e20130
+; me: 「それは愉快じゃないな。[i]ってことは、今回は全員を相手にイタズラするのか？」
+me: "That's not pleasant.[i]Does that mean you're going to prank everyone this time?"
+
+# a165930a
+; yule: 「主人だけを狙ったほうが効果的ですね」
+yule: "It's more effective to aim only at Master."
+
+# 7fb93a41
+; me: 「誰が主人だ？」
+me: "Who has Master?"
+
+# 791906d0
+; yule: 「あの中から一番、昔の{playerName}にそっくりだと思うエルフを、一人だけ決めて下さい」
+yule: "Only one of them should decide which Elf looks the most like the old {playerName}."
+
+# 5facabf3
+; me: 「そんなの、今は記憶がないから分からん」
+me: "I don't remember that now, so I don't know,"
+
+# 230df04b
+; yule: 「それでも決めてくれないと進まないですよ」
+yule: "But if you don't decide, you can't move on."
+
+# d25ffa69
+; me: 「……外したら、どうなる？」
+me: "What happens if I take …… off?"
+
+# 1d21d6c4
+; yule: 「逆襲されるでしょう。あのエルフたちは数が多いから、こっちは分が悪いです」
+yule: "It will be counterattacked.Those Elfs have a lot of numbers, so I don't know what to do with them."
+
+# ad0ca1c3
+; me: 「逆襲か。[i]あいつらの魔法は恐ろしかったからな。[i]わかった。なるべく慎重に選ばないと」
+me: "A counterattack. [i] Their magic was frightening.[i]I got it.We must choose as carefully as possible."
+
+# d8543fa9
+; yule: 「自分の感を信じたらいいのです。[i][char yule.r-kusu]では、まずは観察です」
+yule: "You can trust your feelings.[i][char yule.r-kusu] Let's observe first."
+
+# f94925cb
+; また廊下から教室の中を覗いてみた。
+I looked into the classroom again from the corridor.
+
+# 4b64fb18
+; よくみたら男子生徒４人と……
+If you look closely, you'll see Man with four students and …….
+
+# 6a9b365b
+; 女子生徒が一人……って！？
+One School Girl is ……!?
+
+# 7dca617f
+; me: 「あ、あの子は！？」
+me: "Oh, what about her!"
+
+# 52b5c3eb
+; @choice "調子を見る" goto:.chousi
+@choice "See how it goes" goto:.chousi
+
+# 77423fbe
+; @choice "飛び出す" goto:ed_6_04_2_himeelf
+@choice "Jump out" goto:ed_6_04_2_himeelf
+
+# c6601ef4
+; me: 「あの子も、変身してるエルフなんだな」
+me: "She's a transformed Elf, too."
+
+# 42cb3b9b
+; yule: 「あのデカパイの事ですかね？」 
+yule: "You mean that big pie?"
+
+# 742aadb
+; me: 「で、デカパイって……まぁそうだよ。あの子は姫花。アイスランド旅行に来た日本の大学生」
+me: "And the big pie is …… Well, yes.She is Himehana, a Japanese university student who came on a trip to Iceland."
+
+# 7e600c2c
+; yule: 「あっ！{playerName}が空港で出会ったというあの女ですね？」
+yule: "Oh! Is that the woman {playerName} met at the airport?"
+
+# b4c8e595
+; me: 「そうだよ。ここが俺の高校での記憶なら、登場するはずがないんだけど……」
+me: "Right. If this is me's memory in high school, it wouldn't appear ……."
+
+# a45a923a
+; yule: 「実は{playerName}の昔からの知り合いだったとか？」
+yule: "Did you actually know {playerName} for a long time?"
+
+# d97fe3b7
+; me: 「そう……かな？いや、ヒメとはこのアイスランドで初めて会ったはずだが……」
+me: "Yes, ……?"No, I must have met Hime for the first time in Iceland."
+
+# 29061c7e
+; yule: 「はて、これはどういう事か、ユールちゃんにもちょっとわかりません」
+yule: "Well, Yule doesn't know what this means,"
+
+# 7855944
+; me: 「俺の色んな記憶がごちゃごちゃになってるのかな？」
+me: "Are all the memories of me mixed up?"
+
+# 25d8ca34
+; yule: 「そう、かもしれませんね」
+yule: "Yes, perhaps,"
+
+# f560aa9d
+; me: 「うむ」
+me: "Yes,"
+
+# 7ee61a27
+; yule: 「……それにしても、あの女」
+yule: "…… "But she is,"
+
+# 1581450d
+; me: 「うん？」
+me: "Huh?"
+
+# 6e16fb5
+; yule: 「おっぱいデカすぎだと思いません？」
+yule: "Don't you think it's too big?"
+
+# c71473b5
+; me: 「ぷ—————っ！」
+me: "`Poooooooooooooooooooooooooooooooooooooo"
+
+# 62b63adb
+; yule: 「あれは童貞を殺しますね。{playerName}はきっとあのおっぱいにメロメロだったんでしょうね」
+yule: "That's killing her. {playerName} must have been in love with that milk."
+
+# 672afbc4
+; me: 「そ、そんな事ないぞ」
+me: "Well, that's not the case,"
+
+# acba7afc
+; とは言ったものの、ヒメのおっぱいを意識すると……
+Nevertheless, …… is conscious of the milk of Hime.
+
+# b6da4360
+; あの時のビキニ写真が思い浮かぶのが止められない。
+I can't stop thinking of those bikini pictures.
+
+# 7ebd7f6b
+; @choice "心頭滅却" goto:.sinntou
+@choice "Destroy your mind" goto:.sinntou
+
+# 80672308
+; @choice "我慢できない" goto:ed_6_04_2_himeoppai
+@choice "I can't stand it" goto:ed_6_04_2_himeoppai
+
+# 650e0334
+; ……い、いかん。し、心頭滅却だ！
+…… No, no, no, no, no, no, no, no, no, no, no, no, no!
+
+# a63a40fb
+; me: 「と、とにかく観察するぞ」
+me: "Well, I'll observe,"
+
+# eadde089
+; よ、よし。
+All right, all right.
+
+# 3f7299d3
+; 雑念を振り払った。
+I let go of my thoughts.
+
+# 346066b6
+; yule: 「は——い」
+yule: "Yes,"
+
+# dc80f3e3
+; ユールちゃんが何故かしょんぼりだけど、このまま何か話すとまたウザい冗談をしそうだから無視した。
+Yule was somewhat discouraged, but he ignored it because he was likely to make another funny joke if he kept saying something.
+
+# 2395a030
+; それより観察だ。
+It's more of an observation than that.
+
+# 123b667e
+; 昔の俺が誰なのか、よくみてターゲットを決める。
+Look carefully at who the old me was and decide on the target.
+
+# e0a5785b
+; 俺は静かに耳を立てて覗いてみた。
+I looked quietly up in his ear up.
