@@ -29,13 +29,23 @@ Location this source in `thule_naninovel_resources` folder to your Desktop Folde
 
 ## (2) Run in test application
 
-Download Test Application in Steam Beta (for Windows/Mac)
+Test Application in itch (for Windows)
+
+https://komasuke.itch.io/thule
+
+Download *thule-beta-20230828.zip*
+
+Run Travel Thule.exe 
+
+Check game language is english
 
 Application read scripts in your ~/Desktop/thule_naninovel_resources 
 
-then you can view modified text in game screen.
+You can modified english text in source.
 
-# Apply 
+and restart application to check it applied in game screen.
+
+# Final commit to real game application
 
 ## PR to this github
 
@@ -44,4 +54,6 @@ Send pull Request.
 Then We check modified is script and apply to steam game application.
 
 (this work maybe twice in month)
+
+send email to me. or comment in this github issue
 
