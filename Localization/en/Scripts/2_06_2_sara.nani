@@ -260,9 +260,9 @@ me: "I didn't recognize you"."
 ; sara: 「このセクシーなお姉さんの姿に見惚れちゃった？[i][char sara.rough_komaru_w]……なんちゃって」
 sara: "Did you fall in love with her sexy sister?"[i][char sara.rough_komaru_w] …… Oh my gosh."
 
-# 669c0ac9
-; me: 「ぷーっ！」
-me: "`Poo!'"
+# 5567aabd
+; me: 「ぶーっ！」
+me: "Poo!"
 
 # b0143036
 ; サラは腕を上げて、セクシーポーズをしてみせた。

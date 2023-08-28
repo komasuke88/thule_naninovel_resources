@@ -150,7 +150,7 @@ lilja: "Can't you?"
 
 # 39507ca
 ; me: 「駄目ってわけじゃないけど……ディムボルギルに着くの、いつになるかわからないよ？[i]俺の都合もあるからな」
-me: "It's not that I can't, but I don't know when I'll arrive at ……dimmuborgir.[i]for me's convenience."
+me: "It's not that I can't, but I don't know when I'll arrive at ……dimmuborgir.[i]for my convenience."
 
 # 8d3ae35d
 ; lilja: 「構わないわ。いつか寄るのなら、その間は隣でじっとしてるわ」
@@ -178,7 +178,7 @@ dimmuborgir It's not efficient to go right away because it's far away.
 
 # 334911c1
 ; 俺の目的はリングロード一周で、旅行記を書く事だ。
-The purpose of me is to go around Ring Road and write a travel journal.
+The purpose of I'm to go around Ring Road and write a travel journal.
 
 # bb0dbb5b
 ; ディムボルギルに行くのが目的なんじゃない。
@@ -270,7 +270,7 @@ me: "What, consultation?"
 
 # 445b2aff
 ; っていうか俺の名前、覚えていたんだな。
-I mean, you remembered me's name.
+I mean, you remembered my name.
 
 # 2377b881
 ; 今まで【あなた】としか言ってないから、覚えられてないと思ってた。
@@ -334,11 +334,11 @@ me: "Yes, take care."
 
 # a19ae7ac
 ; そのまま去っていく俺の背中越しで、リルヤの声が聞こえた。
-I heard Lilya's voice over me's back as she walked away.
+I heard Lilya's voice over my back as she walked away.
 
 # 6ca31163
 ; lilja: 「 <ruby="ブレス・ブレス"> bless</ruby> bless」
-lilja: "「 <ruby="breath brace">bless</ruby>bless"
+lilja: " <ruby="breath brace">bless</ruby>bless"
 
 # b1e29ad4
 ; それはアイスランド語で、お別れの挨拶。
@@ -346,7 +346,7 @@ That's Icelandic, saying goodbye.
 
 # cc829b4f
 ; me: 「 <ruby="ブレス"> Bless</ruby>」
-me: "「 <ruby="Bless">Bless</ruby>"
+me: " <ruby="Bless">Bless</ruby>"
 
 # b5b6c6
 ; だから俺も、同じアイスランド語で回答しながら、その場を去った。

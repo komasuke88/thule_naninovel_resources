@@ -54,7 +54,7 @@ yule: "Let's give up that monastery,"
 
 # 41b16182
 ; trollbig: 「<s>　　　　　　　　　　　　</s>」
-trollbig: "<s></s>"
+trollbig: "<s>　　　　　</s>"
 
 # 34926c9d
 ; yule: 「今日は尋ねたい事がありまして。あの人間の記憶ですが……」
@@ -70,7 +70,7 @@ yule: "What? You already knew.As expected, they are ancestors."
 
 # d58330bc
 ; trollbig: 「<s>　　　　　　　　　　　　　　</s>」
-trollbig: "<s></s>"
+trollbig: "<s>　　　　　</s>"
 
 # b21fcc9b
 ; yule: 「あ～～なるほど、ヒルドルですね。となると全ての鍵は、あいつが持ってるのかな」
@@ -94,7 +94,7 @@ yule: "What? That Ghost? Yes. …… by chance is just right.As for Ghost's body
 
 # 78b43371
 ; trollbig: 「<s>　　　　　　　　</s>」
-trollbig: "<s></s>"
+trollbig: "<s>　　　　　</s>"
 
 # 3ece3f8d
 ; yule: 「ええっ？そうですか？？」

@@ -96,8 +96,8 @@ It spread to the European atmosphere and claimed tens of thousands of lives.
 ; 噴煙の粒子と火山灰のせいで、北半球全体の気温が下がり、
 Because of the smoke particles and volcanic ash, the temperature of the entire northern hemisphere dropped.
 
-# 55463005
-; 異常気象による連載的な食糧不足が始まった。
+# ea9a5598
+; 異常気象による連鎖的な食糧不足が始まった。
 A series of food shortages have begun due to abnormal weather conditions.
 
 # 649a452
@@ -184,9 +184,9 @@ I wonder if the day will come when the passion will be revealed again.
 ; me: 「……」
 me: "……"
 
-# 4a4f6cdc
-; そうやって一人で感想にうつっていたときに、ユールちゃんが話しかけてきた。
-While I was alone in my thoughts, Yule spoke to me.
+# ef064e24
+; そうやって一人で感傷に浸っていたときに、ユールちゃんが話しかけてきた。
+While I was alone in such sentimentality, Yule spoke to me.
 
 # a9b4931
 ; yule: 「ささ、ヒルドルを探しますか。この一帯のどこかに居るはずです」
@@ -226,7 +226,7 @@ me: "niegh (What's the matter?)"
 
 # add0e076
 ; 俺の背中で、ユールちゃんはヒメの方を振り向きながら言った。
-On me's back, Yule turned to Hime and said,
+On my back, Yule turned to Hime and said,
 
 # e8906df1
 ; yule: 「あ、あなた、ちゃんと後ろに乗ってましたね？」
@@ -266,7 +266,7 @@ hime: "Huh? I see,"
 
 # f9cbbb1e
 ; 二人は俺の背中から降りて、地面にたち、向き合った。
-They got down from me's back, stood on the ground, and faced each other.
+They got down from my back, stood on the ground, and faced each other.
 
 # 5226e7f
 ; yule: 「あ、あなた？……う、腕が？」
@@ -326,7 +326,7 @@ hime: "Well, Yule is ……[i][char hime.e] ……?"
 
 # e8530757
 ; そう心配したヒメの透明な左腕が、いきなり点滅しはじめ……
-So worried, Hime's transparent left arm suddenly began to blink ……
+So worried, Himy transparent left arm suddenly began to blink ……
 
 # 49f056ec
 ; yule: 「腕、戻りましたね」
@@ -348,9 +348,9 @@ me: "niegh (This is ……."
 ; yule: 「そういえば、トゥーレに来た人間が元の世界に戻る時、こんな風に透明化してたんですが……」
 yule: "Come to think of it, when people who came to Thule returned to their original world, they made it transparent like this. ……."
 
-# 399f5099
-; me: 「ヒヒーン（そういや、リルヤもの時もそうだったな。透明になって）」
-me: " niegh (and so did Lilya.Be transparent.)"
+# 58a1381c
+; me: 「ヒヒーン（そういや、リルヤの時もそうだったな。透明になって）」
+me: "Hee-hee-hee (well, that's what happened to Lilja. (Turned invisible)."
 
 # f2fc5a8a
 ; hime: 「えっ？わたし、もう人間世界に戻るの？」

@@ -2,7 +2,7 @@
 
 # 9b15b121
 ; me: 「Hello」
-me: "Hello"."
+me: "Hello"
 
 # 31ed3b3
 ; girl: 「えっ？」
@@ -10,15 +10,15 @@ girl: "What?"
 
 # 2757e6
 ; 知らない人に話かけるのって、ドキドキするな。
-Don't be nervous talking to strangers.
+It is nervous talking to strangers.
 
 # 309607a0
 ; こういうの、ちょっと楽しいかもしれない。
-It might be fun.
+And it might be fun.
 
 # 4f1e0bf6
 ; 日本では、こういう事絶対しなかったもんな、俺。
-We never did this in Japan, me.
+I never did this in Japan, hometown.
 
 # 861362b4
 ; 旅行に来て、既に俺はちょっとだけ変わってるかもしれない。
@@ -26,7 +26,7 @@ I may have changed a little since I came on a trip.
 
 # 958c1ae2
 ; これからもこの旅では、なるべく積極的に話しかけていこう。
-Let's continue to talk to each other as actively as possible on this trip.
+Let's continue to talk to person as actively as possible on this trip.
 
 # b650d1e5
 ; me: 「Are you OK?」
@@ -34,7 +34,7 @@ me: "Are you OK?"
 
 # 59882160
 ; girl: 「……あ、イエス？」
-girl: "…… "Oh, yes?"
+girl: "…… Oh, ye, yes?"
 
 # e58718c2
 ; 知らない人に話しかけられて、女の子は狼狽えてるようにみえた。
@@ -46,11 +46,11 @@ me: "Do you have problem? May I help you?"
 
 # 52ac1329
 ; girl: 「え、えっと。あ、アイエム……」
-girl: "Oh, well, I.M. ……."
+girl: "Oh, well, I. M. ……."
 
 # bb59468a
 ; 俺もあまり上手とは言えないけど、この子も結構苦手のようだな、英語。
-I I can't say he's good at it, but he's not good at English either.
+I can't say I'm good at english, but she's not good at English either.
 
 # 110e6285
 ; それにしても、発音からしてなんだか日本人っぽいな。
@@ -86,7 +86,7 @@ Then Girl sighed, as if relieved, and asked,
 
 # ec182c9d
 ; girl: 「あ、あの。ここが、レイキャヴィクですか？」
-girl: "Oh, is this Reykjavik?"
+girl: "Oh, is this Reykjavik here?"
 
 # 2f0636b4
 ; me: 「はい？？」
@@ -98,7 +98,7 @@ This is that.
 
 # d9aca397
 ; あの黄色いバスがレイキャヴィク行きだと思って、そのまま乗ってきた口だ。
-I thought that yellow bus was bound for Reykjavik, so I just got on board.
+She thought that yellow bus was bound for Reykjavik, so maybe she just got on board.
 
 # 9958e8f4
 ; me: 「いや、ここは空港のレンタカー事務所ですよ」
@@ -110,7 +110,7 @@ girl: "Is this a rental car?"
 
 # cd8d2fa
 ; me: 「バスに【Rent Car Shuttle】と書いてあったんですけど、見落としたんですね」
-me: "The bus Rent Car Shuttle 】 was written on 【, but you missed it."
+me: "The bus 【Rent Car Shuttle】 was written on, but you missed it."
 
 # 6b73f9a4
 ; girl: 「ええっ！？そうだったんですかぁ？？ど、どうしよう」
@@ -130,11 +130,11 @@ me: "Oh, really?"
 
 # b7d7c2c2
 ; アイスランド旅行を、車なしでも来れるもんだな。
-You can travel to Iceland without a car.
+Travel to Iceland without a car?
 
 # 52cb7d97
 ; とりあえず俺は、ここからバスでレイキャヴィクに行ける方法を教えた。
-For the time being, me taught me how to get to Reykjavik by bus.
+For the time being, I taught her how to get to Reykjavik by bus.
 
 # cd866064
 ; me: 「ここで少し待ってたら、先の黄色いバスがまた来ますんで」
@@ -150,23 +150,23 @@ me: "You can go back to the airport and transfer to bus for Reykjavik instead of
 
 # a90eac76
 ; girl: 「……えっと、お兄さんも、戻るんですか？空港に」
-girl: "…… "Well, are you going back, too?"at the airport."
+girl: "……Well, are you going back, too? to the airport."
 
 # 43ed9d1e
 ; おじさんではなくお兄さんか。……いい子だな。
-It's not my uncle, it's my brother. …… He's a good boy.
+She talk to me carefuly.
 
 # 647031af
 ; me: 「いいえ。俺はここから直ぐにレイキャヴィクへ」
-me: "No, me is going to Reykjavik right from here."
+me: "No, I'm going to Reykjavik right from here."
 
 # 647b0ab8
 ; 俺は借りたばかりの相棒を指しながら言った。
-I said, pointing to his new partner.
+I said, pointing to my new partner.
 
 # 57a63387
 ; girl: 「そっか！車借りたんですね。[i][char hime.winter_b_a_emi]それでレイキャヴィクに行くんですね」
-girl: "I see! You rented a car.[i][char hime.winter_b_a_emi] That's why you're going to Reykjavik."
+girl: "I see! You rented a car.[i][char hime.winter_b_a_emi] You're going to Reykjavik by the car"
 
 # c13a433e
 ; me: 「そうですよ」
@@ -174,7 +174,7 @@ me: "Yes,"
 
 # 8a371af7
 ; girl: 「……わたしも、レイキャヴィクに向かうところだったんですよー」
-girl: "…… `I was on my way to Reykjavik,'"
+girl: "…… I want to go Reykjavik too"
 
 # 93efd6d5
 ; me: 「うん。知ってます」
@@ -182,11 +182,11 @@ me: "Yes, I know."
 
 # 84d7a305
 ; girl: 「…………目的地、同じですね、わたし達」
-girl: "………… "The destination is the same, isn't it?"
+girl: "…………The destination is the same, isn't it?"
 
 # db64cb34
 ; me: 「そうですね」
-me: "Yes,"
+me: "Yes"
 
 # bc68dc8b
 ; girl: 「いいなー、車」
@@ -198,7 +198,7 @@ Then Girl stared at me.
 
 # 9cefc524
 ; me: 「……えっと」
-me: "…… "Well,"
+me: "…… Well,"
 
 # 2dfa5ebe
 ; girl: 「……」
@@ -218,15 +218,15 @@ me: "Would you like to go with me to Reykjavik?"
 
 # 3354a1fa
 ; girl: 「ええっ？いいですかぁぁ？！」
-girl: "Huh? All right.Oh, my dear fellow!"
+girl: "Huh? Is it All right? Oh, my dear fellow!"
 
 # 67ba77a5
 ; 早速食いつてきた。
-I ate right away.
+She got it right away.
 
 # 5118a468
 ; me: 「……うん。ついでだし」
-me: "Yes, by the way."
+me: "Yes, It's easy"
 
 # 2e321425
 ; girl: 「わぁ！ありがとうございます！」

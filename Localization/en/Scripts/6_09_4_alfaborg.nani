@@ -14,7 +14,7 @@ me: "I see the sea again,"
 
 # 71117f7e
 ; yule: 「 <ruby="ボルガルフィヨルズル"> Borgarfjörður</ruby>  <ruby="エイストリ"> Eystri</ruby>です。アイスランドの東の海ですね」
-yule: "「 This is <ruby="Borgarfj ðr öur</ruby><ruby="astry">Eystri</ruby>.the sea to the east of Iceland."
+yule: " This is <ruby="Borgarfj ðr öur</ruby><ruby="astry">Eystri</ruby>.the sea to the east of Iceland."
 
 # fd691a4f
 ; me: 「そうか。ボルガルフィヨルズルエイストリか」
@@ -132,8 +132,8 @@ me: "Is it Hildur?"
 ; hime: 「そのヒルドルって人が、わたしの体を持ってるの？」
 hime: "Does that Hildur have my body?"
 
-# 40d34674
-; yule: 「いいえ。あたなの体を持ってるエルフが今、ヒルドルの家にお邪魔してるんです」
+# 1a52131f
+; yule: 「いいえ。あなたの体を持ってるエルフが今、ヒルドルの家にお邪魔してるんです」
 yule: "No, Elf, who has your body, is visiting Hildur's house right now."
 
 # b1653ce1

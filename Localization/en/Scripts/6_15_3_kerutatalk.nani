@@ -226,7 +226,7 @@ I fell on my bottom.
 
 # 81adc06b
 ; 俺が人間に戻ったのは、ケルタちゃんにも予想外の事だったみたいだ。
-me's return to human life seemed unexpected to Kerta.
+my return to human life seemed unexpected to Kerta.
 
 # 1564c17
 ; では、何でいきなり魔法が解けたんだ……
@@ -240,8 +240,8 @@ keruta: "Were you under the spell of polymorph?"to Elf."
 ; me: 「あ、ああ。そうだけど」
 me: "Oh, yes, yes."
 
-# 136ab3d3
-; keruta: 「ポリモーフが解除される条件は３つくらいです。[i]術者が自ら解けてくれるか、特級の大魔法で治すか、それとも……」
+# 1929f1c2
+; keruta: 「ポリモーフが解除される条件は３つくらいです。[i]術者が自ら解いてくれるか、特級の大魔法で治すか、それとも……」
 keruta: "There are about three conditions under which polymorph is released.[i]Either the operator will solve it himself, or he will cure it with special magic, or ……."
 
 # b96abd0d
@@ -300,8 +300,8 @@ Kerta She looks upset because she doesn't match the characters.
 ; そういえばこの子たち、ヒルドルを探してるって言ったっけ？
 Come to think of it, did I say they're looking for Hildur?
 
-# 119d8786
-; me: 「そ、そうだな。あいつがそう簡単に死ぬとは思えないがな。エルフの女王だし。[i]他の何かが原因で、解けたんじゃないか？[i]ヒルドルが遠隔で解けてくれたとか？」
+# bb1dfdc3
+; me: 「そ、そうだな。あいつがそう簡単に死ぬとは思えないがな。エルフの女王だし。[i]他の何かが原因で、解けたんじゃないか？[i]ヒルドルが遠隔で解いてくれたとか？」
 me: "Yes, sir.I don't think he'll die so easily.She's the queen of Elf.[i]Something else might have solved it.[i]Did Hildur solve it remotely?"
 
 # 2f853cd5

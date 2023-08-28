@@ -156,13 +156,9 @@ hime: "Do you know him?"
 ; yule: 「……」
 yule: "……"
 
-# a0eac4a1
-; lilja: 「……彼女たちは……[i][char lilja.sad_huse_e]
-lilja: "…… They are ……[i][char lilja.sad_huse_e]
-
-# 1053cd34
-; lilja: あれ？」
-lilja: "What?"
+# e502c1f9
+; lilja: 「……彼女たちは……[char lilja.sad_huse_e]あれ？」
+lilja: "…… They are ……[i][char lilja.sad_huse_e]What?"
 
 # 4402d800
 ; me: 「？？」
@@ -172,8 +168,8 @@ me: "？？"
 ; リルヤはまるで蜃気楼でも見たかのように、
 Lilya as if he had seen it in a mirage;
 
-# 3c94924f
-; 周りをギョロギョルと見渡した。
+# 419381be
+; 周りをキョロキョロと見渡した。
 I glanced around.
 
 # fb90a9fd

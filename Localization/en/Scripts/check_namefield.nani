@@ -2,7 +2,7 @@
 
 # e5a4bcd1
 ; @input playerName summary:"俺の名前は……" value:{T_DefaultName}
-@input playerName summary:"The name of the me is ……" value:{T_DefaultName}
+@input playerName summary:"The name of the I'm ……" value:{T_DefaultName}
 
 # 9dee4e81
 ;     girl: 「そんな、でっち上げにしても安直すぎませんか？」

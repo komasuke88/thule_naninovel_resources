@@ -268,8 +268,8 @@ yule: "Well, that's Yule's specialty, so leave it to me."
 ; me: 「何をするんだ」
 me: "What are you going to do?"
 
-# fa19f773
-; yule: 「ユールちゃんが窓からごっそり忍び込んで、あいつらが大嫌いなイタズラをかましてあげるのです」
+# 28e80bd6
+; yule: 「ユールちゃんが窓からこっそり忍び込んで、あいつらが大嫌いなイタズラをかましてあげるのです」
 yule: "The Yule sneaks in through the window and makes fun of the pranks they hate."
 
 # 53c4376a
@@ -312,8 +312,8 @@ me: "Well, it's hard, isn't it?Are you sure you're all right?"
 ; yule: 「大丈夫です。[i]今はあんなにパソコンに気が取れてるから、絶対に見つかりませんよ。……では！」
 yule: "It's all right. [i] You're so distracted with your computer right now that you'll never find it. ……!"
 
-# c960fafd
-; ユールちゃんはごっそり窓から潜入すると、見つからないようにとベッドの下に隠れた。
+# cc2b0873
+; ユールちゃんはこっそり窓から潜入すると、見つからないようにとベッドの下に隠れた。
 Yule sneaked through the window, and hid under the bed in order not to be found.
 
 # e190e3b

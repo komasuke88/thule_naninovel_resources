@@ -120,9 +120,9 @@ himeelf: "Yes, the people of the sea,"
 ; yule: 「海の民？」
 yule: "Sea people?"
 
-# 865918cb
-; himeelf: 「おまいらトーロルはまだ知らんかもしれないが……我々エルフは結構やられてるんだわい」
-himeelf: "You may not know Torrol yet, but …… we Elf are quite well played."
+# bb7543db
+; himeelf: 「おまいらトロールはまだ知らんかもしれないが……我々エルフは結構やられてるんだわい」
+himeelf: "You may not know Troll yet, but …… we Elf are quite well played."
 
 # 50b4a051
 ; yule: 「どういうことです？」

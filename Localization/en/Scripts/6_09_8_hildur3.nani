@@ -320,9 +320,8 @@ hildur: "`Wow, ……♡, what a great ……♡'"
 ; 想像もできなかったいい手応え。
 It's a good response that I couldn't imagine.
 
-# 23529234
-; 素手でおっぱいを叩くなんて、生まれて初めてだ。
-It's the first time in my life that I've ever hit a breast with my bare hands.
+# 748c7a3a
+; 素手でお尻を叩くなんて、生まれて初めてだ。
 
 # 2958f348
 ; いや、過去の記憶はないけど、多分、童貞の俺ならこれ絶対に初体験だ。
@@ -442,15 +441,11 @@ That started again.
 
 # f51e0c15
 ; そして、俺の衝動は……
-And me's impulse is ……
+And my impulse is ……
 
 # 56e70b23
 ; @choice "耐える" goto:.taeru
 @choice "I'll endure" goto:.taeru
-
-# 4382ae80
-; @choice "犯す" goto:ed_6_09_8_noroi
-@choice "Crime" goto:ed_6_09_8_noroi
 
 # 4680ebd1
 ; me: 「た、たすけ……」
@@ -628,8 +623,8 @@ Hildur stared meaningfully at me.
 ; 期待に満ちた眼差しで……
 …… with a hopeful look
 
-# ada4f804
-; hildur: 「悪霊化、遅らせる事もできるけど、やめようなかなぁ」
+# 877c3381
+; hildur: 「悪霊化、遅らせる事もできるけど、やめよっかなぁ」
 hildur: "I can delay demonization, but I think I should stop."
 
 # 7762093
@@ -656,9 +651,8 @@ hildur: "Yes! ♡♡"
 ; me: 「この！早くやれ！！悪霊化を遅らせるんだ！」
 me: "Hey! Hurry up and do it!Delay the demonization!"
 
-# 982c2e5e
-; またおっぱいを叩いた。
-I hit the breast again.
+# 347c4e55
+; またお尻を叩いた。
 
 # 374c2478
 ; 今回は両手で！めちゃくちゃに！

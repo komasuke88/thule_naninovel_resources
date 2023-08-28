@@ -2,11 +2,11 @@
 
 # c908e9c5
 ; me: 「寝るか」
-me: "Are you going to sleep?"
+me: "May I going to sleep?"
 
 # 86529b10
 ; そういやあの苔、ふかふかで、よく眠れそうだ。
-by the way That moss is so soft that I think I can sleep well.
+by the way, That moss is so soft that I think I can sleep well.
 
 # a52c7061
 ; 俺は車から降りて、苔の草原の真ん中へと駆け出した。
@@ -14,7 +14,7 @@ I got out of the car and ran into the middle of the mossy meadow.
 
 # 5321e0cd
 ; me: 「うん。これ、ちょうどいいな」
-me: "Yes, this is just right."
+me: "Yes, this is just good"
 
 # d95a4623
 ; よし、寝るぜ。
@@ -22,7 +22,7 @@ All right, I'm going to bed.
 
 # 250a2a1c
 ; おやすみベイベー、いい夢を……
-Good night babe, sweet dreams ……
+Good night baby, sweet dreams ……
 
 # b9f0f216
 ; ……………………
@@ -50,7 +50,7 @@ unknown: "I can smell their curse from this man,"
 
 # 1154c62e
 ; unknown2: 「って事は狂死ですかね。……でもこれ、普段のあいつらの手口とは違いますね」
-unknown2: "I mean, it's madness, ……, but it's different from their usual tricks."
+unknown2: "I mean, it's death by madness……, but it's different from their usual tricks."
 
 # 4631e4f
 ; unknown: 「最近、あいつらもちょっと変なのよ」
@@ -62,7 +62,7 @@ unknown2: "What on earth is going on in Iceland?"
 
 # 51778839
 ; unknown: 「……で、どうするかしら、この人間」
-unknown: "What shall I do with ……, my dear fellow?"
+unknown: "What shall I do with …… this man?"
 
 # 2816ef95
 ; unknown2: 「うーん。遠い異国の地で客死なんて、可哀想ですね」
@@ -78,4 +78,4 @@ unknown2: "Yes, I will,"
 
 # cc5593d1
 ; <s>　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに。
-<s>    </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>.Bless you on a holy night.
+<s>    </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>. Bless you on a holy night.

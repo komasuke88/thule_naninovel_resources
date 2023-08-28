@@ -6,7 +6,7 @@ Cold。
 
 # d4f69110
 ; 感覚があるってことは、どうやら俺は生きてるみたいだ。
-Sensibility means that me is alive.
+Sensibility means that I'm alive.
 
 # 79fd7e14
 ; 長い間、眠っていた気がするけど、そろそろ……
@@ -58,7 +58,7 @@ yule: "Yes, it's your Yule."
 
 # d550099c
 ; me: 「お、俺は……。」
-me: "Oh, me is ……."
+me: "Oh, I'm ……."
 
 # f72f7d6d
 ; yule: 「本当にどうなるかと思いましたよ。狂死一歩前でした」
@@ -134,7 +134,7 @@ yule: "But it nearly killed {playerName}.You can't do that.[i][char yule.yoko_an
 
 # 4ad54969
 ; me: 「ああ。俺はもう平気だ。そろそろ起き上がらなくちゃな……」
-me: "Yes, me is all right now.It's about time I got up ……."
+me: "Yes, I'm all right now.It's about time I got up ……."
 
 # 14cef75c
 ; ずっと座ったままだった俺が、起き上がろうとすると、
@@ -286,7 +286,7 @@ the dawn sky before dawn, and the vanishing Northern Light.
 
 # 49326053
 ; 空が段々と明るくなるにつれて、俺の体も徐々に軽くなってくる。
-As the sky gradually brightens, me's body gradually becomes lighter.
+As the sky gradually brightens, my body gradually becomes lighter.
 
 # 639f852f
 ; ふわっとした感じ。
@@ -524,9 +524,9 @@ The rocks I saw on the beach.
 ; あれは石になったユールちゃんのご先祖様だった。
 That was the ancestor of Yule, who became a stone.
 
-# c9befe92
-; トーロルは、太陽の光を浴びると、石になる。
-A torol becomes a stone when it is exposed to the sun.
+# 8953f2a9
+; トロールは、太陽の光を浴びると、石になる。
+A troll becomes a stone when it is exposed to the sun.
 
 # 947a85f0
 ; 自分の身を守っていた魔力が弱くなったら、そうなるんだ。
@@ -574,7 +574,7 @@ yule: "Still, Yule will definitely protect her husband."
 
 # 443dbd6e
 ; me: 「や、やめろ。[i]俺が助かっても、そのせいでユールちゃんが石になったら、俺は不幸なだけだ！[i]無事に人間世界に戻ったって俺、死ぬからな。[i]心が病んで死んでしまうから！」
-me: "No, don't. [i] If me is saved and Yule becomes a stone, me will only be unhappy!"[i]me I'll die even if I get back to the human world safely.[i]for he will die of mental illness!"
+me: "No, don't. [i] If I'm saved and Yule becomes a stone, me will only be unhappy!"[i]me I'll die even if I get back to the human world safely.[i]for he will die of mental illness!"
 
 # 66a99299
 ; yule: 「いいえ。そうはなりませんよ」
@@ -648,9 +648,9 @@ me: "What?"
 ; yule: 「すべてはなんとかなります。[i][char yule.default]悲しい事があっても、長く生きていれば、きっといい事もありますよ」
 yule: "Everything will be all right.[i][char yule.default]Even if there are sad things, if you live for a long time, there will surely be good things."
 
-# b3d74317
-; me: 「こ、こんなの、あるわけがない！！お、俺は……」
-me: "Oh, there's no way there's something like this!! Oh, me is ……."
+# 5df28810
+; me: 「そ、そんなの、あるわけがない！！お、俺は……」
+me: "Oh, there's no way there's something like this!! Oh, I'm ……."
 
 # 983b2707
 ; もっともっと、ユールちゃんに何か言いたい事が沢山ある。
@@ -782,11 +782,11 @@ I never thought of my voice in my life.
 
 # 2feb2f0f
 ; 旅先で、俺は残して……
-At the destination, me is left ……
+At the destination, I'm left ……
 
 # 129df5dd
 ; yule: 「 <ruby="ブレス・ブレス"> bless</ruby> bless、 <ruby="エルシュクレゥ・エインマザゥ・ミン"> Elskulegur eiginmaður minn</ruby>。[i]最後にくれた愛しい言葉を、[i]ユールちゃんはここで永遠に、[i]覚え続けます」
-yule: "「 <ruby="breath brace">bless</ruby>bless, <ruby="Elskulegureiginma ðurminn</ruby>.[i] Yule will always remember the last lovely words you gave me."
+yule: " <ruby="breath brace">bless</ruby>bless, <ruby="Elskulegureiginma ðurminn</ruby>.[i] Yule will always remember the last lovely words you gave me."
 
 # 4102564d
 ; <s>　　　　　　　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。

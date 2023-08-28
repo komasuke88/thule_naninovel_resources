@@ -36,6 +36,14 @@ Four days is by no means a short time.
 ; 俺はしばらく考えて答えを出した。
 I thought for a moment and gave an answer.
 
+# d33ad8e0
+; @choice "遠慮する" goto:.ikanai
+@choice "No thank you" goto:.ikanai
+
+# a1e24c
+; @choice "合流する" goto:ed_2_06_4_saraeric
+@choice "Thank you" goto:ed_2_06_4_saraeric
+
 # 5dab9dd4
 ; me: 「いや。俺は遠慮するよ」
 me: "No, I will refrain from me."

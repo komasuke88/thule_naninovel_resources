@@ -10,7 +10,7 @@ I had polymorph again.
 
 # 1caff83e
 ; me: 「……（俺は……）」
-me: "…… (where me is ……)"
+me: "…… (where I'm ……)"
 
 # a69fff0b
 ; 俺は、魚になっていた。
@@ -190,7 +190,7 @@ If you look at the direction …… points, Yule
 
 # e12c563
 ; unknown: 「<s>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</s>」
-unknown: "<s></s>"
+unknown: "<s>　　　　　</s>"
 
 # f2b76cbe
 ; とても恐ろしい、巨大な化け物の姿があった。

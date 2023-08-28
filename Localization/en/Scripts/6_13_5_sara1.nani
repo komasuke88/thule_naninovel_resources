@@ -210,7 +210,7 @@ The person who got out of the car was …….
 
 # 73dcff16
 ; sara: 「 <ruby="ハロゥ"> Halló！</ruby>」
-sara: "「 <ruby="Hello">Hall ó!</ruby>"
+sara: " <ruby="Hello">Hall ó!</ruby>"
 
 # 5fafd6f8
 ; me: 「ヒヒーン（さ、サラ？？）」
@@ -230,7 +230,7 @@ I and they were whispering, when Sara walked up to us and called to us further.
 
 # 734ea35
 ; sara: 「 <ruby="ハイハイ"> Hæhæ！</ruby>こんばんは、お嬢ちゃん。[i][char sara.ww]Nice to meet you」
-sara: "「 <ruby="Hi, hi">H æh æ!</ruby>Hello, Miss.[i][char sara.ww] Nice to meet you."
+sara: " <ruby="Hi, hi">H æh æ!</ruby>Hello, Miss.[i][char sara.ww] Nice to meet you."
 
 # 7418221f
 ; サラはヒメの方を見ながら、話しかけた。
@@ -238,7 +238,7 @@ Sara spoke to Hime, looking at her.
 
 # 91587b69
 ; ヒメは俺の背中から降りて、サラに挨拶した。
-Hime got down from me's back and greeted Sara.
+Hime got down from my back and greeted Sara.
 
 # 32dbc998
 ; hime: 「え、えっと。イェ、イェス。[i]ハロゥ」
@@ -318,11 +318,11 @@ I is a horse now.
 
 # 941a1ddc
 ; ヒメは微弱な魔力をまとってるから、俺の声の意味がわかるって言ったけど、
-Hime said that she understood the meaning of me's voice because she was wearing a weak Magical Power;
+Hime said that she understood the meaning of my voice because she was wearing a weak Magical Power;
 
 # ac57edd2
 ; 普通は、俺の声は理解できないのだな。
-Normally, you can't understand me's voice.
+Normally, you can't understand my voice.
 
 # 95024b83
 ; ……トゥーレではあまりにも当たり前だったから、うっかりしてた。
@@ -342,7 +342,7 @@ sara: "By the way, is your daughter alone? [i] What about the other riders?"
 
 # 1adbec7
 ; 俺が一人で色々と考えてる際に、サラはヒメにやたらと話しかけてくる。
-While me is thinking about various things by herself, Hime talks to Sara a lot.
+While I'm thinking about various things by herself, Hime talks to Sara a lot.
 
 # d582acc1
 ; hime: 「え、えっと……ここには、わたしたち二人だけです」
@@ -512,8 +512,8 @@ Hime pointed to me.
 ; sara: 「ここにって？ヒメカちゃんの馬しかいないんだけど」
 sara: "Here? There's only Himeka's horse."
 
-# d558fd6a
-; サラはぎょろぎょろと周りを探した。
+# a9fe7593
+; サラはきょろきょろと周りを探した。
 Sara looked round.
 
 # a556e69f
@@ -578,7 +578,7 @@ Sara looked suspiciously at Hime talking to her.
 
 # 19deaad2
 ; me: 「フルルルル（……サラには、俺の話が理解できないみたいだ）」
-me: "……Sara doesn't seem to understand me's story."
+me: "……Sara doesn't seem to understand my story."
 
 # 2324d245
 ; hime: 「うん。そうなんじゃないかとは思ってたけど……どうしよう」

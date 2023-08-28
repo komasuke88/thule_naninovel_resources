@@ -22,10 +22,10 @@ Road Ring, South Iceland, National Highway No.
 
 # 18115ff
 ; ここには俺の車以外にも、他も車も見える。
-In addition to me's car, there are other cars here.
+In addition to my car, there are other cars here.
 
-# 53a49985
-; 先までの危機感はもう薄れて、安心感がきた。
+# 716d969b
+; さっきまでの危機感はもう薄れて、安心感がきた。
 The previous sense of crisis has faded and I feel relieved.
 
 # 5055bb38
@@ -146,7 +146,7 @@ yule: "Did ……Yule look like Elf?"
 
 # 20070693
 ; でもユールちゃんは俺の質問を馬鹿にしないで、優しく返した。
-But Yule did not make fun of me's question, and answered it gently.
+But Yule did not make fun of my question, and answered it gently.
 
 # 5e192ab7
 ; me: 「なんとなくね、そう思ってしまった。何故なんだろうな……」
@@ -202,7 +202,7 @@ yule: "What do you think of Iceland? Isn't it a good place?"
 
 # d361375a
 ; me: 「うん。[i]人を選ぶかも知れないが、俺はいいところだと思う」
-me: "Yeah. [i] I might choose someone, but I think me is a good place."
+me: "Yeah. [i] I might choose someone, but I think I'm a good place."
 
 # 174a3b84
 ; yule: 「ここに、住みたいとは思わないですか？」
@@ -500,9 +500,8 @@ yule: "Damn it, Yule is thinner and smaller than the other sisters, but she does
 ; 姉妹がいたのか。
 Did you have any sisters?
 
-# 873de485
-; me: 「で、実際に何歳なんだ？未成年じゃないんだろうな」
-me: "And how old are you?"You're not underage, are you?"
+# 9f55ad5c
+; me: 「で、実際に何歳なんだ？」
 
 # 1929f4
 ; 女性の歳を聞くのは失礼だとは言うけど、ユールちゃんに聞くのは何故か気兼ねなくできた。
@@ -586,7 +585,7 @@ The conversation with Yule had become like a comic dialogue.
 
 # 2431aabc
 ; ユールちゃんが色ボケで、俺がツッコミ、みたいな。
-It's like Yule is blurry and me is tsukkomi.
+It's like Yule is blurry and I'm tsukkomi.
 
 # bd433394
 ; yule: 「二週間です」
@@ -594,7 +593,7 @@ yule: "Two weeks,"
 
 # b6963717
 ; me: 「二週間って……俺の滞留期間いっぱいなんだけど」
-me: "Two weeks is the full length of ……me's stay,"
+me: "Two weeks is the full length of ……my stay,"
 
 # 78c6c6be
 ; yule: 「そうですよ！{playerName}がアイスランドに居る限りは、ずっとユールちゃんと一緒です！」

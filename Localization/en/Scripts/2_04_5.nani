@@ -190,7 +190,7 @@ He's definitely rich.
 
 # bcad9ee5
 ; そしてサラは俺のカメラの方見つめながら言った。
-said Sara, looking towards me's camera.
+said Sara, looking towards my camera.
 
 # ac3bfcc8
 ; sara: 「そういや、{playerName}も、結構いいカメラ持ってるみたいだけど……[i][char sara.w]同業者だったりする？」
@@ -198,7 +198,7 @@ sara: "I think by the way and {playerName} have pretty good cameras, too. ……
 
 # 2bd506fa
 ; me: 「いや。俺の方はサラにくらべたら恥ずかしいもんだ。それに写真が専門ではなく……」
-me: "No, me is embarrassing compared to Sara.And I'm not specializing in photography, ……."
+me: "No, I'm embarrassing compared to Sara.And I'm not specializing in photography, ……."
 
 # 75143d4f
 ; 俺も自分のカメラを触りながら言った。
@@ -331,6 +331,14 @@ After cleaning up the camera, Sara spoke to me, who had lifted the load.
 # 92acbc35
 ; sara: 「あれ？もう行くのか？[i]……少しだけ待ってたら、もっと明るいやつが出そうだけど」
 sara: "Huh? Are you going now?[i]…… If I wait a little longer, I think I'll get a brighter one."
+
+# 36336500
+; @choice "行く" goto:.iku
+@choice "Go" goto:.iku
+
+# 7250472d
+; @choice "行かない" goto:ed_2_04_5_sara
+@choice "Stay here" goto:ed_2_04_5_sara
 
 # 4a59754
 ; me: 「うん。俺は今日が初日だからね」

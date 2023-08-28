@@ -40,9 +40,8 @@ Come to think of it, what about Yule?
 ; 声の調子がおかしいけど、大丈夫か。
 My voice sounds weird. Are you okay?
 
-# cf611601
-; yule: 「……あん♡やだ、{playerName}ってば、あっ…ん…」
-yule: "I don't like ……an ♡, {playerName}, oh...."
+# 1ab3ad37
+; yule: 「……やだ、{playerName}ってば、あっ…ん…」
 
 # 6cf466cf
 ; ……って！俺の下だった！
@@ -56,9 +55,8 @@ I was on top of the fallen Yule.
 ; しかも何で俺はユールちゃんのおっぱいを掴んでるんだ？
 Why is me holding Yule's breast?
 
-# ca32d3ef
-; yule: 「……ふぅぅんっ♡」
-yule: "` …… Whoo♡'"
+# c01ec76f
+; yule: 「……ふぅぅんっ」
 
 # 242630f0
 ; なんてこった。
@@ -71,10 +69,6 @@ Would it be nice to have such a ruckuskebe?
 # 711e10de
 ; @choice "だめだ" goto:.dame
 @choice "No way" goto:.dame
-
-# 5139706a
-; @choice "いいぞもっとやれ俺" goto:ed_6_04_1_yuleoppai
-@choice "Good, do more me" goto:ed_6_04_1_yuleoppai
 
 # e0f63b33
 ; me: 「なっ！す、すまん！」
@@ -134,7 +128,7 @@ yule: "Don't you remember?"
 
 # e66ef08c
 ; me: 「ああ、記憶がないせいかな。[i]でも俺の故郷の風景ってことは間違いないと思う。[i]ここは高校だ」
-me: "Oh, maybe it's because I don't remember.[i]But I'm sure it's the scenery of me's hometown.[i]I'm in high school."
+me: "Oh, maybe it's because I don't remember.[i]But I'm sure it's the scenery of my hometown.[i]I'm in high school."
 
 # c1e7f1c9
 ; yule: 「{playerName}が日本で通っていた高校ってわけですね。[i]間違いなく、ここが今回のエルフの隠れ家、幻想空間ですね」

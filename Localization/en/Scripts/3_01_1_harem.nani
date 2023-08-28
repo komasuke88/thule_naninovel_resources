@@ -16,9 +16,8 @@ yule: "`That means you can go with Yule!'"
 ; me: 「もちろんさ。世界中の女は俺のモノ！[i]ユールちゃんも俺のモノだ！」
 me: "Of course, women all over the world belong to me! [i] Yule belongs to me!"
 
-# cd2ad44e
-; yule: 「ま、嬉しい！それではユールちゃん、[i][char yule.car_hand_dere_close_bigemi]今からあなたの、肉奴隷１号になります……」
-yule: "Oh, I'm so happy! Then Yule, [i][char yule.car_hand_dere_close_bigemi] I'm going to be your first slave ……"
+# ff3c2d1a
+; yule: 「ま、嬉しい！それではユールちゃん、[i][char yule.car_hand_dere_close_bigemi]今からあなたの女１号になります……」
 
 # 14b7974f
 ; me: 「おうよ！」

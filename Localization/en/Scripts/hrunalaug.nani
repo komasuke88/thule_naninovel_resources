@@ -108,13 +108,11 @@ unknown2: "That's nice. There's no one here anyway."
 ; unknown: 「そ、そうだけど」
 unknown: "Yes, but,"
 
-# 4bfa03e6
-; unknown2: 「ちょっとだけ、ね？やってみようか」
-unknown2: "Just a little, you know? Let's try."
+# e710ce5b
+; unknown2: 「ちょっとだけ、ね？」
 
-# cbfdfb40
-; unknown: 「な、何がちょっとだけよ……ってああん♥」
-unknown: "What's wrong with ……?"
+# d29dff1e
+; unknown: 「な、何がちょっとだけよ……ってああん」
 
 # 9e411ed1
 ; me: 「……」
@@ -168,17 +166,12 @@ No matter how empty there is, this is a public place.
 ; 流石に本番までは、やらないよな？
 You're not going to do it until the real show, right?
 
-# a0ae7c62
-; unknown: 「あん、ま、まだ入っちゃ、だめだってば、お、大きいよ！あうっん♥」
-unknown: "`Ah, well, you can't go in yet, oh, it's big!'Yes ♥"
+# c52b9d3b
+; unknown: 「あん、だめだってば」
 
 # ba00f004
 ; unknown2: 「はぁはぁ、いいぜ」
 unknown2: "Well, that's all right,"
-
-# cde4d9cc
-; パンッパンッ！
-Whoop, whoop!
 
 # 4834c15
 ; 始まってる！？
@@ -196,9 +189,8 @@ You can't go out even if you want to.
 ; me: 「……」
 me: "……"
 
-# 38b3fd24
-; あのカップルの行為が終わるまで、俺は黙ったままに過ごす事にした。
-I decided to remain silent until the couple's conduct was over.
+# dd5445fb
+; あのカップルのキスが終わるまで、俺は黙ったままに過ごす事にした。
 
 # 204d3282
 ; 無視だ無視。

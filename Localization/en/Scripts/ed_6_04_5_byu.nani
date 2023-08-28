@@ -1,8 +1,7 @@
 ; Japanese <ja> to English <en> localization document for `ed_6_04_5_byu` naninovel script
 
-# 94fc555b
-; me: 「ああ、やろうか」
-me: "Oh, shall we?"
+# ad64f6a
+; me: 「ああ」
 
 # 68a3ca46
 ; yule: 「はい？」
@@ -28,9 +27,8 @@ byu: "Then you're going to have a honey moon now."
 ; yule: 「はあ？？」
 yule: "What?"
 
-# ffde2c34
-; byu: 「……人間のソーセージ。もう想像するだけで……」
-byu: " …… Human sausage.I can only imagine ……."
+# 24b01b80
+; byu: 「……ああ、もう想像するだけで……」
 
 # f25f13ac
 ; byu: 「はぁっ！♥」

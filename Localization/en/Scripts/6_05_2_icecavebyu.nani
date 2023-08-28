@@ -184,10 +184,6 @@ I I jumped at him.
 ; @choice "避ける" goto:.yokeru
 @choice "Avoid" goto:.yokeru
 
-# beaecb9f
-; @choice "受け止める" goto:ed_6_05_2_byuend
-@choice "Receive" goto:ed_6_05_2_byuend
-
 # 935303dc
 ; byu: 「あいたっ！」
 byu: "Oh, my God!"

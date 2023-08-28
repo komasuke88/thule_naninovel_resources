@@ -174,7 +174,7 @@ From self-introduction to travel stories ……
 
 # 2dccef28
 ; エーリックの馴れ馴れしさは、俺には嬉しかった。
-me's familiarity pleased Eric.
+my familiarity pleased Eric.
 
 # 2f4f011b
 ; こうして外国人と世間話をしてると、妙な安心感が来る。
@@ -190,7 +190,7 @@ Talking to foreigners like this gives me a strange sense of security.
 
 # 487e9082
 ; 俺のたどたどしい英語でも無理なく会話ができた。
-I could have a conversation without difficulty in me's halting English.
+I could have a conversation without difficulty in my halting English.
 
 # fe4c92c7
 ; me: 「エルフ教授？」
@@ -259,6 +259,14 @@ It's a funny story, but I can't digest it when it comes to me all at once.
 # 44fe73bf
 ; まるで大学の講義室に座ってる気分になった。
 I felt as if I were sitting in a university lecture room.
+
+# 5ee54376
+; @choice "聞く" goto:.kiku
+@choice "heard" goto:.kiku
+
+# 819f55c2
+; @choice "寝る" goto:ed_2_03_2_room_neru
+@choice "sleep" goto:ed_2_03_2_room_neru
 
 # 2bd7f4b9
 ; eric: 「とまぁ。このような神話や民話の話が、大学での講義の内容だけど」
@@ -388,25 +396,25 @@ me: "The earth is getting harder for mankind to live on."
 ; eric: 「このまま氷河が溶け続けると、さらに住みにくくなるんだ。[i]食料危機も来るのだろう。[i]本当に、世界の終わりが近づいてるかも知れん」
 eric: "If the glacier continues to melt, it will be even harder to live in.[i]There will be a food crisis.[i]Indeed, the end of the world may be near."
 
-# ffa65a31
-; 日本人の俺もヒメも、アイスランド人の教授も、みんな同じ事を感じていた。
-Japanese me, Hime, and Icelandic professors all felt the same thing.
+# bccfac45
+Japanese, me and Hime, and the Icelandic professor,
 
-# caa6da0a
-; 世界の全ての人が、地球の限界を、薄々感じてる。
-Everyone in the world feels the limitations of the earth.
+# 9b510c20
+We all felt the same thing.
 
-# 33915de
-; eric: 「いや、今年の異常気象を見ると、もう終わりは始まりかもしれん……ふぅ……」
-eric: "`Well, if you look at this year's unusual weather, the end may have begun …… Whoo ……,'"
+# 166e594a
+All the people in the world are dimly aware of the limits of the earth.
+
+# 1d48a1ff
+eric: "Maybe the end has already begun, especially with the extreme weather we've had this year. Hmmm ......"
 
 # 592ca678
 ; そこまで言って、教授は話を本題に戻した。
 After saying that, the professor got back to the subject.
 
-# 917512fb
-; eric: 「……ま、それはまた別の問題で、[i]今私はフルドゥフォルクの問題を調査してるんだけど」
-eric: "…… Well, that's another problem. [i] Now I'm investigating the Huldufolk problem."
+# 91fca5be
+; eric: 「……とまぁ、それはまた別の問題で、[i]今私はフルドゥフォルクの問題を調査してるんだけど」
+eric: "...... and well, that's another issue, [i]right now I'm investigating the Fuldufolk issue."
 
 # 94b3750e
 ; me: 「一体、どんな問題があるんですか？」

@@ -12,6 +12,8 @@ Development tool.
 ; @choice "Reset all flags" goto:.reset_all_flags handler:ButtonList
 @choice "Reset all flags" goto:.reset_all_flags handler:ButtonList
 
-# fc5f0f34
-; @choice "Delete all saves" goto:.delete_all_saves handler:ButtonList
-@choice "Delete all saves" goto:.delete_all_saves handler:ButtonList
+# af752dd8
+; @choice "Delete all player-pref" goto:.delete_all_saves handler:ButtonList
+
+# 3dfd8f58
+; @choice "reset state" goto:.reset_state handler:ButtonList

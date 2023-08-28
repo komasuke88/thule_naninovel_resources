@@ -96,9 +96,9 @@ This is because the structure is designed to absorb Magical Power in a position 
 ; 魔術の知識を持って、何らかの目的のために作ってるしか思えない。
 I can only think of having knowledge of magic and making it for some purpose.
 
-# 2a03b1b1
-; [br]真実はともあれ、この構造物はヒルドルに利用された。
-[br] Regardless of the truth, this structure was used for Hildur.
+# 8fde1c53
+; 真実はともあれ、この構造物はヒルドルに利用された。
+Regardless of the truth, this structure was used for Hildur.
 
 # 16f9691f
 ; アークティック・ヘンジを依り代に、ヒルドルは【トゥーレ還元】の魔法陣を作った。
@@ -172,8 +172,8 @@ unknown: "We're holding a ceremony to save the earth."
 ; yule: 「え、誰？」
 yule: "Who is it?"
 
-# fb60dd94
-; unknown: 「ユールラッズ？そういえばトロールを考えてなかったな。エルフの邪魔はすべて防いだんだが……まあ、どもみち終わったゲームですがね」
+# c4f450ad
+; unknown: 「ユールラッズ？そういえばトロールを考えてなかったな。エルフの邪魔はすべて防いだんだが……まあ、どのみち終わったゲームですがね」
 unknown: "Is it Yulelads?"Come to think of it, I didn't think of Troll.Elf I've prevented all the distractions from ……, but Well, it's a game that'"
 
 # b75457b2

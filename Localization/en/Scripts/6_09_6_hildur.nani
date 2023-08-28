@@ -204,12 +204,12 @@ hildur: "The concubine is making The Magic Circle."
 ; yule: 「魔法陣？……魔力を集めるためですね」
 yule: "To collect The Magic Circle? ……Magical Power"."
 
-# ad42ea21
-; hildur: 「ええ。でもそれもとても大きな、かつでない規模の魔力を集める魔法陣よ」
+# 9ef68f94
+; hildur: 「ええ。でもそれもとても大きな、かつてない規模の魔力を集める魔法陣よ」
 hildur: "Yes, but it's also The Magic Circle, a very large collection of Magical Powers."
 
-# 43692aa2
-; yule: 「かつでない規模の魔力……？[i]それってまさか、今年のヨールを狙って？」
+# d8f45645
+; yule: 「かつてない規模の魔力……？[i]それってまさか、今年のヨールを狙って？」
 yule: "A Magical Power…… of a lesser scale?"[i]Is that for this year's Jol?"
 
 # 2dfa9a37

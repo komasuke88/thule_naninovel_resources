@@ -168,9 +168,9 @@ Did Yule help you?
 ; しかし、感謝の言葉よりも、まずユールちゃんのほうが心配だった。
 But I was more worried about Yule than about thanking her.
 
-# 59bee00c
-; me: 「ユールちゃん？？……気をつけたのか！？」
-me: "Are you careful Yule? ……?"
+# 23ba8bd9
+; me: 「ユールちゃん？？……気がついたのか！？」
+me: "Are you ok Yule?"
 
 # a21a8a64
 ; yule: 「……{playerName}、無事でよかった。どうか、{playerName}だけでも、生き延びて……」

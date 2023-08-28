@@ -306,7 +306,7 @@ It was a huge woman's face.
 
 # 59b25f7c
 ; <s>　　　　　　　　　　　　</s>俺は、巨人に掴まれている！
-<s>            </s> me is being held by giants!
+<s>            </s> I'm being held by giants!
 
 # b84c2a50
 ; その女の巨大な手に掴まれて、引き吊られたのだ。
@@ -519,10 +519,6 @@ I prayed strongly at the end.
 # 6d087057
 ; @choice "生きたい" goto:.ikitai
 @choice "I want to live" goto:.ikitai
-
-# 614f433b
-; @choice "おっぱい揉みたい" goto:ed_4_01_1_grylaoppai
-@choice "I want to rub milk" goto:ed_4_01_1_grylaoppai
 
 # e9ff693d
 ; やがて柔らかい舌の弾力と共に、落下は止まった。

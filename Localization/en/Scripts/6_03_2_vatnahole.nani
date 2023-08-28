@@ -148,13 +148,8 @@ yule: "Oh, no. Where is it so sharp?"giggle Let me see."
 ; me: 「……」
 me: "……"
 
-# 8f759f0c
-; @choice "見せない" goto:.kaihuku
-@choice "I won't show you" goto:.kaihuku
-
-# 2e015983
-; @choice "見せる" goto:ed_6_03_2_miseru
-@choice "Show me" goto:ed_6_03_2_miseru
+# ea18a4b7
+; @choice "…………" goto:.kaihuku
 
 # 1c9de858
 ; 睨む。

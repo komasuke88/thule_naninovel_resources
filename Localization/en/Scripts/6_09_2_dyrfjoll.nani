@@ -14,7 +14,7 @@ me: "`I suppose it's the gate where that part is cut off,'"
 
 # bb04f8e2
 ; yule: 「 <ruby="デイルフィヨットル"> Dyrfjöll</ruby>ですね」
-yule: "「 <ruby=" Dyrfjoll">Dyrfj öll</ruby>."
+yule: " <ruby=" Dyrfjoll">Dyrfj öll</ruby>."
 
 # bef24674
 ; yule: 「古い火山が氷河に侵食されて、あのように不思議な形になってます。ちなみに <ruby="Dyrfjöll"> デイルフィヨットルは</ruby>、『ドアの山』という意味です」
@@ -232,8 +232,8 @@ yule: "`I'm glad ……,'"
 ; me: 「い、今のは、魔法か？」
 me: "Is that magic?"
 
-# 16815ede
-; yule: 「はい。まだ悪霊として成熟していなくて、呪いも簡単な魔法で溶ける事ができました」
+# 5643a316
+; yule: 「はい。まだ悪霊として成熟していなくて、呪いも簡単な魔法で解ける事ができました」
 yule: "Yes, I haven't matured as an evil spirit yet, and I was able to melt the curse with simple magic."
 
 # 8b8af5a4

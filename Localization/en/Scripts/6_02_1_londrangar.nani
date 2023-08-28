@@ -88,9 +88,9 @@ yule: "All I have to do is sleep in summer, eat in winter, and play with my leis
 ; me: 「あ、ああ」
 me: "Oh, my God,"
 
-# b146ecb6
-; yule: 「何千年生きてるトーロルはですね。そのデカさ故に旅も難しく、[i]何よりも、人生の全てが、面倒くさくなるんだって」
-yule: "Toroll, who has lived for thousands of years,It's so big that it's hard to travel. [i] Above all, everything in life becomes troublesome."
+# d7621669
+; yule: 「何千年生きてるトロールはですね。そのデカさ故に旅も難しく、[i]何よりも、人生の全てが、面倒くさくなるんだって」
+yule: "Troll, who has lived for thousands of years,It's so big that it's hard to travel. [i] Above all, everything in life becomes troublesome."
 
 # 1659c427
 ; me: 「めんどくさい？……まさか、生きるのも面倒くさくなってたり？」
@@ -174,11 +174,11 @@ yule: "Grelior, my ancestors.You're smiling again today."
 
 # e3947097
 ; troll3: 「<s>　　　　　　　　</s>！」
-troll3: "<s></s>!"
+troll3: "<s>　　　　　</s>!"
 
 # 9af749a4
 ; troll4: 「<s>　　　　　　　　　　　　</s>！」
-troll4: "<s></s>!"
+troll4: "<s>　　　　　</s>!"
 
 # f0d37316
 ; yule: 「え？スヴォルスレイキルですよ。もうご先祖様ったら、ボケちゃって」
@@ -194,7 +194,7 @@ yule: "Huh? Is that so!?"Hildur I don't know what you're up to."
 
 # 90ea1333
 ; troll3: 「<s>　　　　　　　　　　</s>」
-troll3: "<s></s>"
+troll3: "<s>　　　　　</s>"
 
 # 166cf388
 ; yule: 「えっ？海の民も？……最近、このトゥーレにいったい何が起こってるのでしょうね」
@@ -202,7 +202,7 @@ yule: "What? The people of the sea, too? …… I wonder what's going on with th
 
 # fed0d423
 ; troll4: 「<s>　　　　　　　　</s>」
-troll4: "<s></s>"
+troll4: "<s>　　　　　</s>"
 
 # f6666b0a
 ; yule: 「あ、そうです。今日は……はい、エルフです。なるほど、ヴァトナヨークトルですか」
@@ -210,7 +210,7 @@ yule: "Oh, yes.Today is …… Yes, Elf.I see, Vatnajokull?"
 
 # ff52553a
 ; troll3: 「<s>　　　　　　　　　　　　</s>」
-troll3: "<s></s>"
+troll3: "<s>　　　　　</s>"
 
 # 51d8844b
 ; yule: 「はい。あたしがやってる事はそれとは関係なく……えっ！？、ち、違いますって！」
@@ -218,7 +218,7 @@ yule: "Yes. What I'm doing has nothing to do with it …… Huh!? No, no!"
 
 # b2ceb245
 ; troll3: 「<s>　　　　　　</s>」
-troll3: "<s></s>"
+troll3: "<s>　　　　　</s>"
 
 # 81bd1e9d
 ; yule: 「や、やだ。そ、そんなんじゃ……[i][char yule.l-nayami-w]いや、でも、それもありかも。くすくす」
@@ -226,7 +226,7 @@ yule: "No, I don't want to. That's not the case ……[i][char yule.l-nayami-w] 
 
 # 162df7fc
 ; troll4: 「<s>　　　　　　</s>」
-troll4: "<s></s>"
+troll4: "<s>　　　　　</s>"
 
 # 845f72bf
 ; yule: 「えっ……それは本当ですか！
@@ -238,7 +238,7 @@ Hey, {playerName} is the first time I've ever heard of it."
 
 # ff52553a
 ; troll3: 「<s>　　　　　　　　　　　　</s>」
-troll3: "<s></s>"
+troll3: "<s>　　　　　</s>"
 
 # 41e632e9
 ; yule: 「はい。あたしが手取り足取り教えてあげなきゃ」
@@ -246,7 +246,7 @@ yule: "Yes, I must show you how to do it."
 
 # 7ee4f215
 ; troll4: 「<s>　　　　　　　　　　</s>」
-troll4: "<s></s>"
+troll4: "<s>　　　　　</s>"
 
 # 426da4ab
 ; yule: 「いやいや、エッチなんてそんな……でもそれいいかも」
@@ -254,7 +254,7 @@ yule: "No, no, I don't think it's a good idea to have …… like that,"
 
 # b2ceb245
 ; troll3: 「<s>　　　　　　</s>」
-troll3: "<s></s>"
+troll3: "<s>　　　　　</s>"
 
 # 41fb0ba
 ; yule: 「くすくす、なるほど。役に立つアドバイスの数々、ありがとうございます」
@@ -262,7 +262,7 @@ yule: " giggle, I see. Thank you for all the useful advice."
 
 # ed4de607
 ; troll4: 「<s>　　　　</s>~~~！」
-troll4: "<s></s>~~!"
+troll4: "<s>　　　　　</s>~~!"
 
 # 57bbefba
 ; troll3: 「——~！」
@@ -348,10 +348,6 @@ me: "By any chance, ……,"
 ; @choice "まずは記憶探し" goto:.yaranai
 @choice "First, look for memories" goto:.yaranai
 
-# 703a101a
-; @choice "今すぐやりたい" goto:ed_6_02_1_lond_h
-@choice "I want to do it now" goto:ed_6_02_1_lond_h
-
 # aef7133c
 ; yule: 「あら」
 yule: "Oh, my God,"
@@ -372,21 +368,13 @@ me: "Well, this is my personality,"
 ; yule: 「別に一回くらいやっても、結婚しないといけないってルールはありませんけど」
 yule: "There's no rule that you have to get married even if you do it once."
 
-# f083924e
-; me: 「えっ？そう？？なら……」
-me: "What? Really? Then ……."
+# 5a5741f0
+; me: 「えっ？そう？？で、でも……」
+me: "What? But..."
 
-# 4f80eeaa
-; yule: 「でももう遅いです。[i]{playerName}がそんなこと言ったから、記憶を取り戻すまで、やらせてあげませんよ」
-yule: "But it's too late.[i]{playerName} said that, and I won't let you do it until you get your memory back."
-
-# e6d25da0
-; me: 「くっ……」
-me: "Damn ……,"
-
-# 14130800
-; yule: 「まあ、でもどうしても我慢できなくなったら、{playerName}の本能にまかせてもいいのです」
-yule: "Well, but if you can't stand it, you can leave it to {playerName}'s instinct."
+# 4dac0e4d
+; yule: 「いつでも構いませんよ。どうしても我慢できなくなったら、{playerName}の本能にまかせてもいいのです」
+yule: "It's OK anytime. If you can't stand it, you can leave it to {playerName}'s instinct"
 
 # e7c12b8
 ; me: 「そ、それって……」
@@ -430,7 +418,7 @@ He looked at me from above.
 
 # ab97036
 ; me: 「……で、俺の記憶の行方は、どうなったんだ？」
-me: "And what happened to me's memory?"
+me: "And what happened to my memory?"
 
 # bb42a82e
 ; 話題を戻す。

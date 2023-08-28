@@ -38,7 +38,7 @@ I think it was quite a long way to the place where the rocks were. Before you kn
 
 # 891f9992
 ; unknown: 「<s>　　　　　　　　　　　　　　　　　　　　</s>」
-unknown: "<s></s>"
+unknown: "<s>　　　　　</s>"
 
 # de98c367
 ; me: 「っ！」
@@ -54,7 +54,7 @@ Just like your ancestors.
 
 # c03e1256
 ; unknown: 「<s>　　　　　　　　　　　　</s>」
-unknown: "<s></s>"
+unknown: "<s>　　　　　</s>"
 
 # c5fb4a18
 ; しかし、ご先祖様とは違った。
@@ -210,7 +210,7 @@ me: " …… No, ……[i] Oh! …… Oh!"
 
 # d70e2dba
 ; 俺の体は、突然踊り始めた。
-me's body suddenly began to dance.
+my body suddenly began to dance.
 
 # 397008b4
 ; 理由はわからない。

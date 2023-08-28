@@ -18,7 +18,7 @@ me: "Is it ……{playerName}?"
 
 # aff5ff47
 ; はて、俺は北島健二なのだが。
-Well, me is Kenji Kitajima.
+Well, I'm Kenji Kitajima.
 
 # 43fa97c2
 ; {playerName}って、
@@ -74,7 +74,7 @@ I is sitting on a chair in the classroom.
 
 # 7b215617
 ; 隣の席には……
-The seat next to me is ……
+The seat next to I'm ……
 
 # bfda49
 ; @choice "女の子" goto:.girl
@@ -90,7 +90,7 @@ hime: "Oh, Kenji, you're up."
 
 # 86363a87
 ; 隣の席に座ってる黒髪ロングの女の子が、微笑みながら俺の目を見てた。
-The long black-haired Girl sitting next to me smiled and looked into me's eyes.
+The long black-haired Girl sitting next to me smiled and looked into my eyes.
 
 # c86856a2
 ; me: 「あれ？ヒメ？」

@@ -152,6 +152,18 @@ me: "Everyone did it without knowing anything."
 ; eric: 「ああ。君はくれぐれも注意する事だ」
 eric: "Yes, you must be very careful."
 
+# 9e411ed1
+; me: 「……」
+me: "……"
+
+# 87899b22
+; @choice "注意する" goto:.chuuisuru
+@choice "Be careful" goto:.chuuisuru
+
+# d5247f93
+; @choice "挑戦する" goto:ed_2_03_3_eric_tatari
+@choice "I Dont care" goto:ed_2_03_3_eric_tatari
+
 # b7b6b53a
 ; me: 「はい。心して置きます」
 me: "Yes, I'll keep it in mind."

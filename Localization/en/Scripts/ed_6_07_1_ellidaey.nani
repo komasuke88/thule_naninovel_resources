@@ -36,9 +36,8 @@ yule: "Yesterday was good, {playerName},"
 ; hime: 「もうユールちゃんひどすぎるよ。わたしがいるのにお構いなしにあんな……！」
 hime: "It's too much Yule.Don't worry about my presence ……!'"
 
-# 4a6f0387
-; yule: 「いやー！おかげですごく興奮しました。こんなプレイは初めてです」
-yule: "No! Thanks to you, I was very excited.I've never played like this before."
+# d34d9fc1
+; yule: 「いやー！おかげですごく興奮しました。こんなキスは初めてです」
 
 # 82ef0d88
 ; hime: 「{playerName}もさ、人様が見てるっていうのに、あんな……みそこなったよ」

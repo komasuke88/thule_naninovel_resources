@@ -2,15 +2,15 @@
 
 # a7be7c
 ; ヒッチハイクなんて、初めてみた。
-Hitchhiking I've never seen anything like that before.
+I've never seen Hitchhiking before.
 
 # 90522eac
 ; アイスランドではヒッチハイカーが多いとは聞いたけど、本当だったんだな。
-I heard that there are many hitchhikers in Iceland, but it was true.
+I heard that there are many hitchhikers in Iceland, it was true.
 
 # 908e8a77
 ; me: 「俺に乗せてくれってサインだよな、あれって」
-me: "It's a sign to give me a ride on me, isn't it?"
+me: "It's a sign to give me a ride to me, isn't it?"
 
 # 593e0be3
 ; とりあえず、近づいてみよう。
@@ -110,7 +110,7 @@ Is there a hitchhiker like that?
 
 # 3af0b5c
 ; 何で、今になって気づいたんだ、俺。
-Why did you notice now, me?
+Why did I noticed now?
 
 # 7bb1c1c5
 ; いくらなんでも寒すぎるであろう、あんな服装で。
@@ -118,7 +118,7 @@ It must be too cold, dressed like that.
 
 # 323e6e20
 ; にも関わらず、寒がってる様子もなく、自然な立ち振る舞い。
-"Nevertheless, they didn't seem to feel cold, and they behaved naturally."
+Nevertheless, they didn't seem to feel cold, and they behaved naturally.
 
 # 4df885f4
 ; 服はキレイで、歩き疲れた様子すらもない。
@@ -138,7 +138,7 @@ It's obviously not a typical backpacker.
 
 # f8f0b2e6
 ; 地元の人だとしても、ここで平然としてる理由がわからない。
-Even locals don't understand why they're so calm here.
+Even locals can't understand why they're so calm here.
 
 # e99b9a74
 ; ここは、人が住んでるところからは結構距離がある。
@@ -154,7 +154,7 @@ It's not a place where backpackers without cars can come.
 
 # 9167a9a4
 ; 車が壊れた？と言うには、周りに車も見えない。
-I can't even see a car around me when I ask if it's broken.
+I can't even see a car around her.
 
 # fcbf5dc7
 ; 怪しい。
@@ -162,15 +162,15 @@ It's suspicious.
 
 # 77c37002
 ; 何で[br]こんな荒野の真っ只中に、[br]一人でいるんだ？
-Why are you [br] alone in the middle of such a wilderness?
+Why is her [br] alone in the middle of such a wilderness?
 
 # 6c420c07
 ; 訳あり。
-There's a reason.
+Maybe there's a cripy reason.
 
 # 99825fe0
 ; ……いや、訳ありというより……
-…… No, not for a reason, but ……
+…… No, not a reason, just ……
 
 # f5186d8a
 ; me: 「………………」
@@ -196,8 +196,8 @@ It could not have been an oversight of me
 ; [br]<s>　　　　　　　　　　　　　　</s>女の子は、居なかった。
 [br]<s>　　　　　　　　　　　　　　</s> Girl was not present.
 
-# f3f913bc
-; つい先までは、確かに誰も居なかった。
+# db31b1fc
+; ついさっきまでは、確かに誰も居なかった。
 Not long ago, there was certainly no one.
 
 # 42cc7242
@@ -214,7 +214,7 @@ Common sense can't explain it.
 
 # cd32daaf
 ; これがもしかして、[i]噂で聞いたあのアイスランドの………………
-[i] That Icelandic ……………… that I heard about.
+[i] That is Icelandic ……………… that I heard about.
 
 # 7e145781
 ; ………………
@@ -222,15 +222,15 @@ Common sense can't explain it.
 
 # a182f4dc
 ; …………人でならざる者、そんな気がしてならない。
-………… I can't help but feel that way.
+………… A person who is not a person
 
 # e70ad95a
 ; 乗せたら、きっとろくなことにならない。
-I'm sure it won't be a good thing to put it on.
+I'm sure it won't be a good thing to ride it on.
 
 # aeb81269
 ; これは無視した方がいいんじゃないか？
-Shouldn't we ignore this?
+Shouldn't I ignore this?
 
 # 2fe7236e
 ; いや、むしろ早速Uターンして逃げた方がいいんじゃないか？
@@ -238,7 +238,7 @@ No, I think it's better to make a U-turn and run away.
 
 # b5c6db1e
 ; @choice "それでも助ける" goto:1_02_1_yule
-@choice "Still help" goto:1_02_1_yule
+@choice "Help her" goto:1_02_1_yule
 
 # 28d5f979
 ; @choice "逃げる" goto:1_01_2_nigeru

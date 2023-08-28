@@ -1,12 +1,10 @@
 ; Japanese <ja> to English <en> localization document for `3_01_1_sekininn` naninovel script
 
-# 4a2cb9bf
-; yule: 「えっ、本当ですか！？[i]この……熱くなったここの、[i]責任をとるって！」
-yule: "Oh, really!?"[i]Take responsibility for this heated ……!"
+# 121da068
+; yule: 「えっ、本当ですか！？[i]責任をとるって、つまり？」
 
-# b41931a6
-; me: 「そうだ」
-me: "Yes,"
+# a0c09ac6
+; me: 「ああ、結婚しよう」
 
 # cb724d30
 ; yule: 「ど、ど、ど、どうしましょう！[i]でも自分から言っておいてまだ心の準備が……」
@@ -16,9 +14,8 @@ yule: "`Oh, oh, wow![i]But I said it myself, and I'm not ready yet ……"
 ; me: 「慌てることはないさ、ゆっくりと俺に身を委ねるだな」
 me: "Don't panic, and slowly surrender yourself to me,"
 
-# 6441e921
-; yule: 「嬉しいです！！それでは……[i][char yule.car_hand_dere_arch_ww_nico]はい……」
-yule: "Nice to meet you!"Then ……[i][char yule.car_hand_dere_arch_ww_nico]Yes ……"
+# 5ce54b4d
+; yule: 「嬉しいです！！それでは……[i][char yule.car_hand_dere_arch_ww_nico]今日から夫婦ですね……」
 
 # b9f0f216
 ; ……………………

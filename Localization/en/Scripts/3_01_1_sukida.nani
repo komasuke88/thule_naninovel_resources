@@ -1,23 +1,36 @@
 ; Japanese <ja> to English <en> localization document for `3_01_1_sukida` naninovel script
 
-# 85883b2f
-; yule: 「えっ、本当ですか！？[i]ユールちゃんと結婚しますか！」
-yule: "Oh, really!?"[i]Are you going to marry Yule?"
+# 8ff2d030
+me: "I love you."
 
-# b41931a6
-; me: 「そうだ」
-me: "Yes,"
+# ac97ab04
+yule: "What?"
 
-# af5383d1
-; yule: 「も、も、もうどうしましょう！[i]こんなにも早く夢が叶うなんて」
+# 4182abfa
+me: "From the first moment I saw you, I fell in love. All I can see is you now."
+
+# 9bdf1e14
+yule: "What, yeah, yeah! No, what's wrong? You suddenly became so, so manly."
+
+# 5b969a40
+me: "I love you. Will you marry me?"
+
+# a0d352ef
+yule: "Yeah, yeah! You really want to marry me, Yule?"
+
+# dbc07398
+me: "No?"
+
+# b6739ca
+; yule: 「そ、そんなわけないです。[i]も、もうどうしましょう！こんなにも早く夢が叶うなんて」
 yule: "Well, what shall I do now?"[i]I can't believe my dream came true so quickly."
 
 # c3bf15ea
 ; me: 「慌てることはないさ、これから愛を育てていくんだな」
 me: "Don't panic. You're going to grow love from now on."
 
-# 6c80f5cf
-; yule: 「嬉しいです！！それでは[i][char yule.car_hand_dere_close_bigemi]早速種族の繁殖を……」
+# b41c7f8d
+; yule: 「嬉しいです！！それでは早速[i][char yule.car_hand_dere_close_bigemi]旦那様の印を付けてくださいませ……」
 yule: "Nice to meet you!"Then [i][char yule.car_hand_dere_close_bigemi] …… breed race immediately."
 
 # 14b7974f

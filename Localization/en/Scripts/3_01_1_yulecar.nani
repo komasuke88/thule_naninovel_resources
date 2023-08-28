@@ -152,17 +152,15 @@ However, I feel that it is also empty to think about serious answers to such que
 ; @choice "みんな" goto:3_01_1_harem
 @choice "Everyone" goto:3_01_1_harem
 
-# e4b67491
-; yule: 「えっ！マジっすか！！！[i][char yule.car_dere_close_bigemi]いやいや、まいったな。[i][char yule.car_hand_dere_close_bigemi]では、早速準備を……」
-yule: "Oh! Are you serious!!! [i] [char yule.car_dere_close_bigemi] No, no, I'm in trouble.[i][char yule.car_hand_dere_close_bigemi] Now get ready ……"
+# 8abf5d55
+; yule: 「えっ！マジっすか！！！[i][char yule.car_dere_close_bigemi]いやいや、まいったな。[i][char yule.car_hand_dere_close_bigemi]それでは、早速……」
 
 # 4e9f941
 ; ユールちゃんは大変喜びながら、頬をそめて何かこそこそしてる。
 Yule, with great delight, turned his cheek and whispered something.
 
-# ba275fd4
-; 準備って、何をしようとしてるんだ？
-What are you trying to do?
+# 576b0d68
+; 早速……何をしようとしてるんだ？
 
 # 51eae904
 ; me: 「あ、いや。あえて答えるならそうかも知れないって事で、真面目に取らないでくれ」
@@ -184,9 +182,8 @@ me: "It's a lie. I'm kidding."
 ; yule: 「い、いじわるですよ……もう……[i][char yule.car_hand_dere_angry_a_mou]ユールちゃんはこんなにも{playerName}の事が好きになったのに！」
 yule: "Yes, I'm teasing you …… [i][char yule.car_hand_dere_angry_a_mou] Yule has fallen in love with {playerName} so much!"
 
-# e226b549
-; なぜか股に両手を挟んでもじもじしながら、ユールちゃんはそう言った。
-said Yule, hesitatingly, with his hands between his legs for some reason.
+# 2bf742f
+; なぜかもじもじしながら、ユールちゃんはそう言った。
 
 # 9e411ed1
 ; me: 「……」
@@ -280,29 +277,18 @@ yule: "Oh, my God,"
 ; me: 「うん？」
 me: "Huh?"
 
-# 937707a1
-; yule: 「今ちょっと濡れたかも」
-yule: "I think I'm wet right now"."
+# 7685d2a3
+; yule: 「今ちょっとドキッとしました」
 
-# ab99b9b8
-; なぜかまた股に両手を挟んで、ユールちゃんは体を震わした。
-For some reason, with his hands between his legs again, Yule trembled.
-
-# a3cda114
-; me: 「なっ、何が！？」
-me: "What!"
-
-# 4f5463b3
-; yule: 「何がって……確かめてみます？くすくす」
-yule: "Why do you want to check ……?" giggle."
+# ad863d00
+; 頬を染めながら、ユールちゃんは体を震わした。
 
 # 2c988b94
 ; me: 「い、いや。その……」
 me: "No, no, that ……."
 
-# afee370f
-; ユールちゃんの冗談にはもう慣れたと思ったけど、こういう下ネタはちょっと反応が困る。
-I thought I'd gotten used to Yule's jokes, but I don't know how to react to these dirty jokes.
+# dd658add
+; ユールちゃんの冗談にはもう慣れたと思ったけど、こういうのはちょっと反応が困る。
 
 # f200b574
 ; こ、こういう時にはあれだ。
@@ -315,10 +301,6 @@ It's a change of subject.
 # 1f02c5c6
 ; @choice "グレリヨールって？" goto:.gureriyol
 @choice "What's Glediyol?" goto:.gureriyol
-
-# dc8dffde
-; @choice "パンツ何色？" goto:3_01_1_penti
-@choice "What color is panties?" goto:3_01_1_penti
 
 # 7f6b1ab
 ; me: 「ああ、そういえば……」
@@ -356,9 +338,8 @@ yule: "More than that! This! [i] What will you do for me?"
 ; me: 「これって？」
 me: "What's this?"
 
-# 2797aa0
-; yule: 「ユールちゃんのここ、{playerName}のせいで熱く濡れてしまったここですよ。[i][char yule.car_hand_dere_arch_ww_nico]ねね、ほらほら、責任取ってくださいな」
-yule: "Here in Yule, where {playerName} has made me hot and wet.[i][char yule.car_hand_dere_arch_ww_nico] Here, take responsibility."
+# fce1a506
+; yule: 「ユールちゃんの心、{playerName}のせいで熱く燃えてるこの恋心ですよ。[i][char yule.car_hand_dere_arch_ww_nico]ねね、ほらほら、責任取ってくださいな」
 
 # 9e411ed1
 ; me: 「……」
@@ -372,9 +353,8 @@ Change of subject, no effect.
 ; こうなったら開き直りだ。
 If this happens, it'll be all over again.
 
-# f993fdba
-; いきなり下ネタをふってきて少し狼狽えたけど、ユールちゃんのノリにも、少し慣れてきたし、
-I was a little flustered when he suddenly talked about dirty jokes, but I got used to Yule's nori a little bit.
+# cea5c946
+; いきなり恋バナみたいなのをふってきて少し狼狽えたけど、ユールちゃんのノリにも、少し慣れてきたし、
 
 # 1a62eb77
 ; @choice "冗談には冗談で" goto:.joudan
@@ -392,33 +372,22 @@ Let's just say we're dealing with each other.
 ; 冗談には冗談で。
 Joking is a joke.
 
-# cbbc77ec
-; シモネタはシモネタで。
-Simoneta is simoneta.
+# 83bc3fe5
+; me: 「それは告白か？ならば受け取ろう」
 
-# 840483ce
-; me: 「実は、俺もここも大変な事になってるんだよ。どうすればいいんだ」
-me: "Actually, both me and this place are in trouble. What should I do?"
-
-# 9b50249c
-; yule: 「えっ！？本当ですか！[i][char yule.car_pose2_b_a_mou]じゃあ、ユールちゃんが処理してあげますから……」
-yule: "What!? Really?[i][char yule.car_pose2_b_a_mou] Then Yule will take care of it for you ……"
+# 67dc839a
+; yule: 「えっ！？ほ、本当ですか！嬉しいです！[i][char yule.car_pose2_b_a_mou]それでは、キスから……」
 
 # bfc63b32
 ; me: 「えっ！？」
 me: "What!"
 
-# dafd01
-; そう言いながら俺の方に体を寄せて、俺のズボンに手を出そうとしてるユールちゃん。
-As he spoke, he leaned against me and tried to put his hand on me's pants.
+# 41031bb9
+; そう言いながら俺の方に体を寄せて、自分の唇を近づかせるユールちゃん。
 
 # 2fb092af
 ; @choice "冗談だ" goto:.joudan2
 @choice "I'm kidding" goto:.joudan2
-
-# ec7021eb
-; @choice "任せる" goto:3_01_1_makaseru
-@choice "Leave it to me" goto:3_01_1_makaseru
 
 # df1dec07
 ; me: 「じょ、冗談だよ！そんなわけないだろう。運転危ないから、やめてよな！」
@@ -426,7 +395,7 @@ me: "`I'm kidding!'I don't think so.It's dangerous to drive, so don't do that!"
 
 # bda2b55b
 ; 俺は開き直って、俺のズボンに伸ばされたユールちゃんの手を退かした。
-I opened again, and dismissed Yule's hand, which had been stretched out in me's trousers.
+I opened again, and dismissed Yule's hand, which had been stretched out in my trousers.
 
 # a9a75363
 ; yule: 「な、なんですかー！そんな冗談はやめてくださいよ。本気にしますから」
@@ -440,21 +409,12 @@ Also, Yule is disappointed.
 ; てか、冗談はこっちがやめてもらいたい。
 But I want you to stop joking.
 
-# cd436001
-; yule: 「もういいです。興が冷めました。……ユールちゃんのここは、後で自分で処理するとします」
-yule: "That's enough.The fun has cooled down. Let's say I'll take care of this part of ……Yule later."
-
-# da1661e1
-; しょ、処理って……何を？
-Now, what do you mean by processing ……?
+# c4110fa7
+; yule: 「もういいです。興が冷めました。……でも諦めてないです」
 
 # 9e411ed1
 ; me: 「……」
 me: "……"
-
-# 79276fe3
-; ……いや、もうこの手の冗談には乗らない。
-…… No, I won't take this kind of joke anymore.
 
 # 264b5364
 ; 慌てないで、聞かなかった事にしよう。
@@ -474,7 +434,7 @@ Yule muttered to himself with an uncomfortable expression.
 
 # 8e664fc2
 ; 先の俺の答えがよっぽど気に入ったらしい。
-Apparently, he liked me's answer a lot.
+Apparently, he liked my answer a lot.
 
 # d8ab3d08
 ; yule: 「くすくす、{playerName}もやりますね。[i][char yule.car_dere_ww_nico]旅先で出会ったヒッチハイカーの女の子を口説くとか、くすくす」
@@ -540,17 +500,14 @@ yule: "Who is {playerName} not interested in women?"
 ; またいきなり飛躍したな。
 You've made another leap.
 
-# 2202ddd2
-; yule: 「最近増えてますからね、ゲイ。特にこのヨーロッパはもう……」
-yule: "It's increasing these days, gay. Especially in this Europe, ……."
+# 10c0a58d
+; yule: 「最近増えてますからね。特にこのヨーロッパはもう……」
 
-# d5a4cdf0
-; me: 「いや、俺はゲイじゃないが」
-me: "No, me is not gay,"
+# d4dddc4d
+; me: 「いや、俺はそっちじゃないが」
 
-# f8b4192a
-; yule: 「そうですか？[i][char yule.car_arch_w_emi]同性愛者でもなく、無性愛者でもなく、特殊な性的指向の持ち主でもなく、ちゃんと女が好きですか？」
-yule: "Is that so? [i][char yule.car_arch_w_emi] Are you not gay, sexless, and have a special sexual orientation? Do you really like women?"
+# 1843551e
+; yule: 「そうですか？[i][char yule.car_arch_w_emi]特殊な性的指向の持ち主でもなく、ちゃんと女が好きですか？」
 
 # ee9c23a0
 ; me: 「……特殊な日本語もよく知ってるんだな」
@@ -562,7 +519,7 @@ yule: "Are you okay with non-profit?"
 
 # cf63fd42
 ; me: 「ああ、俺は……」
-me: "Oh, me is ……,"
+me: "Oh, I'm ……,"
 
 # 2b87df67
 ; @choice "異性愛者だ" goto:.normal
@@ -590,7 +547,7 @@ yule: "What?"
 
 # 826cfaa4
 ; me: 「俺がシングルだとは、一度も言ってないじゃん？」
-me: "You've never told me that me is a single?"
+me: "You've never told me that I'm a single?"
 
 # 3a5fb23e
 ; yule: 「えええっ！？いるんですか！？彼女とか妻とか？」

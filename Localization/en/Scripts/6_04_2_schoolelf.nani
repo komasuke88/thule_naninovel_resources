@@ -68,8 +68,8 @@ yule: "It will be counterattacked.Those Elfs have a lot of numbers, so I don't k
 ; me: 「逆襲か。[i]あいつらの魔法は恐ろしかったからな。[i]わかった。なるべく慎重に選ばないと」
 me: "A counterattack. [i] Their magic was frightening.[i]I got it.We must choose as carefully as possible."
 
-# d8543fa9
-; yule: 「自分の感を信じたらいいのです。[i][char yule.r-kusu]では、まずは観察です」
+# 8cabe379
+; yule: 「自分の勘を信じたらいいのです。[i][char yule.r-kusu]では、まずは観察です」
 yule: "You can trust your feelings.[i][char yule.r-kusu] Let's observe first."
 
 # f94925cb
@@ -114,7 +114,7 @@ yule: "Oh! Is that the woman {playerName} met at the airport?"
 
 # b4c8e595
 ; me: 「そうだよ。ここが俺の高校での記憶なら、登場するはずがないんだけど……」
-me: "Right. If this is me's memory in high school, it wouldn't appear ……."
+me: "Right. If this is my memory in high school, it wouldn't appear ……."
 
 # a45a923a
 ; yule: 「実は{playerName}の昔からの知り合いだったとか？」

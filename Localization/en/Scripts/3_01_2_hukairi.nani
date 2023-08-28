@@ -36,9 +36,8 @@ yule: "Well! Finally, a new family that I had dreamed of both Yule!"
 ; me: 「ああ、家族になろう」
 me: "Oh, let's be a family,"
 
-# fb2425e9
-; yule: 「嬉しいです！！それでは[i][char yule.car_hand_dere_close_bigemi]早速夫婦のち契を……」
-yule: "Nice to meet you!"Then [i][char yule.car_hand_dere_close_bigemi] I'll sign a marriage contract right away ……"
+# ca9ae6c0
+; yule: 「嬉しいです！！それでは[i][char yule.car_hand_dere_close_bigemi]早速、夫婦の契約を」
 
 # 14b7974f
 ; me: 「おうよ！」

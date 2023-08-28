@@ -108,6 +108,14 @@ Soon the city of Reykjavik will appear.
 ; me: 「……」
 me: "……"
 
+# 3685c36b
+; @choice "寄り道する" goto:.ikanai
+@choice "Go far" goto:.ikanai
+
+# 2e9cf20d
+; @choice "すぐ戻る" goto:ed_2_05_2_nightroad_hime
+@choice "Go home" goto:ed_2_05_2_nightroad_hime
+
 # bf44b418
 ; もうすぐ人工物の光の中へ戻る。
 It will soon return to the light of the artifact.
@@ -276,9 +284,9 @@ It's like walking in a closed room with the lights off, relying only on the ligh
 ; そんな状況だった。
 That was the situation.
 
-# c1d5bb54
-; [br]「あ」
-[br] "Ah,"
+# 4fd09d0e
+; 「あ」
+"Ah,"
 
 # 38f5f8df
 ; [br]さらに段々と、視界が悪くなってくる。
@@ -768,8 +776,8 @@ If I had stopped a minute late, I would have fallen into the river.
 ; [br]「あ、それより、事故の確認を……」
 [br] "Oh, more than that, …… the confirmation of the accident confirmation of the accident.
 
-# 3339f261
-; [br]先、何かが壊れた音がしたんだよな。
+# 3ea8e40d
+; [br]さっき、何かが壊れた音がしたんだよな。
 [br] I heard something broken earlier.
 
 # 4632bcab
@@ -814,7 +822,7 @@ What was the sound of something breaking down?
 
 # ada4f7ff
 ; 俺の車のパーツか何かだったのかな。
-I wonder if it was a part of me's car or something.
+I wonder if it was a part of my car or something.
 
 # cf9a6357
 ; [br]「ま、何も壊してないなら、いいか！」

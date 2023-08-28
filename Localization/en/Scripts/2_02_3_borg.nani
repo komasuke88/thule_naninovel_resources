@@ -150,15 +150,15 @@ I and Hime got out of the car and tried to breathe Reykjavik's air.
 
 # 16784c83
 ; hime: 「す——はぁ——」
-hime: "Yes, yes."
+hime: "Woo~"
 
 # 243de2f
 ; ……だけど、この空気に、俺は違和感を覚えた。
-…… However, me felt uncomfortable with the air.
+…… However, I feel uncomfortable with the air.
 
 # d38e2d81
 ; 風がないとは言え、全然寒くない。むしろ異常なくらいに……
-There is no wind, but it is not cold at all.rather abnormally ……
+There is no wind, but it is not cold at all. rather abnormally ……
 
 # 3252fce1
 ; hime: 「……思ったよりもずっと暖かいね」
@@ -174,7 +174,7 @@ I've heard that winter is warm in Iceland this year, but this is more than I exp
 
 # ba727e6d
 ; hime: 「ちょっと拍子抜けしちゃうよ。[i][char hime.winter2_sad_a_e]暖かい服、沢山持ってきたのに」
-hime: "I'm a little off my guard.[i][char hime.winter2_sad_a_e] I brought a lot of warm clothes."
+hime: "I'm a little disappointed.[i][char hime.winter2_sad_a_e] I brought a lot of warm clothes."
 
 # fad82712
 ; スマホでレイキャヴィクの今の天気を確認してみた。
@@ -250,7 +250,7 @@ I is thinking about various things about his trip to Iceland.
 
 # ee3d1bcb
 ; トランクに乗せていたヒメの荷物を下ろして、ホテルのドアの前に置いた。
-I unloaded Hime's luggage from the trunk and put it in front of the hotel door.
+I unloaded Himy luggage from the trunk and put it in front of the hotel door.
 
 # 9015c272
 ; me: 「よっと」
@@ -314,7 +314,7 @@ I was so excited to hear the sweet smell of the sweet smell that I could touch m
 
 # 2693e9b2
 ; そして俺の耳元で囁いた。
-and whispered in me's ear.
+and whispered in my ear.
 
 # 1ae9c05d
 ; hime: 「このホテル、結構有名なんだそうだけど……」
@@ -343,6 +343,10 @@ me: "Ah, oh, ……, ……,"
 # e88006ed
 ; hime: 「長い運転で疲れたんだから、ちょっとくらい休んで行っても、いいよ」
 hime: "I'm tired from driving for a long time, so you can rest for a while."
+
+# a3a8f23d
+; @choice "遠慮する" goto:.kobamu
+@choice "No" goto:.kobamu
 
 # eada46d9
 ; me: 「い、いや。そ、それは……俺もすぐそこだし」
@@ -506,7 +510,7 @@ Again, a sudden approach.
 
 # 6bbdb3dc
 ; そしてまた、俺の耳元で囁いた。
-he whispered again in me's ear.
+he whispered again in my ear.
 
 # 32f884ad
 ; hime: 「また、会おうね？」

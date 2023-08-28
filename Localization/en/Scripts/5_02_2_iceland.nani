@@ -150,7 +150,7 @@ Home?
 
 # 4e900d4
 ; 俺の家って、どこだ。
-Where is me's house?
+Where is my house?
 
 # 60a5c85e
 ; 少なくともこのアイスランドではない。
@@ -206,7 +206,7 @@ girl: "Don't you remember your name?"
 
 # cc81a416
 ; me: 「俺の名前……？」
-me: "Is me's name ……?"
+me: "Is my name ……?"
 
 # ac641b4a
 ; ……思い出せない。
@@ -214,7 +214,7 @@ me: "Is me's name ……?"
 
 # 6a84d2b9
 ; me: 「俺は……自分の、名前すら……」
-me: " me is …… his own, even his name ……."
+me: " I'm …… his own, even his name ……."
 
 # 2dfa5ebe
 ; girl: 「……」
@@ -226,7 +226,7 @@ me: "`Oh, ……,'"
 
 # 1e1f7689
 ; @choice "俺は……" goto:5_02_3_yourname
-@choice " me is ……" goto:5_02_3_yourname
+@choice " I'm ……" goto:5_02_3_yourname
 
 # 5f850292
 ; @choice "　" goto:ed_5_02_2_noname

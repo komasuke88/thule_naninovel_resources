@@ -196,8 +196,8 @@ hime: "…… "You're going to forget everything here?"
 ; そう、それが、俺も気になったところだ。
 Yes, that's what me was concerned about.
 
-# 70050ff9
-; hildur: 「ええ。その魔法陣の特性だわ。[i]トゥーレから弾けされた者は、トゥーレに来る前の状態に戻る事になる」
+# 57df86a2
+; hildur: 「ええ。その魔法陣の特性だわ。[i]トゥーレから弾け飛ばされた者は、トゥーレに来る前の状態に戻る事になる」
 hildur: "Yes. It's a characteristic of The Magic Circle.[i]He who is played by Thule will return to his former state before coming to Thule."
 
 # fd6f6ccf
@@ -400,8 +400,8 @@ yule: "Ah! That Elf came here, after all?"
 ; hildur: 「ええ。ずっとここに居たけど、[i]昨日、ここから去ったわぁ」
 hildur: "Yes. I've been here for a long time. [i] I left here yesterday."
 
-# 1cc5fbe5
-; yule: 「昨日？[i]それはおかしいです。[i]そのエルフがヒルドルの家に到着したのは、つい先の話だと聞きました」
+# a94c6353
+; yule: 「昨日？[i]それはおかしいです。[i]そのエルフがヒルドルの家に到着したのは、ついさっきの話だと聞きました」
 yule: "Yesterday? [i] That's strange.[i]I heard that it was not long before Elf arrived at his house."
 
 # 4254714c

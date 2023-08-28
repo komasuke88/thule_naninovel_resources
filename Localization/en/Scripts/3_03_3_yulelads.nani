@@ -458,7 +458,7 @@ lilja: "The items of Huldufolk provide a clue to finding the entrance to the wor
 
 # f2e56acf
 ; そう言いながら、物欲しそうな目で俺の首の方をじっと見つめた。
-As he spoke, he stared wistfully at me's neck.
+As he spoke, he stared wistfully at my neck.
 
 # 2cbe60d9
 ; lilja: 「……人間がそんなもの持っていても、ロクな事にならないけど、[i][char lilja.b_close_e]……ワタクシには意味があるの。[i][char lilja]……だから……」
@@ -478,7 +478,7 @@ Should I give this to Lilya?
 
 # f4e432f3
 ; いつの間にか俺の首に付けられていたけど、
-It was attached to me's neck.
+It was attached to my neck.
 
 # abade9ec
 ; どうせ俺にはいらないアイテムだし。
@@ -638,7 +638,7 @@ lilja: "Yes, I can't normally do it, but if it's you, or ……."
 
 # dbb06882
 ; me: 「いや、俺は別に特別じゃないんだけどね。普通の人間なんだし」
-me: "No, me is nothing special.He's an ordinary person."
+me: "No, I'm nothing special.He's an ordinary person."
 
 # 28617d0
 ; lilja: 「でも、そのネックレスを返したいのでしょう？[i]なら、試してみる価値はあるわ」

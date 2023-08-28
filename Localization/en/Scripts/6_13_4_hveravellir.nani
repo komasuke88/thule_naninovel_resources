@@ -98,7 +98,7 @@ hime: "I'll check,"
 
 # b0be5b1a
 ; と言って、ヒメは俺の背中から降りて、ドタドタと湯船に近づいた。
-said Hime, getting down from me's back, and plodding towards the bathtub.
+said Hime, getting down from my back, and plodding towards the bathtub.
 
 # baa74d61
 ; me: 「ヒィーん（いや、確認って……入るつもりか？）」
@@ -426,7 +426,7 @@ me: "niegh (This is!?)"
 
 # 41393e8e
 ; ヒメの手の甲の肌が、魚の鱗みたいになっていた。
-The skin on the back of Hime's hand was like the scales of a fish.
+The skin on the back of Himy hand was like the scales of a fish.
 
 # 58db18aa
 ; もしかして先湯船に入れてた時に、付いてしまったのだろうか？
@@ -440,8 +440,8 @@ No, but it's too ……
 ; hime: 「わたし、手、なにこれ……[i]魚の、鱗？」
 hime: "Me, hands, what is this ……[i] fish, scales?"
 
-# 242ca90a
-; me: 「ヒヒーン（先、湯船に手を入れた時についたのかな？）」
+# c35ef251
+; me: 「ヒヒーン（さっき、湯船に手を入れた時についたのかな？）」
 me: "niegh (Did I get there when I put my hand in the bathtub?)"
 
 # 85806e7b
@@ -616,8 +616,8 @@ hime: "` …… Phew,'"
 ; me: 「ヒヒーン（ヒメ？）」
 me: " niegh?"
 
-# 50cf782a
-; hime: 「なんだか、疲れてきた。[i][char hime.uu]すこし、眠くなって来るよ……」
+# 32fe59a4
+; hime: 「なんだか、疲れてきた。[i][char hime.uu]すこし、眠くなってくるよ……」
 hime: "I'm getting tired.[i][char hime.uu] I'm getting a little sleepy ……"
 
 # 95498fbc

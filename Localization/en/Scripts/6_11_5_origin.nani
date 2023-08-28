@@ -68,8 +68,8 @@ It's like a broken machine.
 ; hime: 「な、なんだか少し不気味だね」
 hime: "Well, it's kind of creepy,"
 
-# bda96086
-; me: 「ヒィーン（そうだな。先の話といい、この様子といい、不気味としか言えない……）」
+# 89a2ed54
+; me: 「ヒィーン（そうだな。さっきの話といい、この様子といい、不気味としか言えない……）」
 me: " neigh (Yes.It's called the future, and it's like this, and I can only say it's creepy ……)"
 
 # 3967101
@@ -332,8 +332,8 @@ merman: "`Gooooooooooooooooooooooooooooooooooooooooooooooo,'"
 ; me: 「ヒヒーン？（うん？今、喋った？）」
 me: "niegh? (Huh? Did you just talk?)"
 
-# f562f18a
-; しばらく先の話しを思い返していた時に、再びマーマンが動いた。
+# 658b8e9e
+; しばらくさっきの話しを思い返していた時に、再びマーマンが動いた。
 After a moment's reflection, merman moved again.
 
 # e3d61a75

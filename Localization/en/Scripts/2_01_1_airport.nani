@@ -40,8 +40,8 @@ I finished the procedure at the immigration gate and went out to the airport lob
 ; 周りの人々は、理解できない言葉で話し合ってる。
 People around me are talking in incomprehensible language.
 
-# 9aa17516
-; パンネルには、見た事のない文字が書いてある。
+# 330569b2
+; 看板には、見た事のない文字が書かれてる。
 There are letters on the panel that I've never seen before.
 
 # 92c29222
@@ -63,6 +63,18 @@ I heard that everything can be solved by credit card here, but [br] I still feel
 # 2bd9a4b5
 ; 「もう空港内でやるべき事は全部済んだな」
 "I've done everything I have to do at the airport."
+
+# 4d117f82
+; さて、次に向かうべき場所は……
+Well, Lets go to...
+
+# f6705fd6
+; @choice "駐車場" goto:.parking
+@choice "Parking lot" goto:.parking
+
+# 14d8d16
+; @choice "搭乗口" goto:ed_2_01_1_airport
+@choice "Boarding gate" goto:ed_2_01_1_airport
 
 # 14184603
 ; 出口を抜け、空港の駐車場に出た。

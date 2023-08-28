@@ -356,10 +356,6 @@ Where should I grab it?
 ; @choice "腰" goto:.yoko
 @choice "waist" goto:.yoko
 
-# d3192517
-; @choice "胸" goto:ed_6_07_5_mune
-@choice "chest" goto:ed_6_07_5_mune
-
 # 67f28796
 ; 恐る恐るユールちゃんの腰を掴まえようとした時、
 When I was about to grab Yule by the waist,
@@ -536,8 +532,8 @@ me: "Don't say anything sinister. Will …… really fall off?"
 ; yule: 「くすくす、大丈夫です。それでは加速しますよー」
 yule: "It's all right, giggle.I'll accelerate, then."
 
-# a1bc76af
-; そしてすぐに、下の風景など見えないくらい、鳥は速度して行った。
+# 9e519a7c
+; そしてすぐに、下の風景など見えないくらい、鳥は加速して行った。
 and at once the bird sped so fast that it could not see the landscape below.
 
 # 104de2ca

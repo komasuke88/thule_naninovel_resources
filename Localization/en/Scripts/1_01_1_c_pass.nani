@@ -2,11 +2,11 @@
 
 # c97b7048
 ; me: 「一人で遊んでるんだな」
-me: "You're playing alone,"
+me: "That is playing alone"
 
 # e831a06a
 ; 邪魔しちゃ悪いし、通り過ぎる事にした。
-I shouldn't disturb him, so I decided to pass by.
+I shouldn't disturb her, so I decided to pass by.
 
 # c3a8ad31
 ; 俺は、車の速度を上げた。
@@ -30,11 +30,11 @@ unknown: "Oh, my God, to be,"
 
 # c8547d83
 ; unknown2: 「ペタンコになりましたね。車の転落ですね」
-unknown2: "It's become a petanko.It's a car crash."
+unknown2: "It's become a flattery. It's a car crash."
 
 # 63f9a774
 ; unknown: 「この潰れっぷり。メッチャ高い場所から落ちたのね」
-unknown: "You're crushed.Metcha fell from a high place."
+unknown: "The crushed. fell from a high place."
 
 # edb5feab
 ; unknown2: 「でもこの辺りは平地なんですけど」
@@ -46,7 +46,7 @@ unknown: "Yes, they did it."
 
 # e34209c3
 ; unknown2: 「はい。あれですね。見たところ遠い国から来たみたいだけど、可愛そうに」
-unknown2: "Yes, that's it.It looks like you're from a far country, but you look cute."
+unknown2: "Yes, that's it. It looks like he is from a far country, look pathetic"
 
 # 53293888
 ; unknown: 「客死なんて可哀想だわ。せめてのプレゼントに、温かい墓場を用意してあげようかしら」
@@ -58,4 +58,4 @@ unknown2: "Yes, I will,"
 
 # cc5593d1
 ; <s>　　　　</s><ruby="グレディレッグ・ヨール">　Gleðileg jól</ruby>。聖夜の祝福を、あなたに。
-<s>    </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>.Bless you on a holy night.
+<s>    </s><ruby=" Gledileg jol"> Gleðileg jól</ruby>. Bless you on a holy night.

@@ -2,7 +2,7 @@
 
 # 3cc9b7bb
 ; 「……っと、寒い寒い」
-"It's cold, it's cold."
+"It's cold, it's cold???"
 
 # 4b9eeeef
 ; [br]世界的な異常高温というこの２０２５年でも、
@@ -26,7 +26,7 @@ a strange land covered with dark green bumps.
 
 # 99cef0d8
 ; 苔の原野、<ruby="エルドフロイン">Eldhraun</ruby>。
-Moss field, <ruby=" Eldhraun">Eldhraun</ruby>.
+Moss field, Eldhraun.
 
 # 70a84f6f
 ; その中を横切ってる、この国道204号には誰の影も見当たらなく、
@@ -34,11 +34,11 @@ No one was seen on National Highway 204, crossing it.
 
 # 2d76cf53
 ; 俺の車だけが強風で揺られてる。
-Only me's car is shaken by the strong wind.
+Only my car is shaken by the strong wind.
 
 # 538976cc
 ; 先よりも暗くなった空を見上げて、ポツリとつぶやく。
-He looked up at the sky darker than before and murmured.
+looked up at the sky darker than before and murmured.
 
 # e34e3bdf
 ; @choice "早く帰らないと" goto:.kaeru
@@ -82,15 +82,15 @@ The other day, I almost died on a midnight drive.
 
 # 1fa757c9
 ; 真っ暗になる前に、早くここから離れないといけない。
-We need to get out of here before it gets dark.
+I need to get out of here before it gets dark.
 
 # 5253bb0b
 ; 車のダッシュボードにスマホをセットして、俺はアプリを起動した。
-With Smartphont on the dashboard of the car, me started the app.
+Setting smartphone on the dashboard of the car, I started the app.
 
 # 8526b9cf
 ; @choice "グー○ルマップ" goto:.Goglemap
-@choice " Goggle map" goto:.Goglemap
+@choice "Goggle map" goto:.Goglemap
 
 # e69b7f3e
 ; @choice "Ｆ○Ｏ" goto:1_01_1_b_fgo
@@ -110,7 +110,7 @@ Set the navigation on the Goggle map.
 
 # dd5e5632
 ; 休まずに走ったら、真っ暗になる前には、危ないエリアからは離れられる。
-If you run without a break, you can get away from the dangerous area before it gets darkens.
+If I run without a break, I can get away from the dangerous area before it gets darkens.
 
 # 7f149c0c
 ; me: 「よし、踏むか」
@@ -140,24 +140,24 @@ I saw a figure.
 ; me: 「女の子？」
 me: "Is it Girl?"
 
-# c7832ce
-; つい先まで誰もいなかったはずなのに……
+# 203a7815
+; ついさっきまで誰もいなかったはずなのに……
 No one should have been there until just now ……
 
 # ae13f801
 ; いきなり現れた？
-Did you show up all of a sudden?
+Did she show up all of a sudden?
 
 # c966683b
 ; ……いや、俺が見落としてたのかな？
-…… No, I wonder if me overlooked it.
+…… No, Maybe I'm overlooked it.
 
 # b7a0880d
 ; 目を疑って改めて見たけど、やっぱり女の子がいる。
 I looked at it again because I couldn't believe my eyes, but there was Girl.
 
-# b8b9c6bb
-; ……何で、先までは見えなかったのだろう？
+# 21f5456
+; ……何で、さっきまでは見えなかったのだろう？
 …… Why didn't I see it before?
 
 # 25f90019
@@ -170,7 +170,7 @@ Only she seemed to shine white in the dark background.
 
 # 24a602ec
 ; 女の子は道端で立ち止まり、こっちを見ていた。
-Girl stopped at the side of the road and looked at him.
+Girl stopped at the side of the road and looked at me.
 
 # 5bb4b2bc
 ; me: 「……？」
@@ -182,7 +182,7 @@ It's kind of fluttering.
 
 # 54e37e1e
 ; 何をしてるんだ？
-What are you doing?
+What is she doing?
 
 # 23dea199
 ; 何かのサインを、俺に送ってるように見えた。
@@ -190,7 +190,7 @@ It looked like I was sending some sign to me.
 
 # aee6b951
 ; 腕をまっすぐ伸ばし、親指を立てて。
-Straighten your arms and raise your thumb.
+Straighten arms and raise thumb.
 
 # a46041c3
 ; あれは……

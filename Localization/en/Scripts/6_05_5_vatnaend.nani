@@ -48,17 +48,8 @@ byu: "I hope to see you again"."
 ; me: 「あ、ああ。できたらいいね」
 me: "Oh, yes. I wish I could."
 
-# 8e343949
-; byu: 「いつかあのソーセージ、味わわせてね」
-byu: "Someday, let me taste that sausage"
-
-# f0c4e5df
-; yule: 「味わわせません。ユールちゃんのモノです！」
-yule: "I won't let you taste it.It belongs to Yule!"
-
-# cabd51f8
-; byu: 「わかってるよーもう冗談だって。[i][char byu.emi]ボクも早く婿を探して、一緒にソーセージ狩りでもしたいな」
-byu: "I know, I'm kidding.[i][char byu.emi] I want to find my son-in-law soon and hunt sausage together."
+# bfde59f7
+; byu: 「ボクも早く婿を探して、一緒にソーセージ狩りでもしたいな」
 
 # f053f9a6
 ; yule: 「ビューちゃんも人間世界に行って、拾ってくればいいのです」
@@ -140,8 +131,8 @@ yule: "Yes, then, that day."
 ; ビューちゃんはお別れの挨拶をして、遠くへ走って行った。
 Byu said good-bye and ran far away.
 
-# c358e282
-; me: 「あいつも以外と足が速いな……って」
+# f1bacca6
+; me: 「あいつも意外と足が速いな……って」
 me: "He's a faster runner than anyone else ……"
 
 # da3c44a2

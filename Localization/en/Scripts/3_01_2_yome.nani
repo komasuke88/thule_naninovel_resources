@@ -20,9 +20,8 @@ yule: "Well, what shall I do now?"[i]Finally, Yule has a new family!"
 ; me: 「ああ、幸せな家庭を作ろうぜ」
 me: "Oh, let's make a happy family,"
 
-# db470bf2
-; yule: 「まあ！嬉しい事！！それでは[i][char yule.car_hand_dere_close_bigemi]今直ぐユールちゃんの身体に、旦那さんの印をつけてくださいませ……」
-yule: "Oh! I'm so happy!! Then [i][char yule.car_hand_dere_close_bigemi] Please mark Yule's body with your husband's name right now ……"
+# e40ea130
+; yule: 「まあ！嬉しい事！！それでは[i][char yule.car_hand_dere_close_bigemi]今直ぐこのかわいいお嫁さんを抱いてくださいな……」
 
 # 14b7974f
 ; me: 「おうよ！」

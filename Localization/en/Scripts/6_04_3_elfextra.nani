@@ -114,7 +114,7 @@ the princess of Otasar, whose name is …… Himeka.
 
 # a73baade
 ; しかし俺の高校時代の記憶に、こんな人がいたのか。
-But I wonder if there was such a person in me's high school memory.
+But I wonder if there was such a person in my high school memory.
 
 # 615b9e47
 ; 見覚えがないんだけど、ま、取り戻してみたらわかるだろう。
@@ -134,7 +134,7 @@ yule: "But they all had names, didn't they?If {playerName}'s real name comes out
 
 # 6da2f55f
 ; me: 「ああ、でも俺も俺の本名は知らないからな」
-me: "Ah, but me doesn't know me's real name,"
+me: "Ah, but me doesn't know my real name,"
 
 # 85217986
 ; yule: 「もうちょっと見てみましょう」
@@ -174,7 +174,7 @@ elf3: "Yes,"
 
 # cb33062d
 ; 「こいつもいいって言ってるじゃん！おい、お前は俺の椅子に座れよ。ボクがそっちで一緒に座りたい」
-`He says it's good, too!'Hey, sit in me's chair.I want to sit there with you."
+`He says it's good, too!'Hey, sit in my chair.I want to sit there with you."
 
 # 9296ecad
 ; 「でもケンちゃんなんだか疲れてるみたいだし」
@@ -236,8 +236,8 @@ What should I do?
 ; また魔法に掛かってしまうのか？
 Are you going to be enchanted again?
 
-# 52b5c3eb
-; @choice "調子を見る" goto:.chousi
+# c9d9bf71
+; @choice "様子を見る" goto:.chousi
 @choice "See how it goes" goto:.chousi
 
 # ed280352
@@ -314,7 +314,7 @@ yule: "What kind of role are you?"
 
 # bfb391b6
 ; elf5: 「俺か？俺は通りがかりの男子生徒Eの役だ」
-elf5: "Is it me? me is the role of School BoyE on the way."
+elf5: "Is it me? I'm the role of School BoyE on the way."
 
 # 2d51abad
 ; yule: 「モブですね、くすくす」
@@ -359,10 +359,6 @@ yule: "Huh? What is it?Look at me.[i]Did Yule's uniform make you feel dizzy?gigg
 # dab7325
 ; @choice "違う" goto:.no
 @choice "No" goto:.no
-
-# d021a64c
-; @choice "ああ" goto:ed_6_04_3_yuleschool
-@choice "Ah" goto:ed_6_04_3_yuleschool
 
 # c4ade70a
 ; me: 「ち、違うわ。冗談はやめて、覗きの続きだ」

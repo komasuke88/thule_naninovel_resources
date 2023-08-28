@@ -474,7 +474,7 @@ yule: "What a traveller he is,"
 
 # 7b1a4381
 ; me: 「俺は今、赤ちゃんになって、雄大な自然に放り出されてる。[i]そしたらさ、俺の心もこの自然に似てきて広くなって、[i]どんな事が起こっても受け入れる自身ができて……」
-me: "Now me has become a baby and is thrown out into the magnificent nature.[i]Then, me's mind began to resemble this nature and become wider. [i]I was able to accept whatever happened ……."
+me: "Now me has become a baby and is thrown out into the magnificent nature.[i]Then, my mind began to resemble this nature and become wider. [i]I was able to accept whatever happened ……."
 
 # 1e83832
 ; 世界の終わりが来ても、今の何も持たない自分は、悲しい事もないのだろう。
@@ -544,8 +544,8 @@ yule: "`Interested?'"
 ; me: 「ま、まぁ」
 me: "Well, well,"
 
-# ba0cd047
-; yule: 「ま、そりゃユールちゃんも種族保存のためだから、理由はどうでもいいですが……ちょっと尺です」
+# 429a387e
+; yule: 「ま、そりゃユールちゃんも種族保存のためだから、理由はどうでもいいですが……ちょっと癪です」
 yule: "Well, Yule is also for the preservation of races, so I don't care why, …… is a bit of a measure."
 
 # 6d95097
@@ -702,7 +702,7 @@ me: "Well, yes,"
 
 # 7896fc94
 ; yule: 「はい。まずはヒメさん件から解決して、それからは再び{playerName}の記憶を探しに行きますよ？」
-yule: "Yes. I'll start with Mr. Hime's case, and then I'll go look for memories of {playerName} again."
+yule: "Yes. I'll start with Mr. Himy case, and then I'll go look for memories of {playerName} again."
 
 # cb4ac9be
 ; me: 「ああ、わかった」

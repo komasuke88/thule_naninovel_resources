@@ -201,6 +201,14 @@ hime: "Wow, that sounds fun!"
 ; なんて言えばいいの。
 What should I say?
 
+# 4fa1469b
+; @choice "ヒメの予定は？" goto:.kakunin
+@choice "Your plan？" goto:.kakunin
+
+# 625f69d6
+; @choice "一緒に行く？" goto:ed_2_06_1_morning_hime
+@choice "Go together？" goto:ed_2_06_1_morning_hime
+
 # 3aa19bcc
 ; 一緒にゴールデンサークル行かないかって？
 "Do you want to go to the Golden Circle with me?"
@@ -265,7 +273,7 @@ hime: "Reykjavik Don't you go sightseeing?"
 
 # 77ccbcd5
 ; me: 俺はリングロード一周が目標でね、街は計画にないんだ
-me: "me's goal is to go around the ring Road, and the city isn't in the plan."
+me: "my goal is to go around the ring Road, and the city isn't in the plan."
 
 # e0c09316
 ; hime: そっか

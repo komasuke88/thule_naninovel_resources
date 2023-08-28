@@ -12,8 +12,8 @@ me: "What happened to by the way and Hime?"
 ; hime: 「どうって？」
 hime: "What do you say?"
 
-# 459429
-; me: 「ほら、先、あの岩の近くで、みんな変な状態になってたし。氷山が崩れて……」
+# dbb5cb5c
+; me: 「ほら、さっき、あの岩の近くで、みんな変な状態になってたし。氷山が崩れて……」
 me: "You see, we were all in a strange state near that rock.The iceberg collapsed and ……"
 
 # 5d66d2e2
@@ -78,7 +78,7 @@ hime: "Oh, yes, you had a headache.Are you all right now?"
 
 # 36b80874
 ; me: 「ああ、俺はもう大丈夫だけど、ヒメは？」
-me: "Oh, me is all right now, but Hime?"
+me: "Oh, I'm all right now, but Hime?"
 
 # d1a82271
 ; hime: 「わたし？」
@@ -108,8 +108,8 @@ me: "But you're going to sleep, Ghost,"
 ; hime: 「だね。で、何の話をしてたっけ？」
 hime: "Well, what were we talking about?"
 
-# 2717e63b
-; me: 「ああ、そうだったな。先の話をしていたな」
+# 60c00c9a
+; me: 「ああ、そうだったな。さっきの話をしていたな」
 me: "Oh, yes.You were talking about the future."
 
 # 82309aae
@@ -158,7 +158,7 @@ me: "I see. There were a lot of things going on after that."
 
 # 4e972ff0
 ; あの岩の姿を覚えてるのは、もしかして俺だけかな。
-Maybe me is the only one who remembers that rock.
+Maybe I'm the only one who remembers that rock.
 
 # 266f7bcb
 ; ユールちゃんもあんな感じだったし。

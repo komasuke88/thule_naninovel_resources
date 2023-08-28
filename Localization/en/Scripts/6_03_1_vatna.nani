@@ -60,17 +60,12 @@ I don't mind that in itself, but it's getting annoying.
 ; yule: 「あれれ？何ですか？じっと見つめて」
 yule: "Huh? What is it?Stare at me."
 
-# 33f484b9
-; yule: 「あっ！もしかして、[i][char yule.r-kusu]ユールちゃんの穴が気になっちゃったりして？[i][char yule.l-kusu]くすくすくす」
-yule: "Oh! By any chance, [i] [char yule.r-kusu]Are you curious about the hole in Yule?[i][char yule.l-kusu] gigglekusu"
+# 19799547
+; yule: 「あっ！もしかして、[i][char yule.r-kusu]ユールちゃんのが気になっちゃったりして？[i][char yule.l-kusu]くすくすくす」
 
 # eff081c
 ; @choice "そんなわけあるか" goto:.nono
 @choice "I don't know why" goto:.nono
-
-# 65923775
-; @choice "ああ、そうだ" goto:ed_6_03_1_vatna_kininaru
-@choice "Oh yeah" goto:ed_6_03_1_vatna_kininaru
 
 # 9bb498f9
 ; me: 「お前、童貞をからかうでない」
@@ -214,14 +209,14 @@ Mother Nature's loneliness was great and kind.
 
 # 1fd392ea
 ; 俺の寂しさをも包み込んでくれる気がして、心が引き込まれそうになる。
-me's loneliness is enveloped in her, and her heart is about to be drawn to her.
+my loneliness is enveloped in her, and her heart is about to be drawn to her.
 
 # 852546e8
 ; me: 「この雄大なる孤独に比べたら、俺の存在なんてちっぽけなんだ……」
-me: "Compared to this magnificent solitude, me's existence is petty."
+me: "Compared to this magnificent solitude, my existence is petty."
 
-# d188440
-; yule: 「あら、感想に浸ってましたか」
+# 1e7beb7b
+; yule: 「あら、感傷に浸ってましたか」
 yule: "Oh, you were immersed in your thoughts"."
 
 # 9550cc39
@@ -230,7 +225,7 @@ me: "Wow!"
 
 # 68f80e13
 ; いつの間にか隣に来てるユールちゃんが、俺の独り言にツッコミを入れた。
-Before I knew it, Yule, who was next to me, added a tsukkomi to me's soliloquy.
+Before I knew it, Yule, who was next to me, added a tsukkomi to my soliloquy.
 
 # 345eb534
 ; 恥ずかしいなおい。
@@ -288,8 +283,8 @@ Also, me sat down, looking at the world ting with white.
 ; me: 「俺にももらえるのかな、この生命力が」
 me: "I wonder if me can get this vitality."
 
-# 72c589db
-; そうしてまた、しばらく感想に浸り始めたその時。
+# 134eea11
+; そうしてまた、しばらく感傷に浸り始めたその時。
 And when I started to get immersed in my thoughts for a while,
 
 # a92eafd0

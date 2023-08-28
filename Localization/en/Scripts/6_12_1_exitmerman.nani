@@ -44,12 +44,12 @@ hime: "Yes, …… is the 【 virus 】."
 ; yule: 「ウイルスですか。[i][char yule.l-nayami]トゥーレにはない概念でしたので、知識としてしか知らなかったのですが、こういう事だったんですね」
 yule: "Is it a virus?[i][char yule.l-nayami] It was a concept that Thule didn't have, so I only knew it as knowledge, but it was like this."
 
-# b1cdd4d2
-; hime: 「だとしたら、先に話も……もしかして本当に……？」
+# 15a80f38
+; hime: 「だとしたら、さっきの話も……もしかして本当に……？」
 hime: "If that's the case, is it really ……?"
 
-# c1986722
-; me: 「ヒヒーン（先の話……そうだな）」
+# 2d45e33b
+; me: 「ヒヒーン（さっきの話……そうだな）」
 me: "niegh (The other story ……)"
 
 # 62ea8e4a

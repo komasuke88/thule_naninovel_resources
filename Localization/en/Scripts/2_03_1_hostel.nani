@@ -118,7 +118,7 @@ At that time,
 
 # 1a74fd2d
 ; man: 「Halló. Veðrið er fínt í dag」
-man: "Hall ó.Ve ðri ðerf ínt ídag"
+man: "Halló. Veðrið er fínt í dag"
 
 # 1103fdbb
 ; 聞き慣れない言葉、アイスランド語だ。
@@ -142,7 +142,7 @@ I guess it's a greeting. But I don't know how this blunt kid will react ……
 
 # f4070f88
 ; counter: 「Eigðu góða ferð！ Vindurinn er sterkur í dag, svo vertu varkár」
-counter: "Eig ðug óðafer ð! Vindurner starkur ídag, svovertuvark ár"
+counter: "Eigðu góða ferð！ Vindurinn er sterkur í dag, svo vertu varkár"
 
 # cdabfb63
 ; 彼女は、とても親切で明るい声で、何か返事をした。
@@ -178,7 +178,7 @@ I I wonder if I did something wrong.
 
 # 9c43ebd8
 ; 俺の英語は未熟なのは確かだけど、無視されるほどではないと思うけど。
-I'm sure me's English is poor, but I don't think it's enough to be ignored.
+I'm sure my English is poor, but I don't think it's enough to be ignored.
 
 # dff78804
 ; 何だか差別されたみたいで、あまりいい気分ではない。
@@ -188,16 +188,16 @@ I don't feel very good because I seem to have been discriminated against.
 ; あ、もしかしてこの人の英語が苦手かも知れない。
 Oh, maybe this person is not good at English.
 
-# ecf2774e
-; [br]……いや。まぁ、
+# 35e18f00
+; ……いや。まぁ、
 [br]…… No. Well,
 
 # 31a3357f
 ; どうでもいいがな。あまり深く考えないでおこう。
 I don't care.Let's not think too deeply.
 
-# eea3ea66
-; この人とはあまり話す事もなさそうだし、
+# 7ee74962
+; この人とはあまり話す事もなさそうだし。
 I don't think I have much to say with him.
 
 # 7d6746b0
@@ -207,6 +207,18 @@ It's best not to worry about things that don't matter.
 # fc343871
 ; ……しかし初めて訪れた異国の宿でこんな扱いをされると、少し凹むな。
 …… But don't be a little depressed when you treat me like this at a foreign inn I visited for the first time.
+
+# 4b28fbbe
+; @choice "気にしない" goto:.kinisinai
+@choice "doesnt matter" goto:.kinisinai
+
+# 14da95a8
+; @choice "わからせる" goto:ed_2_03_1_hostel
+@choice "let you know" goto:ed_2_03_1_hostel
+
+# 715890d9
+; 気にしない気にしない。
+Alright
 
 # 9e411ed1
 ; me: 「……」

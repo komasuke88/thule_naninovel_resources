@@ -6,7 +6,7 @@ hime: "Mr. Sara, you're going to show me around."
 
 # 48a66657
 ; ヒメはまた俺の背中に乗りながら、そういった。
-said Hime, riding on me's back again.
+said Hime, riding on my back again.
 
 # d946f89d
 ; サラは少し困った表情はしたけど、結局は案内してくれると言って、車に乗った。
@@ -18,7 +18,7 @@ hime: "But dimmuborgir seems to be a long way off.I've got to hurry up a little.
 
 # 98af8359
 ; me: 「ヒィーン（俺の馬力が試される時が来たか……）」
-me: "neigh (Is it time to test me's horsepower? ……)"
+me: "neigh (Is it time to test my horsepower? ……)"
 
 # 17fdb80
 ; hime: 「うん。徐々に速度を上げるから、付いて来れるまで付いてこればいいって」
@@ -42,7 +42,7 @@ me: " niegh! (Hi, Hime!?)What's the matter?"
 
 # b46492f4
 ; 俺の背中に乗っていたヒメが、いきなりすらりと、落ちてしまう。
-The Hime on me's back suddenly fell thin.
+The Hime on my back suddenly fell thin.
 
 # 78a83060
 ; hime: 「あいたたたた……」
@@ -66,7 +66,7 @@ me: "The niegh!"
 
 # 1f6eafa1
 ; 俺の体と、重なってる！？
-It overlaps with me's body!?
+It overlaps with my body!?
 
 # 92b496cc
 ; me: 「ヒヒーン（ひ、ヒメ、なんで透けて見えるだ？[i]もしかして、また幽霊に？）」
@@ -116,9 +116,9 @@ I heard Sara from the driver's seat.
 ; hime: 「え？あ、いいえ。えっと……」
 hime: "What? Oh, no. Let's see, ……."
 
-# 6866c33f
-; sara: 「うん？どうしかた？」
-sara: "Huh? Who is it?"
+# 8ef9515c
+; sara: 「うん？どうかした？」
+sara: "Huh? What?"
 
 # ccc1051f
 ; サラが怪訝そうな声色で、車から降りて、こっちに近づいてきた。
@@ -144,13 +144,13 @@ hime: "I don't know what's going on, either.It suddenly became transparent. [i][
 ; 二人は、すぐ隣にいる俺の姿が、まるで見えないみたいだった。
 They could hardly see me standing next to them.
 
-# 3cb93b3e
-; ぎょろぎょろと、周りを見渡してる。
-I'm gazing around.
+# ee6dd52e
+; きょろきょろと、周りを見渡してる。
+gazing around.
 
 # 8c81c158
 ; me: 「ヒヒーン！？（お、俺はここだ！聞こえないのか！？）」
-me: "niegh!? (Oh, me is here!)Can't you hear me!?"
+me: "niegh!? (Oh, I'm here!)Can't you hear me!?"
 
 # 6e0888e7
 ; hime: 「{playerName}！？{playerName}！？ど、どこ！？」
@@ -250,7 +250,7 @@ Hime, who was supposed to have been in the same <ruby=" Thule">world</ruby>, is 
 
 # 2b4c8f7f
 ; 俺だけがまた、トゥーレにいる。
-Only me is in Thule again.
+Only I'm in Thule again.
 
 # d02a3896
 ; sara: 「いきなり見えなくなったって？馬が？」
@@ -362,7 +362,7 @@ Sara It's surprisingly easy to guess.
 
 # 2bfe3358
 ; わけのわからない状態だろうに、ヒメの言葉をそのまま受け入れてくれたようだ。
-He seemed to have accepted Hime's words, though he did not understand them.
+He seemed to have accepted Himy words, though he did not understand them.
 
 # a538f16d
 ; hime: 「ありがとうございます！[i][char hime.e]あ、あとわたし、ちょっと変な事叫ぶかも知れませんけど、[i][char hime.hehe]あまり気にしないでくださいね」
@@ -412,8 +412,8 @@ hime: "Thank you, {playerName}! [i]Thanks to you, I came back to life like this!
 ; 俺が居ないか確認するように、
 I to make sure there is no
 
-# c57ed714
-; 周りをぎょろぎょろと見渡しながら、大声で。
+# da8cf8fb
+; 周りをきょろきょろと見渡しながら、大声で。
 with a loud voice, gazing around.
 
 # 9e64d0

@@ -258,7 +258,7 @@ But I can't hide it.
 
 # 4de9fe91
 ; ケルタちゃんは俺の股間を、物珍しそうにずっと見つめてる。
-Kerta kept looking curiously at me's crotch.
+Kerta kept looking curiously at my crotch.
 
 # 6cc22693
 ; keruta: 「なんて素晴らしいキャンドルでしょう！[i]これはユールちゃんが惚れるのもわかりますよー」
@@ -276,9 +276,8 @@ keruta: "Would you please put Kerta in {playerName}'s Harlem, too.[i]No, it's no
 ; me: 「なっ、なにいってるんだ。ハーレムなどないぞ」
 me: "What are you talking about?There's no such thing as Harlem."
 
-# a6889760
-; keruta: 「ボクの体、この通りTEN○A仕様ですし、あなたの勝手に使っても構いませんよ。[i]思う存分、あなたの白いロウをボクのお尻に……」
-keruta: "As you can see, my body is TEN○A specification, so you can use it freely.[i]…… your white wax on my butt, to my heart's content."
+# f4d39d40
+; keruta: 「はあぁ、思う存分、あなたの白いロウをボクのお尻に……」
 
 # e2a296dc
 ; ケルタちゃんは何かに取り憑かれたみたいに、うつろな目で俺に近づいた。
@@ -295,10 +294,6 @@ I'm even saying nonsense!
 # e9765d27
 ; @choice "チョップ" goto:.chop
 @choice "chop" goto:.chop
-
-# ebd73ba3
-; @choice "触らせる" goto:ed_6_15_2_keruta
-@choice "Let me touch" goto:ed_6_15_2_keruta
 
 # 42d0cad1
 ; keruta: 「あいたっ！」

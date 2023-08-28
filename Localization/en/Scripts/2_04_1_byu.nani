@@ -140,8 +140,8 @@ I checked the window behind the shop, but it was tightly closed.
 ; そもそも、開けられるような窓でもないみたいだ。
 In the first place, it doesn't seem like a window that can be opened.
 
-# 4b2bc34e
-; 先、ここに手を入れてるのが見えたけど、どうやって？
+# 40424a36
+; さっき、ここに手を入れてるのが見えたけど、どうやって？
 I saw you put your hand in here. How?
 
 # d9c5c7e4
@@ -196,6 +196,14 @@ Or is there something wrong?
 ; [br]何故か急に、頭がぼーっとなってきた。
 [br] For some reason, my head suddenly went blank.
 
+# 4079eb7f
+; @choice "諦める" goto:.akirameru
+@choice "Give up" goto:.akirameru
+
+# 1fac59b1
+; @choice "諦めない" goto:ed_2_04_1_byu
+@choice "Dont Give up" goto:ed_2_04_1_byu
+
 # a949079c
 ; ……ま、理解できない事は、いくら考えても無駄だ。
 …… It's no use thinking about things you don't understand.
@@ -234,7 +242,7 @@ I When will it be my turn? ……
 
 # c0c306da
 ; ついに俺の番。
-Finally, it's me's turn.
+Finally, it's my turn.
 
 # cddd3021
 ; 店主さんと顔をあわせたら、少し恥ずかしくなった。
@@ -312,8 +320,8 @@ It tasted dreamy and dazed.
 ; ソーセージ……？
 sausage……?
 
-# 4ad87121
-; そういや、つい先、ソーセージ絡みで何かあったんじゃないか？
+# a3e6df0c
+; そういや、ついさっき、ソーセージ絡みで何かあったんじゃないか？
 by the way, didn't something happen to sausage just now?
 
 # 644e83ff

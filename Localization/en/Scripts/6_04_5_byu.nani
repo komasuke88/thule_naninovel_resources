@@ -72,17 +72,15 @@ unknown: "………………"
 ; どういうこと？
 What do you mean?
 
-# 31b6c671
-; unknown: 「や」
-unknown: "Well,"
+# 358bfbed
+; unknown: 「け」
 
 # 97b36ced
 ; ？
 ？
 
-# 194995e4
-; unknown: 「や、やらせてください！」
-unknown: "`Let me do it!'"
+# 1b808e77
+; unknown: 「け、結婚してください！」
 
 # 15834537
 ; yule: 「なっ？！」
@@ -102,7 +100,7 @@ me: "What?"
 
 # 6e0cf2a3
 ; byu: 「 <ruby="ビューグナクライキル"> Bjúgnakrækir</ruby>だよ。長いから、ビューちゃんでいいよ」
-byu: "「 It's <ruby="ú">Bj ægnakr Bjugnakraekirkir</ruby>.It's long, so Byu is fine."
+byu: " It's <ruby="ú">Bj ægnakr Bjugnakraekirkir</ruby>.It's long, so Byu is fine."
 
 # f22f0f57
 ; me: 「ああ、よろしく」
@@ -254,7 +252,7 @@ byu: "Yes. Then there's nothing we can do about it ……."
 
 # c72fa3eb
 ; 俺の所有権って、先着順らしい。
-It seems that ownership of me is on a first come, first served basis.
+It seems that ownership of I'm on a first come, first served basis.
 
 # 98bc855e
 ; というか、俺は所有物なのか。
@@ -374,7 +372,7 @@ About ten minutes after Byu entered the classroom.
 
 # f6c6bd5
 ; elf4: 「ぎゃー俺のホットドッグに、ソーセージがない！きっとユールラッズの仕業だ！もうここには住めない！」
-elf4: "There's no sausage in me's hot dog! I'm sure it's Yulelads's job!"I can't live here any more!"
+elf4: "There's no sausage in my hot dog! I'm sure it's Yulelads's job!"I can't live here any more!"
 
 # d720fc21
 ; 中の一人が飛び出て、体が小さくなり、逃げ出した。

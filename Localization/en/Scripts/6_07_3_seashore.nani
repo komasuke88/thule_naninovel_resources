@@ -334,7 +334,7 @@ byu: "Jeez,"
 
 # 4ea03503
 ; ビューちゃんはいつぞやのように、悩ましげに俺の股間を見つめた。
-Byu stared anxiously at me's crotch.
+Byu stared anxiously at my crotch.
 
 # 51dc9998
 ; 俺はビューちゃんにご褒美を……
@@ -343,10 +343,6 @@ I …… reward Byu
 # c3ee5bc9
 ; @choice "あげない" goto:.hime
 @choice "I won't give you" goto:.hime
-
-# a47b10ed
-; @choice "あげる" goto:ed_6_07_2_byuend
-@choice "I'll give it to you" goto:ed_6_07_2_byuend
 
 # ea703ba9
 ; me: 「そ、そういえば、ヒメは知らないのか？」

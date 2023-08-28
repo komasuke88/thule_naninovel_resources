@@ -70,7 +70,7 @@ unknown: "Oh, isn't Mr. Ma {playerName} by any chance?"
 
 # 41ef82e1
 ; me: 「ヒヒーン（あれ？ユールちゃんが言ってたのか！そう、俺が{playerName}だ）」
-me: "niegh (Huh?)What did Yule say?Yes, me is {playerName}."
+me: "niegh (Huh?)What did Yule say?Yes, I'm {playerName}."
 
 # d09988ae
 ; unknown: 「なるほどなるほど〜　[i][char keruta.ww]ではでは〜」
@@ -86,7 +86,7 @@ unknown: "All right,"
 
 # 7390efc0
 ; いきなり俺の背中に乗ろうとした。
-I suddenly tried to get on me's back.
+I suddenly tried to get on my back.
 
 # db4b74e4
 ; me: 「ヒヒーン（な、なんだ？）」
@@ -124,8 +124,8 @@ me: "I'm sorry, neigh.I'm going to ride it all of a sudden.)"
 ; unknown: 「ユールちゃんに会いに行くんでしょう？ぼくが連れて行ってあげるのです」
 unknown: "You're going to see Yule, aren't you?"I'll take you there."
 
-# 385a52d7
-; me: 「ヒーン？（あ、そういう事なら言ってくれればよかったのにば）」
+# 77b347ab
+; me: 「ヒーン？（あ、そういう事なら言ってくれればよかったのに）」
 me: "niegh? (Oh, you should have told me."
 
 # 502d9996
@@ -198,7 +198,7 @@ unknown: "Oh, thank you,"
 
 # cbad3076
 ; 女の子は、俺の毛並みをなでながらそういった。
-said Girl, stroking me's fur.
+said Girl, stroking my fur.
 
 # 30442d82
 ; me: 「ヒヒーン（そういや、君の名前は？）」

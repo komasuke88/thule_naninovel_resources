@@ -58,7 +58,7 @@ yule: "Do you remember the real name?"
 
 # 83a551fb
 ; me: 「本当の名前？[i]……そうだな。[i]俺の本当の名前は……[i]っ！？」
-me: "Real name? [i] …… Yeah.[i]me's real name is ……[i]?"
+me: "Real name? [i] …… Yeah.[i]my real name is ……[i]?"
 
 # 6ec109d7
 ; まただ。
@@ -86,7 +86,7 @@ yule: "A fragment of {playerName}'s memory, [i] I think several Elfs shared it."
 
 # b326c508
 ; me: 「えっ？俺の記憶の欠片？[i]今の記憶は、完全ではないって事？」
-me: "What? A fragment of me's memory?"[i]Do you mean that my memory is not perfect?"
+me: "What? A fragment of my memory?"[i]Do you mean that my memory is not perfect?"
 
 # 15ab0936
 ; yule: 「はい。たまにこういうケースも事ありますよ」

@@ -50,7 +50,7 @@ unknown: "F○cking! [i] [char sara.e] Yes, that Viking is …… [i] [char sara
 
 # e2e1718e
 ; me: 「はい。俺はルームメイトの……[i]うん……？」
-me: "Yes, me is …… of Room mate. [i] Yes, ……?"
+me: "Yes, I'm …… of Room mate. [i] Yes, ……?"
 
 # aba2551a
 ; 姿がはっきりと見えるようになって、違和感を覚えた。
@@ -130,7 +130,7 @@ sara: " {playerName}? That's a strange name."
 
 # 5a0a4447
 ; そう言いながら、俺の顔をまじまじと見つめた。
-As he spoke, he stared intently at me's.
+As he spoke, he stared intently at my.
 
 # 24aa2384
 ; sara: 「いや、よく見たら、いかにも{playerName}って顔だ！」

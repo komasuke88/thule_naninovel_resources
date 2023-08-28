@@ -190,7 +190,7 @@ hildur: "Yes, demonization cannot proceed unless it is possessed by 【 human �
 
 # c267faa8
 ; me: 「ヒヒーン（なるほど。俺が人間じゃなくなったから、ヒメはもう悪霊になる事もないわけか）」
-me: "niegh (I see. Now that me is no longer a human being, Hime will no longer be an evil spirit.)"
+me: "niegh (I see. Now that I'm no longer a human being, Hime will no longer be an evil spirit.)"
 
 # 1d889b5
 ; hildur: 「でも所詮は誤魔化し。いつかは悪霊になるわぁ。[i]少し遅らせただけだから。[i]あなたに取り憑けてる状態は相変わらずだしぃ」
@@ -218,7 +218,7 @@ hime: "Thank you, for my sake.[i][char hime.hae] …… Oh, but when will {playe
 
 # b74e45d
 ; me: 「ヒヒーン（ヒメの体を取り戻した後かな？[i]……って、どうやって元に戻るんだ？）」
-me: "niegh (Is it after Hime's recovery?)[i]…… and how do you get back together?"
+me: "niegh (Is it after Himy recovery?)[i]…… and how do you get back together?"
 
 # e40f4837
 ; yule: 「そうですね。前回のように、エルフの住処を奪還する事もできないし。[i]こうなったら術者が解いてくれるしか……」
@@ -282,7 +282,7 @@ yule: " …… Then {playerName}! Shall we go?"
 
 # 4cd04b9d
 ; そういいながらユールちゃんは、俺の背中へと乗りかかった。
-As he spoke, Yule stepped on me's back.
+As he spoke, Yule stepped on my back.
 
 # 5538ca64
 ; yule: 「よっと！」
@@ -354,7 +354,7 @@ yule: "No, only Yule can ride {playerName}!"
 
 # 83533267
 ; ユールちゃんはさらに、俺の首に手を回し、抱きついてきた。
-Yule then wrapped his hand around me's neck and hugged him.
+Yule then wrapped his hand around my neck and hugged him.
 
 # 94187219
 ; yule: 「それにしても{playerName}の背中はホント、心地いいですね。このままなら、どこまでも行けそうです」
@@ -362,7 +362,7 @@ yule: "But {playerName}'s back is really comfortable.At this rate, I think I can
 
 # d20d5f38
 ; 自分の体を、スリスリと俺の体に擦りつけてるユールちゃん。
-Yule rubbing her body against me's.
+Yule rubbing her body against my.
 
 # cb4d42b1
 ; me: 「ヒィーん（お、おい……）」
@@ -410,7 +410,7 @@ hildur: "Well, that's an ice landeck hose. That's wonderful."
 
 # 5e066542
 ; ヒルドルが、俺の腹のあたりを見ながらそういった。
-said Hildur, looking round me's belly.
+said Hildur, looking round my belly.
 
 # eac0bf0b
 ; hildur: 「他の馬より背は小さいけど、こっちは、劣らないもの」
@@ -442,7 +442,7 @@ The me thing is the horse thing now.
 
 # 38b3cae9
 ; しかし俺のモノって、そんなに凄いか？馬だからか？
-But is me's stuff that amazing?Is it because it's a horse?
+But is my stuff that amazing?Is it because it's a horse?
 
 # c8c7ee4f
 ; ……思わずドヤ顔になるな。
@@ -462,7 +462,7 @@ me: "……"
 
 # 24514795
 ; 俺の背中に乗ってるユールちゃんには下の状態は見えないが、俺たちの話を聞いて気づいたみたいだ。
-Yule, on me's back, could not see the state below, but he seemed to have noticed what they had said.
+Yule, on my back, could not see the state below, but he seemed to have noticed what they had said.
 
 # 4a5dabf2
 ; yule: 「も、もう、なんですか？[i][char yule.l-kusu]ユールちゃんが抱きついたからって、興奮してしまったんですか？くすくす」
@@ -482,7 +482,7 @@ yule: "Well, [i][char yule.nii] I'll give you a lot when you get back to being h
 
 # 95657201
 ; そういってユールちゃんは、俺の腹の辺りを、自分の手で撫でた。
-Then Yule stroked me's belly with his own hand.
+Then Yule stroked my belly with his own hand.
 
 # c934502b
 ; yule: 「よしよし！」
@@ -512,9 +512,8 @@ I'll give you a good scolding.
 ; @choice "からかうな" goto:.wakatta
 @choice "Don't make fun of me" goto:.wakatta
 
-# 71040956
-; me: 「ヒーン（うおおお！やりてぇ！後でやらせろよな！絶対に！）」
-me: " niegh (Oh! Do it!)Let me do it later!Never!"
+# dd7ecf79
+; me: 「ヒーン（うおおお！やりてぇ！）」
 
 # 12f26502
 ; えっ？
@@ -542,7 +541,7 @@ I wanted to say something negative.
 
 # 21c17645
 ; 俺の意思とはまったく関係なく、しかも自分のお尻をふりながら、こんな返事が出てきた。
-It had nothing to do with me's intentions, and, shaking his butt, he replied,
+It had nothing to do with my intentions, and, shaking his butt, he replied,
 
 # 4b107cc1
 ; hime: 「も、もう{playerName}って何言ってるの、やらし！」

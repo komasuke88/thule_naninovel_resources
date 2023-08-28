@@ -38,7 +38,7 @@ yule: "Just a little more,"
 
 # 984f55d9
 ; ユールちゃんは俺の肩にそっと、頭を乗せてきた。
-Yule gently put his head on me's shoulder.
+Yule gently put his head on my shoulder.
 
 # cba296ac
 ; yule: 「……{playerName}？」
@@ -406,7 +406,7 @@ yule: "The {playerName} is half Huldufolk.[i]Besides, the air quality of Thule i
 
 # bd979371
 ; me: 「そ、そうか。じっくりこないけど、俺、もうトゥーレの住民になったんだよな」
-me: "Oh, I see. I don't think it's going to be long, but me is now a resident of Thule."
+me: "Oh, I see. I don't think it's going to be long, but I'm now a resident of Thule."
 
 # dff8c071
 ; yule: 「そうですよ。ユールちゃんの旦那さまですから。[i][char yule.onsen_b_a_w]これからは、ユールちゃんの家族もみんな、{playerName}の親族ってわけで……」
