@@ -21,8 +21,11 @@ You can commit to this github repository to be a contributor of free visual nove
 
 Location this source in `thule_naninovel_resources` folder to your Desktop Folder.
 
+- mac
 > git clone https://github.com/komasuke88/thule_naninovel_resources ~/Desktop/thule_naninovel_resources
 
+- windows
+> git clone https://github.com/komasuke88/thule_naninovel_resources %HOMEDRIVE%%HOMEPATH%\Desktop\thule_naninovel_resources 
 
 ## (2) Run in test application
 
