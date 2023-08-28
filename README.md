@@ -5,6 +5,9 @@ Localization files of 'A Traveler to unknown Thule' in naninovel format.
 ## A Traveler to unknown thule
 'A Traveler to unknown Thule' (a.k.a Thule) is Free visual novel game.
 
+https://store.steampowered.com/app/2154380/_/
+
+
 # Purpose of this git page
 
 English text of Thule is uses machine translation.
